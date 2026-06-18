@@ -61,3 +61,20 @@ button.check {
 button.check:hover { background: #eef1f4; }
 
 .score { font-weight: 600; margin-top: 0.75rem; }
+
+/* Browse menu */
+.crumbs { margin-bottom: 0.75rem; }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { text-decoration: underline; }
+
+.menu-list { list-style: none; padding: 0; margin: 0; }
+.menu-list li { margin: 0 0 0.5rem; }
+.menu-list a {
+  display: block;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--ink);
+}
+.menu-list a:hover { background: #f6f8fa; }

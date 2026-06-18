@@ -1,21 +1,14 @@
-// Bootstrap. Phase 1 loads a single exercise by a fixed path; Phase 2 replaces
-// this with manifest-driven menu routing. The path is config, not content —
-// the exercise itself still lives entirely in the JSON file.
+// Bootstrap. The menu reads the content manifest and routes by hash; choosing
+// an exercise hands it to the generic engine. The exercises themselves still
+// live entirely in JSON under /content.
 
-import { renderExercise } from "./engine.js";
+import { start } from "./menu.js";
 import { t } from "./i18n.js";
-
-const EXERCISE_URL = "content/en/articles-basic.json";
 
 async function main() {
   document.getElementById("app-title").textContent = t("appTitle");
   document.title = t("appTitle");
-
-  const res = await fetch(EXERCISE_URL);
-  if (!res.ok) throw new Error(`Failed to load ${EXERCISE_URL}: ${res.status}`);
-  const exercise = await res.json();
-
-  renderExercise(exercise, document.getElementById("app"));
+  await start(document.getElementById("app"));
 }
 
 main().catch((err) => {

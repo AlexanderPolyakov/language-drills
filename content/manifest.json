@@ -1,0 +1,17 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "exercises": [
+        {
+          "id": "en-articles-basic",
+          "topic": "articles",
+          "level": "A2",
+          "title": "A, an, the, or nothing?",
+          "file": "en/articles-basic.json"
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,12 @@ export const UI_LANG = "en";
 const strings = {
   en: {
     appTitle: "Language Drills",
+    chooseLanguage: "Choose a language",
+    chooseTopic: "Choose a topic",
+    chooseLevel: "Choose a level",
+    chooseExercise: "Choose an exercise",
+    back: "← Back",
+    menu: "Menu",
     check: "Check answers",
     correct: "Correct",
     incorrect: "Not quite",
