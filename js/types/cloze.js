@@ -19,6 +19,11 @@ function tokenize(text) {
   return parts;
 }
 
+// "No article" answer. It's the implicit default: rather than spend a whole
+// chip on it, we drop the chip and treat an untouched widget as this choice.
+// It still lives in the JSON options/answer — only its chip is hidden.
+const NONE = "—";
+
 // Build the chip group (segmented control) for one blank. The chosen value
 // lives on the group's data-value so the engine can read it generically.
 function makeBlank(item, blankIndex) {
@@ -28,14 +33,28 @@ function makeBlank(item, blankIndex) {
   group.dataset.blank = blankIndex;
   if (blank.hint) group.title = blank.hint; // hint shows on hover
 
+  // When "no article" is an option, it's the default — start the widget on it
+  // so an untouched blank reads as that choice (and counts as answered).
+  const hasNone = blank.options.includes(NONE);
+  if (hasNone) group.dataset.value = NONE;
+
   for (const opt of blank.options) {
+    if (opt === NONE) continue; // the default needs no chip
     const chip = document.createElement("button");
     chip.type = "button";
     chip.className = "chip";
     chip.textContent = opt;
     chip.addEventListener("click", () => {
-      group.dataset.value = opt;
-      group.querySelectorAll(".chip").forEach((c) => c.classList.toggle("selected", c === chip));
+      const wasSelected = chip.classList.contains("selected");
+      group.querySelectorAll(".chip").forEach((c) => c.classList.remove("selected"));
+      if (wasSelected) {
+        // Tap a selected chip again to clear it: back to the default.
+        if (hasNone) group.dataset.value = NONE;
+        else delete group.dataset.value;
+      } else {
+        chip.classList.add("selected");
+        group.dataset.value = opt;
+      }
     });
     group.append(chip);
   }
@@ -125,9 +144,18 @@ export function mark(body, result) {
     group.classList.toggle("ok", b.correct);
     group.classList.toggle("bad", !b.correct);
     if (!b.correct) {
+      let shown = false;
       group.querySelectorAll(".chip").forEach((chip) => {
-        if (chip.textContent === b.expected) chip.classList.add("answer");
+        if (chip.textContent === b.expected) { chip.classList.add("answer"); shown = true; }
       });
+      // The correct answer may be the hidden default ("no article"): surface it
+      // as a read-only chip so the learner still sees what was expected.
+      if (!shown) {
+        const tag = document.createElement("span");
+        tag.className = "chip answer";
+        tag.textContent = b.expected;
+        group.append(tag);
+      }
     }
   });
 }
