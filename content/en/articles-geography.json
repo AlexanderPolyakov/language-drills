@@ -7,12 +7,28 @@
   "title": "Articles with place names",
   "items": [
     {
+      "text": "{1} Nile is the longest river in Africa.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "rivers always take 'the'" }
+      ],
+      "explanation": "Rivers always take 'the' (the Nile, the Thames, the Amazon)."
+    },
+    {
       "text": "{1} Mount Everest is the highest peak in {2} Himalayas.",
       "blanks": [
-        { "answer": "—", "options": ["A", "An", "The", "—"], "hint": "single mountains" },
+        { "answer": "—", "options": ["A", "An", "The", "—"], "hint": "single named mountains" },
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "mountain ranges" }
       ],
-      "explanation": "Individual mountains take no article (Mount Everest), but mountain ranges take 'the' (the Himalayas)."
+      "explanation": "Individual mountains take no article (Mount Everest); mountain ranges take 'the' (the Himalayas)."
+    },
+    {
+      "text": "{1} Amazon flows through {2} Brazil, one of {3} largest countries on Earth.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "rivers" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "most single countries" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "superlative expressions" }
+      ],
+      "explanation": "Rivers take 'the' (the Amazon); most countries take no article (Brazil); superlative phrases take 'the' (one of the largest)."
     },
     {
       "text": "She flew from {1} United States to {2} Netherlands.",
@@ -23,28 +39,11 @@
       "explanation": "Countries whose names are plural or contain 'States/Kingdom/Republic' take 'the' (the United States, the Netherlands)."
     },
     {
-      "text": "We sailed across {1} Atlantic to reach {2} United Kingdom.",
+      "text": "He has always wanted to visit {1} Sahara Desert.",
       "blanks": [
-        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "oceans and seas" },
-        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "'Kingdom' in the name" }
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "deserts" }
       ],
-      "explanation": "Oceans take 'the' (the Atlantic), as do countries with 'Kingdom/States' in the name (the United Kingdom)."
-    },
-    {
-      "text": "{1} Lake Victoria is larger than {2} Italy.",
-      "blanks": [
-        { "answer": "—", "options": ["A", "An", "The", "—"], "hint": "lakes named 'Lake X'" },
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "most single countries" }
-      ],
-      "explanation": "Lakes named 'Lake X' take no article (Lake Victoria), and most single-word countries take none either (Italy)."
-    },
-    {
-      "text": "{1} Nile flows north through {2} Egypt.",
-      "blanks": [
-        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "rivers" },
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "most countries" }
-      ],
-      "explanation": "Rivers take 'the' (the Nile), while most countries take no article (Egypt)."
+      "explanation": "Deserts take 'the' (the Sahara Desert, the Gobi Desert)."
     }
   ]
 }
