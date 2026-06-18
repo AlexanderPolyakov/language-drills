@@ -3,37 +3,37 @@
   "lang": "en",
   "topic": "plurals",
   "level": "A1",
-  "type": "transform",
+  "type": "fill",
   "title": "Plurals: write the plural form",
   "items": [
     {
-      "prompt": "child",
-      "answer": ["children"],
+      "text": "one child, two {1}",
+      "blanks": [{ "cue": "child", "answer": ["children"] }],
       "explanation": "Irregular plural: child → children."
     },
     {
-      "prompt": "box",
-      "answer": ["boxes"],
+      "text": "one box, two {1}",
+      "blanks": [{ "cue": "box", "answer": ["boxes"] }],
       "explanation": "Nouns ending in -x add -es: box → boxes."
     },
     {
-      "prompt": "city",
-      "answer": ["cities"],
+      "text": "one city, two {1}",
+      "blanks": [{ "cue": "city", "answer": ["cities"] }],
       "explanation": "A consonant + y becomes -ies: city → cities."
     },
     {
-      "prompt": "man",
-      "answer": ["men"],
+      "text": "one man, two {1}",
+      "blanks": [{ "cue": "man", "answer": ["men"] }],
       "explanation": "Irregular plural: man → men."
     },
     {
-      "prompt": "leaf",
-      "answer": ["leaves"],
+      "text": "one leaf, two {1}",
+      "blanks": [{ "cue": "leaf", "answer": ["leaves"] }],
       "explanation": "Many nouns ending in -f or -fe change to -ves: leaf → leaves."
     },
     {
-      "prompt": "tomato",
-      "answer": ["tomatoes"],
+      "text": "one tomato, two {1}",
+      "blanks": [{ "cue": "tomato", "answer": ["tomatoes"] }],
       "explanation": "Some nouns ending in -o add -es: tomato → tomatoes."
     }
   ]
