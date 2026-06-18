@@ -3,32 +3,32 @@
   "lang": "en",
   "topic": "verb-tenses",
   "level": "A2",
-  "type": "transform",
-  "title": "Future with 'will': rewrite the sentence",
+  "title": "Future with 'will': write the correct form",
+  "type": "fill",
   "items": [
     {
-      "prompt": "I call you later.",
-      "answer": ["I will call you later.", "I'll call you later."],
+      "text": "I {1} you later.",
+      "blanks": [{ "cue": "call", "answer": ["will call", "'ll call"] }],
       "explanation": "Future decisions and promises use will + base verb: will call."
     },
     {
-      "prompt": "It rains tomorrow.",
-      "answer": ["It will rain tomorrow.", "It'll rain tomorrow."],
+      "text": "It {1} tomorrow.",
+      "blanks": [{ "cue": "rain", "answer": ["will rain", "'ll rain"] }],
       "explanation": "Predictions about the future use will + base verb: will rain."
     },
     {
-      "prompt": "They don't come to the party.",
-      "answer": ["They will not come to the party.", "They won't come to the party."],
+      "text": "They {1} to the party.",
+      "blanks": [{ "cue": "not come", "answer": ["will not come", "won't come"] }],
       "explanation": "Negative future: will not / won't + base verb."
     },
     {
-      "prompt": "She is twenty next year.",
-      "answer": ["She will be twenty next year.", "She'll be twenty next year."],
+      "text": "She {1} twenty next year.",
+      "blanks": [{ "cue": "be", "answer": ["will be", "'ll be"] }],
       "explanation": "'be' keeps its base form after will: will be."
     },
     {
-      "prompt": "We help you tomorrow.",
-      "answer": ["We will help you tomorrow.", "We'll help you tomorrow."],
+      "text": "We {1} you tomorrow.",
+      "blanks": [{ "cue": "help", "answer": ["will help", "'ll help"] }],
       "explanation": "Offers and future actions use will + base verb: will help."
     }
   ]
