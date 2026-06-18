@@ -54,10 +54,11 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
    so it reads as a single unit, stays on the text baseline, and never splits
    across a line break. (One tap to answer — no dropdowns.) */
 .blank {
-  /* inline-block exposes the chip text baseline so alignment is driven by the
-     text, not the pill height. +1px corrects a <button> UA-style quirk that
-     shifts the internal text baseline 1px below the line baseline. */
-  display: inline-block;
+  /* inline-flex makes chips stretch to fill the pill height (so selected fills
+     flush). overflow: visible (not hidden) lets the flex container expose its
+     text baseline — a clipped box would report its bottom edge as baseline
+     instead, which breaks alignment. +1px corrects a <button> UA-style quirk. */
+  display: inline-flex;
   vertical-align: 1px;
   margin: 0 0.25rem;
   border: 1px solid var(--line);
@@ -66,8 +67,6 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
   background: var(--bg);
 }
 .chip {
-  display: inline-block;
-  vertical-align: baseline;
   font: inherit;
   cursor: pointer;
   padding: 0.05rem 0.55rem;
