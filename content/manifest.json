@@ -29,21 +29,21 @@
           "id": "en-verbs-past-simple",
           "topic": "verb-tenses",
           "level": "A2",
-          "title": "Past simple: rewrite the sentence",
+          "title": "Past simple: write the correct form",
           "file": "en/verbs-past-simple.json"
         },
         {
           "id": "en-verbs-present-perfect",
           "topic": "verb-tenses",
           "level": "B1",
-          "title": "Present perfect: rewrite the sentence",
+          "title": "Present perfect: write the correct form",
           "file": "en/verbs-present-perfect.json"
         },
         {
           "id": "en-verbs-future-will",
           "topic": "verb-tenses",
           "level": "A2",
-          "title": "Future with 'will': rewrite the sentence",
+          "title": "Future with 'will': write the correct form",
           "file": "en/verbs-future-will.json"
         }
       ]

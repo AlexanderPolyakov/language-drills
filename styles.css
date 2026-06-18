@@ -101,6 +101,27 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 .reveal { color: var(--bad); margin: 0.25rem 0; font-weight: 600; }
 .explanation { color: var(--muted); margin: 0.25rem 0 0; }
 
+/* Fill type (gap-fill: type the right form of a cued word, workbook-style).
+   Shares the cloze sentence rhythm so blanks sit evenly on generous rows. */
+.fill { margin: 0; font-size: 1.1rem; line-height: 2.1; }
+.fill .cue { color: var(--muted); font-style: italic; }
+.fill .gap {
+  font: inherit;
+  min-width: 3.5rem;
+  margin: 0 0.15rem;
+  padding: 0.05rem 0.4rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--ink);
+  vertical-align: 1px;
+}
+.fill .gap:focus { outline: none; border-color: var(--accent); }
+.fill .gap.ok { border-color: var(--ok); color: var(--ok); }
+.fill .gap.bad { border-color: var(--bad); color: var(--bad); text-decoration: line-through; }
+/* The correct form, surfaced right after a missed gap. */
+.fill .answer { color: var(--ok); font-weight: 700; margin: 0 0.15rem; }
+
 /* Transform type (free-text rewrite) */
 .transform .prompt { margin: 0 0 0.25rem; font-weight: 600; font-size: 1.1rem; }
 .transform .instruction { margin: 0 0 0.5rem; color: var(--muted); font-style: italic; }
