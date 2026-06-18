@@ -19,19 +19,46 @@ function tokenize(text) {
   return parts;
 }
 
-// Build the sentence with a chip group in place of each blank. The chosen value
+// Build the chip group (segmented control) for one blank. The chosen value
 // lives on the group's data-value so the engine can read it generically.
+function makeBlank(item, blankIndex) {
+  const blank = item.blanks[blankIndex];
+  const group = document.createElement("span");
+  group.className = "blank";
+  group.dataset.blank = blankIndex;
+  if (blank.hint) group.title = blank.hint; // hint shows on hover
+
+  for (const opt of blank.options) {
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = "chip";
+    chip.textContent = opt;
+    chip.addEventListener("click", () => {
+      group.dataset.value = opt;
+      group.querySelectorAll(".chip").forEach((c) => c.classList.toggle("selected", c === chip));
+    });
+    group.append(chip);
+  }
+  return group;
+}
+
+// Build the sentence, placing a chip group where each blank goes. To stop the
+// option widget from stranding alone at a line end, the blank and one
+// neighbouring word are wrapped together in a single nowrap box (.glue). An
+// NBSP across an element boundary is unreliable \u2014 browsers still allow a break
+// between an atomic inline (the widget) and the following text node \u2014 so we make
+// the whole unit one unbreakable box instead.
+//
+// Direction: glue to the FOLLOWING word by default (articles, prepositions,
+// modals govern the word after them). When nothing meaningful follows (end of
+// sentence, or only punctuation), glue to the PRECEDING word instead
+// (e.g. "This book is ___.").
 export function render(item) {
   const p = document.createElement("p");
   p.className = "cloze";
 
   const toks = tokenize(item.text);
 
-  // Keep each blank glued to a neighbouring word so the option widget never
-  // strands alone at a line end. Default: glue to the FOLLOWING word (articles,
-  // prepositions, modals: the answer comes before the word it governs). But
-  // when nothing meaningful follows (end of sentence, or only punctuation),
-  // glue to the PRECEDING word instead (e.g. "This book is ___.").
   const gluesForward = (blankIndex) => {
     const next = toks[blankIndex + 1];
     if (!next || next.text === undefined) return false; // another blank or nothing
@@ -39,45 +66,43 @@ export function render(item) {
     return rest !== "" && !".,?!;:".includes(rest[0]);
   };
 
-  toks.forEach((tok, i) => {
+  for (let i = 0; i < toks.length; i++) {
+    const tok = toks[i];
+
+    // Plain text. Drop the word a neighbouring blank has pulled into its .glue
+    // box so it isn't rendered twice.
     if (tok.text !== undefined) {
       let text = tok.text;
-      // Glue forward: this text follows a blank that attaches to its next word.
+      // First word was consumed by a preceding forward-glued blank.
       if (i > 0 && toks[i - 1].blank !== undefined && gluesForward(i - 1)) {
-        text = text.replace(/^\s+/, "\u00A0");
+        text = text.replace(/^\s*\S+/, "");
       }
-      // Glue backward: this text precedes a blank that has no following word.
+      // Last word will be consumed by a following backward-glued blank.
       if (i + 1 < toks.length && toks[i + 1].blank !== undefined && !gluesForward(i + 1)) {
-        text = text.replace(/\s+$/, "\u00A0");
+        text = text.replace(/\S+\s*$/, "");
       }
-      p.append(document.createTextNode(text));
-      return;
+      if (text) p.append(document.createTextNode(text));
+      continue;
     }
-    const blank = item.blanks[tok.blank];
-    const group = document.createElement("span");
-    group.className = "blank";
-    group.dataset.blank = tok.blank;
-    if (blank.hint) group.title = blank.hint; // hint shows on hover
 
-    for (const opt of blank.options) {
-      const chip = document.createElement("button");
-      chip.type = "button";
-      chip.className = "chip";
-      chip.textContent = opt;
-      chip.addEventListener("click", () => {
-        group.dataset.value = opt;
-        group.querySelectorAll(".chip").forEach((c) => c.classList.toggle("selected", c === chip));
-      });
-      group.append(chip);
-    }
-    // For a forward-glued blank, offer a break point *before* it so the whole
-    // "[blank] word" unit can drop to the next line. A backward-glued blank is
-    // already held to the preceding word, so no <wbr> is added there.
+    // A blank: wrap it with its glued word in one unbreakable box.
+    const glue = document.createElement("span");
+    glue.className = "glue";
+
     if (gluesForward(i)) {
-      p.append(document.createElement("wbr"));
+      // "[widget]\u00A0word" \u2014 and offer a break point before the whole unit.
+      const word = toks[i + 1].text.match(/^\s*(\S+)/)[1];
+      glue.append(makeBlank(item, tok.blank), document.createTextNode("\u00A0" + word));
+      p.append(document.createElement("wbr"), glue);
+    } else {
+      // "word\u00A0[widget]" \u2014 held to the word before it (no leading break point).
+      const prev = toks[i - 1];
+      const word = prev && prev.text !== undefined ? (prev.text.match(/(\S+)\s*$/)?.[1] ?? "") : "";
+      if (word) glue.append(document.createTextNode(word + "\u00A0"));
+      glue.append(makeBlank(item, tok.blank));
+      p.append(glue);
     }
-    p.append(group);
-  });
+  }
 
   return p;
 }
