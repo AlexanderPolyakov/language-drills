@@ -1,0 +1,36 @@
+{
+  "id": "en-verbs-future-will",
+  "lang": "en",
+  "topic": "verb-tenses",
+  "level": "A2",
+  "title": "Future with 'will': write the correct form",
+  "lesson": "Use 'will' + the base verb for predictions, on-the-spot decisions, offers, and promises. The form is the same for every subject (I will, she will), and the negative is 'will not', contracted to 'won't'.",
+  "type": "fill",
+  "items": [
+    {
+      "text": "I {1} you later.",
+      "blanks": [{ "cue": "call", "answer": ["will call", "'ll call"] }],
+      "explanation": "Future decisions and promises use will + base verb: will call."
+    },
+    {
+      "text": "It {1} tomorrow.",
+      "blanks": [{ "cue": "rain", "answer": ["will rain", "'ll rain"] }],
+      "explanation": "Predictions about the future use will + base verb: will rain."
+    },
+    {
+      "text": "They {1} to the party.",
+      "blanks": [{ "cue": "not come", "answer": ["will not come", "won't come"] }],
+      "explanation": "Negative future: will not / won't + base verb."
+    },
+    {
+      "text": "She {1} twenty next year.",
+      "blanks": [{ "cue": "be", "answer": ["will be", "'ll be"] }],
+      "explanation": "'be' keeps its base form after will: will be."
+    },
+    {
+      "text": "We {1} you tomorrow.",
+      "blanks": [{ "cue": "help", "answer": ["will help", "'ll help"] }],
+      "explanation": "Offers and future actions use will + base verb: will help."
+    }
+  ]
+}

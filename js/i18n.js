@@ -9,6 +9,7 @@ const strings = {
     appTitle: "Language Drills",
 
     // Exercise flow
+    start: "Start",
     check: "Check",
     continue: "Continue",
     finish: "Finish",

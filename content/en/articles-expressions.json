@@ -1,0 +1,50 @@
+{
+  "id": "en-articles-expressions",
+  "lang": "en",
+  "topic": "articles",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Articles in fixed expressions",
+  "lesson": "Many fixed expressions settle the article for you. Some drop it entirely (go to bed, at home, by car, at night); others always keep 'the' (in the morning, play the piano). Learn these as whole phrases rather than applying the usual rules.",
+  "items": [
+    {
+      "text": "We go to {1} school by {2} bus.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "attending for its purpose" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "by + means of transport" }
+      ],
+      "explanation": "'Go to school' (as a student) and 'by bus' (means of transport) are fixed expressions with no article."
+    },
+    {
+      "text": "She stays at {1} home when she doesn't feel well.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'at home' is fixed" }
+      ],
+      "explanation": "'At home' is a fixed expression with no article — contrast 'at the office', where a specific place is meant."
+    },
+    {
+      "text": "He plays {1} piano every night, skips {2} dinner, and then listens to {3} radio.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the radio" }
+      ],
+      "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
+    },
+    {
+      "text": "They went to {1} bed early because they had {2} flu.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'go to bed'" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "this illness is an exception" }
+      ],
+      "explanation": "'Go to bed' takes no article, but the illness 'the flu' takes 'the' — compare 'have a cold' which uses 'a'."
+    },
+    {
+      "text": "We usually have {1} lunch at one o'clock.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
+      ],
+      "explanation": "Meals take no article: have breakfast, have lunch, have dinner."
+    }
+  ]
+}

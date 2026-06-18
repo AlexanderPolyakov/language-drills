@@ -10,6 +10,41 @@
           "level": "A2",
           "title": "A, an, the, or nothing?",
           "file": "en/articles-basic.json"
+        },
+        {
+          "id": "en-articles-geography",
+          "topic": "articles",
+          "level": "B1",
+          "title": "Articles with place names",
+          "file": "en/articles-geography.json"
+        },
+        {
+          "id": "en-articles-expressions",
+          "topic": "articles",
+          "level": "B1",
+          "title": "Articles in fixed expressions",
+          "file": "en/articles-expressions.json"
+        },
+        {
+          "id": "en-verbs-past-simple",
+          "topic": "verb-tenses",
+          "level": "A2",
+          "title": "Past simple: write the correct form",
+          "file": "en/verbs-past-simple.json"
+        },
+        {
+          "id": "en-verbs-present-perfect",
+          "topic": "verb-tenses",
+          "level": "B1",
+          "title": "Present perfect: write the correct form",
+          "file": "en/verbs-present-perfect.json"
+        },
+        {
+          "id": "en-verbs-future-will",
+          "topic": "verb-tenses",
+          "level": "A2",
+          "title": "Future with 'will': write the correct form",
+          "file": "en/verbs-future-will.json"
         }
       ]
     }
