@@ -41,7 +41,10 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 /* A uniform, generous line-height keeps every line the same height whether it
    holds plain text or an option group, so the sentence reads as even rows
    instead of a ragged mix. */
-.cloze { margin: 0; font-size: 1.1rem; line-height: 2.5; }
+/* line-height must comfortably contain the chip widget (~28 px at 1.1rem) with
+   clearance above and below so rows never crowd each other. 2.1 gives ~37 px
+   per row — 9 px breathing room each side. */
+.cloze { margin: 0; font-size: 1.1rem; line-height: 2.1; }
 
 /* A blank and the word it governs are wrapped together as one unbreakable box,
    so the option widget never strands alone at the end of a line. */
@@ -52,7 +55,9 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
    across a line break. (One tap to answer — no dropdowns.) */
 .blank {
   display: inline-flex;
-  vertical-align: middle;
+  /* "middle" lands ~2–3 px high vs. visual text centre at this font/line-height;
+     the negative offset brings it back down to optical centre. */
+  vertical-align: -0.1em;
   margin: 0 0.25rem;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -63,13 +68,13 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 .chip {
   font: inherit;
   cursor: pointer;
-  padding: 0.1rem 0.6rem;
+  padding: 0.05rem 0.55rem;
   border: 0;
   border-left: 1px solid var(--line); /* divider between adjacent options */
   border-radius: 0;
   background: transparent;
   color: var(--ink);
-  line-height: 1.7;
+  line-height: 1.4;
 }
 .chip:first-child { border-left: 0; }
 .chip:hover:not(:disabled) { background: #2e2010; }
