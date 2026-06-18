@@ -1,0 +1,50 @@
+{
+  "id": "fr-articles-definite",
+  "lang": "fr",
+  "topic": "articles",
+  "level": "A1",
+  "type": "cloze",
+  "title": "le, la, l' ou les ?",
+  "items": [
+    {
+      "text": "Je vois {1} chat et {2} oiseau.",
+      "blanks": [
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" },
+        { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
+      ],
+      "explanation": "Masculine singular nouns take 'le' (le chat). Before a vowel, 'le' and 'la' both become 'l'' (l'oiseau)."
+    },
+    {
+      "text": "{1} fille mange {2} pomme.",
+      "blanks": [
+        { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" },
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" }
+      ],
+      "explanation": "Feminine singular nouns take 'la' (la fille, la pomme)."
+    },
+    {
+      "text": "Nous regardons {1} étoiles dans {2} ciel.",
+      "blanks": [
+        { "answer": "les", "options": ["le", "la", "l'", "les"], "hint": "plural" },
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "Plural nouns take 'les' (les étoiles); masculine singular takes 'le' (le ciel)."
+    },
+    {
+      "text": "Il aime {1} musique et {2} art.",
+      "blanks": [
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" },
+        { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
+      ],
+      "explanation": "Feminine 'la musique'; before a vowel the article elides to 'l'' (l'art)."
+    },
+    {
+      "text": "{1} enfants jouent dans {2} jardin.",
+      "blanks": [
+        { "answer": "Les", "options": ["Le", "La", "L'", "Les"], "hint": "plural" },
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "Plural 'les enfants'; masculine singular 'le jardin'."
+    }
+  ]
+}

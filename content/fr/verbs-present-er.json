@@ -1,0 +1,35 @@
+{
+  "id": "fr-verbs-present-er",
+  "lang": "fr",
+  "topic": "verb-tenses",
+  "level": "A1",
+  "type": "transform",
+  "title": "Présent des verbes en -er",
+  "items": [
+    {
+      "prompt": "Je (parler) français.",
+      "answer": ["Je parle français."],
+      "explanation": "-er verbs: the 'je' form ends in -e: parler → je parle."
+    },
+    {
+      "prompt": "Tu (habiter) à Paris.",
+      "answer": ["Tu habites à Paris."],
+      "explanation": "-er verbs: the 'tu' form ends in -es: habiter → tu habites."
+    },
+    {
+      "prompt": "Nous (aimer) le café.",
+      "answer": ["Nous aimons le café."],
+      "explanation": "-er verbs: the 'nous' form ends in -ons: aimer → nous aimons."
+    },
+    {
+      "prompt": "Ils (regarder) la télévision.",
+      "answer": ["Ils regardent la télévision."],
+      "explanation": "-er verbs: the 'ils/elles' form ends in -ent (silent): regarder → ils regardent."
+    },
+    {
+      "prompt": "Vous (manger) une pomme.",
+      "answer": ["Vous mangez une pomme."],
+      "explanation": "-er verbs: the 'vous' form ends in -ez: manger → vous mangez."
+    }
+  ]
+}

@@ -47,6 +47,26 @@
           "file": "en/verbs-future-will.json"
         }
       ]
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "exercises": [
+        {
+          "id": "fr-articles-definite",
+          "topic": "articles",
+          "level": "A1",
+          "title": "le, la, l' ou les ?",
+          "file": "fr/articles-definite.json"
+        },
+        {
+          "id": "fr-verbs-present-er",
+          "topic": "verb-tenses",
+          "level": "A1",
+          "title": "Présent des verbes en -er",
+          "file": "fr/verbs-present-er.json"
+        }
+      ]
     }
   ]
 }
