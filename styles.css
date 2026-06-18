@@ -3,6 +3,7 @@
 :root {
   --ok: #1a7f37;
   --bad: #cf222e;
+  --accent: #1f6feb;
   --line: #d0d7de;
   --ink: #1f2328;
   --muted: #57606a;
@@ -20,47 +21,77 @@ body {
 }
 
 header h1 { font-size: 1.4rem; margin: 0 0 1rem; }
+h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 
-h2 { font-size: 1.15rem; margin: 0 0 1.25rem; }
+/* --- Exercise flow (one item at a time) --- */
+.progress { color: var(--muted); font-size: 0.9rem; font-weight: 600; margin: 0 0 0.75rem; }
+.stage { min-height: 8rem; }
 
 .item {
   border: 1px solid var(--line);
   border-radius: 8px;
-  padding: 1rem 1.25rem;
-  margin-bottom: 1rem;
+  padding: 1.25rem;
 }
 
-.cloze { margin: 0; }
+.cloze { margin: 0; font-size: 1.15rem; line-height: 2.2; }
 
-.cloze select {
+/* Tappable option chips (replace dropdowns: one tap to answer) */
+.blank { display: inline-flex; gap: 0.3rem; margin: 0 0.2rem; vertical-align: middle; }
+.chip {
   font: inherit;
-  padding: 0.1rem 0.3rem;
-  margin: 0 0.15rem;
+  cursor: pointer;
+  padding: 0.2rem 0.7rem;
   border: 1px solid var(--line);
-  border-radius: 5px;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  line-height: 1.4;
 }
+.chip:hover:not(:disabled) { background: #f0f4ff; border-color: var(--accent); }
+.chip.selected { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chip:disabled { cursor: default; }
 
-/* Correct / incorrect feedback, shared by inputs and the feedback line. */
+/* Feedback colours on a checked blank */
+.blank.ok .chip.selected { background: var(--ok); border-color: var(--ok); }
+.blank.bad .chip.selected { background: var(--bad); border-color: var(--bad); }
+.chip.answer { border-color: var(--ok); color: var(--ok); font-weight: 700; }
+
+/* Shared correct/incorrect helpers (also used by transform inputs) */
 .ok { color: var(--ok); border-color: var(--ok); }
 .bad { color: var(--bad); border-color: var(--bad); }
 
-select.ok, select.bad { font-weight: 600; }
-
-.feedback { font-weight: 600; margin: 0.75rem 0 0.25rem; }
-
+.feedback { font-weight: 600; margin: 1rem 0 0.25rem; }
+.reveal { color: var(--bad); margin: 0.25rem 0; font-weight: 600; }
 .explanation { color: var(--muted); margin: 0.25rem 0 0; }
 
-button.check {
+/* Transform type (free-text rewrite) */
+.transform .prompt { margin: 0 0 0.25rem; font-weight: 600; font-size: 1.1rem; }
+.transform .instruction { margin: 0 0 0.5rem; color: var(--muted); font-style: italic; }
+.transform input {
   font: inherit;
-  cursor: pointer;
-  padding: 0.5rem 1rem;
+  width: 100%;
+  padding: 0.55rem 0.7rem;
   border: 1px solid var(--line);
   border-radius: 6px;
-  background: #f6f8fa;
 }
-button.check:hover { background: #eef1f4; }
+.transform input.ok { border-color: var(--ok); }
+.transform input.bad { border-color: var(--bad); }
 
-.score { font-weight: 600; margin-top: 0.75rem; }
+/* The single primary action button (Check / Continue / Finish) */
+.controls { margin-top: 1.25rem; }
+.action {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+}
+.action:hover:not(:disabled) { background: #195fd0; }
+.action:disabled { background: #c7d2e0; border-color: #c7d2e0; cursor: not-allowed; }
 
 /* Browse menu */
 .crumbs { margin-bottom: 0.75rem; }
@@ -78,3 +109,30 @@ button.check:hover { background: #eef1f4; }
   color: var(--ink);
 }
 .menu-list a:hover { background: #f6f8fa; }
+.menu-list .badge { float: right; color: var(--muted); font-size: 0.85rem; font-weight: 600; }
+
+/* Results card */
+.results {
+  margin-top: 0.5rem;
+  padding: 1.25rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #f6f8fa;
+  text-align: center;
+}
+.results h3 { margin: 0 0 0.5rem; font-size: 1.05rem; }
+.results-score { margin: 0 0 1rem; font-weight: 600; font-size: 1.1rem; }
+.results-actions { display: flex; gap: 0.6rem; justify-content: center; }
+.results-actions button,
+.results-actions .button-link {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  text-decoration: none;
+  color: var(--ink);
+}
+.results-actions button:hover,
+.results-actions .button-link:hover { background: #eef1f4; }
