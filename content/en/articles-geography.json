@@ -5,6 +5,7 @@
   "level": "B1",
   "type": "cloze",
   "title": "Articles with place names",
+  "lesson": "Most place names take no article: countries, cities, and continents (France, Tokyo, Africa). Use 'the' with plural or grouped names (the Netherlands, the USA, the Alps) and with oceans, rivers, and deserts (the Atlantic, the Nile, the Sahara).",
   "items": [
     {
       "text": "{1} Nile is the longest river in Africa.",
