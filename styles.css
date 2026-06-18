@@ -1,0 +1,63 @@
+/* Small, hobby-grade styling. One column, readable, no framework. */
+
+:root {
+  --ok: #1a7f37;
+  --bad: #cf222e;
+  --line: #d0d7de;
+  --ink: #1f2328;
+  --muted: #57606a;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color: var(--ink);
+  margin: 0;
+  padding: 1.5rem;
+  max-width: 42rem;
+  margin-inline: auto;
+}
+
+header h1 { font-size: 1.4rem; margin: 0 0 1rem; }
+
+h2 { font-size: 1.15rem; margin: 0 0 1.25rem; }
+
+.item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.cloze { margin: 0; }
+
+.cloze select {
+  font: inherit;
+  padding: 0.1rem 0.3rem;
+  margin: 0 0.15rem;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+}
+
+/* Correct / incorrect feedback, shared by inputs and the feedback line. */
+.ok { color: var(--ok); border-color: var(--ok); }
+.bad { color: var(--bad); border-color: var(--bad); }
+
+select.ok, select.bad { font-weight: 600; }
+
+.feedback { font-weight: 600; margin: 0.75rem 0 0.25rem; }
+
+.explanation { color: var(--muted); margin: 0.25rem 0 0; }
+
+button.check {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #f6f8fa;
+}
+button.check:hover { background: #eef1f4; }
+
+.score { font-weight: 600; margin-top: 0.75rem; }

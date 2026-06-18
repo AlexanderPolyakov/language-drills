@@ -1,0 +1,50 @@
+{
+  "id": "en-articles-basic",
+  "lang": "en",
+  "topic": "articles",
+  "level": "A2",
+  "type": "cloze",
+  "title": "A, an, the, or nothing?",
+  "items": [
+    {
+      "text": "She is {1} honest person who studies at {2} university.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "follows the sound, not the letter" },
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "'university' begins with a /j/ sound" }
+      ],
+      "explanation": "Article choice depends on the initial sound: 'honest' starts with a vowel sound, so 'an'; 'university' starts with a consonant /j/ sound, so 'a'."
+    },
+    {
+      "text": "I had {1} egg and {2} apple for breakfast.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" },
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "Both nouns begin with a vowel sound, so each takes 'an'."
+    },
+    {
+      "text": "{1} sun rises in {2} east.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "there is only one" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "compass directions" }
+      ],
+      "explanation": "Unique things (the sun) and compass directions (the east) take 'the'."
+    },
+    {
+      "text": "I play {1} guitar, but I don't play {2} football.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "sports and games" }
+      ],
+      "explanation": "Musical instruments take 'the' (play the guitar); sports and games take no article (play football)."
+    },
+    {
+      "text": "She bought {1} new car. {2} car is bright red.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "mentioned for the first time" },
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "already mentioned" }
+      ],
+      "explanation": "First mention of a countable noun takes 'a'; once it is known to the listener, the second mention takes 'the'."
+    }
+  ]
+}
