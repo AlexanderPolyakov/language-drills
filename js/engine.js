@@ -148,6 +148,10 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     actionBtn.textContent = last ? t("finish") : t("continue");
     actionBtn.disabled = false;
     actionBtn.onclick = onNext;
+    // The checked inputs are now disabled, so move focus to the action button.
+    // That keeps the keyboard flow going: a second Enter advances to the next
+    // item (or finishes) without reaching for the mouse.
+    actionBtn.focus();
   }
 
   function onNext() {
