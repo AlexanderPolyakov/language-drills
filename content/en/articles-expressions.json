@@ -15,20 +15,20 @@
       "explanation": "'Go to school' (as a student) and 'by bus' (means of transport) are fixed expressions with no article."
     },
     {
-      "text": "She stays at {1} home and watches {2} television.",
+      "text": "She stays at {1} home when she doesn't feel well.",
       "blanks": [
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'at home'" },
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "watch television" }
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'at home' is fixed" }
       ],
-      "explanation": "'At home' and 'watch television' take no article (contrast 'listen to the radio')."
+      "explanation": "'At home' is a fixed expression with no article — contrast 'at the office', where a specific place is meant."
     },
     {
-      "text": "He plays {1} piano every night after {2} dinner.",
+      "text": "He plays {1} piano every night, skips {2} dinner, and then listens to {3} radio.",
       "blanks": [
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the radio" }
       ],
-      "explanation": "Musical instruments take 'the' (the piano), but meals take no article (dinner)."
+      "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
     },
     {
       "text": "They went to {1} bed early because they had {2} flu.",
@@ -36,15 +36,14 @@
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'go to bed'" },
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "this illness is an exception" }
       ],
-      "explanation": "'Go to bed' takes no article, but the illness 'the flu' takes 'the' (compare 'have a cold')."
+      "explanation": "'Go to bed' takes no article, but the illness 'the flu' takes 'the' — compare 'have a cold' which uses 'a'."
     },
     {
-      "text": "We had {1} lunch and then listened to {2} radio.",
+      "text": "We usually have {1} lunch at one o'clock.",
       "blanks": [
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" },
-        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the radio" }
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
       ],
-      "explanation": "Meals take no article (lunch), but 'the radio' takes 'the' — unlike 'watch television'."
+      "explanation": "Meals take no article: have breakfast, have lunch, have dinner."
     }
   ]
 }

@@ -7,28 +7,28 @@
   "title": "le, la, l' ou les ?",
   "items": [
     {
+      "text": "Je vois {1} chat.",
+      "blanks": [
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "Masculine singular nouns take 'le' (le chat)."
+    },
+    {
       "text": "Je vois {1} chat et {2} oiseau.",
       "blanks": [
         { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" },
         { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
       ],
-      "explanation": "Masculine singular nouns take 'le' (le chat). Before a vowel, 'le' and 'la' both become 'l'' (l'oiseau)."
+      "explanation": "Masculine singular 'le chat'; before a vowel, 'le' elides to 'l'' (l'oiseau)."
     },
     {
-      "text": "{1} fille mange {2} pomme.",
+      "text": "{1} enfants jouent dans {2} jardin avec {3} chien.",
       "blanks": [
-        { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" },
-        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" }
-      ],
-      "explanation": "Feminine singular nouns take 'la' (la fille, la pomme)."
-    },
-    {
-      "text": "Nous regardons {1} étoiles dans {2} ciel.",
-      "blanks": [
-        { "answer": "les", "options": ["le", "la", "l'", "les"], "hint": "plural" },
+        { "answer": "Les", "options": ["Le", "La", "L'", "Les"], "hint": "plural" },
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" },
         { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
       ],
-      "explanation": "Plural nouns take 'les' (les étoiles); masculine singular takes 'le' (le ciel)."
+      "explanation": "Plural nouns take 'les' (les enfants); masculine singular takes 'le' (le jardin, le chien)."
     },
     {
       "text": "Il aime {1} musique et {2} art.",
@@ -36,15 +36,14 @@
         { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" },
         { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
       ],
-      "explanation": "Feminine 'la musique'; before a vowel the article elides to 'l'' (l'art)."
+      "explanation": "Feminine singular 'la musique'; before a vowel the article elides to 'l'' (l'art)."
     },
     {
-      "text": "{1} enfants jouent dans {2} jardin.",
+      "text": "{1} fille apprend le français.",
       "blanks": [
-        { "answer": "Les", "options": ["Le", "La", "L'", "Les"], "hint": "plural" },
-        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+        { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" }
       ],
-      "explanation": "Plural 'les enfants'; masculine singular 'le jardin'."
+      "explanation": "Feminine singular nouns take 'la' (la fille)."
     }
   ]
 }
