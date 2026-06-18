@@ -55,10 +55,10 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
    across a line break. (One tap to answer — no dropdowns.) */
 .blank {
   /* inline-block exposes the chip text baseline so alignment is driven by the
-     text, not the pill height. -1px corrects a <button> UA-style quirk that
-     shifts the internal text baseline 1px above the line baseline. */
+     text, not the pill height. +1px corrects a <button> UA-style quirk that
+     shifts the internal text baseline 1px below the line baseline. */
   display: inline-block;
-  vertical-align: -1px;
+  vertical-align: 1px;
   margin: 0 0.25rem;
   border: 1px solid var(--line);
   border-radius: 8px;
