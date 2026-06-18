@@ -1,0 +1,59 @@
+{
+  "id": "en-phrasal-verbs",
+  "lang": "en",
+  "topic": "phrasal-verbs",
+  "level": "B2",
+  "type": "cloze",
+  "title": "Phrasal verbs: choose the right one",
+  "items": [
+    {
+      "text": "Please {1} your shoes before entering.",
+      "blanks": [
+        { "answer": "take off", "options": ["take off", "take up", "take after"], "hint": "remove clothing" }
+      ],
+      "explanation": "'take off' means to remove an item of clothing."
+    },
+    {
+      "text": "I need to {1} this word in the dictionary.",
+      "blanks": [
+        { "answer": "look up", "options": ["look up", "look after", "look for"], "hint": "find information" }
+      ],
+      "explanation": "'look up' means to search for information in a reference source."
+    },
+    {
+      "text": "She {1} her grandmother; they have the same eyes.",
+      "blanks": [
+        { "answer": "takes after", "options": ["takes after", "takes off", "takes in"], "hint": "resemble a relative" }
+      ],
+      "explanation": "'take after' means to resemble an older relative."
+    },
+    {
+      "text": "Can you {1} the baby while I'm out?",
+      "blanks": [
+        { "answer": "look after", "options": ["look after", "look up", "look out"], "hint": "take care of" }
+      ],
+      "explanation": "'look after' means to take care of someone or something."
+    },
+    {
+      "text": "The meeting was {1} until next week.",
+      "blanks": [
+        { "answer": "put off", "options": ["put off", "put on", "put up"], "hint": "postpone" }
+      ],
+      "explanation": "'put off' means to postpone or delay."
+    },
+    {
+      "text": "We ran {1} of milk this morning.",
+      "blanks": [
+        { "answer": "out", "options": ["out", "into", "over"], "hint": "have none left" }
+      ],
+      "explanation": "'run out of' means to have no more of something left."
+    },
+    {
+      "text": "He {1} smoking last year.",
+      "blanks": [
+        { "answer": "gave up", "options": ["gave up", "gave in", "gave away"], "hint": "stop a habit" }
+      ],
+      "explanation": "'give up' means to stop doing a habit."
+    }
+  ]
+}

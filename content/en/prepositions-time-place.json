@@ -1,0 +1,66 @@
+{
+  "id": "en-prepositions-time-place",
+  "lang": "en",
+  "topic": "prepositions",
+  "level": "A2",
+  "type": "cloze",
+  "title": "in, on, or at? (time and place)",
+  "items": [
+    {
+      "text": "The meeting is {1} Monday {2} 9 a.m.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "days of the week" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "clock times" }
+      ],
+      "explanation": "Days take 'on' (on Monday); clock times take 'at' (at 9 a.m.)."
+    },
+    {
+      "text": "She was born {1} 1990, {2} July.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "years" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "months" }
+      ],
+      "explanation": "Years and months both take 'in' (in 1990, in July)."
+    },
+    {
+      "text": "We'll talk {1} the morning, {2} noon.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "parts of the day" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "a point in time" }
+      ],
+      "explanation": "'In the morning' but 'at noon' — noon is treated as a point in time."
+    },
+    {
+      "text": "The keys are {1} the table {2} the kitchen.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a surface" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "an enclosed space" }
+      ],
+      "explanation": "Surfaces take 'on' (on the table); enclosed spaces take 'in' (in the kitchen)."
+    },
+    {
+      "text": "He lives {1} 12 Oxford Street {2} London.",
+      "blanks": [
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "a specific address" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "a city" }
+      ],
+      "explanation": "A specific street address takes 'at'; a city takes 'in'."
+    },
+    {
+      "text": "There's a good film {1} TV {2} the moment.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "fixed phrase" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "fixed phrase" }
+      ],
+      "explanation": "'On TV' and 'at the moment' are fixed prepositional phrases."
+    },
+    {
+      "text": "They arrived {1} the airport {2} midnight.",
+      "blanks": [
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "arrive at a point" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "a point in time" }
+      ],
+      "explanation": "You 'arrive at' a place seen as a point, and 'at midnight' marks a clock point."
+    }
+  ]
+}

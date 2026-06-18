@@ -1,0 +1,52 @@
+{
+  "id": "en-modals",
+  "lang": "en",
+  "topic": "modal-verbs",
+  "level": "A2",
+  "type": "cloze",
+  "title": "Modal verbs: choose the right modal",
+  "items": [
+    {
+      "text": "You {1} smoke here; it's forbidden.",
+      "blanks": [
+        { "answer": "mustn't", "options": ["must", "mustn't", "can"], "hint": "prohibition" }
+      ],
+      "explanation": "'mustn't' expresses prohibition — it is not allowed."
+    },
+    {
+      "text": "I {1} swim when I was five.",
+      "blanks": [
+        { "answer": "could", "options": ["can", "could", "must"], "hint": "past ability" }
+      ],
+      "explanation": "'could' is the past form of 'can' for ability."
+    },
+    {
+      "text": "{1} you help me, please?",
+      "blanks": [
+        { "answer": "Could", "options": ["Could", "Must", "Should"], "hint": "polite request" }
+      ],
+      "explanation": "'Could you…' makes a polite request."
+    },
+    {
+      "text": "You {1} see a doctor about that cough.",
+      "blanks": [
+        { "answer": "should", "options": ["should", "mustn't", "can't"], "hint": "advice" }
+      ],
+      "explanation": "'should' is used to give advice."
+    },
+    {
+      "text": "Students {1} bring their ID to the exam.",
+      "blanks": [
+        { "answer": "must", "options": ["must", "might", "could"], "hint": "strong obligation" }
+      ],
+      "explanation": "'must' expresses strong obligation or a rule."
+    },
+    {
+      "text": "It's very cloudy; it {1} rain later.",
+      "blanks": [
+        { "answer": "might", "options": ["might", "must", "should"], "hint": "possibility" }
+      ],
+      "explanation": "'might' expresses possibility — it is not certain."
+    }
+  ]
+}

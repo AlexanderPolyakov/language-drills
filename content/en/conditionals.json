@@ -1,0 +1,52 @@
+{
+  "id": "en-conditionals",
+  "lang": "en",
+  "topic": "conditionals",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Conditionals: choose the correct verb form",
+  "items": [
+    {
+      "text": "If it {1} tomorrow, we will stay home.",
+      "blanks": [
+        { "answer": "rains", "options": ["rains", "will rain", "rained"], "hint": "first conditional 'if' clause" }
+      ],
+      "explanation": "First conditional: if + present simple, will + base verb. 'If it rains…'."
+    },
+    {
+      "text": "If I {1} rich, I would travel the world.",
+      "blanks": [
+        { "answer": "were", "options": ["am", "were", "will be"], "hint": "unreal present" }
+      ],
+      "explanation": "Second conditional uses the past form ('were' for all persons) for an unreal present: 'If I were rich…'."
+    },
+    {
+      "text": "She would call you if she {1} your number.",
+      "blanks": [
+        { "answer": "had", "options": ["has", "had", "will have"], "hint": "second conditional 'if' clause" }
+      ],
+      "explanation": "Second conditional: if + past simple. 'if she had your number'."
+    },
+    {
+      "text": "If you heat ice, it {1}.",
+      "blanks": [
+        { "answer": "melts", "options": ["melts", "will melt", "would melt"], "hint": "general truth" }
+      ],
+      "explanation": "Zero conditional for general truths: present simple in both clauses. 'it melts'."
+    },
+    {
+      "text": "We {1} late if we don't hurry.",
+      "blanks": [
+        { "answer": "will be", "options": ["are", "will be", "would be"], "hint": "first conditional result" }
+      ],
+      "explanation": "First conditional result clause: will + base verb. 'we will be late'."
+    },
+    {
+      "text": "If they had asked, I {1} helped them.",
+      "blanks": [
+        { "answer": "would have", "options": ["will have", "would have", "had"], "hint": "third conditional result" }
+      ],
+      "explanation": "Third conditional: if + past perfect, would have + past participle. 'I would have helped'."
+    }
+  ]
+}

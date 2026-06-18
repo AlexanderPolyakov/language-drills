@@ -45,6 +45,62 @@
           "level": "A2",
           "title": "Future with 'will': rewrite the sentence",
           "file": "en/verbs-future-will.json"
+        },
+        {
+          "id": "en-prepositions-time-place",
+          "topic": "prepositions",
+          "level": "A2",
+          "title": "in, on, or at? (time and place)",
+          "file": "en/prepositions-time-place.json"
+        },
+        {
+          "id": "en-comparatives",
+          "topic": "comparatives",
+          "level": "A2",
+          "title": "Comparatives: rewrite with the comparative form",
+          "file": "en/comparatives.json"
+        },
+        {
+          "id": "en-plurals",
+          "topic": "plurals",
+          "level": "A1",
+          "title": "Plurals: write the plural form",
+          "file": "en/plurals.json"
+        },
+        {
+          "id": "en-conditionals",
+          "topic": "conditionals",
+          "level": "B1",
+          "title": "Conditionals: choose the correct verb form",
+          "file": "en/conditionals.json"
+        },
+        {
+          "id": "en-modals",
+          "topic": "modal-verbs",
+          "level": "A2",
+          "title": "Modal verbs: choose the right modal",
+          "file": "en/modals.json"
+        },
+        {
+          "id": "en-questions",
+          "topic": "question-formation",
+          "level": "A2",
+          "title": "Questions: turn each statement into a question",
+          "file": "en/questions.json"
+        },
+        {
+          "id": "en-pronouns",
+          "topic": "pronouns",
+          "level": "A1",
+          "title": "Pronouns: subject, object, and possessive",
+          "file": "en/pronouns.json"
+        },
+        {
+          "id": "en-phrasal-verbs",
+          "topic": "phrasal-verbs",
+          "level": "B2",
+          "title": "Phrasal verbs: choose the right one",
+          "file": "en/phrasal-verbs.json"
         }
       ]
     },

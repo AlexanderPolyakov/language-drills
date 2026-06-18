@@ -1,0 +1,52 @@
+{
+  "id": "en-pronouns",
+  "lang": "en",
+  "topic": "pronouns",
+  "level": "A1",
+  "type": "cloze",
+  "title": "Pronouns: subject, object, and possessive",
+  "items": [
+    {
+      "text": "This is my brother. {1} is a doctor.",
+      "blanks": [
+        { "answer": "He", "options": ["He", "Him", "His"], "hint": "subject of the sentence" }
+      ],
+      "explanation": "Use the subject pronoun before the verb: He is a doctor."
+    },
+    {
+      "text": "I like Anna. I see {1} every day.",
+      "blanks": [
+        { "answer": "her", "options": ["she", "her", "hers"], "hint": "object of the verb" }
+      ],
+      "explanation": "Use the object pronoun after a verb: I see her."
+    },
+    {
+      "text": "This book is {1}.",
+      "blanks": [
+        { "answer": "mine", "options": ["my", "mine", "me"], "hint": "stands alone, no noun after" }
+      ],
+      "explanation": "Use the possessive pronoun when no noun follows: This book is mine."
+    },
+    {
+      "text": "We love {1} new house.",
+      "blanks": [
+        { "answer": "our", "options": ["our", "ours", "us"], "hint": "comes before a noun" }
+      ],
+      "explanation": "Use the possessive adjective before a noun: our new house."
+    },
+    {
+      "text": "Can you help {1}?",
+      "blanks": [
+        { "answer": "me", "options": ["I", "me", "my"], "hint": "object of the verb" }
+      ],
+      "explanation": "Use the object pronoun after a verb: help me."
+    },
+    {
+      "text": "The dog wagged {1} tail.",
+      "blanks": [
+        { "answer": "its", "options": ["its", "it's", "his"], "hint": "possessive, no apostrophe" }
+      ],
+      "explanation": "'its' is the possessive (no apostrophe); 'it's' means 'it is'."
+    }
+  ]
+}

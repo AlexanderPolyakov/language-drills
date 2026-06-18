@@ -1,0 +1,40 @@
+{
+  "id": "en-comparatives",
+  "lang": "en",
+  "topic": "comparatives",
+  "level": "A2",
+  "type": "transform",
+  "title": "Comparatives: rewrite with the comparative form",
+  "items": [
+    {
+      "prompt": "This box is (heavy) than that one.",
+      "answer": ["This box is heavier than that one."],
+      "explanation": "A one/two-syllable adjective ending in -y changes to -ier: heavy → heavier."
+    },
+    {
+      "prompt": "A train is (fast) than a bus.",
+      "answer": ["A train is faster than a bus."],
+      "explanation": "Short adjectives add -er: fast → faster."
+    },
+    {
+      "prompt": "This book is (interesting) than the film.",
+      "answer": ["This book is more interesting than the film."],
+      "explanation": "Adjectives of three or more syllables use 'more': more interesting."
+    },
+    {
+      "prompt": "Today is (hot) than yesterday.",
+      "answer": ["Today is hotter than yesterday."],
+      "explanation": "A short vowel + single consonant doubles the consonant: hot → hotter."
+    },
+    {
+      "prompt": "My bag is (good) than yours.",
+      "answer": ["My bag is better than yours."],
+      "explanation": "'good' is irregular: good → better."
+    },
+    {
+      "prompt": "Her garden is (big) than mine.",
+      "answer": ["Her garden is bigger than mine."],
+      "explanation": "Double the final consonant after a short vowel: big → bigger."
+    }
+  ]
+}
