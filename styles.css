@@ -43,6 +43,10 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
    instead of a ragged mix. */
 .cloze { margin: 0; font-size: 1.1rem; line-height: 2.5; }
 
+/* A blank and the word it governs are wrapped together as one unbreakable box,
+   so the option widget never strands alone at the end of a line. */
+.glue { white-space: nowrap; }
+
 /* Each blank is a segmented control: one bounded widget holding its options,
    so it reads as a single unit, stays on the text baseline, and never splits
    across a line break. (One tap to answer — no dropdowns.) */
