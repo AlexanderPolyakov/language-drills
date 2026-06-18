@@ -15,20 +15,20 @@
       "explanation": "Days take 'on' (on Monday); clock times take 'at' (at 9 a.m.)."
     },
     {
-      "text": "She was born {1} 1990, {2} July.",
+      "text": "We'll meet {1} midnight.",
       "blanks": [
-        { "answer": "in", "options": ["in", "on", "at"], "hint": "years" },
-        { "answer": "in", "options": ["in", "on", "at"], "hint": "months" }
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "a precise point in time" }
       ],
-      "explanation": "Years and months both take 'in' (in 1990, in July)."
+      "explanation": "'At' is used for precise points in time: at midnight, at noon, at 3 o'clock."
     },
     {
-      "text": "We'll talk {1} the morning, {2} noon.",
+      "text": "She arrived {1} the hotel {2} Friday {3} the afternoon.",
       "blanks": [
-        { "answer": "in", "options": ["in", "on", "at"], "hint": "parts of the day" },
-        { "answer": "at", "options": ["in", "on", "at"], "hint": "a point in time" }
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "arrive at a point" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "days of the week" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "parts of the day" }
       ],
-      "explanation": "'In the morning' but 'at noon' — noon is treated as a point in time."
+      "explanation": "'At' for a specific place seen as a point (at the hotel); 'on' for days (on Friday); 'in' for parts of the day (in the afternoon)."
     },
     {
       "text": "The keys are {1} the table {2} the kitchen.",
@@ -39,28 +39,28 @@
       "explanation": "Surfaces take 'on' (on the table); enclosed spaces take 'in' (in the kitchen)."
     },
     {
-      "text": "He lives {1} 12 Oxford Street {2} London.",
+      "text": "There's a good film {1} TV tonight.",
       "blanks": [
-        { "answer": "at", "options": ["in", "on", "at"], "hint": "a specific address" },
-        { "answer": "in", "options": ["in", "on", "at"], "hint": "a city" }
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "fixed phrase" }
       ],
-      "explanation": "A specific street address takes 'at'; a city takes 'in'."
+      "explanation": "'On TV' is a fixed phrase — something is broadcast on television."
     },
     {
-      "text": "There's a good film {1} TV {2} the moment.",
+      "text": "She was born {1} 1990, {2} July.",
       "blanks": [
-        { "answer": "on", "options": ["in", "on", "at"], "hint": "fixed phrase" },
-        { "answer": "at", "options": ["in", "on", "at"], "hint": "fixed phrase" }
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "years" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "months" }
       ],
-      "explanation": "'On TV' and 'at the moment' are fixed prepositional phrases."
+      "explanation": "Years and months both take 'in' (in 1990, in July)."
     },
     {
-      "text": "They arrived {1} the airport {2} midnight.",
+      "text": "They met {1} the park {2} a cold day {3} winter.",
       "blanks": [
-        { "answer": "at", "options": ["in", "on", "at"], "hint": "arrive at a point" },
-        { "answer": "at", "options": ["in", "on", "at"], "hint": "a point in time" }
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "an open area you can be inside" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a specific day" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "seasons" }
       ],
-      "explanation": "You 'arrive at' a place seen as a point, and 'at midnight' marks a clock point."
+      "explanation": "'In the park' (area); 'on a cold day' (a specific day); 'in winter' (seasons take 'in')."
     }
   ]
 }

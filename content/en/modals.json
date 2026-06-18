@@ -14,11 +14,12 @@
       "explanation": "'mustn't' expresses prohibition — it is not allowed."
     },
     {
-      "text": "I {1} swim when I was five.",
+      "text": "I {1} swim when I was five, but now I {2} ride a bicycle as well.",
       "blanks": [
-        { "answer": "could", "options": ["can", "could", "must"], "hint": "past ability" }
+        { "answer": "could", "options": ["can", "could", "must"], "hint": "past ability" },
+        { "answer": "can", "options": ["can", "could", "must"], "hint": "present ability" }
       ],
-      "explanation": "'could' is the past form of 'can' for ability."
+      "explanation": "'could' is the past form of 'can' for ability; 'can' expresses present ability."
     },
     {
       "text": "{1} you help me, please?",
@@ -28,11 +29,12 @@
       "explanation": "'Could you…' makes a polite request."
     },
     {
-      "text": "You {1} see a doctor about that cough.",
+      "text": "You {1} see a doctor — that cough {2} be serious.",
       "blanks": [
-        { "answer": "should", "options": ["should", "mustn't", "can't"], "hint": "advice" }
+        { "answer": "should", "options": ["should", "mustn't", "can"], "hint": "advice" },
+        { "answer": "might", "options": ["might", "must", "can't"], "hint": "possibility" }
       ],
-      "explanation": "'should' is used to give advice."
+      "explanation": "'should' gives advice; 'might' expresses possibility — it may or may not be serious."
     },
     {
       "text": "Students {1} bring their ID to the exam.",
@@ -42,11 +44,13 @@
       "explanation": "'must' expresses strong obligation or a rule."
     },
     {
-      "text": "It's very cloudy; it {1} rain later.",
+      "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights, and you {3} exceed the speed limit.",
       "blanks": [
-        { "answer": "might", "options": ["might", "must", "should"], "hint": "possibility" }
+        { "answer": "should", "options": ["should", "might", "could"], "hint": "advice" },
+        { "answer": "must", "options": ["must", "might", "should"], "hint": "obligation" },
+        { "answer": "mustn't", "options": ["mustn't", "must", "might"], "hint": "prohibition" }
       ],
-      "explanation": "'might' expresses possibility — it is not certain."
+      "explanation": "'should' for advice (drive carefully); 'must' for obligation (use headlights — it's required); 'mustn't' for prohibition (exceeding the limit is forbidden)."
     }
   ]
 }

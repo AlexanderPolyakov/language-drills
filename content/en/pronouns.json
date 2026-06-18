@@ -14,11 +14,12 @@
       "explanation": "Use the subject pronoun before the verb: He is a doctor."
     },
     {
-      "text": "I like Anna. I see {1} every day.",
+      "text": "I like Anna. I see {1} every day. {2} dog is very friendly.",
       "blanks": [
-        { "answer": "her", "options": ["she", "her", "hers"], "hint": "object of the verb" }
+        { "answer": "her", "options": ["she", "her", "hers"], "hint": "object of the verb" },
+        { "answer": "Her", "options": ["She", "Her", "Hers"], "hint": "possessive adjective before a noun" }
       ],
-      "explanation": "Use the object pronoun after a verb: I see her."
+      "explanation": "Object pronoun after a verb (I see her); possessive adjective before a noun (Her dog)."
     },
     {
       "text": "This book is {1}.",
@@ -28,11 +29,12 @@
       "explanation": "Use the possessive pronoun when no noun follows: This book is mine."
     },
     {
-      "text": "We love {1} new house.",
+      "text": "We love {1} new house. The neighbors said {2} was very nice.",
       "blanks": [
-        { "answer": "our", "options": ["our", "ours", "us"], "hint": "comes before a noun" }
+        { "answer": "our", "options": ["our", "ours", "us"], "hint": "possessive adjective before a noun" },
+        { "answer": "it", "options": ["it", "its", "they"], "hint": "subject pronoun for a thing" }
       ],
-      "explanation": "Use the possessive adjective before a noun: our new house."
+      "explanation": "Possessive adjective before a noun (our new house); subject pronoun for the house (it was very nice)."
     },
     {
       "text": "Can you help {1}?",
@@ -42,11 +44,13 @@
       "explanation": "Use the object pronoun after a verb: help me."
     },
     {
-      "text": "The dog wagged {1} tail.",
+      "text": "{1} like Tom because {2} always helps {3}.",
       "blanks": [
-        { "answer": "its", "options": ["its", "it's", "his"], "hint": "possessive, no apostrophe" }
+        { "answer": "I", "options": ["I", "Me", "My"], "hint": "subject of the sentence" },
+        { "answer": "he", "options": ["he", "him", "his"], "hint": "subject of 'helps'" },
+        { "answer": "us", "options": ["us", "we", "our"], "hint": "object of 'helps'" }
       ],
-      "explanation": "'its' is the possessive (no apostrophe); 'it's' means 'it is'."
+      "explanation": "Subject pronouns before verbs (I like; he helps); object pronoun after a verb (helps us)."
     }
   ]
 }
