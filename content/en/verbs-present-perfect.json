@@ -1,0 +1,35 @@
+{
+  "id": "en-verbs-present-perfect",
+  "lang": "en",
+  "topic": "verb-tenses",
+  "level": "B1",
+  "type": "transform",
+  "title": "Present perfect: rewrite the sentence",
+  "items": [
+    {
+      "prompt": "I finish my homework. (just)",
+      "answer": ["I have just finished my homework.", "I've just finished my homework."],
+      "explanation": "Present perfect = have/has + past participle; 'just' goes between: have just finished."
+    },
+    {
+      "prompt": "She lives here for ten years.",
+      "answer": ["She has lived here for ten years.", "She's lived here for ten years."],
+      "explanation": "For a situation continuing up to now with 'for', use the present perfect: has lived."
+    },
+    {
+      "prompt": "They never visit Japan. (in their life)",
+      "answer": ["They have never visited Japan.", "They've never visited Japan."],
+      "explanation": "Life experience uses the present perfect; 'never' comes before the participle: have never visited."
+    },
+    {
+      "prompt": "He loses his keys. (already)",
+      "answer": ["He has already lost his keys.", "He's already lost his keys."],
+      "explanation": "'lose' is irregular (lost), and 'already' sits between 'has' and the participle."
+    },
+    {
+      "prompt": "I write three emails today.",
+      "answer": ["I have written three emails today.", "I've written three emails today."],
+      "explanation": "'today' is unfinished time, so use the present perfect; write → written."
+    }
+  ]
+}

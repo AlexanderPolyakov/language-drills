@@ -48,7 +48,22 @@ select.ok, select.bad { font-weight: 600; }
 
 .feedback { font-weight: 600; margin: 0.75rem 0 0.25rem; }
 
+.reveal { color: var(--bad); margin: 0.25rem 0; font-weight: 600; }
+
 .explanation { color: var(--muted); margin: 0.25rem 0 0; }
+
+/* Transform type */
+.transform .prompt { margin: 0 0 0.25rem; font-weight: 600; }
+.transform .instruction { margin: 0 0 0.5rem; color: var(--muted); font-style: italic; }
+.transform input {
+  font: inherit;
+  width: 100%;
+  padding: 0.45rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+}
+.transform input.ok { border-color: var(--ok); }
+.transform input.bad { border-color: var(--bad); }
 
 button.check {
   font: inherit;

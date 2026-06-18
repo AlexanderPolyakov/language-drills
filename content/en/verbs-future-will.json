@@ -1,0 +1,35 @@
+{
+  "id": "en-verbs-future-will",
+  "lang": "en",
+  "topic": "verb-tenses",
+  "level": "A2",
+  "type": "transform",
+  "title": "Future with 'will': rewrite the sentence",
+  "items": [
+    {
+      "prompt": "I call you later.",
+      "answer": ["I will call you later.", "I'll call you later."],
+      "explanation": "Future decisions and promises use will + base verb: will call."
+    },
+    {
+      "prompt": "It rains tomorrow.",
+      "answer": ["It will rain tomorrow.", "It'll rain tomorrow."],
+      "explanation": "Predictions about the future use will + base verb: will rain."
+    },
+    {
+      "prompt": "They don't come to the party.",
+      "answer": ["They will not come to the party.", "They won't come to the party."],
+      "explanation": "Negative future: will not / won't + base verb."
+    },
+    {
+      "prompt": "She is twenty next year.",
+      "answer": ["She will be twenty next year.", "She'll be twenty next year."],
+      "explanation": "'be' keeps its base form after will: will be."
+    },
+    {
+      "prompt": "We help you tomorrow.",
+      "answer": ["We will help you tomorrow.", "We'll help you tomorrow."],
+      "explanation": "Offers and future actions use will + base verb: will help."
+    }
+  ]
+}

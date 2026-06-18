@@ -23,6 +23,7 @@ const strings = {
     correct: "Correct",
     incorrect: "Not quite",
     explanation: "Why",
+    answerWas: (a) => `Answer: ${a}`,
     chooseBlank: "— choose —",
     // Functions are allowed for values that interpolate.
     score: (n, total) => `${n} / ${total} correct`,

@@ -5,10 +5,13 @@
 
 import { t } from "./i18n.js";
 import * as cloze from "./types/cloze.js";
+import * as transform from "./types/transform.js";
 
-// Type registry. Later phases register transform and multiple-choice here.
+// Type registry. A new exercise type is added here as one module exposing
+// render(item) and check(item, input). multiple-choice arrives later.
 const types = {
   cloze,
+  transform,
 };
 
 // Read the learner's input from a rendered item, generically: every element
@@ -39,6 +42,12 @@ function renderItem(item) {
   feedback.className = "feedback";
   feedback.hidden = true;
 
+  // Optional extra detail a type can surface on a miss (e.g. the expected
+  // answer for a free-text transform). Generic: just a string from the result.
+  const reveal = document.createElement("p");
+  reveal.className = "reveal";
+  reveal.hidden = true;
+
   const explanation = document.createElement("p");
   explanation.className = "explanation";
   explanation.hidden = true;
@@ -47,7 +56,7 @@ function renderItem(item) {
     document.createTextNode(item.explanation),
   );
 
-  wrap.append(feedback, explanation);
+  wrap.append(feedback, reveal, explanation);
 
   // Check this single item: collect input, ask the type module, then paint
   // feedback. Returns whether the item was fully correct.
@@ -67,6 +76,11 @@ function renderItem(item) {
     feedback.classList.toggle("ok", result.correct);
     feedback.classList.toggle("bad", !result.correct);
     feedback.hidden = false;
+
+    const detail = !result.correct && result.reveal ? result.reveal : "";
+    reveal.textContent = detail;
+    reveal.hidden = !detail;
+
     explanation.hidden = false;
     return result.correct;
   };

@@ -1,0 +1,50 @@
+{
+  "id": "en-articles-expressions",
+  "lang": "en",
+  "topic": "articles",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Articles in fixed expressions",
+  "items": [
+    {
+      "text": "We go to {1} school by {2} bus.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "attending for its purpose" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "by + means of transport" }
+      ],
+      "explanation": "'Go to school' (as a student) and 'by bus' (means of transport) are fixed expressions with no article."
+    },
+    {
+      "text": "She stays at {1} home and watches {2} television.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'at home'" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "watch television" }
+      ],
+      "explanation": "'At home' and 'watch television' take no article (contrast 'listen to the radio')."
+    },
+    {
+      "text": "He plays {1} piano every night after {2} dinner.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
+      ],
+      "explanation": "Musical instruments take 'the' (the piano), but meals take no article (dinner)."
+    },
+    {
+      "text": "They went to {1} bed early because they had {2} flu.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'go to bed'" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "this illness is an exception" }
+      ],
+      "explanation": "'Go to bed' takes no article, but the illness 'the flu' takes 'the' (compare 'have a cold')."
+    },
+    {
+      "text": "We had {1} lunch and then listened to {2} radio.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the radio" }
+      ],
+      "explanation": "Meals take no article (lunch), but 'the radio' takes 'the' — unlike 'watch television'."
+    }
+  ]
+}

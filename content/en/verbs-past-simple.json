@@ -1,0 +1,35 @@
+{
+  "id": "en-verbs-past-simple",
+  "lang": "en",
+  "topic": "verb-tenses",
+  "level": "A2",
+  "type": "transform",
+  "title": "Past simple: rewrite the sentence",
+  "items": [
+    {
+      "prompt": "He works in a bank.",
+      "answer": ["He worked in a bank."],
+      "explanation": "Regular verbs add -ed in the past simple: work → worked."
+    },
+    {
+      "prompt": "They go to the gym every day.",
+      "answer": ["They went to the gym every day."],
+      "explanation": "'go' is irregular: go → went."
+    },
+    {
+      "prompt": "She buys fresh bread.",
+      "answer": ["She bought fresh bread."],
+      "explanation": "'buy' is irregular: buy → bought."
+    },
+    {
+      "prompt": "I don't like coffee.",
+      "answer": ["I didn't like coffee.", "I did not like coffee."],
+      "explanation": "Past negatives use did + not + base verb: don't like → didn't like."
+    },
+    {
+      "prompt": "We study French at school.",
+      "answer": ["We studied French at school."],
+      "explanation": "A consonant + y becomes -ied: study → studied."
+    }
+  ]
+}
