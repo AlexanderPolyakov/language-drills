@@ -7,26 +7,33 @@ export const UI_LANG = "en";
 const strings = {
   en: {
     appTitle: "Language Drills",
+
+    // Exercise flow
+    check: "Check",
+    continue: "Continue",
+    finish: "Finish",
+    tryAgain: "Try again",
+    progress: (n, total) => `${n} / ${total}`,
+    correct: "Correct",
+    incorrect: "Not quite",
+    explanation: "Why",
+    answerWas: (a) => `Answer: ${a}`,
+    score: (n, total) => `${n} / ${total} correct`,
+
+    // Browse menu
     chooseLanguage: "Choose a language",
     chooseTopic: "Choose a topic",
     chooseLevel: "Choose a level",
     chooseExercise: "Choose an exercise",
     back: "← Back",
     menu: "Menu",
+
+    // Results
     results: "Results",
     youScored: (n, total) => `You scored ${n} / ${total}`,
     perfect: "Perfect score!",
-    tryAgain: "Try again",
     backToMenu: "Back to menu",
     best: (n, total) => `best ${n}/${total}`,
-    check: "Check answers",
-    correct: "Correct",
-    incorrect: "Not quite",
-    explanation: "Why",
-    answerWas: (a) => `Answer: ${a}`,
-    chooseBlank: "— choose —",
-    // Functions are allowed for values that interpolate.
-    score: (n, total) => `${n} / ${total} correct`,
   },
 };
 
