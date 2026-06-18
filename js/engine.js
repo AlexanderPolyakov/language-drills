@@ -151,6 +151,7 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     progress.textContent = "";
     controls.replaceChildren();
     stage.replaceChildren();
+    stage.hidden = true;
     if (onComplete) { onComplete({ correct, total }); return; }
 
     // Built-in fallback summary (used before the app provides a results screen).
