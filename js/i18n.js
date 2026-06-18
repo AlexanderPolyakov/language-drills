@@ -21,6 +21,7 @@ const strings = {
     score: (n, total) => `${n} / ${total} correct`,
 
     // Browse menu
+    randomDrill: "Random drill",
     chooseLanguage: "Choose a language",
     chooseTopic: "Choose a topic",
     chooseLevel: "Choose a level",
