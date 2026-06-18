@@ -5,6 +5,7 @@
   "level": "A2",
   "type": "transform",
   "title": "Questions: turn each statement into a question",
+  "lesson": "To form a yes/no question, put the auxiliary before the subject. With 'be' or a modal, invert directly (Are you…?, Can you…?). In the present and past simple, add do/does/did + the base verb (Does she like…?, Did he go…?). Wh- questions put the question word first.",
   "items": [
     {
       "prompt": "She likes coffee. (yes/no question)",

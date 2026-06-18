@@ -5,6 +5,7 @@
   "level": "A1",
   "type": "fill",
   "title": "Plurals: write the plural form",
+  "lesson": "Most English nouns add -s for the plural, but spelling varies: nouns ending in -s, -x, -ch, or -sh add -es (box → boxes), a consonant + y becomes -ies (city → cities), and many -f/-fe words become -ves (leaf → leaves). Some are irregular (child → children, man → men).",
   "items": [
     {
       "text": "one child, two {1}",

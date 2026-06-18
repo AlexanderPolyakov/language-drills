@@ -5,6 +5,7 @@
   "level": "B1",
   "type": "cloze",
   "title": "Conditionals: choose the correct verb form",
+  "lesson": "Conditionals link a condition to its result. The first conditional — if + present simple, will + base verb — talks about realistic future events ('If it rains, we will stay'). The second — if + past, would + base verb — imagines unreal or unlikely situations ('If I were rich…').",
   "items": [
     {
       "text": "If it {1} tomorrow, we will stay home.",

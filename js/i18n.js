@@ -9,6 +9,7 @@ const strings = {
     appTitle: "Language Drills",
 
     // Exercise flow
+    start: "Start",
     check: "Check",
     continue: "Continue",
     finish: "Finish",
@@ -21,7 +22,6 @@ const strings = {
     score: (n, total) => `${n} / ${total} correct`,
 
     // Browse menu
-    randomDrill: "Random drill",
     chooseLanguage: "Choose a language",
     chooseTopic: "Choose a topic",
     chooseLevel: "Choose a level",
