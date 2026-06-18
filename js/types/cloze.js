@@ -26,13 +26,30 @@ export function render(item) {
   p.className = "cloze";
 
   const toks = tokenize(item.text);
+
+  // Keep each blank glued to a neighbouring word so the option widget never
+  // strands alone at a line end. Default: glue to the FOLLOWING word (articles,
+  // prepositions, modals: the answer comes before the word it governs). But
+  // when nothing meaningful follows (end of sentence, or only punctuation),
+  // glue to the PRECEDING word instead (e.g. "This book is ___.").
+  const gluesForward = (blankIndex) => {
+    const next = toks[blankIndex + 1];
+    if (!next || next.text === undefined) return false; // another blank or nothing
+    const rest = next.text.replace(/^\s+/, "");
+    return rest !== "" && !".,?!;:".includes(rest[0]);
+  };
+
   toks.forEach((tok, i) => {
     if (tok.text !== undefined) {
-      // If this text directly follows a blank, glue its first word to the
-      // group with a non-breaking space so the answer (e.g. an article) never
-      // gets stranded at the end of a line away from its noun.
-      const followsBlank = i > 0 && toks[i - 1].blank !== undefined;
-      const text = followsBlank ? tok.text.replace(/^\s+/, "\u00A0") : tok.text;
+      let text = tok.text;
+      // Glue forward: this text follows a blank that attaches to its next word.
+      if (i > 0 && toks[i - 1].blank !== undefined && gluesForward(i - 1)) {
+        text = text.replace(/^\s+/, "\u00A0");
+      }
+      // Glue backward: this text precedes a blank that has no following word.
+      if (i + 1 < toks.length && toks[i + 1].blank !== undefined && !gluesForward(i + 1)) {
+        text = text.replace(/\s+$/, "\u00A0");
+      }
       p.append(document.createTextNode(text));
       return;
     }
@@ -53,10 +70,12 @@ export function render(item) {
       });
       group.append(chip);
     }
-    // <wbr> gives the browser a preferred break point right before the blank
-    // group, so a line break (if needed) lands before the widget rather than
-    // awkwardly mid-sentence.
-    p.append(document.createElement("wbr"));
+    // For a forward-glued blank, offer a break point *before* it so the whole
+    // "[blank] word" unit can drop to the next line. A backward-glued blank is
+    // already held to the preceding word, so no <wbr> is added there.
+    if (gluesForward(i)) {
+      p.append(document.createElement("wbr"));
+    }
     p.append(group);
   });
 
