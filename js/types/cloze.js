@@ -47,6 +47,10 @@ export function render(item) {
       });
       group.append(chip);
     }
+    // <wbr> gives the browser a preferred break point right before the blank
+    // group, so a line break (if needed) lands before the widget rather than
+    // awkwardly mid-sentence.
+    p.append(document.createElement("wbr"));
     p.append(group);
   }
 
