@@ -5,5 +5,6 @@
 
 import * as cloze from "./cloze.js";
 import * as transform from "./transform.js";
+import * as fill from "./fill.js";
 
-export const types = { cloze, transform };
+export const types = { cloze, transform, fill };

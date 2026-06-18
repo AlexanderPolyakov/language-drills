@@ -3,32 +3,32 @@
   "lang": "en",
   "topic": "verb-tenses",
   "level": "A2",
-  "type": "transform",
-  "title": "Past simple: rewrite the sentence",
+  "type": "fill",
+  "title": "Past simple: write the correct form",
   "items": [
     {
-      "prompt": "He works in a bank.",
-      "answer": ["He worked in a bank."],
+      "text": "He {1} in a bank.",
+      "blanks": [{ "cue": "work", "answer": ["worked"] }],
       "explanation": "Regular verbs add -ed in the past simple: work → worked."
     },
     {
-      "prompt": "They go to the gym every day.",
-      "answer": ["They went to the gym every day."],
+      "text": "They {1} to the gym every day.",
+      "blanks": [{ "cue": "go", "answer": ["went"] }],
       "explanation": "'go' is irregular: go → went."
     },
     {
-      "prompt": "She buys fresh bread.",
-      "answer": ["She bought fresh bread."],
+      "text": "She {1} fresh bread.",
+      "blanks": [{ "cue": "buy", "answer": ["bought"] }],
       "explanation": "'buy' is irregular: buy → bought."
     },
     {
-      "prompt": "I don't like coffee.",
-      "answer": ["I didn't like coffee.", "I did not like coffee."],
+      "text": "I {1} coffee.",
+      "blanks": [{ "cue": "not like", "answer": ["didn't like", "did not like"] }],
       "explanation": "Past negatives use did + not + base verb: don't like → didn't like."
     },
     {
-      "prompt": "We study French at school.",
-      "answer": ["We studied French at school."],
+      "text": "We {1} French at school.",
+      "blanks": [{ "cue": "study", "answer": ["studied"] }],
       "explanation": "A consonant + y becomes -ied: study → studied."
     }
   ]
