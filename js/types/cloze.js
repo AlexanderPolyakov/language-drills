@@ -1,9 +1,7 @@
 // Cloze exercise type: a sentence with one or more numbered blanks ({1}, {2}…).
-// Each blank is rendered as a dropdown of options; the learner picks one per
-// blank. This module is the ONLY place that knows how a cloze item looks —
-// the engine stays generic and just calls render(item) and check(item, input).
-
-import { t } from "../i18n.js";
+// Each blank renders as a row of tappable option chips (one tap to answer — no
+// dropdowns). This module is the only place that knows the cloze item shape;
+// the engine stays generic and calls render / check / mark.
 
 // Split "She is {1} honest … {2} university." into an ordered list of plain-text
 // segments and blank references. Blanks are 1-based in JSON, 0-based here.
@@ -21,8 +19,8 @@ function tokenize(text) {
   return parts;
 }
 
-// Build the sentence with a <select> in place of each blank. Inputs carry a
-// data-blank index so the engine can read them back generically.
+// Build the sentence with a chip group in place of each blank. The chosen value
+// lives on the group's data-value so the engine can read it generically.
 export function render(item) {
   const p = document.createElement("p");
   p.className = "cloze";
@@ -33,24 +31,29 @@ export function render(item) {
       continue;
     }
     const blank = item.blanks[tok.blank];
-    const select = document.createElement("select");
-    select.dataset.blank = tok.blank;
-    if (blank.hint) select.title = blank.hint; // hint shows on hover
+    const group = document.createElement("span");
+    group.className = "blank";
+    group.dataset.blank = tok.blank;
+    if (blank.hint) group.title = blank.hint; // hint shows on hover
 
-    const placeholder = new Option(t("chooseBlank"), "");
-    placeholder.disabled = true;
-    placeholder.selected = true;
-    select.add(placeholder);
-    for (const opt of blank.options) select.add(new Option(opt, opt));
-
-    p.append(select);
+    for (const opt of blank.options) {
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "chip";
+      chip.textContent = opt;
+      chip.addEventListener("click", () => {
+        group.dataset.value = opt;
+        group.querySelectorAll(".chip").forEach((c) => c.classList.toggle("selected", c === chip));
+      });
+      group.append(chip);
+    }
+    p.append(group);
   }
 
   return p;
 }
 
-// input: array of chosen strings, indexed by blank position. Returns a result
-// the engine renders generically: an overall flag plus per-blank detail.
+// input: array of chosen strings, indexed by blank position.
 export function check(item, input) {
   const blanks = item.blanks.map((b, i) => ({
     correct: input[i] === b.answer,
@@ -58,4 +61,19 @@ export function check(item, input) {
     given: input[i] ?? "",
   }));
   return { correct: blanks.every((b) => b.correct), blanks };
+}
+
+// Paint feedback on each blank: colour the chosen chip, and on a miss also
+// highlight the chip that was the correct answer.
+export function mark(body, result) {
+  body.querySelectorAll(".blank").forEach((group) => {
+    const b = result.blanks[Number(group.dataset.blank)];
+    group.classList.toggle("ok", b.correct);
+    group.classList.toggle("bad", !b.correct);
+    if (!b.correct) {
+      group.querySelectorAll(".chip").forEach((chip) => {
+        if (chip.textContent === b.expected) chip.classList.add("answer");
+      });
+    }
+  });
 }
