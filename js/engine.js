@@ -74,8 +74,11 @@ function renderItem(item) {
   return wrap;
 }
 
-// Render a whole exercise into `root` and wire the Check button.
-export function renderExercise(exercise, root) {
+// Render a whole exercise into `root` and wire the Check button. `onComplete`,
+// if given, is called with { correct, total } each time the learner checks —
+// the app uses it to persist progress and show results. The engine itself
+// stays unaware of storage or navigation.
+export function renderExercise(exercise, root, { onComplete } = {}) {
   root.replaceChildren();
 
   root.append(Object.assign(document.createElement("h2"), { textContent: exercise.title }));
@@ -94,5 +97,6 @@ export function renderExercise(exercise, root) {
     const correct = items.reduce((n, el) => n + (el._check() ? 1 : 0), 0);
     score.textContent = t("score", correct, items.length);
     score.hidden = false;
+    onComplete?.({ correct, total: items.length });
   });
 }
