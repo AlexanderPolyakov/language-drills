@@ -55,9 +55,9 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
    across a line break. (One tap to answer — no dropdowns.) */
 .blank {
   display: inline-flex;
-  /* "middle" lands ~2–3 px high vs. visual text centre at this font/line-height;
-     the negative offset brings it back down to optical centre. */
-  vertical-align: -0.1em;
+  /* "middle" sits a touch low against the text's optical centre at this
+     line-height; a small positive offset raises it to align. */
+  vertical-align: 0.1em;
   margin: 0 0.25rem;
   border: 1px solid var(--line);
   border-radius: 8px;
