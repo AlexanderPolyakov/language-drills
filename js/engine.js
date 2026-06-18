@@ -119,6 +119,7 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     stage.replaceChildren();
     current = buildItem(order[index]);
     stage.append(current.el);
+    current.body.querySelector("input")?.focus();
 
     actionBtn.textContent = t("check");
     actionBtn.disabled = true;
