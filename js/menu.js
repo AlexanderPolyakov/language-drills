@@ -6,6 +6,7 @@
 
 import { renderExercise } from "./engine.js";
 import { t } from "./i18n.js";
+import * as progress from "./progress.js";
 
 const MANIFEST_URL = "content/manifest.json";
 const CONTENT_BASE = "content/";
@@ -48,7 +49,8 @@ function route() {
 
 // --- rendering helpers -----------------------------------------------------
 
-// A vertical list of links. Each entry: { href, label }.
+// A vertical list of links. Each entry: { href, label, note? } — note renders
+// as a small muted badge (used to show best scores).
 function list(entries) {
   const ul = document.createElement("ul");
   ul.className = "menu-list";
@@ -56,7 +58,13 @@ function list(entries) {
     const li = document.createElement("li");
     const a = document.createElement("a");
     a.href = e.href;
-    a.textContent = e.label;
+    a.append(document.createTextNode(e.label));
+    if (e.note) {
+      a.append(Object.assign(document.createElement("span"), {
+        className: "badge",
+        textContent: e.note,
+      }));
+    }
     li.append(a);
     ul.append(li);
   }
@@ -118,7 +126,10 @@ function showExercises(code, topic, level) {
   const matches = l.exercises.filter((e) => e.topic === topic && e.level === level);
   screen(`${topic} · ${level} — ${t("chooseExercise")}`, `#/${code}/${topic}`);
   root.append(
-    list(matches.map((e) => ({ href: `#/x/${e.id}`, label: e.title }))),
+    list(matches.map((e) => {
+      const p = progress.get(e.id);
+      return { href: `#/x/${e.id}`, label: e.title, note: p ? t("best", p.best, p.total) : "" };
+    })),
   );
 }
 
@@ -138,5 +149,45 @@ async function showExercise(id) {
   screen("", `#/${parentCode}/${entry.topic}/${entry.level}`);
   const body = document.createElement("div");
   root.append(body);
-  renderExercise(exercise, body);
+
+  const levelHref = `#/${parentCode}/${entry.topic}/${entry.level}`;
+  renderExercise(exercise, body, {
+    onComplete: ({ correct, total }) => {
+      progress.record(entry.id, correct, total);
+      showResults(correct, total, levelHref, () => showExercise(id));
+    },
+  });
+}
+
+// A small results card shown after checking: the score plus a way to retry or
+// return to the menu. Replaces any previous card so re-checking stays tidy.
+function showResults(correct, total, backHref, onRetry) {
+  root.querySelector(".results")?.remove();
+
+  const card = document.createElement("section");
+  card.className = "results";
+  card.append(
+    Object.assign(document.createElement("h3"), { textContent: t("results") }),
+    Object.assign(document.createElement("p"), {
+      className: "results-score",
+      textContent: correct === total ? t("perfect") : t("youScored", correct, total),
+    }),
+  );
+
+  const actions = document.createElement("div");
+  actions.className = "results-actions";
+
+  const retry = Object.assign(document.createElement("button"), { textContent: t("tryAgain") });
+  retry.addEventListener("click", onRetry);
+
+  const menuLink = Object.assign(document.createElement("a"), {
+    href: backHref,
+    className: "button-link",
+    textContent: t("backToMenu"),
+  });
+
+  actions.append(retry, menuLink);
+  card.append(actions);
+  root.append(card);
+  card.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
