@@ -40,6 +40,9 @@ function route() {
   // Exercise route: #/x/<exercise-id>
   if (parts[0] === "x" && parts[1]) return showExercise(parts[1]);
 
+  // Random drill route: #/r/<lang-code>
+  if (parts[0] === "r" && parts[1]) return showRandomSession(parts[1]);
+
   const [code, topic, level] = parts;
   if (!code) return showLanguages();
   if (!topic) return showTopics(code);
@@ -58,6 +61,7 @@ function list(entries) {
     const li = document.createElement("li");
     const a = document.createElement("a");
     a.href = e.href;
+    if (e.featured) a.className = "featured";
     a.append(document.createTextNode(e.label));
     if (e.note) {
       a.append(Object.assign(document.createElement("span"), {
@@ -101,13 +105,46 @@ function showLanguages() {
   );
 }
 
+// Load every exercise file for a language, pool all items (each tagged with
+// their type), and run a single mixed session through the engine.
+async function showRandomSession(code) {
+  const l = lang(code);
+  if (!l) return showLanguages();
+
+  screen("", `#/${code}`);
+  const body = document.createElement("div");
+  root.append(body);
+
+  // Fetch all exercise files in parallel.
+  const files = await Promise.all(
+    l.exercises.map((e) => fetch(CONTENT_BASE + e.file).then((r) => r.json()))
+  );
+
+  // Pool items, tagging each with its exercise type so the engine can dispatch.
+  const allItems = [];
+  for (const ex of files) {
+    for (const item of ex.items) {
+      allItems.push({ ...item, type: ex.type });
+    }
+  }
+
+  const synthetic = { type: null, title: t("randomDrill"), items: allItems };
+  renderExercise(synthetic, body, {
+    onComplete: ({ correct, total }) => {
+      showResults(correct, total, `#/${code}`, () => showRandomSession(code));
+    },
+  });
+}
+
 function showTopics(code) {
   const l = lang(code);
   if (!l) return showLanguages();
   screen(`${l.name} — ${t("chooseTopic")}`, "#/");
-  root.append(
-    list(uniq(l.exercises, "topic").map((topic) => ({ href: `#/${code}/${topic}`, label: topic }))),
-  );
+  const entries = [
+    { href: `#/r/${code}`, label: t("randomDrill"), featured: true },
+    ...uniq(l.exercises, "topic").map((topic) => ({ href: `#/${code}/${topic}`, label: topic })),
+  ];
+  root.append(list(entries));
 }
 
 function showLevels(code, topic) {
