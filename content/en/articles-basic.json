@@ -1,0 +1,49 @@
+{
+  "id": "en-articles-basic",
+  "lang": "en",
+  "topic": "articles",
+  "level": "A2",
+  "type": "cloze",
+  "title": "A, an, the, or nothing?",
+  "items": [
+    {
+      "text": "She is {1} honest person.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "follows the sound, not the letter" }
+      ],
+      "explanation": "'Honest' starts with a vowel sound /ɒ/, so it takes 'an' — not 'a'."
+    },
+    {
+      "text": "I had {1} egg and {2} apple for breakfast.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" },
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "Both 'egg' and 'apple' begin with a vowel sound, so each takes 'an'."
+    },
+    {
+      "text": "He drives {1} bus to work, plays {2} guitar in the evenings, and never watches {3} television.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "first mention of one bus" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "fixed expression" }
+      ],
+      "explanation": "A singular countable noun mentioned for the first time takes 'a' (a bus); musical instruments take 'the' (the guitar); 'watch television' is a fixed expression with no article."
+    },
+    {
+      "text": "{1} sun is very bright today.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "unique in the world" }
+      ],
+      "explanation": "Unique things — things that exist only once — take 'the' (the sun, the moon, the earth)."
+    },
+    {
+      "text": "She bought {1} new coat. {2} coat is bright red.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "first mention, unspecified" },
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "already known to the listener" }
+      ],
+      "explanation": "The first mention of an unspecified noun takes 'a'; once the noun is known to the listener, the second mention takes 'the'."
+    }
+  ]
+}

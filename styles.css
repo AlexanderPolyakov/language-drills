@@ -1,0 +1,179 @@
+/* Small, hobby-grade styling. One column, readable, no framework. */
+
+:root {
+  --ok: #4ade80;
+  --bad: #f87171;
+  --accent: #f97316;
+  --accent-hover: #ea6c0a;
+  --line: #3d3d3d;
+  --bg: #1a1a1a;
+  --surface: #262626;
+  --ink: #f0ece4;
+  --muted: #9e9e9e;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font: 16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+  margin: 0;
+  padding: 1.5rem;
+  max-width: 42rem;
+  margin-inline: auto;
+}
+
+header h1 { font-size: 1.4rem; margin: 0 0 1rem; }
+h2 { font-size: 1.15rem; margin: 0 0 1rem; }
+
+/* --- Exercise flow (one item at a time) --- */
+.progress { color: var(--muted); font-size: 0.9rem; font-weight: 600; margin: 0 0 0.75rem; }
+.stage { min-height: 8rem; }
+
+.item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: var(--surface);
+}
+
+/* A uniform, generous line-height keeps every line the same height whether it
+   holds plain text or an option group, so the sentence reads as even rows
+   instead of a ragged mix. */
+/* line-height must comfortably contain the chip widget (~28 px at 1.1rem) with
+   clearance above and below so rows never crowd each other. 2.1 gives ~37 px
+   per row — 9 px breathing room each side. */
+.cloze { margin: 0; font-size: 1.1rem; line-height: 2.1; }
+
+/* A blank and the word it governs are wrapped together as one unbreakable box,
+   so the option widget never strands alone at the end of a line. */
+.glue { white-space: nowrap; }
+
+/* Each blank is a segmented control: one bounded widget holding its options,
+   so it reads as a single unit, stays on the text baseline, and never splits
+   across a line break. (One tap to answer — no dropdowns.) */
+.blank {
+  /* inline-flex makes chips stretch to fill the pill height (so selected fills
+     flush). overflow: visible (not hidden) lets the flex container expose its
+     text baseline — a clipped box would report its bottom edge as baseline
+     instead, which breaks alignment. +1px corrects a <button> UA-style quirk. */
+  display: inline-flex;
+  vertical-align: 1px;
+  margin: 0 0.25rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  white-space: nowrap;
+  background: var(--bg);
+}
+.chip {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.05rem 0.55rem;
+  border: 0;
+  border-left: 1px solid var(--line); /* divider between adjacent options */
+  border-radius: 0;
+  background: transparent;
+  color: var(--ink);
+  line-height: 1.4;
+}
+/* Round the outer ends so a selected chip's fill follows the pill corners now
+   that we no longer clip with overflow: hidden. */
+.chip:first-child { border-left: 0; border-radius: 7px 0 0 7px; }
+.chip:last-child { border-radius: 0 7px 7px 0; }
+.chip:hover:not(:disabled) { background: #2e2010; }
+.chip.selected { background: var(--accent); color: #fff; }
+.chip:disabled { cursor: default; }
+
+/* Feedback colours on a checked blank: tint the chosen segment, and on a miss
+   also flag the segment that was the correct answer. */
+.blank.ok { border-color: var(--ok); }
+.blank.bad { border-color: var(--bad); }
+.blank.ok .chip.selected { background: #166534; color: #fff; }
+.blank.bad .chip.selected { background: #7f1d1d; color: #fff; }
+.chip.answer { color: var(--ok); font-weight: 700; box-shadow: inset 0 -2px 0 var(--ok); }
+
+/* Shared correct/incorrect helpers (also used by transform inputs) */
+.ok { color: var(--ok); border-color: var(--ok); }
+.bad { color: var(--bad); border-color: var(--bad); }
+
+.feedback { font-weight: 600; margin: 1rem 0 0.25rem; }
+.reveal { color: var(--bad); margin: 0.25rem 0; font-weight: 600; }
+.explanation { color: var(--muted); margin: 0.25rem 0 0; }
+
+/* Transform type (free-text rewrite) */
+.transform .prompt { margin: 0 0 0.25rem; font-weight: 600; font-size: 1.1rem; }
+.transform .instruction { margin: 0 0 0.5rem; color: var(--muted); font-style: italic; }
+.transform input {
+  font: inherit;
+  width: 100%;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--ink);
+}
+.transform input.ok { border-color: var(--ok); }
+.transform input.bad { border-color: var(--bad); }
+
+/* The single primary action button (Check / Continue / Finish) */
+.controls { margin-top: 1.25rem; }
+.action {
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  width: 100%;
+  padding: 0.7rem 1rem;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+}
+.action:hover:not(:disabled) { background: var(--accent-hover); }
+.action:disabled { background: #333; border-color: #333; color: #666; cursor: not-allowed; }
+
+/* Browse menu */
+.crumbs { margin-bottom: 0.75rem; }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { text-decoration: underline; }
+
+.menu-list { list-style: none; padding: 0; margin: 0; }
+.menu-list li { margin: 0 0 0.5rem; }
+.menu-list a {
+  display: block;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--surface);
+}
+.menu-list a:hover { background: #2e2010; border-color: var(--accent); }
+.menu-list a.featured { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.menu-list .badge { float: right; color: var(--muted); font-size: 0.85rem; font-weight: 600; }
+
+/* Results card */
+.results {
+  margin-top: 0.5rem;
+  padding: 1.25rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  text-align: center;
+}
+.results h3 { margin: 0 0 0.5rem; font-size: 1.05rem; }
+.results-score { margin: 0 0 1rem; font-weight: 600; font-size: 1.1rem; }
+.results-actions { display: flex; gap: 0.6rem; justify-content: center; }
+.results-actions button,
+.results-actions .button-link {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--bg);
+  text-decoration: none;
+  color: var(--ink);
+}
+.results-actions button:hover,
+.results-actions .button-link:hover { background: #2e2010; border-color: var(--accent); }
