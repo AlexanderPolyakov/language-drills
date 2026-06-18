@@ -80,7 +80,7 @@ export function renderExercise(exercise, root) {
 
   root.append(Object.assign(document.createElement("h2"), { textContent: exercise.title }));
 
-  const items = exercise.items.map(renderItem);
+  const items = exercise.items.map((item) => renderItem({ ...item, type: exercise.type }));
   for (const el of items) root.append(el);
 
   const checkBtn = Object.assign(document.createElement("button"), {
