@@ -38,6 +38,17 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
   background: var(--surface);
 }
 
+/* The lesson shown before a drill starts: the rule to read first, then Start.
+   Mirrors the item card so the screen reads as one calm panel. */
+.lesson {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1.25rem;
+  background: var(--surface);
+}
+.lesson p { margin: 0 0 1.25rem; font-size: 1.05rem; line-height: 1.6; }
+.lesson .action { margin: 0; }
+
 /* A uniform, generous line-height keeps every line the same height whether it
    holds plain text or an option group, so the sentence reads as even rows
    instead of a ragged mix. */

@@ -5,6 +5,7 @@
   "level": "A1",
   "type": "cloze",
   "title": "le, la, l' ou les ?",
+  "lesson": "French definite articles agree with the noun: 'le' for masculine, 'la' for feminine, 'les' for plural, and 'l'' before a vowel or silent h (l'ami, l'heure). Unlike English, French keeps the article even when speaking in general (J'aime le café).",
   "items": [
     {
       "text": "Je vois {1} chat.",

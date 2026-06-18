@@ -127,6 +127,15 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     const refresh = () => { actionBtn.disabled = !isAnswered(current.body); };
     current.body.addEventListener("click", refresh);
     current.body.addEventListener("input", refresh);
+    // Enter inside a text field acts as Check (the natural "I'm done typing"
+    // gesture). Limited to inputs so it doesn't hijack Enter on the chip
+    // buttons, where it would both toggle the chip and submit.
+    current.body.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && e.target.matches("input") && !actionBtn.disabled) {
+        e.preventDefault();
+        actionBtn.click();
+      }
+    });
     // Evaluate up front too: some items start already answered (e.g. a cloze
     // whose blanks default to "no article"), so Check should be live immediately
     // rather than waiting for the first interaction.
@@ -169,5 +178,27 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     stage.append(card);
   }
 
-  showItem();
+  // A short lesson, when the exercise provides one, is shown up front — before
+  // any item — so the learner reads the rule first and isn't given the answer
+  // during practice. A Start button dismisses it and begins the drill.
+  function showLesson(text) {
+    progress.hidden = true;
+    controls.hidden = true;
+    const card = document.createElement("section");
+    card.className = "lesson";
+    card.append(Object.assign(document.createElement("p"), { textContent: text }));
+    const startBtn = Object.assign(document.createElement("button"), {
+      className: "action", type: "button", textContent: t("start"),
+    });
+    startBtn.onclick = () => {
+      progress.hidden = false;
+      controls.hidden = false;
+      showItem();
+    };
+    card.append(startBtn);
+    stage.append(card);
+  }
+
+  if (exercise.lesson) showLesson(exercise.lesson);
+  else showItem();
 }
