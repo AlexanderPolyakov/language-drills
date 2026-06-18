@@ -127,6 +127,10 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
     const refresh = () => { actionBtn.disabled = !isAnswered(current.body); };
     current.body.addEventListener("click", refresh);
     current.body.addEventListener("input", refresh);
+    // Evaluate up front too: some items start already answered (e.g. a cloze
+    // whose blanks default to "no article"), so Check should be live immediately
+    // rather than waiting for the first interaction.
+    refresh();
   }
 
   function onCheck() {
