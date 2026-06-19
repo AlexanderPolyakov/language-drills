@@ -53,7 +53,7 @@
       "explanation": "'run out of' means to have no more of something left."
     },
     {
-      "text": "He {1} the form, {2} it carefully, and then {3} it to the office.",
+      "text": "He {1} the form, {2} the details carefully, and then {3} the document to the office.",
       "blanks": [
         { "answer": "filled in", "options": ["filled in", "filled up", "filled out"], "hint": "complete a form (British English)" },
         { "answer": "looked over", "options": ["looked over", "looked up", "looked after"], "hint": "review quickly" },
