@@ -38,6 +38,16 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
   background: var(--surface);
 }
 
+/* Per-item caption naming the source drill (used in mixed/random sessions). */
+.item-caption {
+  margin: 0 0 0.75rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--muted);
+}
+
 /* The lesson shown before a drill starts: the rule to read first, then Start.
    Mirrors the item card so the screen reads as one calm panel. */
 .lesson {

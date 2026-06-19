@@ -124,7 +124,7 @@ async function showRandomSession(code) {
   const allItems = [];
   for (const ex of files) {
     for (const item of ex.items) {
-      allItems.push({ ...item, type: ex.type });
+      allItems.push({ ...item, type: ex.type, caption: ex.title });
     }
   }
 

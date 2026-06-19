@@ -48,6 +48,16 @@ function buildItem(item) {
   const wrap = document.createElement("section");
   wrap.className = "item";
 
+  // Optional per-item caption naming the source exercise. Mixed sessions (e.g.
+  // the random drill) pool items from many exercises under one title, so each
+  // item names its own drill to make clear what's being asked.
+  if (item.caption) {
+    wrap.append(Object.assign(document.createElement("p"), {
+      className: "item-caption",
+      textContent: item.caption,
+    }));
+  }
+
   const body = type.render(item);
   wrap.append(body);
 
