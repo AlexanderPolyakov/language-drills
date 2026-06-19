@@ -1,0 +1,67 @@
+{
+  "id": "en-prepositions-time-place",
+  "lang": "en",
+  "topic": "prepositions",
+  "level": "A2",
+  "type": "cloze",
+  "title": "in, on, or at? (time and place)",
+  "lesson": "Use 'at' for precise points — clock times and exact places (at 9 a.m., at the door); 'on' for days, dates, and surfaces (on Monday, on the table); and 'in' for longer periods and enclosed spaces (in May, in the room). Note 'in the morning' but 'at night'.",
+  "items": [
+    {
+      "text": "The meeting is {1} Monday {2} 9 a.m.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "days of the week" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "clock times" }
+      ],
+      "explanation": "Days take 'on' (on Monday); clock times take 'at' (at 9 a.m.)."
+    },
+    {
+      "text": "We'll meet {1} midnight.",
+      "blanks": [
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "a precise point in time" }
+      ],
+      "explanation": "'At' is used for precise points in time: at midnight, at noon, at 3 o'clock."
+    },
+    {
+      "text": "She arrived {1} the hotel {2} Friday {3} the afternoon.",
+      "blanks": [
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "arrive at a point" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "days of the week" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "parts of the day" }
+      ],
+      "explanation": "'At' for a specific place seen as a point (at the hotel); 'on' for days (on Friday); 'in' for parts of the day (in the afternoon)."
+    },
+    {
+      "text": "The keys are {1} the table {2} the kitchen.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a surface" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "an enclosed space" }
+      ],
+      "explanation": "Surfaces take 'on' (on the table); enclosed spaces take 'in' (in the kitchen)."
+    },
+    {
+      "text": "There's a good film {1} TV tonight.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "fixed phrase" }
+      ],
+      "explanation": "'On TV' is a fixed phrase — something is broadcast on television."
+    },
+    {
+      "text": "She was born {1} 1990, {2} July.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "years" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "months" }
+      ],
+      "explanation": "Years and months both take 'in' (in 1990, in July)."
+    },
+    {
+      "text": "They met {1} the park {2} a cold day {3} winter.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "an open area you can be inside" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a specific day" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "seasons" }
+      ],
+      "explanation": "'In the park' (area); 'on a cold day' (a specific day); 'in winter' (seasons take 'in')."
+    }
+  ]
+}

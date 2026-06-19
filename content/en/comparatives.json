@@ -1,0 +1,41 @@
+{
+  "id": "en-comparatives",
+  "lang": "en",
+  "topic": "comparatives",
+  "level": "A2",
+  "type": "fill",
+  "title": "Comparatives: write the comparative form",
+  "lesson": "To compare two things, short adjectives add -er (fast → faster) and longer ones use 'more' (more interesting). Spelling shifts: final -y becomes -ier (happy → happier), and a short vowel + single consonant doubles it (big → bigger). 'good' and 'bad' are irregular (better, worse).",
+  "items": [
+    {
+      "text": "This box is {1} than that one.",
+      "blanks": [{ "cue": "heavy", "answer": ["heavier"] }],
+      "explanation": "A one/two-syllable adjective ending in -y changes to -ier: heavy → heavier."
+    },
+    {
+      "text": "A train is {1} than a bus.",
+      "blanks": [{ "cue": "fast", "answer": ["faster"] }],
+      "explanation": "Short adjectives add -er: fast → faster."
+    },
+    {
+      "text": "This book is {1} than the film.",
+      "blanks": [{ "cue": "interesting", "answer": ["more interesting"] }],
+      "explanation": "Adjectives of three or more syllables use 'more': more interesting."
+    },
+    {
+      "text": "Today is {1} than yesterday.",
+      "blanks": [{ "cue": "hot", "answer": ["hotter"] }],
+      "explanation": "A short vowel + single consonant doubles the consonant: hot → hotter."
+    },
+    {
+      "text": "My bag is {1} than yours.",
+      "blanks": [{ "cue": "good", "answer": ["better"] }],
+      "explanation": "'good' is irregular: good → better."
+    },
+    {
+      "text": "Her garden is {1} than mine.",
+      "blanks": [{ "cue": "big", "answer": ["bigger"] }],
+      "explanation": "Double the final consonant after a short vowel: big → bigger."
+    }
+  ]
+}

@@ -4,6 +4,10 @@
 // type is one module exposing render(item) and check(item, input), plus an
 // optional mark(body, result) that paints its own feedback. Adding CONTENT
 // needs no changes here.
+//
+// SESSION_SIZE caps how many items to present per run. When a pool has more,
+// we take a random sample so a session stays ~10 minutes rather than open-ended.
+const SESSION_SIZE = 15;
 
 import { t } from "./i18n.js";
 import { types } from "./types/index.js";
@@ -43,6 +47,16 @@ function buildItem(item) {
 
   const wrap = document.createElement("section");
   wrap.className = "item";
+
+  // Optional per-item caption naming the source exercise. Mixed sessions (e.g.
+  // the random drill) pool items from many exercises under one title, so each
+  // item names its own drill to make clear what's being asked.
+  if (item.caption) {
+    wrap.append(Object.assign(document.createElement("p"), {
+      className: "item-caption",
+      textContent: item.caption,
+    }));
+  }
 
   const body = type.render(item);
   wrap.append(body);
@@ -100,7 +114,9 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
   root.replaceChildren();
   root.append(Object.assign(document.createElement("h2"), { textContent: exercise.title }));
 
-  const order = shuffle(exercise.items.map((item) => ({ ...item, type: exercise.type })));
+  // item.type overrides exercise.type so mixed-pool sessions work without engine changes.
+  const all = shuffle(exercise.items.map((item) => ({ ...item, type: item.type ?? exercise.type })));
+  const order = all.slice(0, SESSION_SIZE);
   const total = order.length;
   let index = 0;
   let correct = 0;

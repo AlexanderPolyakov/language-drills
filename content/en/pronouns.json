@@ -1,0 +1,57 @@
+{
+  "id": "en-pronouns",
+  "lang": "en",
+  "topic": "pronouns",
+  "level": "A1",
+  "type": "cloze",
+  "title": "Pronouns: subject, object, and possessive",
+  "lesson": "Subject pronouns (I, he, they) come before the verb; object pronouns (me, him, them) come after a verb or preposition. Possessive adjectives (my, her, their) sit before a noun, while possessive pronouns (mine, hers, theirs) stand alone with no noun after.",
+  "items": [
+    {
+      "text": "This is my brother. {1} is a doctor.",
+      "blanks": [
+        { "answer": "He", "options": ["He", "Him", "His"], "hint": "subject of the sentence" }
+      ],
+      "explanation": "Use the subject pronoun before the verb: He is a doctor."
+    },
+    {
+      "text": "I like Anna. I see {1} every day. {2} dog is very friendly.",
+      "blanks": [
+        { "answer": "her", "options": ["she", "her", "hers"], "hint": "object of the verb" },
+        { "answer": "Her", "options": ["She", "Her", "Hers"], "hint": "possessive adjective before a noun" }
+      ],
+      "explanation": "Object pronoun after a verb (I see her); possessive adjective before a noun (Her dog)."
+    },
+    {
+      "text": "This book is {1}.",
+      "blanks": [
+        { "answer": "mine", "options": ["my", "mine", "me"], "hint": "stands alone, no noun after" }
+      ],
+      "explanation": "Use the possessive pronoun when no noun follows: This book is mine."
+    },
+    {
+      "text": "We love {1} new house. The neighbors said {2} was very nice.",
+      "blanks": [
+        { "answer": "our", "options": ["our", "ours", "us"], "hint": "possessive adjective before a noun" },
+        { "answer": "it", "options": ["it", "its", "they"], "hint": "subject pronoun for a thing" }
+      ],
+      "explanation": "Possessive adjective before a noun (our new house); subject pronoun for the house (it was very nice)."
+    },
+    {
+      "text": "Can you help {1}?",
+      "blanks": [
+        { "answer": "me", "options": ["I", "me", "my"], "hint": "object of the verb" }
+      ],
+      "explanation": "Use the object pronoun after a verb: help me."
+    },
+    {
+      "text": "{1} like Tom because {2} always helps {3}.",
+      "blanks": [
+        { "answer": "I", "options": ["I", "Me", "My"], "hint": "subject of the sentence" },
+        { "answer": "he", "options": ["he", "him", "his"], "hint": "subject of 'helps'" },
+        { "answer": "us", "options": ["us", "we", "our"], "hint": "object of 'helps'" }
+      ],
+      "explanation": "Subject pronouns before verbs (I like; he helps); object pronoun after a verb (helps us)."
+    }
+  ]
+}

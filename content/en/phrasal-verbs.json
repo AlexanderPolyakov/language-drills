@@ -1,0 +1,65 @@
+{
+  "id": "en-phrasal-verbs",
+  "lang": "en",
+  "topic": "phrasal-verbs",
+  "level": "B2",
+  "type": "cloze",
+  "title": "Phrasal verbs: choose the right one",
+  "lesson": "A phrasal verb is a verb plus a particle (up, off, after…) whose meaning is often idiomatic — 'give up' means quit, 'take after' means resemble. The particle changes the meaning entirely, so they're best learned as whole units rather than guessed from the parts.",
+  "items": [
+    {
+      "text": "Please {1} your shoes before entering.",
+      "blanks": [
+        { "answer": "take off", "options": ["take off", "take up", "take after"], "hint": "remove clothing" }
+      ],
+      "explanation": "'take off' means to remove an item of clothing."
+    },
+    {
+      "text": "She {1} smoking last year and {2} yoga instead.",
+      "blanks": [
+        { "answer": "gave up", "options": ["gave up", "gave in", "gave away"], "hint": "stop a habit" },
+        { "answer": "took up", "options": ["took up", "took off", "took in"], "hint": "start a new activity" }
+      ],
+      "explanation": "'give up' means to quit a habit; 'take up' means to start a new activity or hobby."
+    },
+    {
+      "text": "She {1} her grandmother; they have the same eyes.",
+      "blanks": [
+        { "answer": "takes after", "options": ["takes after", "takes off", "takes in"], "hint": "resemble a relative" }
+      ],
+      "explanation": "'take after' means to resemble an older relative."
+    },
+    {
+      "text": "Can you {1} the baby while I'm out?",
+      "blanks": [
+        { "answer": "look after", "options": ["look after", "look up", "look out"], "hint": "take care of" }
+      ],
+      "explanation": "'look after' means to take care of someone or something."
+    },
+    {
+      "text": "The meeting was {1} until next week, so I {2} the free afternoon to {3} some emails.",
+      "blanks": [
+        { "answer": "put off", "options": ["put off", "put on", "put up"], "hint": "postpone" },
+        { "answer": "used", "options": ["used", "spent", "took"], "hint": "made use of" },
+        { "answer": "catch up on", "options": ["catch up on", "catch on to", "catch out"], "hint": "deal with a backlog" }
+      ],
+      "explanation": "'put off' = postpone; 'used the time to' = made use of it; 'catch up on' = deal with things you are behind on."
+    },
+    {
+      "text": "We ran {1} of milk this morning.",
+      "blanks": [
+        { "answer": "out", "options": ["out", "into", "over"], "hint": "have none left" }
+      ],
+      "explanation": "'run out of' means to have no more of something left."
+    },
+    {
+      "text": "He {1} the form, {2} it carefully, and then {3} it to the office.",
+      "blanks": [
+        { "answer": "filled in", "options": ["filled in", "filled up", "filled out"], "hint": "complete a form (British English)" },
+        { "answer": "looked over", "options": ["looked over", "looked up", "looked after"], "hint": "review quickly" },
+        { "answer": "handed in", "options": ["handed in", "handed out", "handed back"], "hint": "submit to someone in authority" }
+      ],
+      "explanation": "'fill in' = complete a form; 'look over' = review; 'hand in' = submit to someone above you."
+    }
+  ]
+}

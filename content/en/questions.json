@@ -1,0 +1,41 @@
+{
+  "id": "en-questions",
+  "lang": "en",
+  "topic": "question-formation",
+  "level": "A2",
+  "type": "transform",
+  "title": "Questions: turn each statement into a question",
+  "lesson": "To form a yes/no question, put the auxiliary before the subject. With 'be' or a modal, invert directly (Are you…?, Can you…?). In the present and past simple, add do/does/did + the base verb (Does she like…?, Did he go…?). Wh- questions put the question word first.",
+  "items": [
+    {
+      "prompt": "She likes coffee. (yes/no question)",
+      "answer": ["Does she like coffee?"],
+      "explanation": "Present simple questions use do/does + base verb: 'likes' → 'Does she like…?'."
+    },
+    {
+      "prompt": "They are at home. (yes/no question)",
+      "answer": ["Are they at home?"],
+      "explanation": "With the verb 'be', invert the subject and the verb: 'Are they…?'."
+    },
+    {
+      "prompt": "He went to Paris. (yes/no question)",
+      "answer": ["Did he go to Paris?"],
+      "explanation": "Past simple questions use 'did' + base verb: 'went' → 'Did he go…?'."
+    },
+    {
+      "prompt": "You can swim. (yes/no question)",
+      "answer": ["Can you swim?"],
+      "explanation": "Modal verbs invert directly with the subject: 'Can you…?'."
+    },
+    {
+      "prompt": "She lives in London. (ask: Where?)",
+      "answer": ["Where does she live?"],
+      "explanation": "Wh- question: question word + does + subject + base verb."
+    },
+    {
+      "prompt": "They are playing football. (ask: What?)",
+      "answer": ["What are they playing?"],
+      "explanation": "Present continuous wh- question: What + are + subject + -ing form."
+    }
+  ]
+}

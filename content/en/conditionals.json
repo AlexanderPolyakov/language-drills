@@ -1,0 +1,57 @@
+{
+  "id": "en-conditionals",
+  "lang": "en",
+  "topic": "conditionals",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Conditionals: choose the correct verb form",
+  "lesson": "Conditionals link a condition to its result. The first conditional — if + present simple, will + base verb — talks about realistic future events ('If it rains, we will stay'). The second — if + past, would + base verb — imagines unreal or unlikely situations ('If I were rich…').",
+  "items": [
+    {
+      "text": "If it {1} tomorrow, we will stay home.",
+      "blanks": [
+        { "answer": "rains", "options": ["rains", "will rain", "rained"], "hint": "first conditional 'if' clause" }
+      ],
+      "explanation": "First conditional: if + present simple, will + base verb. 'If it rains…'."
+    },
+    {
+      "text": "If I {1} rich, I would travel the world.",
+      "blanks": [
+        { "answer": "were", "options": ["am", "were", "will be"], "hint": "unreal present" }
+      ],
+      "explanation": "Second conditional uses the past form ('were' for all persons) for an unreal present: 'If I were rich…'."
+    },
+    {
+      "text": "If you {1} hard, you {2} the exam.",
+      "blanks": [
+        { "answer": "study", "options": ["study", "studied", "will study"], "hint": "first conditional 'if' clause" },
+        { "answer": "will pass", "options": ["will pass", "would pass", "passed"], "hint": "first conditional result" }
+      ],
+      "explanation": "First conditional: if + present simple (study), will + base verb (will pass) for a realistic future event."
+    },
+    {
+      "text": "If you heat ice, it {1}.",
+      "blanks": [
+        { "answer": "melts", "options": ["melts", "will melt", "would melt"], "hint": "general truth" }
+      ],
+      "explanation": "Zero conditional for general truths: present simple in both clauses."
+    },
+    {
+      "text": "If they {1} us, we {2} the project on time.",
+      "blanks": [
+        { "answer": "had helped", "options": ["had helped", "have helped", "help"], "hint": "third conditional 'if' clause" },
+        { "answer": "would have finished", "options": ["would have finished", "will finish", "would finish"], "hint": "third conditional result" }
+      ],
+      "explanation": "Third conditional: if + past perfect (had helped), would have + past participle (would have finished) — an unreal past."
+    },
+    {
+      "text": "If she {1} earlier, she {2} the train and {3} home by now.",
+      "blanks": [
+        { "answer": "had left", "options": ["had left", "left", "leaves"], "hint": "third conditional 'if' clause" },
+        { "answer": "would have caught", "options": ["would have caught", "will catch", "would catch"], "hint": "third conditional action" },
+        { "answer": "would be", "options": ["would be", "will be", "would have been"], "hint": "present result of a past condition" }
+      ],
+      "explanation": "Third conditional for the past action (had left / would have caught), but 'would be' — not 'would have been' — for a present result: she would be home by now."
+    }
+  ]
+}
