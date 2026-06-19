@@ -1,0 +1,36 @@
+{
+  "id": "fr-verbs-present-er",
+  "lang": "fr",
+  "topic": "verb-tenses",
+  "level": "A1",
+  "type": "fill",
+  "title": "Présent des verbes en -er",
+  "lesson": "Regular -er verbs are the largest French verb group. Drop the -er and add the present-tense endings: -e (je), -es (tu), -e (il/elle), -ons (nous), -ez (vous), -ent (ils/elles). The -es and -ent endings are silent, so most forms sound the same.",
+  "items": [
+    {
+      "text": "Je {1} français.",
+      "blanks": [{ "cue": "parler", "answer": ["parle"] }],
+      "explanation": "-er verbs: the 'je' form ends in -e: parler → je parle."
+    },
+    {
+      "text": "Tu {1} à Paris.",
+      "blanks": [{ "cue": "habiter", "answer": ["habites"] }],
+      "explanation": "-er verbs: the 'tu' form ends in -es: habiter → tu habites."
+    },
+    {
+      "text": "Nous {1} le café.",
+      "blanks": [{ "cue": "aimer", "answer": ["aimons"] }],
+      "explanation": "-er verbs: the 'nous' form ends in -ons: aimer → nous aimons."
+    },
+    {
+      "text": "Ils {1} la télévision.",
+      "blanks": [{ "cue": "regarder", "answer": ["regardent"] }],
+      "explanation": "-er verbs: the 'ils/elles' form ends in -ent (silent): regarder → ils regardent."
+    },
+    {
+      "text": "Vous {1} une pomme.",
+      "blanks": [{ "cue": "manger", "answer": ["mangez"] }],
+      "explanation": "-er verbs: the 'vous' form ends in -ez: manger → vous mangez."
+    }
+  ]
+}

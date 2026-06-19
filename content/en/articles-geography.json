@@ -1,0 +1,50 @@
+{
+  "id": "en-articles-geography",
+  "lang": "en",
+  "topic": "articles",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Articles with place names",
+  "lesson": "Most place names take no article: countries, cities, and continents (France, Tokyo, Africa). Use 'the' with plural or grouped names (the Netherlands, the USA, the Alps) and with oceans, rivers, and deserts (the Atlantic, the Nile, the Sahara).",
+  "items": [
+    {
+      "text": "{1} Nile is the longest river in Africa.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "rivers always take 'the'" }
+      ],
+      "explanation": "Rivers always take 'the' (the Nile, the Thames, the Amazon)."
+    },
+    {
+      "text": "{1} Mount Everest is the highest peak in {2} Himalayas.",
+      "blanks": [
+        { "answer": "—", "options": ["A", "An", "The", "—"], "hint": "single named mountains" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "mountain ranges" }
+      ],
+      "explanation": "Individual mountains take no article (Mount Everest); mountain ranges take 'the' (the Himalayas)."
+    },
+    {
+      "text": "{1} Amazon flows through {2} Brazil, one of {3} largest countries on Earth.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "rivers" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "most single countries" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "superlative expressions" }
+      ],
+      "explanation": "Rivers take 'the' (the Amazon); most countries take no article (Brazil); superlative phrases take 'the' (one of the largest)."
+    },
+    {
+      "text": "She flew from {1} United States to {2} Netherlands.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "a union of states" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "a plural country name" }
+      ],
+      "explanation": "Countries whose names are plural or contain 'States/Kingdom/Republic' take 'the' (the United States, the Netherlands)."
+    },
+    {
+      "text": "He has always wanted to visit {1} Sahara Desert.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "deserts" }
+      ],
+      "explanation": "Deserts take 'the' (the Sahara Desert, the Gobi Desert)."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "en-verbs-past-simple",
+  "lang": "en",
+  "topic": "verb-tenses",
+  "level": "A2",
+  "type": "fill",
+  "title": "Past simple: write the correct form",
+  "lesson": "The past simple describes finished actions at a definite past time. Regular verbs add -ed (work → worked), but many common verbs are irregular (go → went, buy → bought). Negatives use did + not + the base verb (didn't like).",
+  "items": [
+    {
+      "text": "He {1} in a bank.",
+      "blanks": [{ "cue": "work", "answer": ["worked"] }],
+      "explanation": "Regular verbs add -ed in the past simple: work → worked."
+    },
+    {
+      "text": "They {1} to the gym every day.",
+      "blanks": [{ "cue": "go", "answer": ["went"] }],
+      "explanation": "'go' is irregular: go → went."
+    },
+    {
+      "text": "She {1} fresh bread.",
+      "blanks": [{ "cue": "buy", "answer": ["bought"] }],
+      "explanation": "'buy' is irregular: buy → bought."
+    },
+    {
+      "text": "I {1} coffee.",
+      "blanks": [{ "cue": "not like", "answer": ["didn't like", "did not like"] }],
+      "explanation": "Past negatives use did + not + base verb: don't like → didn't like."
+    },
+    {
+      "text": "We {1} French at school.",
+      "blanks": [{ "cue": "study", "answer": ["studied"] }],
+      "explanation": "A consonant + y becomes -ied: study → studied."
+    }
+  ]
+}

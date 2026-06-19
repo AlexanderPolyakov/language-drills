@@ -1,0 +1,50 @@
+{
+  "id": "fr-articles-definite",
+  "lang": "fr",
+  "topic": "articles",
+  "level": "A1",
+  "type": "cloze",
+  "title": "le, la, l' ou les ?",
+  "lesson": "French definite articles agree with the noun: 'le' for masculine, 'la' for feminine, 'les' for plural, and 'l'' before a vowel or silent h (l'ami, l'heure). Unlike English, French keeps the article even when speaking in general (J'aime le café).",
+  "items": [
+    {
+      "text": "Je vois {1} chat.",
+      "blanks": [
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "Masculine singular nouns take 'le' (le chat)."
+    },
+    {
+      "text": "Je vois {1} chat et {2} oiseau.",
+      "blanks": [
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" },
+        { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
+      ],
+      "explanation": "Masculine singular 'le chat'; before a vowel, 'le' elides to 'l'' (l'oiseau)."
+    },
+    {
+      "text": "{1} enfants jouent dans {2} jardin avec {3} chien.",
+      "blanks": [
+        { "answer": "Les", "options": ["Le", "La", "L'", "Les"], "hint": "plural" },
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" },
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "Plural nouns take 'les' (les enfants); masculine singular takes 'le' (le jardin, le chien)."
+    },
+    {
+      "text": "Il aime {1} musique et {2} art.",
+      "blanks": [
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" },
+        { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a vowel sound" }
+      ],
+      "explanation": "Feminine singular 'la musique'; before a vowel the article elides to 'l'' (l'art)."
+    },
+    {
+      "text": "{1} fille apprend le français.",
+      "blanks": [
+        { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" }
+      ],
+      "explanation": "Feminine singular nouns take 'la' (la fille)."
+    }
+  ]
+}
