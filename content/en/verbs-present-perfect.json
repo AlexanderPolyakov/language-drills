@@ -1,7 +1,7 @@
 {
   "id": "en-verbs-present-perfect",
   "lang": "en",
-  "topic": "verb-tenses",
+  "topic": "present-perfect",
   "level": "B1",
   "title": "Present perfect: write the correct form",
   "lesson": "The present perfect (have/has + past participle) connects the past to now: life experience, recent news, and situations continuing up to the present. Pair it with 'just', 'already', 'never', 'for', and 'since' — never with a finished past time like 'yesterday'.",
@@ -31,6 +31,41 @@
       "text": "I {1} three emails today.",
       "blanks": [{ "cue": "write", "answer": ["have written", "'ve written"] }],
       "explanation": "'today' is unfinished time, so use the present perfect; write → written."
+    },
+    {
+      "text": "We {1} each other since 2010.",
+      "blanks": [{ "cue": "know", "answer": ["have known", "'ve known"] }],
+      "explanation": "'since' marks the start of a period continuing to now, so use the present perfect; know → known."
+    },
+    {
+      "text": "Have you ever {1} sushi?",
+      "blanks": [{ "cue": "eat", "answer": ["eaten"] }],
+      "explanation": "In questions about life experience with 'ever', the participle follows 'have you': eat → eaten."
+    },
+    {
+      "text": "The bus hasn't arrived {1}.",
+      "blanks": [{ "cue": "adverb meaning 'up to now'", "answer": ["yet"] }],
+      "explanation": "'yet' goes at the end of negatives and questions to mean 'up to now': hasn't arrived yet."
+    },
+    {
+      "text": "My parents {1} to Paris; they're there right now.",
+      "blanks": [{ "cue": "go", "answer": ["have gone", "'ve gone"] }],
+      "explanation": "'have gone' means they went and are still away. (Use 'been' only for a completed visit they've returned from.)"
+    },
+    {
+      "text": "She {1} to Egypt twice, but she's home now.",
+      "blanks": [{ "cue": "be", "answer": ["has been", "'s been"] }],
+      "explanation": "'has been' describes a completed experience (she went and came back); 'gone' would mean she is still there."
+    },
+    {
+      "text": "I {1} that film last week.",
+      "blanks": [{ "cue": "see", "answer": ["saw"] }],
+      "explanation": "'last week' is finished past time, so use the past simple, not the present perfect; see → saw."
+    },
+    {
+      "text": "He {1} his report, so he can relax now.",
+      "blanks": [{ "cue": "already finish", "answer": ["has already finished", "'s already finished"] }],
+      "explanation": "'already' (before the participle) stresses that something happened sooner than expected; finish → finished."
     }
   ]
 }

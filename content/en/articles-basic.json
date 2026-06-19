@@ -45,6 +45,55 @@
         { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "already known to the listener" }
       ],
       "explanation": "The first mention of an unspecified noun takes 'a'; once the noun is known to the listener, the second mention takes 'the'."
+    },
+    {
+      "text": "We saw {1} film last night. {2} film was about {3} astronaut.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "first mention" },
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "second mention" },
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "First mention of the film takes 'a'; the second mention takes 'the'; 'astronaut' begins with a vowel sound, so it takes 'an'."
+    },
+    {
+      "text": "My brother is {1} engineer and my sister is {2} teacher.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" },
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
+      ],
+      "explanation": "Jobs take 'a' or 'an' in the singular: 'engineer' starts with a vowel sound (an engineer), 'teacher' with a consonant sound (a teacher)."
+    },
+    {
+      "text": "{1} children love {2} chocolate.",
+      "blanks": [
+        { "answer": "—", "options": ["A", "The", "—"], "hint": "people in general" },
+        { "answer": "—", "options": ["a", "the", "—"], "hint": "things in general" }
+      ],
+      "explanation": "When we talk about people or things in general, plural and uncountable nouns take no article: children (in general), chocolate (in general)."
+    },
+    {
+      "text": "Please close {1} door and turn off {2} lights.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "we both know which one" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the ones in this room" }
+      ],
+      "explanation": "We use 'the' when it is clear which thing we mean — the door and the lights of the room we are in."
+    },
+    {
+      "text": "Paris is {1} capital of {2} France.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "there is only one" },
+        { "answer": "—", "options": ["a", "the", "—"], "hint": "most country names" }
+      ],
+      "explanation": "'The capital' is unique, so it takes 'the'; most country names, like France, take no article."
+    },
+    {
+      "text": "I usually have {1} breakfast at {2} eight o'clock.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "the", "—"], "hint": "meals" },
+        { "answer": "—", "options": ["a", "the", "—"], "hint": "a fixed time expression" }
+      ],
+      "explanation": "Meals take no article (have breakfast), and the time expression 'eight o'clock' needs no article here."
     }
   ]
 }

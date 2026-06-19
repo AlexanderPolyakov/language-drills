@@ -1,0 +1,95 @@
+{
+  "id": "en-relative-clauses-b1",
+  "lang": "en",
+  "topic": "relative-clauses",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Relative clauses: who, which, that, whose, where, when",
+  "lesson": "Defining relative clauses tell us which person or thing we mean. Use 'who' for people, 'which' for things, and 'that' for either. Use 'whose' to show possession, 'where' for places, and 'when' for times. These clauses are essential to the meaning, so they take no commas.",
+  "items": [
+    {
+      "text": "That's the woman {1} won the competition.",
+      "blanks": [
+        { "answer": "who", "options": ["who", "which", "where"], "hint": "subject is a person" }
+      ],
+      "explanation": "Use 'who' for a person who does the action (the subject of the clause)."
+    },
+    {
+      "text": "This is the book {1} changed my life.",
+      "blanks": [
+        { "answer": "which", "options": ["who", "which", "when"], "hint": "subject is a thing" }
+      ],
+      "explanation": "Use 'which' for a thing. ('That' would also be correct here.)"
+    },
+    {
+      "text": "She's the doctor {1} treated my father.",
+      "blanks": [
+        { "answer": "who", "options": ["who", "which", "whose"], "hint": "refers to a person" }
+      ],
+      "explanation": "'Who' refers to a person, the doctor, who performs the action of the clause."
+    },
+    {
+      "text": "I live in a town {1} nothing exciting ever happens.",
+      "blanks": [
+        { "answer": "where", "options": ["where", "which", "when"], "hint": "refers to a place" }
+      ],
+      "explanation": "Use 'where' to refer to a place; it replaces 'in which' (in the town)."
+    },
+    {
+      "text": "Do you remember the day {1} we first met?",
+      "blanks": [
+        { "answer": "when", "options": ["when", "where", "which"], "hint": "refers to a time" }
+      ],
+      "explanation": "Use 'when' to refer to a time, such as 'the day'."
+    },
+    {
+      "text": "He's the man {1} car was stolen.",
+      "blanks": [
+        { "answer": "whose", "options": ["whose", "who", "which"], "hint": "shows possession" }
+      ],
+      "explanation": "Use 'whose' to show possession: the car belongs to the man."
+    },
+    {
+      "text": "The film {1} we watched last night was boring.",
+      "blanks": [
+        { "answer": "that", "options": ["that", "who", "where"], "hint": "object thing; 'which' also works" }
+      ],
+      "explanation": "For a thing that is the object of the clause, use 'that' (or 'which'); 'who' is only for people."
+    },
+    {
+      "text": "Students {1} finish early can leave the room.",
+      "blanks": [
+        { "answer": "who", "options": ["who", "which", "whose"], "hint": "people as subject" }
+      ],
+      "explanation": "Use 'who' for people; the students are the subject of 'finish early'. ('That' is also possible.)"
+    },
+    {
+      "text": "This is the restaurant {1} they got engaged.",
+      "blanks": [
+        { "answer": "where", "options": ["where", "which", "who"], "hint": "refers to a place" }
+      ],
+      "explanation": "Use 'where' for a place (the restaurant); it means 'in which'."
+    },
+    {
+      "text": "I have a friend {1} brother is a famous singer.",
+      "blanks": [
+        { "answer": "whose", "options": ["whose", "who", "which"], "hint": "shows possession" }
+      ],
+      "explanation": "Use 'whose' to show that the brother belongs to (relates to) the friend."
+    },
+    {
+      "text": "The keys {1} are on the table belong to me.",
+      "blanks": [
+        { "answer": "which", "options": ["which", "who", "whose"], "hint": "things as subject; 'that' also works" }
+      ],
+      "explanation": "Use 'which' (or 'that') for things; 'keys' is the subject of 'are on the table'."
+    },
+    {
+      "text": "Winter is the season {1} I feel most tired.",
+      "blanks": [
+        { "answer": "when", "options": ["when", "where", "which"], "hint": "refers to a time" }
+      ],
+      "explanation": "Use 'when' to refer to a time, such as 'the season'."
+    }
+  ]
+}

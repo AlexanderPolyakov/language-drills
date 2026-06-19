@@ -1,0 +1,95 @@
+{
+  "id": "en-formal-subjunctive-c2",
+  "lang": "en",
+  "topic": "formal-subjunctive",
+  "level": "C2",
+  "type": "fill",
+  "title": "The formal subjunctive and irrealis 'were'",
+  "lesson": "English preserves the subjunctive in a handful of high-register constructions. The mandative (present) subjunctive uses the bare base form of the verb after expressions of demand, recommendation, or necessity ('insist that he resign', 'essential that she be present'), with no -s in the third person and 'be'/'not be' rather than 'is'/'isn't'. The irrealis 'were' (past subjunctive) appears in hypotheticals ('if I were', 'I wish it were', 'as though he were'). Other fossilised survivals include 'lest' + subjunctive, formulae like 'be that as it may' and 'come what may', and inverted formal conditionals with 'should' ('Should you require...').",
+  "items": [
+    {
+      "text": "The committee insists that every applicant {1} interviewed in person before any offer is made.",
+      "blanks": [
+        { "cue": "be", "answer": ["be"], "hint": "mandative subjunctive: bare base form, not 'is'" }
+      ],
+      "explanation": "After verbs of demanding/insisting, the that-clause takes the base form regardless of subject, so 'be' (passive) rather than 'is'. The American norm strongly prefers the subjunctive here; the British 'should be' is a stylistic alternative."
+    },
+    {
+      "text": "It is imperative that the minister {1} from the post before the inquiry begins.",
+      "blanks": [
+        { "cue": "resign", "answer": ["resign"], "hint": "third person, but no -s in the subjunctive" }
+      ],
+      "explanation": "After 'it is imperative/essential/vital that', the mandative subjunctive uses the uninflected base form: 'the minister resign', never 'resigns'."
+    },
+    {
+      "text": "Her doctor recommended that she {1} alcohol entirely during the treatment.",
+      "blanks": [
+        { "cue": "avoid", "answer": ["avoid"], "hint": "base form after 'recommend that'" }
+      ],
+      "explanation": "'Recommend/suggest/propose that' trigger the subjunctive: 'she avoid', not 'she avoids'. The lack of -s is the only visible marker with a regular verb."
+    },
+    {
+      "text": "The regulations demand that no member {1} permitted to vote twice.",
+      "blanks": [
+        { "cue": "be", "answer": ["be"], "hint": "negative subjunctive: 'be', not 'is'" }
+      ],
+      "explanation": "The subjunctive of 'be' is invariant: 'no member be permitted'. With negation it is 'that he not be', never 'that he isn't'."
+    },
+    {
+      "text": "If the proposal {1} to fail, the entire department would be restructured within the month.",
+      "blanks": [
+        { "cue": "be", "answer": ["were"], "hint": "irrealis 'were' in a hypothetical 'if...were to'" }
+      ],
+      "explanation": "'Were to' introduces a remote or tentative future hypothesis. The irrealis 'were' is used for all persons in formal style; 'was to' is colloquial and avoided here."
+    },
+    {
+      "text": "I wish it {1} otherwise, but the facts leave us no room for optimism.",
+      "blanks": [
+        { "cue": "be", "answer": ["were"], "hint": "'I wish it ___' takes the past subjunctive" }
+      ],
+      "explanation": "After 'wish', a counterfactual present takes 'were' for all subjects in careful English: 'I wish it were', not 'I wish it was'."
+    },
+    {
+      "text": "He carried himself as though he {1} the rightful heir to the entire estate.",
+      "blanks": [
+        { "cue": "be", "answer": ["were"], "hint": "'as though' + unreal situation = 'were'" }
+      ],
+      "explanation": "'As if/as though' describing an unreal or contrary-to-fact comparison takes the subjunctive 'were'. (When the situation is presented as possibly true, 'was' is acceptable, but the counterfactual reading here calls for 'were'.)"
+    },
+    {
+      "text": "She spoke softly {1} the children sleeping in the next room be woken.",
+      "blanks": [
+        { "cue": "conj. of negative purpose", "answer": ["lest"], "hint": "archaic-formal 'for fear that'; followed by the subjunctive" }
+      ],
+      "explanation": "'Lest' means 'in order that...not' / 'for fear that' and governs the bare subjunctive: 'lest...be woken'. It belongs to elevated written register and needs no further negative."
+    },
+    {
+      "text": "The deadline is unworkable; {1} that as it may, we are contractually bound to meet it.",
+      "blanks": [
+        { "cue": "be", "answer": ["Be"], "hint": "fixed concessive formula; capitalised here at sentence start" }
+      ],
+      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb stays 'be'; capitalise it as it opens the clause after the semicolon-led sentence segment."
+    },
+    {
+      "text": "{1} you require any further assistance, please do not hesitate to contact our office.",
+      "blanks": [
+        { "cue": "should", "answer": ["Should"], "hint": "inverted formal conditional replacing 'if you should'" }
+      ],
+      "explanation": "Inverting 'should' to the front of the clause ('Should you require...') is a formal, often commercial, equivalent of 'If you should require...'. The subject and 'should' swap places and 'if' is dropped. Capitalised as it begins the sentence."
+    },
+    {
+      "text": "The court ruled that the contested clause {1} struck from the agreement forthwith.",
+      "blanks": [
+        { "cue": "be", "answer": ["be"], "hint": "mandative subjunctive after a verb of ruling/ordering" }
+      ],
+      "explanation": "Verbs of ordering and adjudicating ('rule/order/decree that') take the mandative subjunctive: 'the clause be struck', a passive base form rather than 'is struck' or 'was struck'."
+    },
+    {
+      "text": "Come what {1}, the festival will go ahead exactly as planned.",
+      "blanks": [
+        { "cue": "may", "answer": ["may"], "hint": "fixed concessive subjunctive idiom" }
+      ],
+      "explanation": "'Come what may' is a fossilised subjunctive meaning 'whatever happens'. The inverted 'come' is itself a subjunctive; the phrase is invariable and emphatic."
+    }
+  ]
+}

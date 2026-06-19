@@ -1,10 +1,10 @@
 {
   "id": "en-verbs-future-will",
   "lang": "en",
-  "topic": "verb-tenses",
+  "topic": "future-forms",
   "level": "A2",
-  "title": "Future with 'will': write the correct form",
-  "lesson": "Use 'will' + the base verb for predictions, on-the-spot decisions, offers, and promises. The form is the same for every subject (I will, she will), and the negative is 'will not', contracted to 'won't'.",
+  "title": "The future: write the correct form",
+  "lesson": "Use 'will' + the base verb for predictions, on-the-spot decisions, offers, and promises. The form is the same for every subject (I will, she will), and the negative is 'will not', contracted to 'won't'. For plans and intentions already decided, use 'be going to' + base verb (I'm going to study).",
   "type": "fill",
   "items": [
     {
@@ -31,6 +31,36 @@
       "text": "We {1} you tomorrow.",
       "blanks": [{ "cue": "help", "answer": ["will help", "'ll help"] }],
       "explanation": "Offers and future actions use will + base verb: will help."
+    },
+    {
+      "text": "The phone is ringing. I {1} it.",
+      "blanks": [{ "cue": "answer", "answer": ["will answer", "'ll answer"] }],
+      "explanation": "An on-the-spot decision made at the moment of speaking uses will + base verb: will answer."
+    },
+    {
+      "text": "Don't worry, I {1} your secret.",
+      "blanks": [{ "cue": "not tell", "answer": ["won't tell", "will not tell"] }],
+      "explanation": "A promise not to do something uses the negative future: won't / will not + base verb."
+    },
+    {
+      "text": "Look at those dark clouds! It {1}.",
+      "blanks": [{ "cue": "be going to rain", "answer": ["is going to rain", "'s going to rain"] }],
+      "explanation": "When there is present evidence for a prediction, we use 'be going to' + base verb: it is going to rain."
+    },
+    {
+      "text": "She has bought her ticket. She {1} Spain next week.",
+      "blanks": [{ "cue": "be going to visit", "answer": ["is going to visit", "'s going to visit"] }],
+      "explanation": "A plan already decided uses 'be going to' + base verb: she is going to visit."
+    },
+    {
+      "text": "We {1} a new car next year.",
+      "blanks": [{ "cue": "be going to buy", "answer": ["are going to buy", "'re going to buy"] }],
+      "explanation": "An intention or plan uses 'be going to' + base verb: we are going to buy."
+    },
+    {
+      "text": "I think our team {1} the match.",
+      "blanks": [{ "cue": "win", "answer": ["will win", "'ll win"] }],
+      "explanation": "An opinion or prediction with 'I think' uses will + base verb: will win."
     }
   ]
 }

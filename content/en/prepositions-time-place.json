@@ -62,6 +62,38 @@
         { "answer": "in", "options": ["in", "on", "at"], "hint": "seasons" }
       ],
       "explanation": "'In the park' (area); 'on a cold day' (a specific day); 'in winter' (seasons take 'in')."
+    },
+    {
+      "text": "I usually wake up early {1} the morning, but I sleep late {2} night.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "parts of the day" },
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "an exception" }
+      ],
+      "explanation": "Parts of the day take 'in' (in the morning), but 'night' is an exception: at night."
+    },
+    {
+      "text": "My grandmother lives {1} a small village {2} the coast.",
+      "blanks": [
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "towns and villages" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a line or edge" }
+      ],
+      "explanation": "Towns and villages take 'in' (in a village); 'on the coast' uses 'on' for a line or edge."
+    },
+    {
+      "text": "The shop closes {1} the weekend and reopens {2} Monday.",
+      "blanks": [
+        { "answer": "at", "options": ["in", "on", "at"], "hint": "British English for weekends" },
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "days of the week" }
+      ],
+      "explanation": "'At the weekend' is the standard British phrase; days of the week take 'on' (on Monday)."
+    },
+    {
+      "text": "There is a beautiful picture {1} the wall {2} my bedroom.",
+      "blanks": [
+        { "answer": "on", "options": ["in", "on", "at"], "hint": "a surface" },
+        { "answer": "in", "options": ["in", "on", "at"], "hint": "an enclosed space" }
+      ],
+      "explanation": "A picture sits on a surface (on the wall), inside an enclosed space (in my bedroom)."
     }
   ]
 }

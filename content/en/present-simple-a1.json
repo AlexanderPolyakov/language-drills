@@ -1,0 +1,71 @@
+{
+  "id": "en-present-simple-a1",
+  "lang": "en",
+  "topic": "present-simple",
+  "level": "A1",
+  "type": "fill",
+  "title": "Present simple: everyday verbs and 'be'",
+  "lesson": "In the present simple, the verb stays the same except with he, she, or it, where we add -s (work → works). Verbs ending in -o, -ch, -sh, -s, or -x add -es (go → goes, watch → watches). The verb 'be' is special: I am, he/she/it is, you/we/they are.",
+  "items": [
+    {
+      "text": "I {1} in an office.",
+      "blanks": [{ "cue": "work", "answer": ["work"], "hint": "no -s with 'I'" }],
+      "explanation": "With 'I' the verb has no -s: I work."
+    },
+    {
+      "text": "She {1} to school every day.",
+      "blanks": [{ "cue": "go", "answer": ["goes"], "hint": "third person, verb ends in -o" }],
+      "explanation": "With 'she', verbs ending in -o add -es: go → goes."
+    },
+    {
+      "text": "He {1} TV in the evening.",
+      "blanks": [{ "cue": "watch", "answer": ["watches"], "hint": "third person, verb ends in -ch" }],
+      "explanation": "With 'he', verbs ending in -ch add -es: watch → watches."
+    },
+    {
+      "text": "We {1} football on Sundays.",
+      "blanks": [{ "cue": "play", "answer": ["play"], "hint": "no -s with 'we'" }],
+      "explanation": "With 'we' the verb has no -s: we play."
+    },
+    {
+      "text": "My sister {1} English very well.",
+      "blanks": [{ "cue": "speak", "answer": ["speaks"], "hint": "third person -s" }],
+      "explanation": "With 'my sister' (= she) the verb adds -s: speaks."
+    },
+    {
+      "text": "I {1} a student.",
+      "blanks": [{ "cue": "be", "answer": ["am", "'m"], "hint": "the verb 'be' with 'I'" }],
+      "explanation": "The verb 'be' with 'I' is 'am': I am a student."
+    },
+    {
+      "text": "He {1} my best friend.",
+      "blanks": [{ "cue": "be", "answer": ["is", "'s"], "hint": "the verb 'be' with 'he'" }],
+      "explanation": "The verb 'be' with 'he' is 'is': He is my best friend."
+    },
+    {
+      "text": "They {1} at home now.",
+      "blanks": [{ "cue": "be", "answer": ["are", "'re"], "hint": "the verb 'be' with 'they'" }],
+      "explanation": "The verb 'be' with 'they' is 'are': They are at home."
+    },
+    {
+      "text": "The baby {1} a lot at night.",
+      "blanks": [{ "cue": "cry", "answer": ["cries"], "hint": "consonant + y becomes -ies" }],
+      "explanation": "With 'the baby' (= it), a consonant + y becomes -ies: cry → cries."
+    },
+    {
+      "text": "You {1} coffee in the morning.",
+      "blanks": [{ "cue": "drink", "answer": ["drink"], "hint": "no -s with 'you'" }],
+      "explanation": "With 'you' the verb has no -s: you drink."
+    },
+    {
+      "text": "My father {1} a car to work.",
+      "blanks": [{ "cue": "drive", "answer": ["drives"], "hint": "third person -s" }],
+      "explanation": "With 'my father' (= he) the verb adds -s: drives."
+    },
+    {
+      "text": "We {1} a small house.",
+      "blanks": [{ "cue": "have", "answer": ["have"], "hint": "no -s with 'we'" }],
+      "explanation": "With 'we' the verb has no -s: we have. (Note: with he/she/it, 'have' becomes 'has'.)"
+    }
+  ]
+}

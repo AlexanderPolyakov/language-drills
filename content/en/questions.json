@@ -36,6 +36,31 @@
       "prompt": "They are playing football. (ask: What?)",
       "answer": ["What are they playing?"],
       "explanation": "Present continuous wh- question: What + are + subject + -ing form."
+    },
+    {
+      "prompt": "You like pizza. (yes/no question)",
+      "answer": ["Do you like pizza?"],
+      "explanation": "Present simple questions use do/does + base verb; with 'you' the auxiliary is 'do': 'Do you like…?'."
+    },
+    {
+      "prompt": "He has a car. (yes/no question)",
+      "answer": ["Does he have a car?"],
+      "explanation": "In the present simple, 'has' becomes 'does + have': 'Does he have…?'."
+    },
+    {
+      "prompt": "The film starts at eight. (ask: When?)",
+      "answer": ["When does the film start?"],
+      "explanation": "Wh- question: question word + does + subject + base verb (starts → does … start)."
+    },
+    {
+      "prompt": "They went home early. (ask: Why?)",
+      "answer": ["Why did they go home early?"],
+      "explanation": "Past simple wh- question: Why + did + subject + base verb (went → did … go)."
+    },
+    {
+      "prompt": "She is reading a book. (ask: What?)",
+      "answer": ["What is she reading?"],
+      "explanation": "Present continuous wh- question: What + is + subject + -ing form."
     }
   ]
 }

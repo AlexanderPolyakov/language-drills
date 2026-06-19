@@ -1,7 +1,7 @@
 {
   "id": "en-verbs-past-simple",
   "lang": "en",
-  "topic": "verb-tenses",
+  "topic": "past-simple",
   "level": "A2",
   "type": "fill",
   "title": "Past simple: write the correct form",
@@ -31,6 +31,36 @@
       "text": "We {1} French at school.",
       "blanks": [{ "cue": "study", "answer": ["studied"] }],
       "explanation": "A consonant + y becomes -ied: study → studied."
+    },
+    {
+      "text": "The bus {1} suddenly.",
+      "blanks": [{ "cue": "stop", "answer": ["stopped"] }],
+      "explanation": "A short vowel + single consonant doubles the consonant before -ed: stop → stopped."
+    },
+    {
+      "text": "We {1} a great film last night.",
+      "blanks": [{ "cue": "see", "answer": ["saw"] }],
+      "explanation": "'see' is irregular: see → saw."
+    },
+    {
+      "text": "She {1} a letter to her friend.",
+      "blanks": [{ "cue": "write", "answer": ["wrote"] }],
+      "explanation": "'write' is irregular: write → wrote."
+    },
+    {
+      "text": "They {1} pizza for dinner.",
+      "blanks": [{ "cue": "eat", "answer": ["ate"] }],
+      "explanation": "'eat' is irregular: eat → ate."
+    },
+    {
+      "text": "He {1} the answer.",
+      "blanks": [{ "cue": "not know", "answer": ["didn't know", "did not know"] }],
+      "explanation": "Past negatives use did + not + base verb: didn't know."
+    },
+    {
+      "text": "The children {1} in the garden all afternoon.",
+      "blanks": [{ "cue": "play", "answer": ["played"] }],
+      "explanation": "A vowel + y just adds -ed (no spelling change): play → played."
     }
   ]
 }

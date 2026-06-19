@@ -1,0 +1,71 @@
+{
+  "id": "en-inversion-c1",
+  "lang": "en",
+  "topic": "inversion",
+  "level": "C1",
+  "type": "transform",
+  "title": "Inversion after negative and restrictive adverbials",
+  "lesson": "When a negative or restrictive adverbial is fronted for emphasis, the subject and (auxiliary) verb invert, just as in a question: 'Never have I seen such a mess.' If there is no auxiliary, add a form of 'do': 'Rarely did she complain.' This applies to 'never', 'rarely', 'seldom', 'little', 'hardly/scarcely ... when', 'no sooner ... than', 'not only ... but also', 'only after/when/then', and 'not until'. With 'not only', invert the first clause but keep normal order in the 'but also' clause. With 'hardly ... when' and 'no sooner ... than', the earlier event takes the past perfect.",
+  "items": [
+    {
+      "prompt": "I have never seen such a beautiful sunset. (begin with 'Never')",
+      "answer": ["Never have I seen such a beautiful sunset."],
+      "explanation": "Fronting the negative adverb 'never' forces subject-auxiliary inversion: the auxiliary 'have' comes before the subject 'I', exactly as in a question."
+    },
+    {
+      "prompt": "She had hardly sat down when the phone rang. (begin with 'Hardly')",
+      "answer": ["Hardly had she sat down when the phone rang."],
+      "explanation": "'Hardly' fronted triggers inversion of the past perfect: 'had she sat down'. The 'hardly ... when' pattern pairs the past perfect (earlier action) with the past simple ('rang')."
+    },
+    {
+      "prompt": "He had no sooner arrived than he was asked to leave. (begin with 'No sooner')",
+      "answer": ["No sooner had he arrived than he was asked to leave."],
+      "explanation": "'No sooner' is followed by inverted past perfect ('had he arrived') and is completed by 'than' (not 'when'): 'No sooner had he arrived than ...'"
+    },
+    {
+      "prompt": "The manager not only apologised but also offered a refund. (begin with 'Not only')",
+      "answer": ["Not only did the manager apologise but also offered a refund.", "Not only did the manager apologise but he also offered a refund."],
+      "explanation": "Fronted 'Not only' needs inversion; with no auxiliary present, insert 'did' + bare infinitive: 'did the manager apologise'. The 'but also' clause keeps normal word order."
+    },
+    {
+      "prompt": "We rarely realise how lucky we are. (begin with 'Rarely')",
+      "answer": ["Rarely do we realise how lucky we are."],
+      "explanation": "The restrictive adverb 'rarely' fronted requires inversion. As there is no auxiliary, add 'do': 'do we realise'."
+    },
+    {
+      "prompt": "I little knew what awaited me. (begin with 'Little')",
+      "answer": ["Little did I know what awaited me."],
+      "explanation": "Fronted 'Little' (in the sense of 'not at all') triggers inversion. With the past simple and no auxiliary, use 'did' + bare infinitive: 'did I know'."
+    },
+    {
+      "prompt": "She understood the full danger only after she had left. (begin with 'Only after')",
+      "answer": ["Only after she had left did she understand the full danger."],
+      "explanation": "With 'Only after + clause' fronted, the inversion happens in the MAIN clause, not the time clause: 'did she understand'. The subordinate clause 'she had left' keeps normal order."
+    },
+    {
+      "prompt": "He didn't apologise until everyone had gone. (begin with 'Not until')",
+      "answer": ["Not until everyone had gone did he apologise."],
+      "explanation": "'Not until + clause' fronted causes inversion in the main clause: 'did he apologise'. The negation moves to the front, so the main verb becomes affirmative."
+    },
+    {
+      "prompt": "You will succeed only if you work hard. (begin with 'Only if')",
+      "answer": ["Only if you work hard will you succeed."],
+      "explanation": "After a fronted 'Only if + clause', invert the main clause: 'will you succeed'. The conditional clause itself stays in normal order."
+    },
+    {
+      "prompt": "I have seldom met a more generous person. (begin with 'Seldom')",
+      "answer": ["Seldom have I met a more generous person."],
+      "explanation": "Fronted 'Seldom' demands inversion of the present perfect auxiliary: 'have I met'."
+    },
+    {
+      "prompt": "The truth did not emerge until much later. (begin with 'Not until')",
+      "answer": ["Not until much later did the truth emerge."],
+      "explanation": "'Not until + time phrase' fronted triggers inversion with 'did': 'did the truth emerge'. The negation is carried by 'Not until', so the verb is affirmative."
+    },
+    {
+      "prompt": "At no point did she lose her composure. (rewrite without inversion, beginning 'She')",
+      "answer": ["She did not lose her composure at any point.", "She didn't lose her composure at any point."],
+      "explanation": "Reversing the process: the fronted negative 'At no point' caused inversion. Returning to normal order, the negation reattaches to the verb ('did not lose') and 'no point' becomes 'any point'."
+    }
+  ]
+}

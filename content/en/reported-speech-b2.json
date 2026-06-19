@@ -1,0 +1,71 @@
+{
+  "id": "en-reported-speech-b2",
+  "lang": "en",
+  "topic": "reported-speech",
+  "level": "B2",
+  "type": "transform",
+  "title": "Reported speech",
+  "lesson": "When we report what someone said, the tense usually shifts back one step (present simple to past simple, present perfect and past simple to past perfect, will to would, can to could). Pronouns change to match the new speaker's point of view, and time/place words shift too (now to then, today to that day, tomorrow to the next day, here to there). Reported questions use statement word order with no question mark, using 'if/whether' for yes/no questions. Reported commands use 'tell/ask someone to do' something.",
+  "items": [
+    {
+      "prompt": "\"I am tired,\" she said. (reported speech)",
+      "answer": ["She said (that) she was tired.", "She said that she was tired.", "She said she was tired."],
+      "explanation": "Present simple 'am' backshifts to past simple 'was', and 'I' becomes 'she'."
+    },
+    {
+      "prompt": "\"We have finished the project,\" they told me. (reported speech)",
+      "answer": ["They told me (that) they had finished the project.", "They told me that they had finished the project.", "They told me they had finished the project."],
+      "explanation": "Present perfect 'have finished' backshifts to past perfect 'had finished', and 'we' becomes 'they'."
+    },
+    {
+      "prompt": "\"I will call you tomorrow,\" he said. (reported speech)",
+      "answer": ["He said (that) he would call me the next day.", "He said that he would call me the next day.", "He said he would call me the next day.", "He said (that) he would call me the following day.", "He said he would call me the following day."],
+      "explanation": "'Will' backshifts to 'would', 'you' becomes 'me', and 'tomorrow' becomes 'the next day' / 'the following day'."
+    },
+    {
+      "prompt": "\"I saw her yesterday,\" Tom said. (reported speech)",
+      "answer": ["Tom said (that) he had seen her the day before.", "Tom said that he had seen her the day before.", "Tom said he had seen her the day before.", "Tom said (that) he had seen her the previous day.", "Tom said he had seen her the previous day."],
+      "explanation": "Past simple 'saw' backshifts to past perfect 'had seen', and 'yesterday' becomes 'the day before' / 'the previous day'."
+    },
+    {
+      "prompt": "\"I can swim very well,\" the boy said. (reported speech)",
+      "answer": ["The boy said (that) he could swim very well.", "The boy said that he could swim very well.", "The boy said he could swim very well."],
+      "explanation": "The modal 'can' backshifts to 'could', and 'I' becomes 'he'."
+    },
+    {
+      "prompt": "\"I am working hard today,\" she said. (reported speech)",
+      "answer": ["She said (that) she was working hard that day.", "She said that she was working hard that day.", "She said she was working hard that day."],
+      "explanation": "Present continuous 'am working' backshifts to past continuous 'was working', and 'today' becomes 'that day'."
+    },
+    {
+      "prompt": "\"Where do you live?\" she asked me. (reported question)",
+      "answer": ["She asked me where I lived.", "She asked where I lived."],
+      "explanation": "Reported questions use statement word order (no auxiliary 'do' and no question mark); 'live' backshifts to 'lived'."
+    },
+    {
+      "prompt": "\"Have you seen my keys?\" he asked. (reported question)",
+      "answer": ["He asked if I had seen his keys.", "He asked whether I had seen his keys."],
+      "explanation": "Yes/no questions are reported with 'if' or 'whether'; present perfect 'have seen' backshifts to 'had seen' and 'my' becomes 'his'."
+    },
+    {
+      "prompt": "\"Are you coming to the party?\" she asked him. (reported question)",
+      "answer": ["She asked him if he was coming to the party.", "She asked him whether he was coming to the party."],
+      "explanation": "The yes/no question uses 'if/whether' with statement word order; 'are you coming' becomes 'he was coming'."
+    },
+    {
+      "prompt": "\"Close the window, please,\" she said to him. (reported command)",
+      "answer": ["She asked him to close the window.", "She told him to close the window."],
+      "explanation": "Reported requests and commands use 'ask/tell someone to do' something; the imperative becomes a to-infinitive."
+    },
+    {
+      "prompt": "\"Don't touch the stove,\" the mother said to the child. (reported command)",
+      "answer": ["The mother told the child not to touch the stove.", "The mother asked the child not to touch the stove."],
+      "explanation": "Negative commands are reported with 'not to do' something after 'tell/ask someone'."
+    },
+    {
+      "prompt": "\"I went to the doctor last week,\" he said. (reported speech)",
+      "answer": ["He said (that) he had gone to the doctor the week before.", "He said that he had gone to the doctor the week before.", "He said he had gone to the doctor the week before.", "He said (that) he had gone to the doctor the previous week.", "He said he had gone to the doctor the previous week."],
+      "explanation": "Past simple 'went' backshifts to past perfect 'had gone', and 'last week' becomes 'the week before' / 'the previous week'."
+    }
+  ]
+}

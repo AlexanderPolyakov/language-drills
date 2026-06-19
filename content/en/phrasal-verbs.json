@@ -60,6 +60,41 @@
         { "answer": "handed in", "options": ["handed in", "handed out", "handed back"], "hint": "submit to someone in authority" }
       ],
       "explanation": "'fill in' = complete a form; 'look over' = review; 'hand in' = submit to someone above you."
+    },
+    {
+      "text": "Don't forget to {1} the lights when you leave the room.",
+      "blanks": [
+        { "answer": "turn off", "options": ["turn off", "turn up", "turn down"], "hint": "stop a device working" }
+      ],
+      "explanation": "'turn off' means to switch off a light or machine. With a full noun object you can say 'turn off the lights' or 'turn the lights off'."
+    },
+    {
+      "text": "I can't make {1} what this sign says; the writing is too faint.",
+      "blanks": [
+        { "answer": "out", "options": ["out", "up", "over"], "hint": "manage to see or understand" }
+      ],
+      "explanation": "'make out' means to manage to see, hear or understand something with difficulty."
+    },
+    {
+      "text": "The negotiations finally {1} after months of disagreement, and both sides signed the deal.",
+      "blanks": [
+        { "answer": "worked out", "options": ["worked out", "worked up", "worked off"], "hint": "end successfully" }
+      ],
+      "explanation": "'work out' (intransitive here) means to develop in a successful way or end well."
+    },
+    {
+      "text": "She {1} the meeting because too many people were ill.",
+      "blanks": [
+        { "answer": "called off", "options": ["called off", "called up", "called on"], "hint": "cancel an event" }
+      ],
+      "explanation": "'call off' means to cancel a planned event. With a full noun you can say 'called off the meeting' or 'called the meeting off'."
+    },
+    {
+      "text": "We need to {1} the broken heater before winter arrives.",
+      "blanks": [
+        { "answer": "sort out", "options": ["sort out", "sort through", "sort after"], "hint": "fix or deal with a problem" }
+      ],
+      "explanation": "'sort out' means to resolve or deal with a problem; 'sort out the heater' or 'sort the heater out' are both correct."
     }
   ]
 }

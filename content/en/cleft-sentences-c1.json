@@ -1,0 +1,71 @@
+{
+  "id": "en-cleft-sentences-c1",
+  "lang": "en",
+  "topic": "cleft-sentences",
+  "level": "C1",
+  "type": "transform",
+  "title": "Cleft sentences: it-clefts and wh-clefts",
+  "lesson": "Clefts split one clause into two to emphasise a particular element. An IT-CLEFT highlights a noun, phrase or adverbial: 'It was John who broke the window' (emphasis on John). The structure is 'It + be + emphasised part + that/who + rest'. A WH-CLEFT (pseudo-cleft) usually foregrounds an action or thing using 'what', and the focus comes at the end: 'What I need is a holiday.' Related framing devices include 'The reason (why) ... is that ...', 'The thing that ... is ...', and 'The place where ... is ...'. Use 'who' for people in it-clefts (or 'that'); the verb 'be' agrees with the original tense.",
+  "items": [
+    {
+      "prompt": "John broke the window. (emphasise 'John' with an it-cleft)",
+      "answer": ["It was John who broke the window.", "It was John that broke the window."],
+      "explanation": "An it-cleft fronts the focus: 'It was John' + relative clause 'who/that broke the window'. Use 'who' (or 'that') because John is a person."
+    },
+    {
+      "prompt": "We met in Paris in 1998. (emphasise 'in Paris' with an it-cleft)",
+      "answer": ["It was in Paris that we met in 1998."],
+      "explanation": "To highlight an adverbial of place, the it-cleft uses 'that' (not 'where'): 'It was in Paris that we met'."
+    },
+    {
+      "prompt": "The noise kept me awake. (emphasise 'the noise' with an it-cleft)",
+      "answer": ["It was the noise that kept me awake."],
+      "explanation": "The subject 'the noise' is emphasised: 'It was the noise that kept me awake.' For a non-human subject, the relative pronoun is 'that' (or 'which')."
+    },
+    {
+      "prompt": "I admire her honesty most of all. (emphasise 'her honesty' with an it-cleft)",
+      "answer": ["It is her honesty that I admire most of all.", "It is her honesty that I admire the most."],
+      "explanation": "The object 'her honesty' is foregrounded: 'It is her honesty that I admire ...'. The present tense 'is' matches the original present 'admire'."
+    },
+    {
+      "prompt": "I need a long holiday. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I need is a long holiday."],
+      "explanation": "A wh-cleft moves the focus to the end: 'What I need is a long holiday.' The 'what' clause acts as the subject and 'be' links it to the emphasised element."
+    },
+    {
+      "prompt": "She really wants some peace and quiet. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What she really wants is some peace and quiet."],
+      "explanation": "The wh-cleft 'What she really wants is ...' isolates and emphasises the thing wanted, placing it in end-focus position after 'is'."
+    },
+    {
+      "prompt": "He resigned because he had lost all motivation. (rewrite beginning 'The reason')",
+      "answer": ["The reason (why) he resigned was that he had lost all motivation.", "The reason why he resigned was that he had lost all motivation.", "The reason he resigned was that he had lost all motivation."],
+      "explanation": "The 'The reason (why) ... is/was that ...' frame emphasises a cause. The complement clause is introduced by 'that', and 'was' matches the past narrative."
+    },
+    {
+      "prompt": "I love the simplicity of this design. (rewrite beginning 'The thing that')",
+      "answer": ["The thing that I love about this design is its simplicity.", "The thing I love about this design is its simplicity."],
+      "explanation": "'The thing that ... is ...' is a wh-type cleft using 'the thing' instead of 'what'. The emphasised element 'its simplicity' takes end-focus."
+    },
+    {
+      "prompt": "First switch off the power. (rewrite as a wh-cleft beginning 'What you should do first')",
+      "answer": ["What you should do first is switch off the power.", "What you should do first is to switch off the power."],
+      "explanation": "Action-focus wh-clefts use 'do': 'What you should do first is (to) switch off the power.' The infinitive may appear with or without 'to'."
+    },
+    {
+      "prompt": "We first realised the problem then. (emphasise 'then' with an it-cleft beginning 'It was')",
+      "answer": ["It was then that we first realised the problem."],
+      "explanation": "Time adverbials are emphasised with 'It was + time + that': 'It was then that we first realised the problem.' Note 'that', not 'when', after the cleft."
+    },
+    {
+      "prompt": "Money doesn't make people happy; relationships do. (emphasise 'relationships' beginning 'It is')",
+      "answer": ["It is relationships that make people happy, not money.", "It is relationships, not money, that make people happy."],
+      "explanation": "The it-cleft contrasts a corrected focus: 'It is relationships that make people happy, not money.' The verb agrees with the original ('make')."
+    },
+    {
+      "prompt": "I most appreciate your patience. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I most appreciate is your patience.", "What I appreciate most is your patience."],
+      "explanation": "The wh-cleft 'What I most appreciate is ...' places 'your patience' in the emphatic end position after the linking verb 'is'."
+    }
+  ]
+}

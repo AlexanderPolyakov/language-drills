@@ -1,0 +1,95 @@
+{
+  "id": "en-gerunds-infinitives-b2",
+  "lang": "en",
+  "topic": "gerunds-infinitives",
+  "level": "B2",
+  "type": "fill",
+  "title": "Gerunds and infinitives",
+  "lesson": "Some verbs are followed by the -ing form (enjoy doing, finish doing), others by the to-infinitive (want to do, decide to do). A few verbs change meaning with each form: 'stop doing' means quit an activity, but 'stop to do' means pause in order to do something; 'remember/forget doing' looks back at the past, while 'remember/forget to do' looks forward to a duty. After a preposition, always use the gerund (good at swimming, interested in learning).",
+  "items": [
+    {
+      "text": "I really enjoy {1} long novels on rainy afternoons.",
+      "blanks": [
+        { "cue": "read", "answer": ["reading"], "hint": "enjoy + -ing" }
+      ],
+      "explanation": "'Enjoy' is always followed by the gerund (-ing form), never the infinitive."
+    },
+    {
+      "text": "She has decided {1} abroad for a year before university.",
+      "blanks": [
+        { "cue": "study", "answer": ["to study"], "hint": "decide + to-infinitive" }
+      ],
+      "explanation": "'Decide' is followed by the to-infinitive."
+    },
+    {
+      "text": "On the way home he stopped {1} a coffee at his favourite cafe.",
+      "blanks": [
+        { "cue": "buy", "answer": ["to buy"], "hint": "stop in order to do something" }
+      ],
+      "explanation": "'Stop to do' means to pause one activity in order to do something else; here he paused his journey in order to buy a coffee."
+    },
+    {
+      "text": "The doctor told him he should stop {1} if he wanted to feel healthier.",
+      "blanks": [
+        { "cue": "smoke", "answer": ["smoking"], "hint": "stop = quit the activity" }
+      ],
+      "explanation": "'Stop doing' means to quit or give up an activity; he should give up the habit of smoking."
+    },
+    {
+      "text": "I distinctly remember {1} the door before we left the house.",
+      "blanks": [
+        { "cue": "lock", "answer": ["locking"], "hint": "remember a past action" }
+      ],
+      "explanation": "'Remember doing' refers to a memory of a past action — he recalls that he did lock the door."
+    },
+    {
+      "text": "Please remember {1} the report before you leave the office tonight.",
+      "blanks": [
+        { "cue": "send", "answer": ["to send"], "hint": "remember a future duty" }
+      ],
+      "explanation": "'Remember to do' refers to not forgetting a future task or duty."
+    },
+    {
+      "text": "I'll never forget {1} the Alps for the first time as a child.",
+      "blanks": [
+        { "cue": "see", "answer": ["seeing"], "hint": "forget + -ing for a memory" }
+      ],
+      "explanation": "'Forget doing' refers to a past experience that one remembers (or, in the negative, will never forget)."
+    },
+    {
+      "text": "He's very good at {1} problems that nobody else can solve.",
+      "blanks": [
+        { "cue": "solve", "answer": ["solving"], "hint": "preposition 'at' + gerund" }
+      ],
+      "explanation": "After a preposition such as 'at', the verb must take the gerund form."
+    },
+    {
+      "text": "We're really looking forward to {1} you again next summer.",
+      "blanks": [
+        { "cue": "see", "answer": ["seeing"], "hint": "'to' here is a preposition" }
+      ],
+      "explanation": "In 'look forward to', the word 'to' is a preposition, so it is followed by the gerund, not the bare infinitive."
+    },
+    {
+      "text": "They finally managed {1} the contract after months of negotiation.",
+      "blanks": [
+        { "cue": "sign", "answer": ["to sign"], "hint": "manage + to-infinitive" }
+      ],
+      "explanation": "'Manage' (to succeed in doing something difficult) is followed by the to-infinitive."
+    },
+    {
+      "text": "She apologised for {1} late and promised it wouldn't happen again.",
+      "blanks": [
+        { "cue": "arrive", "answer": ["arriving"], "hint": "preposition 'for' + gerund" }
+      ],
+      "explanation": "After the preposition 'for' (apologise for), the verb takes the gerund form."
+    },
+    {
+      "text": "I can't help {1} that something is wrong with the engine.",
+      "blanks": [
+        { "cue": "feel", "answer": ["feeling"], "hint": "can't help + -ing" }
+      ],
+      "explanation": "'Can't help doing' is a fixed expression meaning to be unable to stop yourself; it is always followed by the gerund."
+    }
+  ]
+}
