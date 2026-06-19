@@ -5,163 +5,163 @@
   "level": "A2",
   "type": "fill",
   "title": "L'accord des adjectifs",
-  "lesson": "En français, l'adjectif s'accorde en genre (masculin/féminin) et en nombre (singulier/pluriel) avec le nom. Cas régulier : grand, grande, grands, grandes. On ajoute -e au féminin et -s au pluriel. Adjectifs irréguliers fréquents : beau/belle, nouveau/nouvelle, blanc/blanche, heureux/heureuse, vieux/vieille. Au pluriel : beaux, nouveaux, blancs/blanches, heureux (invariable au masculin pluriel), vieux.",
+  "lesson": "In French, the adjective agrees in gender (masculine/feminine) and number (singular/plural) with the noun. Regular case: grand, grande, grands, grandes. You add -e for the feminine and -s for the plural. Common irregular adjectives: beau/belle, nouveau/nouvelle, blanc/blanche, heureux/heureuse, vieux/vieille. In the plural: beaux, nouveaux, blancs/blanches, heureux (invariable in the masculine plural), vieux.",
   "items": [
     {
       "text": "C'est une {1} maison. (grand)",
       "blanks": [
         {
-          "cue": "grand → féminin singulier",
+          "cue": "grand → feminine singular",
           "answer": [
             "grande"
           ],
-          "hint": "féminin : +e"
+          "hint": "feminine: +e"
         }
       ],
-      "explanation": "Maison est féminin singulier, donc grand → grande (on ajoute -e)."
+      "explanation": "Maison is feminine singular, so grand → grande (you add -e)."
     },
     {
       "text": "Ce sont des livres {1}. (intéressant)",
       "blanks": [
         {
-          "cue": "intéressant → masculin pluriel",
+          "cue": "intéressant → masculine plural",
           "answer": [
             "intéressants"
           ],
-          "hint": "masculin pluriel : +s"
+          "hint": "masculine plural: +s"
         }
       ],
-      "explanation": "Livres est masculin pluriel, donc intéressant → intéressants (on ajoute -s)."
+      "explanation": "Livres is masculine plural, so intéressant → intéressants (you add -s)."
     },
     {
       "text": "Les voitures sont {1}. (petit)",
       "blanks": [
         {
-          "cue": "petit → féminin pluriel",
+          "cue": "petit → feminine plural",
           "answer": [
             "petites"
           ],
-          "hint": "féminin pluriel : +es"
+          "hint": "feminine plural: +es"
         }
       ],
-      "explanation": "Voitures est féminin pluriel : petit → petite → petites (féminin -e + pluriel -s)."
+      "explanation": "Voitures is feminine plural: petit → petite → petites (feminine -e + plural -s)."
     },
     {
       "text": "Elle porte une {1} robe. (beau)",
       "blanks": [
         {
-          "cue": "beau → féminin singulier",
+          "cue": "beau → feminine singular",
           "answer": [
             "belle"
           ],
-          "hint": "adjectif irrégulier"
+          "hint": "irregular adjective"
         }
       ],
-      "explanation": "Beau est irrégulier : son féminin est belle. Robe est féminin singulier."
+      "explanation": "Beau is irregular: its feminine form is belle. Robe is feminine singular."
     },
     {
       "text": "Nous avons une {1} voiture. (nouveau)",
       "blanks": [
         {
-          "cue": "nouveau → féminin singulier",
+          "cue": "nouveau → feminine singular",
           "answer": [
             "nouvelle"
           ],
-          "hint": "adjectif irrégulier"
+          "hint": "irregular adjective"
         }
       ],
-      "explanation": "Nouveau est irrégulier : son féminin est nouvelle. Voiture est féminin singulier."
+      "explanation": "Nouveau is irregular: its feminine form is nouvelle. Voiture is feminine singular."
     },
     {
       "text": "J'aime cette chemise {1}. (blanc)",
       "blanks": [
         {
-          "cue": "blanc → féminin singulier",
+          "cue": "blanc → feminine singular",
           "answer": [
             "blanche"
           ],
-          "hint": "adjectif irrégulier"
+          "hint": "irregular adjective"
         }
       ],
-      "explanation": "Blanc est irrégulier : son féminin est blanche. Chemise est féminin singulier."
+      "explanation": "Blanc is irregular: its feminine form is blanche. Chemise is feminine singular."
     },
     {
       "text": "Marie est très {1} aujourd'hui. (heureux)",
       "blanks": [
         {
-          "cue": "heureux → féminin singulier",
+          "cue": "heureux → feminine singular",
           "answer": [
             "heureuse"
           ],
-          "hint": "adjectif en -eux → -euse"
+          "hint": "adjectives ending in -eux → -euse"
         }
       ],
-      "explanation": "Les adjectifs en -eux font leur féminin en -euse : heureux → heureuse."
+      "explanation": "Adjectives ending in -eux form their feminine in -euse: heureux → heureuse."
     },
     {
       "text": "Ils ont de {1} amis. (vieux)",
       "blanks": [
         {
-          "cue": "vieux → masculin pluriel",
+          "cue": "vieux → masculine plural",
           "answer": [
             "vieux"
           ],
-          "hint": "adjectif irrégulier, invariable au masculin pluriel"
+          "hint": "irregular adjective, invariable in the masculine plural"
         }
       ],
-      "explanation": "Vieux est invariable au masculin pluriel : vieux. (Au féminin : vieille / vieilles.)"
+      "explanation": "Vieux is invariable in the masculine plural: vieux. (In the feminine: vieille / vieilles.)"
     },
     {
       "text": "Ce sont de {1} hôtels. (beau)",
       "blanks": [
         {
-          "cue": "beau → masculin pluriel",
+          "cue": "beau → masculine plural",
           "answer": [
             "beaux"
           ],
-          "hint": "beau → beaux au pluriel"
+          "hint": "beau → beaux in the plural"
         }
       ],
-      "explanation": "Au masculin pluriel, beau devient beaux (les adjectifs en -eau prennent -x)."
+      "explanation": "In the masculine plural, beau becomes beaux (adjectives ending in -eau take -x)."
     },
     {
       "text": "Les fleurs sont {1}. (blanc)",
       "blanks": [
         {
-          "cue": "blanc → féminin pluriel",
+          "cue": "blanc → feminine plural",
           "answer": [
             "blanches"
           ],
-          "hint": "féminin blanche + s"
+          "hint": "feminine blanche + s"
         }
       ],
-      "explanation": "Fleurs est féminin pluriel : blanc → blanche → blanches."
+      "explanation": "Fleurs is feminine plural: blanc → blanche → blanches."
     },
     {
       "text": "Mon frère est plus {1} que moi. (grand)",
       "blanks": [
         {
-          "cue": "grand → masculin singulier",
+          "cue": "grand → masculine singular",
           "answer": [
             "grand"
           ],
-          "hint": "masculin singulier : forme de base"
+          "hint": "masculine singular: base form"
         }
       ],
-      "explanation": "Frère est masculin singulier : l'adjectif reste à sa forme de base, grand."
+      "explanation": "Frère is masculine singular: the adjective stays in its base form, grand."
     },
     {
       "text": "Elles sont toutes {1}. (heureux)",
       "blanks": [
         {
-          "cue": "heureux → féminin pluriel",
+          "cue": "heureux → feminine plural",
           "answer": [
             "heureuses"
           ],
-          "hint": "féminin pluriel de heureux"
+          "hint": "feminine plural of heureux"
         }
       ],
-      "explanation": "Heureux au féminin singulier est heureuse, au féminin pluriel heureuses."
+      "explanation": "Heureux in the feminine singular is heureuse, and in the feminine plural heureuses."
     }
   ]
 }

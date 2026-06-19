@@ -5,7 +5,7 @@
   "level": "A1",
   "type": "fill",
   "title": "Vocabulaire : les noms courants (A1)",
-  "lesson": "Voici des noms français très courants. Tape le mot manquant ; l'indice anglais est entre parenthèses.",
+  "lesson": "Here are some very common French nouns. Type the missing word; the English clue is in parentheses.",
   "items": [
     { "text": "Nous habitons dans une grande {1}.", "blanks": [ { "cue": "house", "answer": ["maison"] } ], "explanation": "maison = house (feminine)." },
     { "text": "Le {1} dort devant la porte.", "blanks": [ { "cue": "dog", "answer": ["chien"] } ], "explanation": "chien = dog (masculine)." },
@@ -37,7 +37,7 @@
     { "text": "Nous achetons des {1} au marché.", "blanks": [ { "cue": "fruits", "answer": ["fruits"] } ], "explanation": "fruit = fruit (masculine), here plural." },
     { "text": "J'écris avec un {1}.", "blanks": [ { "cue": "pen", "answer": ["stylo"] } ], "explanation": "stylo = pen (masculine)." },
     { "text": "La {1} est dans mon sac.", "blanks": [ { "cue": "key", "answer": ["clé", "clef"] } ], "explanation": "clé = key (feminine)." },
-    { "text": "Ce {1} est très beau.", "blanks": [ { "cue": "flower", "answer": ["fleur"] } ], "explanation": "Note: 'fleur' is feminine (la fleur = the flower)." },
+    { "text": "Cette {1} est très belle.", "blanks": [ { "cue": "flower", "answer": ["fleur"] } ], "explanation": "Note: 'fleur' is feminine (la fleur = the flower), so the sentence uses 'cette' and 'belle'." },
     { "text": "Je regarde la {1} bleue.", "blanks": [ { "cue": "sea", "answer": ["mer"] } ], "explanation": "mer = sea (feminine)." },
     { "text": "Il y a un grand {1} dans le jardin.", "blanks": [ { "cue": "bird", "answer": ["oiseau"] } ], "explanation": "oiseau = bird (masculine)." },
     { "text": "Le {1} coule sous le pont.", "blanks": [ { "cue": "river", "answer": ["fleuve"] } ], "explanation": "fleuve = river (masculine)." },

@@ -5,67 +5,67 @@
   "level": "A2",
   "type": "fill",
   "title": "Le passé composé (avoir et être)",
-  "lesson": "Le passé composé se forme avec un auxiliaire au présent (avoir ou être) + le participe passé. La plupart des verbes utilisent avoir : j'ai mangé. Les verbes de mouvement et de changement d'état (aller, venir, partir, rester, arriver, entrer, etc.) utilisent être ; avec être, le participe passé s'accorde avec le sujet : elle est allée, ils sont partis, elles sont restées. Participes irréguliers fréquents : faire → fait, prendre → pris, voir → vu, avoir → eu, être → été.",
+  "lesson": "The passé composé is formed with an auxiliary in the present tense (avoir or être) + the past participle. Most verbs use avoir: j'ai mangé. Verbs of motion and change of state (aller, venir, partir, rester, arriver, entrer, etc.) use être; with être, the past participle agrees with the subject: elle est allée, ils sont partis, elles sont restées. Common irregular participles: faire → fait, prendre → pris, voir → vu, avoir → eu, être → été.",
   "items": [
     {
       "text": "Hier, j'{1} une pizza au restaurant.",
-      "blanks": [{ "cue": "manger", "answer": ["ai mangé"], "hint": "passé composé avec avoir" }],
-      "explanation": "Manger utilise l'auxiliaire avoir : j'ai mangé. Le participe passé des verbes en -er se termine par -é."
+      "blanks": [{ "cue": "manger", "answer": ["ai mangé"], "hint": "passé composé with avoir" }],
+      "explanation": "Manger uses the auxiliary avoir: j'ai mangé. The past participle of -er verbs ends in -é."
     },
     {
       "text": "Tu {1} tes devoirs ce matin.",
-      "blanks": [{ "cue": "finir", "answer": ["as fini"], "hint": "passé composé avec avoir" }],
-      "explanation": "Finir utilise avoir : tu as fini. Le participe passé des verbes en -ir réguliers se termine par -i."
+      "blanks": [{ "cue": "finir", "answer": ["as fini"], "hint": "passé composé with avoir" }],
+      "explanation": "Finir uses avoir: tu as fini. The past participle of regular -ir verbs ends in -i."
     },
     {
       "text": "Nous {1} nos valises avant de partir.",
-      "blanks": [{ "cue": "faire", "answer": ["avons fait"], "hint": "participe irrégulier de faire" }],
-      "explanation": "Faire a un participe passé irrégulier : fait. Avec avoir : nous avons fait."
+      "blanks": [{ "cue": "faire", "answer": ["avons fait"], "hint": "irregular participle of faire" }],
+      "explanation": "Faire has an irregular past participle: fait. With avoir: nous avons fait."
     },
     {
       "text": "Elle {1} le train de huit heures.",
-      "blanks": [{ "cue": "prendre", "answer": ["a pris"], "hint": "participe irrégulier de prendre" }],
-      "explanation": "Prendre a un participe passé irrégulier : pris. Avec avoir, pas d'accord avec le sujet : elle a pris."
+      "blanks": [{ "cue": "prendre", "answer": ["a pris"], "hint": "irregular participle of prendre" }],
+      "explanation": "Prendre has an irregular past participle: pris. With avoir, there is no agreement with the subject: elle a pris."
     },
     {
       "text": "Vous {1} ce film au cinéma ?",
-      "blanks": [{ "cue": "voir", "answer": ["avez vu"], "hint": "participe irrégulier de voir" }],
-      "explanation": "Voir a un participe passé irrégulier : vu. Avec avoir : vous avez vu."
+      "blanks": [{ "cue": "voir", "answer": ["avez vu"], "hint": "irregular participle of voir" }],
+      "explanation": "Voir has an irregular past participle: vu. With avoir: vous avez vu."
     },
     {
       "text": "Ils {1} beaucoup de chance cette année.",
-      "blanks": [{ "cue": "avoir", "answer": ["ont eu"], "hint": "participe irrégulier de avoir" }],
-      "explanation": "Avoir a un participe passé irrégulier : eu. L'auxiliaire est aussi avoir : ils ont eu."
+      "blanks": [{ "cue": "avoir", "answer": ["ont eu"], "hint": "irregular participle of avoir" }],
+      "explanation": "Avoir has an irregular past participle: eu. The auxiliary is also avoir: ils ont eu."
     },
     {
       "text": "Le voyage {1} très long.",
-      "blanks": [{ "cue": "être", "answer": ["a été"], "hint": "participe irrégulier de être" }],
-      "explanation": "Être a un participe passé irrégulier : été. Son auxiliaire au passé composé est avoir : il a été."
+      "blanks": [{ "cue": "être", "answer": ["a été"], "hint": "irregular participle of être" }],
+      "explanation": "Être has an irregular past participle: été. Its auxiliary in the passé composé is avoir: il a été."
     },
     {
       "text": "Marie {1} au marché ce matin. (sujet féminin)",
-      "blanks": [{ "cue": "aller", "answer": ["est allée"], "hint": "être + accord avec un sujet féminin" }],
-      "explanation": "Aller utilise l'auxiliaire être. Le participe s'accorde avec le sujet féminin singulier : Marie est allée."
+      "blanks": [{ "cue": "aller", "answer": ["est allée"], "hint": "être + agreement with a feminine subject" }],
+      "explanation": "Aller uses the auxiliary être. The participle agrees with the feminine singular subject: Marie est allée."
     },
     {
       "text": "Mes amis {1} chez moi hier soir. (sujet masculin pluriel)",
-      "blanks": [{ "cue": "venir", "answer": ["sont venus"], "hint": "être + accord masculin pluriel" }],
-      "explanation": "Venir utilise être. Le participe (venu) s'accorde au masculin pluriel : ils sont venus."
+      "blanks": [{ "cue": "venir", "answer": ["sont venus"], "hint": "être + masculine plural agreement" }],
+      "explanation": "Venir uses être. The participle (venu) agrees in the masculine plural: ils sont venus."
     },
     {
       "text": "Les filles {1} à la maison tout le week-end. (sujet féminin pluriel)",
-      "blanks": [{ "cue": "rester", "answer": ["sont restées"], "hint": "être + accord féminin pluriel" }],
-      "explanation": "Rester utilise être. Le participe (resté) s'accorde au féminin pluriel : elles sont restées."
+      "blanks": [{ "cue": "rester", "answer": ["sont restées"], "hint": "être + feminine plural agreement" }],
+      "explanation": "Rester uses être. The participle (resté) agrees in the feminine plural: elles sont restées."
     },
     {
       "text": "Je {1} à midi. (j'indique mon genre dans l'accord)",
-      "blanks": [{ "cue": "je / partir", "answer": ["suis parti", "suis partie"], "hint": "être ; accord masculin (parti) ou féminin (partie)" }],
-      "explanation": "Partir utilise être. Avec « je », le participe s'accorde selon le genre du locuteur : suis parti (masculin) ou suis partie (féminin)."
+      "blanks": [{ "cue": "je / partir", "answer": ["suis parti", "suis partie"], "hint": "être; masculine (parti) or feminine (partie) agreement" }],
+      "explanation": "Partir uses être. With « je », the participle agrees with the speaker's gender: suis parti (masculine) or suis partie (feminine)."
     },
     {
       "text": "Paul et Léa {1} à la gare en retard. (sujet mixte)",
-      "blanks": [{ "cue": "arriver", "answer": ["sont arrivés"], "hint": "être ; un groupe mixte prend le masculin pluriel" }],
-      "explanation": "Arriver utilise être. Un sujet mixte (masculin + féminin) prend l'accord masculin pluriel : ils sont arrivés."
+      "blanks": [{ "cue": "arriver", "answer": ["sont arrivés"], "hint": "être; a mixed group takes the masculine plural" }],
+      "explanation": "Arriver uses être. A mixed subject (masculine + feminine) takes masculine plural agreement: ils sont arrivés."
     }
   ]
 }

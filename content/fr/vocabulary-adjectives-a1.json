@@ -5,7 +5,7 @@
   "level": "A1",
   "type": "fill",
   "title": "Vocabulaire : les adjectifs courants (A1)",
-  "lesson": "Voici des adjectifs courants. Donne la forme demandée par la phrase ; quand le nom est féminin, l'adjectif s'accorde.",
+  "lesson": "Here are some common adjectives. Give the form required by the sentence; when the noun is feminine, the adjective agrees.",
   "items": [
     { "text": "C'est un {1} chien.", "blanks": [ { "cue": "big", "answer": ["grand"] } ], "explanation": "grand = big (masculine singular)." },
     { "text": "J'ai un {1} chat noir.", "blanks": [ { "cue": "small", "answer": ["petit"] } ], "explanation": "petit = small (masculine singular)." },

@@ -5,7 +5,7 @@
   "level": "B1",
   "type": "fill",
   "title": "Vocabulaire en contexte (B1)",
-  "lesson": "Vocabulaire de niveau B1 mêlant noms, verbes et adjectifs, dans des phrases du quotidien et de l'actualité.",
+  "lesson": "B1-level vocabulary mixing nouns, verbs, and adjectives, in everyday and current-events sentences.",
   "items": [
     { "text": "La protection de l'{1} est une priorité.", "blanks": [ { "cue": "environment", "answer": ["environnement"] } ], "explanation": "environnement = environment (masculine)." },
     { "text": "L'{1} du pays a beaucoup ralenti.", "blanks": [ { "cue": "economy", "answer": ["économie"] } ], "explanation": "économie = economy (feminine)." },

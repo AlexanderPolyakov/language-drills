@@ -5,7 +5,7 @@
   "level": "A2",
   "type": "fill",
   "title": "Vocabulaire : les verbes (A2)",
-  "lesson": "Des verbes utiles au niveau A2, donnés à l'infinitif après 'vouloir', 'pouvoir', 'devoir', etc.",
+  "lesson": "Useful verbs at the A2 level, given in the infinitive after 'vouloir', 'pouvoir', 'devoir', etc.",
   "items": [
     { "text": "Je dois {1} de l'argent à la banque.", "blanks": [ { "cue": "to borrow", "answer": ["emprunter"] } ], "explanation": "emprunter = to borrow (infinitive)." },
     { "text": "Peux-tu me {1} ton stylo ?", "blanks": [ { "cue": "to lend", "answer": ["prêter"] } ], "explanation": "prêter = to lend (infinitive)." },
