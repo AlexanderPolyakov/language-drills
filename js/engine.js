@@ -5,9 +5,11 @@
 // optional mark(body, result) that paints its own feedback. Adding CONTENT
 // needs no changes here.
 //
-// SESSION_SIZE caps how many items to present per run. When a pool has more,
-// we take a random sample so a session stays ~10 minutes rather than open-ended.
-const SESSION_SIZE = 15;
+// SESSION_SIZE caps how many items to present per run. When an exercise (or the
+// mixed pool) has more, we take a random sample so the learner never faces more
+// than this many items in one sitting — a session stays short rather than
+// open-ended, and a fresh sample comes up on each retry.
+const SESSION_SIZE = 10;
 
 import { t } from "./i18n.js";
 import { types } from "./types/index.js";
