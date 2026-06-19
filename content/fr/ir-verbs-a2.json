@@ -1,0 +1,181 @@
+{
+  "id": "fr-ir-verbs-a2",
+  "lang": "fr",
+  "topic": "ir-verbs",
+  "level": "A2",
+  "title": "Le présent des verbes en -ir (finir, choisir…)",
+  "type": "fill",
+  "lesson": "Les verbes réguliers en -ir suivent ce modèle au présent : je finis, tu finis, il/elle finit, nous finissons, vous finissez, ils/elles finissent. Notez l'infixe -iss- aux formes du pluriel (nous, vous, ils/elles), qui distingue ces verbes des autres en -ir.",
+  "items": [
+    {
+      "text": "Je {1} toujours mon travail à l'heure.",
+      "blanks": [{ "cue": "finir", "answer": ["finis"] }],
+      "explanation": "With 'je', the regular -ir ending is -is: 'finis'."
+    },
+    {
+      "text": "Tu {1} un dessert au restaurant.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisis"] }],
+      "explanation": "With 'tu', the ending is -is: 'choisis'."
+    },
+    {
+      "text": "Elle {1} avant de répondre.",
+      "blanks": [{ "cue": "réfléchir", "answer": ["réfléchit"] }],
+      "explanation": "With 'elle', the ending is -it: 'réfléchit'."
+    },
+    {
+      "text": "Nous {1} le projet ce soir.",
+      "blanks": [{ "cue": "finir", "answer": ["finissons"] }],
+      "explanation": "With 'nous', use the -iss- infix plus -ons: 'finissons'."
+    },
+    {
+      "text": "Vous {1} la bonne réponse.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisissez"] }],
+      "explanation": "With 'vous', use the -iss- infix plus -ez: 'choisissez'."
+    },
+    {
+      "text": "Les enfants {1} très vite.",
+      "blanks": [{ "cue": "grandir", "answer": ["grandissent"] }],
+      "explanation": "With 'ils', use the -iss- infix plus -ent: 'grandissent'."
+    },
+    {
+      "text": "Je {1} à mon examen sans problème.",
+      "blanks": [{ "cue": "réussir", "answer": ["réussis"] }],
+      "explanation": "With 'je', the ending is -is: 'réussis'."
+    },
+    {
+      "text": "Tu {1} toujours à tes parents.",
+      "blanks": [{ "cue": "obéir", "answer": ["obéis"] }],
+      "explanation": "With 'tu', the ending is -is: 'obéis'."
+    },
+    {
+      "text": "Il {1} quand il a honte.",
+      "blanks": [{ "cue": "rougir", "answer": ["rougit"] }],
+      "explanation": "With 'il', the ending is -it: 'rougit'."
+    },
+    {
+      "text": "Nous {1} à tous nos objectifs.",
+      "blanks": [{ "cue": "réussir", "answer": ["réussissons"] }],
+      "explanation": "With 'nous', use the -iss- infix: 'réussissons'."
+    },
+    {
+      "text": "Vous {1} longtemps avant d'agir.",
+      "blanks": [{ "cue": "réfléchir", "answer": ["réfléchissez"] }],
+      "explanation": "With 'vous', use the -iss- infix: 'réfléchissez'."
+    },
+    {
+      "text": "Les fleurs {1} au printemps.",
+      "blanks": [{ "cue": "fleurir", "answer": ["fleurissent"] }],
+      "explanation": "With 'ils/elles', use the -iss- infix: 'fleurissent'."
+    },
+    {
+      "text": "Je {1} une cravate pour la fête.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisis"] }],
+      "explanation": "With 'je', the ending is -is: 'choisis'."
+    },
+    {
+      "text": "Tu {1} ton roman cette semaine.",
+      "blanks": [{ "cue": "finir", "answer": ["finis"] }],
+      "explanation": "With 'tu', the ending is -is: 'finis'."
+    },
+    {
+      "text": "Mon fils {1} chaque année.",
+      "blanks": [{ "cue": "grandir", "answer": ["grandit"] }],
+      "explanation": "With singular 'mon fils', the ending is -it: 'grandit'."
+    },
+    {
+      "text": "Nous {1} aux règles de l'école.",
+      "blanks": [{ "cue": "obéir", "answer": ["obéissons"] }],
+      "explanation": "With 'nous', use the -iss- infix: 'obéissons'."
+    },
+    {
+      "text": "Vous {1} vos études en juin.",
+      "blanks": [{ "cue": "finir", "answer": ["finissez"] }],
+      "explanation": "With 'vous', use the -iss- infix: 'finissez'."
+    },
+    {
+      "text": "Ils {1} toujours leurs examens.",
+      "blanks": [{ "cue": "réussir", "answer": ["réussissent"] }],
+      "explanation": "With 'ils', use the -iss- infix: 'réussissent'."
+    },
+    {
+      "text": "Je {1} bien à ta proposition.",
+      "blanks": [{ "cue": "réfléchir", "answer": ["réfléchis"] }],
+      "explanation": "With 'je', the ending is -is: 'réfléchis'."
+    },
+    {
+      "text": "Tu {1} de joie en voyant le cadeau.",
+      "blanks": [{ "cue": "rougir", "answer": ["rougis"] }],
+      "explanation": "With 'tu', the ending is -is: 'rougis'."
+    },
+    {
+      "text": "Elle {1} sa chambre avant les invités.",
+      "blanks": [{ "cue": "finir", "answer": ["finit"] }],
+      "explanation": "With 'elle', the ending is -it: 'finit'."
+    },
+    {
+      "text": "Nous {1} entre deux options difficiles.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisissons"] }],
+      "explanation": "With 'nous', use the -iss- infix: 'choisissons'."
+    },
+    {
+      "text": "Vous {1} aux ordres du capitaine.",
+      "blanks": [{ "cue": "obéir", "answer": ["obéissez"] }],
+      "explanation": "With 'vous', use the -iss- infix: 'obéissez'."
+    },
+    {
+      "text": "Les plantes {1} avec le soleil.",
+      "blanks": [{ "cue": "grandir", "answer": ["grandissent"] }],
+      "explanation": "With 'elles', use the -iss- infix: 'grandissent'."
+    },
+    {
+      "text": "Je {1} mon assiette rapidement.",
+      "blanks": [{ "cue": "finir", "answer": ["finis"] }],
+      "explanation": "With 'je', the ending is -is: 'finis'."
+    },
+    {
+      "text": "Tu {1} la meilleure équipe.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisis"] }],
+      "explanation": "With 'tu', the ending is -is: 'choisis'."
+    },
+    {
+      "text": "Le chien {1} à son maître.",
+      "blanks": [{ "cue": "obéir", "answer": ["obéit"] }],
+      "explanation": "With singular 'le chien', the ending is -it: 'obéit'."
+    },
+    {
+      "text": "Nous {1} avant chaque examen important.",
+      "blanks": [{ "cue": "réfléchir", "answer": ["réfléchissons"] }],
+      "explanation": "With 'nous', use the -iss- infix: 'réfléchissons'."
+    },
+    {
+      "text": "Vous {1} dans cette grande entreprise.",
+      "blanks": [{ "cue": "réussir", "answer": ["réussissez"] }],
+      "explanation": "With 'vous', use the -iss- infix: 'réussissez'."
+    },
+    {
+      "text": "Mes neveux {1} à vue d'œil.",
+      "blanks": [{ "cue": "grandir", "answer": ["grandissent"] }],
+      "explanation": "With 'ils', use the -iss- infix: 'grandissent'."
+    },
+    {
+      "text": "Je {1} facilement devant les compliments.",
+      "blanks": [{ "cue": "rougir", "answer": ["rougis"] }],
+      "explanation": "With 'je', the ending is -is: 'rougis'."
+    },
+    {
+      "text": "Tu {1} avant de prendre ta décision.",
+      "blanks": [{ "cue": "réfléchir", "answer": ["réfléchis"] }],
+      "explanation": "With 'tu', the ending is -is: 'réfléchis'."
+    },
+    {
+      "text": "Elles {1} leurs devoirs à temps.",
+      "blanks": [{ "cue": "finir", "answer": ["finissent"] }],
+      "explanation": "With 'elles', use the -iss- infix: 'finissent'."
+    },
+    {
+      "text": "Le cuisinier {1} les meilleurs ingrédients.",
+      "blanks": [{ "cue": "choisir", "answer": ["choisit"] }],
+      "explanation": "With singular 'le cuisinier', the ending is -it: 'choisit'."
+    }
+  ]
+}

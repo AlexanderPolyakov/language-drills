@@ -1,0 +1,52 @@
+{
+  "id": "fr-conjugation-finir",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A2",
+  "type": "fill",
+  "title": "Conjugaison : finir",
+  "lesson": "finir means 'to finish' and is the model for regular second-group -ir verbs, which insert -iss- in the plural present and throughout the imparfait.",
+  "items": [
+    { "text": "En ce moment, je {1} mon repas.", "blanks": [ { "cue": "finir — présent", "answer": ["finis"] } ], "explanation": "finir, present, je → finis." },
+    { "text": "Tu {1} toujours en retard.", "blanks": [ { "cue": "finir — présent", "answer": ["finis"] } ], "explanation": "finir, present, tu → finis." },
+    { "text": "Il {1} son travail.", "blanks": [ { "cue": "finir — présent", "answer": ["finit"] } ], "explanation": "finir, present, il → finit." },
+    { "text": "Nous {1} le projet aujourd'hui.", "blanks": [ { "cue": "finir — présent", "answer": ["finissons"] } ], "explanation": "finir, present, nous → finissons." },
+    { "text": "Vous {1} vos exercices.", "blanks": [ { "cue": "finir — présent", "answer": ["finissez"] } ], "explanation": "finir, present, vous → finissez." },
+    { "text": "Elles {1} le livre.", "blanks": [ { "cue": "finir — présent", "answer": ["finissent"] } ], "explanation": "finir, present, elles → finissent." },
+
+    { "text": "Hier, j' {1} tard le soir.", "blanks": [ { "cue": "finir — passé composé", "answer": ["ai fini"] } ], "explanation": "finir, passé composé, je → ai fini." },
+    { "text": "Hier, tu {1} avant moi.", "blanks": [ { "cue": "finir — passé composé", "answer": ["as fini"] } ], "explanation": "finir, passé composé, tu → as fini." },
+    { "text": "Il {1} sa thèse hier.", "blanks": [ { "cue": "finir — passé composé", "answer": ["a fini"] } ], "explanation": "finir, passé composé, il → a fini." },
+    { "text": "Nous {1} le match hier soir.", "blanks": [ { "cue": "finir — passé composé", "answer": ["avons fini"] } ], "explanation": "finir, passé composé, nous → avons fini." },
+    { "text": "Vous {1} la réunion à temps.", "blanks": [ { "cue": "finir — passé composé", "answer": ["avez fini"] } ], "explanation": "finir, passé composé, vous → avez fini." },
+    { "text": "Ils {1} les travaux hier.", "blanks": [ { "cue": "finir — passé composé", "answer": ["ont fini"] } ], "explanation": "finir, passé composé, ils → ont fini." },
+
+    { "text": "Autrefois, je {1} toujours mes assiettes.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissais"] } ], "explanation": "finir, imparfait, je → finissais." },
+    { "text": "Quand tu {1} tôt, tu sortais.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissais"] } ], "explanation": "finir, imparfait, tu → finissais." },
+    { "text": "Il {1} ses journées épuisé.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissait"] } ], "explanation": "finir, imparfait, il → finissait." },
+    { "text": "Autrefois, nous {1} en chanson.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissions"] } ], "explanation": "finir, imparfait, nous → finissions." },
+    { "text": "Vous {1} toujours les derniers.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissiez"] } ], "explanation": "finir, imparfait, vous → finissiez." },
+    { "text": "Ils {1} leurs devoirs tard.", "blanks": [ { "cue": "finir — imparfait", "answer": ["finissaient"] } ], "explanation": "finir, imparfait, ils → finissaient." },
+
+    { "text": "Demain, je {1} ce rapport.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finirai"] } ], "explanation": "finir, futur simple, je → finirai." },
+    { "text": "Demain, tu {1} le ménage.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finiras"] } ], "explanation": "finir, futur simple, tu → finiras." },
+    { "text": "Il {1} bientôt ses études.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finira"] } ], "explanation": "finir, futur simple, il → finira." },
+    { "text": "Nous {1} le travail demain.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finirons"] } ], "explanation": "finir, futur simple, nous → finirons." },
+    { "text": "Vous {1} par comprendre.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finirez"] } ], "explanation": "finir, futur simple, vous → finirez." },
+    { "text": "Elles {1} la course en tête.", "blanks": [ { "cue": "finir — futur simple", "answer": ["finiront"] } ], "explanation": "finir, futur simple, elles → finiront." },
+
+    { "text": "Avec ton aide, je {1} plus vite.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finirais"] } ], "explanation": "finir, conditionnel présent, je → finirais." },
+    { "text": "Tu {1} plus tôt sans moi.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finirais"] } ], "explanation": "finir, conditionnel présent, tu → finirais." },
+    { "text": "Il {1} mal sans ce conseil.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finirait"] } ], "explanation": "finir, conditionnel présent, il → finirait." },
+    { "text": "Nous {1} avant ce soir.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finirions"] } ], "explanation": "finir, conditionnel présent, nous → finirions." },
+    { "text": "Vous {1} plus vite à deux.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finiriez"] } ], "explanation": "finir, conditionnel présent, vous → finiriez." },
+    { "text": "Ils {1} par accepter.", "blanks": [ { "cue": "finir — conditionnel présent", "answer": ["finiraient"] } ], "explanation": "finir, conditionnel présent, ils → finiraient." },
+
+    { "text": "Il faut que je {1} ce travail.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finisse"] } ], "explanation": "finir, subjonctif présent, je → finisse." },
+    { "text": "Je veux que tu {1} ton assiette.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finisses"] } ], "explanation": "finir, subjonctif présent, tu → finisses." },
+    { "text": "Il faut qu'il {1} à temps.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finisse"] } ], "explanation": "finir, subjonctif présent, il → finisse." },
+    { "text": "Il faut que nous {1} ce soir.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finissions"] } ], "explanation": "finir, subjonctif présent, nous → finissions." },
+    { "text": "Je veux que vous {1} le projet.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finissiez"] } ], "explanation": "finir, subjonctif présent, vous → finissiez." },
+    { "text": "Il faut qu'elles {1} avant midi.", "blanks": [ { "cue": "finir — subjonctif présent", "answer": ["finissent"] } ], "explanation": "finir, subjonctif présent, elles → finissent." }
+  ]
+}

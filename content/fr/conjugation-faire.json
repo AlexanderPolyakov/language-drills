@@ -1,0 +1,52 @@
+{
+  "id": "fr-conjugation-faire",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A2",
+  "type": "fill",
+  "title": "Conjugaison : faire",
+  "lesson": "faire means 'to do' or 'to make' and is a very common irregular verb appearing in many idiomatic expressions.",
+  "items": [
+    { "text": "En ce moment, je {1} mes devoirs.", "blanks": [ { "cue": "faire — présent", "answer": ["fais"] } ], "explanation": "faire, present, je → fais." },
+    { "text": "Tu {1} du bruit.", "blanks": [ { "cue": "faire — présent", "answer": ["fais"] } ], "explanation": "faire, present, tu → fais." },
+    { "text": "Elle {1} la cuisine.", "blanks": [ { "cue": "faire — présent", "answer": ["fait"] } ], "explanation": "faire, present, elle → fait." },
+    { "text": "Nous {1} du sport.", "blanks": [ { "cue": "faire — présent", "answer": ["faisons"] } ], "explanation": "faire, present, nous → faisons." },
+    { "text": "Vous {1} attention.", "blanks": [ { "cue": "faire — présent", "answer": ["faites"] } ], "explanation": "faire, present, vous → faites." },
+    { "text": "Ils {1} leurs valises.", "blanks": [ { "cue": "faire — présent", "answer": ["font"] } ], "explanation": "faire, present, ils → font." },
+
+    { "text": "Hier, j' {1} une grosse erreur.", "blanks": [ { "cue": "faire — passé composé", "answer": ["ai fait"] } ], "explanation": "faire, passé composé, je → ai fait." },
+    { "text": "Hier, tu {1} la vaisselle.", "blanks": [ { "cue": "faire — passé composé", "answer": ["as fait"] } ], "explanation": "faire, passé composé, tu → as fait." },
+    { "text": "Il {1} ses courses hier.", "blanks": [ { "cue": "faire — passé composé", "answer": ["a fait"] } ], "explanation": "faire, passé composé, il → a fait." },
+    { "text": "Nous {1} un gâteau hier.", "blanks": [ { "cue": "faire — passé composé", "answer": ["avons fait"] } ], "explanation": "faire, passé composé, nous → avons fait." },
+    { "text": "Vous {1} du bon travail.", "blanks": [ { "cue": "faire — passé composé", "answer": ["avez fait"] } ], "explanation": "faire, passé composé, vous → avez fait." },
+    { "text": "Elles {1} une longue promenade.", "blanks": [ { "cue": "faire — passé composé", "answer": ["ont fait"] } ], "explanation": "faire, passé composé, elles → ont fait." },
+
+    { "text": "Autrefois, je {1} du piano.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisais"] } ], "explanation": "faire, imparfait, je → faisais." },
+    { "text": "Quand tu {1} du vélo, tu tombais.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisais"] } ], "explanation": "faire, imparfait, tu → faisais." },
+    { "text": "Il {1} froid ce matin-là.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisait"] } ], "explanation": "faire, imparfait, il → faisait." },
+    { "text": "Autrefois, nous {1} de longues balades.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisions"] } ], "explanation": "faire, imparfait, nous → faisions." },
+    { "text": "Vous {1} toujours la fête.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisiez"] } ], "explanation": "faire, imparfait, vous → faisiez." },
+    { "text": "Ils {1} du théâtre à l'école.", "blanks": [ { "cue": "faire — imparfait", "answer": ["faisaient"] } ], "explanation": "faire, imparfait, ils → faisaient." },
+
+    { "text": "Demain, je {1} le ménage.", "blanks": [ { "cue": "faire — futur simple", "answer": ["ferai"] } ], "explanation": "faire, futur simple, je → ferai." },
+    { "text": "Demain, tu {1} les courses.", "blanks": [ { "cue": "faire — futur simple", "answer": ["feras"] } ], "explanation": "faire, futur simple, tu → feras." },
+    { "text": "Il {1} beau demain.", "blanks": [ { "cue": "faire — futur simple", "answer": ["fera"] } ], "explanation": "faire, futur simple, il → fera." },
+    { "text": "Nous {1} un voyage l'été prochain.", "blanks": [ { "cue": "faire — futur simple", "answer": ["ferons"] } ], "explanation": "faire, futur simple, nous → ferons." },
+    { "text": "Vous {1} mieux la prochaine fois.", "blanks": [ { "cue": "faire — futur simple", "answer": ["ferez"] } ], "explanation": "faire, futur simple, vous → ferez." },
+    { "text": "Elles {1} de leur mieux.", "blanks": [ { "cue": "faire — futur simple", "answer": ["feront"] } ], "explanation": "faire, futur simple, elles → feront." },
+
+    { "text": "À ta place, je {1} autrement.", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["ferais"] } ], "explanation": "faire, conditionnel présent, je → ferais." },
+    { "text": "Tu {1} quoi avec cet argent ?", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["ferais"] } ], "explanation": "faire, conditionnel présent, tu → ferais." },
+    { "text": "Il {1} mieux de se taire.", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["ferait"] } ], "explanation": "faire, conditionnel présent, il → ferait." },
+    { "text": "Nous {1} ça avec plaisir.", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["ferions"] } ], "explanation": "faire, conditionnel présent, nous → ferions." },
+    { "text": "Vous {1} bien de partir.", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["feriez"] } ], "explanation": "faire, conditionnel présent, vous → feriez." },
+    { "text": "Ils {1} le tour du monde.", "blanks": [ { "cue": "faire — conditionnel présent", "answer": ["feraient"] } ], "explanation": "faire, conditionnel présent, ils → feraient." },
+
+    { "text": "Il faut que je {1} attention.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fasse"] } ], "explanation": "faire, subjonctif présent, je → fasse." },
+    { "text": "Je veux que tu {1} un effort.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fasses"] } ], "explanation": "faire, subjonctif présent, tu → fasses." },
+    { "text": "Il faut qu'il {1} ses devoirs.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fasse"] } ], "explanation": "faire, subjonctif présent, il → fasse." },
+    { "text": "Il faut que nous {1} vite.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fassions"] } ], "explanation": "faire, subjonctif présent, nous → fassions." },
+    { "text": "Je veux que vous {1} le silence.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fassiez"] } ], "explanation": "faire, subjonctif présent, vous → fassiez." },
+    { "text": "Il faut qu'elles {1} leur lit.", "blanks": [ { "cue": "faire — subjonctif présent", "answer": ["fassent"] } ], "explanation": "faire, subjonctif présent, elles → fassent." }
+  ]
+}

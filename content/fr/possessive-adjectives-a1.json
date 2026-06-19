@@ -1,0 +1,181 @@
+{
+  "id": "fr-possessive-adjectives-a1",
+  "lang": "fr",
+  "topic": "possessive-adjectives",
+  "level": "A1",
+  "title": "Les adjectifs possessifs (mon, ma, mes…)",
+  "type": "cloze",
+  "lesson": "L'adjectif possessif s'accorde avec le nom possédé, pas avec le possesseur. Pour 'je' : mon (masc.), ma (fém.), mes (pluriel). Devant un nom féminin commençant par une voyelle, on utilise mon/ton/son au lieu de ma/ta/sa (mon amie). Pour 'nous' : notre/nos ; pour 'vous' : votre/vos ; pour 'ils/elles' : leur/leurs.",
+  "items": [
+    {
+      "text": "Voici {1} frère, il s'appelle Paul.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mon" }],
+      "explanation": "'frère' is masculine singular, so 'mon'."
+    },
+    {
+      "text": "J'adore {1} sœur, elle est gentille.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "ma" }],
+      "explanation": "'sœur' is feminine singular, so 'ma'."
+    },
+    {
+      "text": "Où sont {1} clés ? Je les cherche partout.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mes" }],
+      "explanation": "'clés' is plural, so 'mes'."
+    },
+    {
+      "text": "Je te présente {1} amie Sophie.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mon" }],
+      "explanation": "'amie' is feminine but starts with a vowel, so 'mon' not 'ma'."
+    },
+    {
+      "text": "Tu as oublié {1} parapluie chez moi.",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "ton" }],
+      "explanation": "'parapluie' is masculine singular, so 'ton'."
+    },
+    {
+      "text": "As-tu fini {1} leçon de français ?",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "ta" }],
+      "explanation": "'leçon' is feminine singular, so 'ta'."
+    },
+    {
+      "text": "Range {1} affaires avant de partir !",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "tes" }],
+      "explanation": "'affaires' is plural, so 'tes'."
+    },
+    {
+      "text": "Comment s'appelle {1} école, Léa ?",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "ton" }],
+      "explanation": "'école' is feminine but starts with a vowel, so 'ton' not 'ta'."
+    },
+    {
+      "text": "Pierre adore {1} chien, il joue avec lui.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "son" }],
+      "explanation": "'chien' is masculine singular, so 'son'."
+    },
+    {
+      "text": "Elle écrit à {1} grand-mère chaque semaine.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "sa" }],
+      "explanation": "'grand-mère' is feminine singular, so 'sa'."
+    },
+    {
+      "text": "Il a perdu {1} lunettes au cinéma.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "ses" }],
+      "explanation": "'lunettes' is plural, so 'ses'."
+    },
+    {
+      "text": "Marc parle souvent de {1} histoire préférée.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "son" }],
+      "explanation": "'histoire' is feminine but starts with a vowel (mute h), so 'son' not 'sa'."
+    },
+    {
+      "text": "{1} maison est très grande, nous y vivons à six.",
+      "blanks": [{ "options": ["notre", "nos", "votre"], "answer": "notre" }],
+      "explanation": "'notre' is singular and used for one possessed thing with 'nous'."
+    },
+    {
+      "text": "Nous invitons {1} amis ce week-end.",
+      "blanks": [{ "options": ["notre", "nos", "votre"], "answer": "nos" }],
+      "explanation": "'amis' is plural, so 'nos' for 'nous'."
+    },
+    {
+      "text": "Où avez-vous garé {1} voiture ?",
+      "blanks": [{ "options": ["votre", "vos", "notre"], "answer": "votre" }],
+      "explanation": "'voiture' is singular, so 'votre' for 'vous'."
+    },
+    {
+      "text": "Montrez-moi {1} billets, s'il vous plaît.",
+      "blanks": [{ "options": ["votre", "vos", "notre"], "answer": "vos" }],
+      "explanation": "'billets' is plural, so 'vos' for 'vous'."
+    },
+    {
+      "text": "Les enfants aiment {1} professeur.",
+      "blanks": [{ "options": ["leur", "leurs", "notre"], "answer": "leur" }],
+      "explanation": "'professeur' is singular, so 'leur' for 'ils/elles'."
+    },
+    {
+      "text": "Mes voisins lavent {1} fenêtres le samedi.",
+      "blanks": [{ "options": ["leur", "leurs", "vos"], "answer": "leurs" }],
+      "explanation": "'fenêtres' is plural, so 'leurs' for 'ils/elles'."
+    },
+    {
+      "text": "Je cherche {1} portable, je l'ai perdu.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mon" }],
+      "explanation": "'portable' is masculine singular, so 'mon'."
+    },
+    {
+      "text": "Voici {1} adresse, écris-moi une lettre.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mon" }],
+      "explanation": "'adresse' is feminine but starts with a vowel, so 'mon' not 'ma'."
+    },
+    {
+      "text": "Tu ressembles à {1} père.",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "ton" }],
+      "explanation": "'père' is masculine singular, so 'ton'."
+    },
+    {
+      "text": "Quelle est {1} couleur préférée ?",
+      "blanks": [{ "options": ["ton", "ta", "tes"], "answer": "ta" }],
+      "explanation": "'couleur' is feminine singular, so 'ta'."
+    },
+    {
+      "text": "Sophie range {1} chambre tous les matins.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "sa" }],
+      "explanation": "'chambre' is feminine singular, so 'sa'."
+    },
+    {
+      "text": "Le chat dort sur {1} coussin préféré.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "son" }],
+      "explanation": "'coussin' is masculine singular, so 'son'."
+    },
+    {
+      "text": "Nous prenons {1} vélos pour aller au parc.",
+      "blanks": [{ "options": ["notre", "nos", "vos"], "answer": "nos" }],
+      "explanation": "'vélos' is plural, so 'nos' for 'nous'."
+    },
+    {
+      "text": "{1} équipe a gagné le match hier.",
+      "blanks": [{ "options": ["notre", "nos", "leurs"], "answer": "notre" }],
+      "explanation": "'équipe' is singular, so 'notre' for 'nous'."
+    },
+    {
+      "text": "Avez-vous reçu {1} colis ce matin ?",
+      "blanks": [{ "options": ["votre", "vos", "leur"], "answer": "votre" }],
+      "explanation": "'colis' is singular here, so 'votre' for 'vous'."
+    },
+    {
+      "text": "N'oubliez pas {1} passeports à l'aéroport.",
+      "blanks": [{ "options": ["votre", "vos", "leurs"], "answer": "vos" }],
+      "explanation": "'passeports' is plural, so 'vos' for 'vous'."
+    },
+    {
+      "text": "Les élèves font {1} devoirs le soir.",
+      "blanks": [{ "options": ["leur", "leurs", "vos"], "answer": "leurs" }],
+      "explanation": "'devoirs' is plural, so 'leurs' for 'ils/elles'."
+    },
+    {
+      "text": "Ces familles passent {1} vacances en Italie.",
+      "blanks": [{ "options": ["leur", "leurs", "nos"], "answer": "leurs" }],
+      "explanation": "'vacances' is plural, so 'leurs' for 'ils/elles'."
+    },
+    {
+      "text": "Mon ami aime beaucoup {1} travail.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "son" }],
+      "explanation": "'travail' is masculine singular, so 'son'."
+    },
+    {
+      "text": "J'ai rangé {1} chaussures dans le placard.",
+      "blanks": [{ "options": ["mon", "ma", "mes"], "answer": "mes" }],
+      "explanation": "'chaussures' is plural, so 'mes'."
+    },
+    {
+      "text": "Tu connais {1} histoire, je te l'ai racontée.",
+      "blanks": [{ "options": ["ton", "ta", "mon"], "answer": "mon" }],
+      "explanation": "'histoire' is feminine with a vowel; the speaker's own story takes 'mon'."
+    },
+    {
+      "text": "Le directeur réunit {1} employés chaque lundi.",
+      "blanks": [{ "options": ["son", "sa", "ses"], "answer": "ses" }],
+      "explanation": "'employés' is plural, so 'ses'."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "fr-partitive-articles-a2",
+  "lang": "fr",
+  "topic": "partitive-articles",
+  "level": "A2",
+  "title": "Les articles partitifs (du, de la, de l', des)",
+  "type": "cloze",
+  "lesson": "L'article partitif exprime une quantité indéterminée (some/any). On utilise 'du' devant un nom masculin, 'de la' devant un féminin, 'de l'' devant une voyelle ou un h muet, et 'des' au pluriel. Après une négation, le partitif devient simplement 'de' (ou 'd''): je ne mange pas de pain.",
+  "items": [
+    {
+      "text": "Le matin, je bois {1} café avec mon petit-déjeuner.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'café' is masculine, so the partitive is 'du'."
+    },
+    {
+      "text": "Pour le gâteau, il faut {1} farine.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'farine' is feminine and starts with a consonant, so 'de la'."
+    },
+    {
+      "text": "Au petit-déjeuner, je mange {1} pain.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'pain' is masculine, so the partitive is 'du'."
+    },
+    {
+      "text": "Veux-tu {1} eau ?",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'eau' is feminine but starts with a vowel, so 'de l''."
+    },
+    {
+      "text": "Nous achetons {1} légumes au marché.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'légumes' is plural, so the partitive is 'des'."
+    },
+    {
+      "text": "Je ne bois pas {1} alcool.",
+      "blanks": [{ "options": ["du", "de l'", "d'", "des"], "answer": "d'" }],
+      "explanation": "After a negation, the partitive becomes 'de', and 'd'' before a vowel."
+    },
+    {
+      "text": "Elle met {1} sucre dans son thé.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'sucre' is masculine, so 'du'."
+    },
+    {
+      "text": "Tu manges {1} viande tous les jours.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'viande' is feminine with a consonant, so 'de la'."
+    },
+    {
+      "text": "Il y a {1} huile dans la bouteille.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'huile' is feminine with a mute h, so 'de l''."
+    },
+    {
+      "text": "Pour faire une omelette, il faut {1} œufs.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'œufs' is plural, so 'des'."
+    },
+    {
+      "text": "Désolé, nous n'avons plus {1} lait.",
+      "blanks": [{ "options": ["du", "de la", "de", "des"], "answer": "de" }],
+      "explanation": "After the negation 'ne… plus', the partitive becomes 'de'."
+    },
+    {
+      "text": "Je voudrais {1} fromage, s'il vous plaît.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'fromage' is masculine, so 'du'."
+    },
+    {
+      "text": "Mets {1} confiture sur ta tartine.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'confiture' is feminine with a consonant, so 'de la'."
+    },
+    {
+      "text": "Le chef ajoute {1} ail dans la sauce.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'ail' is masculine but starts with a vowel sound, so 'de l''."
+    },
+    {
+      "text": "Au dessert, nous mangeons {1} fruits.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'fruits' is plural, so 'des'."
+    },
+    {
+      "text": "Je ne veux pas {1} soupe ce soir.",
+      "blanks": [{ "options": ["de la", "du", "de", "des"], "answer": "de" }],
+      "explanation": "After 'ne… pas', the partitive becomes 'de'."
+    },
+    {
+      "text": "Mon frère boit {1} jus d'orange chaque matin.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'jus' is masculine, so 'du'."
+    },
+    {
+      "text": "Il faut {1} patience pour réussir.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'patience' is feminine with a consonant, so 'de la'."
+    },
+    {
+      "text": "Le serveur apporte {1} pâtes au client.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'pâtes' is plural, so 'des'."
+    },
+    {
+      "text": "Bois {1} eau, il fait très chaud.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'eau' is feminine with a vowel, so 'de l''."
+    },
+    {
+      "text": "Nous n'achetons jamais {1} bonbons.",
+      "blanks": [{ "options": ["des", "du", "de", "de la"], "answer": "de" }],
+      "explanation": "After the negation 'ne… jamais', the partitive becomes 'de'."
+    },
+    {
+      "text": "Au marché, on trouve {1} poisson frais.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'poisson' is masculine, so 'du'."
+    },
+    {
+      "text": "Elle prépare {1} salade pour le repas.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'salade' is feminine with a consonant, so 'de la'."
+    },
+    {
+      "text": "Tu as besoin {1} argent pour le voyage.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'argent' is masculine but starts with a vowel, so 'de l''."
+    },
+    {
+      "text": "Le boulanger vend {1} croissants frais.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'croissants' is plural, so 'des'."
+    },
+    {
+      "text": "Je ne mange pas {1} pain le soir.",
+      "blanks": [{ "options": ["du", "de la", "de", "des"], "answer": "de" }],
+      "explanation": "After 'ne… pas', the partitive becomes 'de'."
+    },
+    {
+      "text": "Voulez-vous {1} thé ou {2} café ?",
+      "blanks": [
+        { "options": ["du", "de la", "de l'", "des"], "answer": "du" },
+        { "options": ["du", "de la", "de l'", "des"], "answer": "du" }
+      ],
+      "explanation": "Both 'thé' and 'café' are masculine, so 'du' for each."
+    },
+    {
+      "text": "Il met {1} miel dans son yaourt.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'miel' is masculine, so 'du'."
+    },
+    {
+      "text": "Nous cultivons {1} herbes dans le jardin.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'herbes' is plural, so 'des'."
+    },
+    {
+      "text": "Pour la recette, ajoutez {1} crème fraîche.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de la" }],
+      "explanation": "'crème' is feminine with a consonant, so 'de la'."
+    },
+    {
+      "text": "Le matin, je prends {1} énergie en faisant du sport.",
+      "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
+      "explanation": "'énergie' is feminine with a vowel, so 'de l''."
+    },
+    {
+      "text": "Sans lunettes, je ne vois pas {1} détails.",
+      "blanks": [{ "options": ["des", "du", "de", "de la"], "answer": "de" }],
+      "explanation": "After 'ne… pas', the plural 'des' becomes 'de'."
+    },
+    {
+      "text": "Le cuisinier utilise {1} beurre pour la sauce.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "du" }],
+      "explanation": "'beurre' is masculine, so 'du'."
+    },
+    {
+      "text": "Elle achète {1} fleurs pour sa mère.",
+      "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
+      "explanation": "'fleurs' is plural, so 'des'."
+    }
+  ]
+}

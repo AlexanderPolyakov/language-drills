@@ -1,0 +1,181 @@
+{
+  "id": "fr-comparative-a2",
+  "lang": "fr",
+  "topic": "comparative",
+  "level": "A2",
+  "title": "Le comparatif (plus, moins, aussi)",
+  "type": "cloze",
+  "lesson": "Pour comparer, on utilise plus… que (more than), moins… que (less than), aussi… que (as… as) avec un adjectif ou un adverbe. Attention aux formes irrégulières : 'bon' devient 'meilleur' au comparatif de supériorité, et l'adverbe 'bien' devient 'mieux'. On ne dit jamais 'plus bon' ni 'plus bien'.",
+  "items": [
+    {
+      "text": "Cette voiture est {1} chère que l'autre, elle coûte 5000 euros de plus.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "Costing more means 'plus chère que' (more expensive than)."
+    },
+    {
+      "text": "Le train est {1} rapide que l'avion, il met plus de temps.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Taking more time means it is 'moins rapide' (less fast)."
+    },
+    {
+      "text": "Marie est {1} grande que sa sœur ; elles font la même taille.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Equal height means 'aussi grande que' (as tall as)."
+    },
+    {
+      "text": "Ce gâteau est {1} que celui d'hier, il est délicieux !",
+      "blanks": [{ "options": ["meilleur", "plus bon", "mieux"], "answer": "meilleur" }],
+      "explanation": "The comparative of the adjective 'bon' is 'meilleur', never 'plus bon'."
+    },
+    {
+      "text": "Il chante {1} que moi ; je chante très mal.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleur"], "answer": "mieux" }],
+      "explanation": "The comparative of the adverb 'bien' is 'mieux', never 'plus bien'."
+    },
+    {
+      "text": "Mon appartement est {1} spacieux que le tien, il est plus petit.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Being smaller means 'moins spacieux' (less spacious)."
+    },
+    {
+      "text": "Aujourd'hui il fait {1} chaud qu'hier, la température est identique.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Identical temperature means 'aussi chaud que' (as hot as)."
+    },
+    {
+      "text": "Ce restaurant est {1} cher que l'autre, ses prix sont très élevés.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "High prices mean 'plus cher que' (more expensive than)."
+    },
+    {
+      "text": "Cette pizza est {1} que la précédente, je l'adore.",
+      "blanks": [{ "options": ["meilleure", "plus bonne", "mieux"], "answer": "meilleure" }],
+      "explanation": "The comparative of 'bonne' is 'meilleure' (feminine of meilleur)."
+    },
+    {
+      "text": "Tu joues au tennis {1} que ton frère, tu gagnes toujours.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleur"], "answer": "mieux" }],
+      "explanation": "Playing better uses the adverb comparative 'mieux'."
+    },
+    {
+      "text": "Le français est {1} difficile que le chinois, c'est beaucoup plus simple.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Being simpler means 'moins difficile' (less difficult)."
+    },
+    {
+      "text": "Paul est {1} sympathique que Marc, ils sont tous les deux très gentils.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Both equally nice means 'aussi sympathique que'."
+    },
+    {
+      "text": "Mon ordinateur est {1} lent que le tien, il met une heure à démarrer.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "Being slower means 'plus lent que' (slower than)."
+    },
+    {
+      "text": "Ce vin est {1} que l'autre bouteille, c'est le meilleur de la cave.",
+      "blanks": [{ "options": ["meilleur", "plus bon", "mieux"], "answer": "meilleur" }],
+      "explanation": "Comparative of 'bon' is 'meilleur', never 'plus bon'."
+    },
+    {
+      "text": "Elle cuisine {1} que sa mère, ses plats sont excellents.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleure"], "answer": "mieux" }],
+      "explanation": "Cooking better uses the adverb comparative 'mieux'."
+    },
+    {
+      "text": "La campagne est {1} bruyante que la ville, c'est très calme.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Being quieter means 'moins bruyante' (less noisy)."
+    },
+    {
+      "text": "Ce film est {1} intéressant que le livre ; les deux sont passionnants.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Both equally interesting means 'aussi intéressant que'."
+    },
+    {
+      "text": "L'été est {1} chaud que l'hiver, c'est évident.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "Summer being hotter means 'plus chaud que' (hotter than)."
+    },
+    {
+      "text": "Ce fromage est {1} que celui du supermarché, il vient d'une ferme.",
+      "blanks": [{ "options": ["meilleur", "plus bon", "mieux"], "answer": "meilleur" }],
+      "explanation": "Comparative of 'bon' is 'meilleur', never 'plus bon'."
+    },
+    {
+      "text": "Après ses cours, il parle {1} anglais qu'avant.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleur"], "answer": "mieux" }],
+      "explanation": "Speaking better uses the adverb comparative 'mieux'."
+    },
+    {
+      "text": "Ce sac est {1} lourd que la valise, je peux le porter facilement.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Being lighter means 'moins lourd' (less heavy)."
+    },
+    {
+      "text": "Tom est {1} âgé que Léa, ils ont tous les deux dix ans.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Same age means 'aussi âgé que' (as old as)."
+    },
+    {
+      "text": "Cette route est {1} dangereuse que l'autoroute, il y a beaucoup d'accidents.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "More accidents means 'plus dangereuse que' (more dangerous than)."
+    },
+    {
+      "text": "Cette idée est {1} que la première, elle résout tous les problèmes.",
+      "blanks": [{ "options": ["meilleure", "plus bonne", "mieux"], "answer": "meilleure" }],
+      "explanation": "Comparative of 'bonne' is 'meilleure', never 'plus bonne'."
+    },
+    {
+      "text": "Aujourd'hui je me sens {1} qu'hier, j'étais malade hier.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleur"], "answer": "mieux" }],
+      "explanation": "Feeling better uses the adverb comparative 'mieux'."
+    },
+    {
+      "text": "Le métro est {1} confortable que le bus, mais il va plus vite.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Less comfortable means 'moins confortable que'."
+    },
+    {
+      "text": "Cette montre est {1} précise que l'horloge ; elles donnent la même heure.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Equally precise means 'aussi précise que'."
+    },
+    {
+      "text": "Ma chambre est {1} grande que le salon, j'y mets tous mes meubles.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "plus" }],
+      "explanation": "Being bigger means 'plus grande que' (bigger than)."
+    },
+    {
+      "text": "Ce chocolat est {1} que celui que tu as acheté ; il est exquis.",
+      "blanks": [{ "options": ["meilleur", "plus bon", "mieux"], "answer": "meilleur" }],
+      "explanation": "Comparative of 'bon' is 'meilleur', never 'plus bon'."
+    },
+    {
+      "text": "Depuis qu'il s'entraîne, il nage {1} qu'avant.",
+      "blanks": [{ "options": ["mieux", "plus bien", "meilleur"], "answer": "mieux" }],
+      "explanation": "Swimming better uses the adverb comparative 'mieux'."
+    },
+    {
+      "text": "Ce livre est {1} épais que le dictionnaire, il a peu de pages.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Fewer pages means 'moins épais' (less thick)."
+    },
+    {
+      "text": "Sophie est {1} rapide que Julie ; elles finissent toujours ensemble.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "aussi" }],
+      "explanation": "Finishing together means 'aussi rapide que' (as fast as)."
+    },
+    {
+      "text": "Cet exercice est {1} facile que le précédent, il me donne du mal.",
+      "blanks": [{ "options": ["plus", "moins", "aussi"], "answer": "moins" }],
+      "explanation": "Being harder means 'moins facile' (less easy)."
+    },
+    {
+      "text": "Ta solution est {1} que la mienne, je vais utiliser la tienne.",
+      "blanks": [{ "options": ["meilleure", "plus bonne", "mieux"], "answer": "meilleure" }],
+      "explanation": "Comparative of 'bonne' is 'meilleure', never 'plus bonne'."
+    }
+  ]
+}

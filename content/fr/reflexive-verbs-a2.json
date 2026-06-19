@@ -1,0 +1,181 @@
+{
+  "id": "fr-reflexive-verbs-a2",
+  "lang": "fr",
+  "topic": "reflexive-verbs",
+  "level": "A2",
+  "title": "Les verbes pronominaux au présent (se laver, se lever…)",
+  "type": "fill",
+  "lesson": "Les verbes pronominaux ont un pronom réfléchi qui s'accorde avec le sujet : je me, tu te, il/elle se, nous nous, vous vous, ils/elles se. Devant une voyelle, me/te/se deviennent m'/t'/s' (je m'habille). Conjuguez le pronom réfléchi puis le verbe selon le sujet de la phrase.",
+  "items": [
+    {
+      "text": "Le matin, je {1} à sept heures.",
+      "blanks": [{ "cue": "se lever", "answer": ["me lève"] }],
+      "explanation": "With 'je', the reflexive pronoun is 'me' and 'lever' becomes 'lève'."
+    },
+    {
+      "text": "Tu {1} les dents après le repas.",
+      "blanks": [{ "cue": "se brosser", "answer": ["te brosses"] }],
+      "explanation": "With 'tu', the pronoun is 'te' and the verb takes -es: 'te brosses'."
+    },
+    {
+      "text": "Elle {1} avec de l'eau froide.",
+      "blanks": [{ "cue": "se laver", "answer": ["se lave"] }],
+      "explanation": "With 'elle', the pronoun is 'se' and 'laver' becomes 'lave'."
+    },
+    {
+      "text": "Nous {1} tôt pour aller au travail.",
+      "blanks": [{ "cue": "se lever", "answer": ["nous levons"] }],
+      "explanation": "With 'nous', the pronoun is 'nous' and the verb ends in -ons."
+    },
+    {
+      "text": "Vous {1} rapidement le matin.",
+      "blanks": [{ "cue": "s'habiller", "answer": ["vous habillez"] }],
+      "explanation": "With 'vous', the pronoun is 'vous' and the verb ends in -ez."
+    },
+    {
+      "text": "Ils {1} le week-end à la maison.",
+      "blanks": [{ "cue": "se reposer", "answer": ["se reposent"] }],
+      "explanation": "With 'ils', the pronoun is 'se' and the verb ends in -ent."
+    },
+    {
+      "text": "Je {1} à six heures du matin.",
+      "blanks": [{ "cue": "se réveiller", "answer": ["me réveille"] }],
+      "explanation": "With 'je', the pronoun is 'me': 'me réveille'."
+    },
+    {
+      "text": "Tu {1} tard le samedi soir.",
+      "blanks": [{ "cue": "se coucher", "answer": ["te couches"] }],
+      "explanation": "With 'tu', the pronoun is 'te' and the verb takes -es."
+    },
+    {
+      "text": "Il {1} devant le miroir.",
+      "blanks": [{ "cue": "se raser", "answer": ["se rase"] }],
+      "explanation": "With 'il', the pronoun is 'se': 'se rase'."
+    },
+    {
+      "text": "Nous {1} dans le parc le dimanche.",
+      "blanks": [{ "cue": "se promener", "answer": ["nous promenons"] }],
+      "explanation": "With 'nous', the verb ends in -ons: 'nous promenons'."
+    },
+    {
+      "text": "Vous {1} les cheveux tous les jours.",
+      "blanks": [{ "cue": "se laver", "answer": ["vous lavez"] }],
+      "explanation": "With 'vous', the verb ends in -ez: 'vous lavez'."
+    },
+    {
+      "text": "Elles {1} pour la fête de ce soir.",
+      "blanks": [{ "cue": "se maquiller", "answer": ["se maquillent"] }],
+      "explanation": "With 'elles', the verb ends in -ent: 'se maquillent'."
+    },
+    {
+      "text": "Je {1} vite quand je suis fatigué.",
+      "blanks": [{ "cue": "s'endormir", "answer": ["m'endors"] }],
+      "explanation": "Before a vowel, 'me' becomes 'm''; 's'endormir' is irregular: 'm'endors'."
+    },
+    {
+      "text": "Tu {1} de ton enfance avec émotion.",
+      "blanks": [{ "cue": "se souvenir", "answer": ["te souviens"] }],
+      "explanation": "'se souvenir' is irregular: with 'tu' it is 'te souviens'."
+    },
+    {
+      "text": "Le bébé {1} dans son lit.",
+      "blanks": [{ "cue": "se réveiller", "answer": ["se réveille"] }],
+      "explanation": "With singular 'le bébé', the pronoun is 'se': 'se réveille'."
+    },
+    {
+      "text": "Nous {1} à la nouvelle école.",
+      "blanks": [{ "cue": "s'habituer", "answer": ["nous habituons"] }],
+      "explanation": "With 'nous', the verb ends in -ons: 'nous habituons'."
+    },
+    {
+      "text": "Vous {1} chaque matin avant le travail.",
+      "blanks": [{ "cue": "se doucher", "answer": ["vous douchez"] }],
+      "explanation": "With 'vous', the verb ends in -ez: 'vous douchez'."
+    },
+    {
+      "text": "Ils {1} souvent au sujet de l'argent.",
+      "blanks": [{ "cue": "se disputer", "answer": ["se disputent"] }],
+      "explanation": "With 'ils', the verb ends in -ent: 'se disputent'."
+    },
+    {
+      "text": "Je {1} les mains avant de manger.",
+      "blanks": [{ "cue": "se laver", "answer": ["me lave"] }],
+      "explanation": "With 'je', the pronoun is 'me': 'me lave'."
+    },
+    {
+      "text": "Tu {1} bien dans cette ville ?",
+      "blanks": [{ "cue": "se sentir", "answer": ["te sens"] }],
+      "explanation": "'se sentir' is irregular: with 'tu' it is 'te sens'."
+    },
+    {
+      "text": "Elle {1} avant de prendre une décision.",
+      "blanks": [{ "cue": "se calmer", "answer": ["se calme"] }],
+      "explanation": "With 'elle', the pronoun is 'se': 'se calme'."
+    },
+    {
+      "text": "Nous {1} après une longue journée.",
+      "blanks": [{ "cue": "se détendre", "answer": ["nous détendons"] }],
+      "explanation": "'se détendre' with 'nous' ends in -ons: 'nous détendons'."
+    },
+    {
+      "text": "Vous {1} comment ? — Je m'appelle Marc.",
+      "blanks": [{ "cue": "s'appeler", "answer": ["vous appelez"] }],
+      "explanation": "With 'vous', the verb ends in -ez: 'vous appelez'."
+    },
+    {
+      "text": "Les enfants {1} dans le jardin.",
+      "blanks": [{ "cue": "s'amuser", "answer": ["s'amusent"] }],
+      "explanation": "Before a vowel 'se' becomes 's''; with 'ils', it is 's'amusent'."
+    },
+    {
+      "text": "Je {1} avant le dîner.",
+      "blanks": [{ "cue": "se changer", "answer": ["me change"] }],
+      "explanation": "With 'je', the pronoun is 'me': 'me change'."
+    },
+    {
+      "text": "Tu {1} pour rien, calme-toi.",
+      "blanks": [{ "cue": "s'inquiéter", "answer": ["t'inquiètes"] }],
+      "explanation": "Before a vowel 'te' becomes 't''; with 'tu' it is 't'inquiètes'."
+    },
+    {
+      "text": "Mon père {1} à cinq heures.",
+      "blanks": [{ "cue": "se lever", "answer": ["se lève"] }],
+      "explanation": "With singular 'mon père', the pronoun is 'se': 'se lève'."
+    },
+    {
+      "text": "Nous {1} dans le couloir de l'hôtel.",
+      "blanks": [{ "cue": "se perdre", "answer": ["nous perdons"] }],
+      "explanation": "'se perdre' with 'nous' ends in -ons: 'nous perdons'."
+    },
+    {
+      "text": "Vous {1} après le sport.",
+      "blanks": [{ "cue": "se reposer", "answer": ["vous reposez"] }],
+      "explanation": "With 'vous', the verb ends in -ez: 'vous reposez'."
+    },
+    {
+      "text": "Elles {1} le matin pour aller au lycée.",
+      "blanks": [{ "cue": "se préparer", "answer": ["se préparent"] }],
+      "explanation": "With 'elles', the verb ends in -ent: 'se préparent'."
+    },
+    {
+      "text": "Je {1} dès que le réveil sonne.",
+      "blanks": [{ "cue": "se lever", "answer": ["me lève"] }],
+      "explanation": "With 'je', the pronoun is 'me': 'me lève'."
+    },
+    {
+      "text": "Tu {1} les cheveux avant de sortir.",
+      "blanks": [{ "cue": "se coiffer", "answer": ["te coiffes"] }],
+      "explanation": "With 'tu', the verb takes -es: 'te coiffes'."
+    },
+    {
+      "text": "Il {1} le soir vers onze heures.",
+      "blanks": [{ "cue": "se coucher", "answer": ["se couche"] }],
+      "explanation": "With 'il', the pronoun is 'se': 'se couche'."
+    },
+    {
+      "text": "Nous {1} avant l'examen important.",
+      "blanks": [{ "cue": "se concentrer", "answer": ["nous concentrons"] }],
+      "explanation": "With 'nous', the verb ends in -ons: 'nous concentrons'."
+    }
+  ]
+}

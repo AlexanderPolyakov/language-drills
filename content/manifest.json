@@ -12,11 +12,32 @@
           "file": "en/articles-a1.json"
         },
         {
+          "id": "en-demonstratives-a1",
+          "topic": "demonstratives",
+          "level": "A1",
+          "title": "this, that, these, those",
+          "file": "en/demonstratives-a1.json"
+        },
+        {
           "id": "en-plurals",
           "topic": "plurals",
           "level": "A1",
           "title": "Plurals: write the plural form",
           "file": "en/plurals.json"
+        },
+        {
+          "id": "en-possessive-adjectives-a1",
+          "topic": "possessive-adjectives",
+          "level": "A1",
+          "title": "Possessive adjectives: my, your, his, her, its, our, their",
+          "file": "en/possessive-adjectives-a1.json"
+        },
+        {
+          "id": "en-present-continuous-a1",
+          "topic": "present-continuous",
+          "level": "A1",
+          "title": "Present continuous: am/is/are + -ing",
+          "file": "en/present-continuous-a1.json"
         },
         {
           "id": "en-present-simple-a1",
@@ -31,6 +52,41 @@
           "level": "A1",
           "title": "Pronouns: subject, object, and possessive",
           "file": "en/pronouns.json"
+        },
+        {
+          "id": "en-there-is-there-are-a1",
+          "topic": "there-is-there-are",
+          "level": "A1",
+          "title": "There is / there are",
+          "file": "en/there-is-there-are-a1.json"
+        },
+        {
+          "id": "en-vocabulary-adjectives-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Common adjectives: choose the right word",
+          "file": "en/vocabulary-adjectives-a1.json"
+        },
+        {
+          "id": "en-vocabulary-nouns-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Everyday nouns: choose the right word",
+          "file": "en/vocabulary-nouns-a1.json"
+        },
+        {
+          "id": "en-vocabulary-verbs-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Everyday verbs: choose the right word",
+          "file": "en/vocabulary-verbs-a1.json"
+        },
+        {
+          "id": "en-adverbs-of-frequency-a2",
+          "topic": "adverbs-of-frequency",
+          "level": "A2",
+          "title": "Adverbs of frequency",
+          "file": "en/adverbs-frequency-a2.json"
         },
         {
           "id": "en-articles-basic",
@@ -75,11 +131,46 @@
           "file": "en/prepositions-time-place.json"
         },
         {
+          "id": "en-quantifiers-a2",
+          "topic": "quantifiers",
+          "level": "A2",
+          "title": "some, any, much, many, a lot of",
+          "file": "en/quantifiers-a2.json"
+        },
+        {
           "id": "en-questions",
           "topic": "question-formation",
           "level": "A2",
           "title": "Questions: turn each statement into a question",
           "file": "en/questions.json"
+        },
+        {
+          "id": "en-superlatives-a2",
+          "topic": "superlatives",
+          "level": "A2",
+          "title": "Superlatives: the -est / the most…",
+          "file": "en/superlatives-a2.json"
+        },
+        {
+          "id": "en-vocabulary-adjectives-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Adjectives in context (A2)",
+          "file": "en/vocabulary-adjectives-a2.json"
+        },
+        {
+          "id": "en-vocabulary-nouns-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Nouns in context (A2)",
+          "file": "en/vocabulary-nouns-a2.json"
+        },
+        {
+          "id": "en-vocabulary-verbs-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Verbs in context (A2)",
+          "file": "en/vocabulary-verbs-a2.json"
         },
         {
           "id": "en-articles-expressions",
@@ -110,6 +201,13 @@
           "file": "en/passive-voice-b1.json"
         },
         {
+          "id": "en-past-continuous-b1",
+          "topic": "past-continuous",
+          "level": "B1",
+          "title": "Past continuous: was/were + -ing",
+          "file": "en/past-continuous-b1.json"
+        },
+        {
           "id": "en-verbs-present-perfect",
           "topic": "present-perfect",
           "level": "B1",
@@ -122,6 +220,20 @@
           "level": "B1",
           "title": "Relative clauses: who, which, that, whose, where, when",
           "file": "en/relative-clauses-b1.json"
+        },
+        {
+          "id": "en-used-to-b1",
+          "topic": "used-to",
+          "level": "B1",
+          "title": "used to: past habits and states",
+          "file": "en/used-to-b1.json"
+        },
+        {
+          "id": "en-vocabulary-b1",
+          "topic": "vocabulary",
+          "level": "B1",
+          "title": "Vocabulary in context (B1)",
+          "file": "en/vocabulary-b1.json"
         },
         {
           "id": "en-gerunds-infinitives-b2",
@@ -152,6 +264,13 @@
           "file": "en/reported-speech-b2.json"
         },
         {
+          "id": "en-vocabulary-b2",
+          "topic": "vocabulary",
+          "level": "B2",
+          "title": "Vocabulary in context (B2)",
+          "file": "en/vocabulary-b2.json"
+        },
+        {
           "id": "en-advanced-connectors-c1",
           "topic": "advanced-connectors",
           "level": "C1",
@@ -171,6 +290,13 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json"
+        },
+        {
+          "id": "en-vocabulary-c1",
+          "topic": "vocabulary",
+          "level": "C1",
+          "title": "Vocabulary in context (C1)",
+          "file": "en/vocabulary-c1.json"
         },
         {
           "id": "en-discourse-markers-c2",
@@ -207,6 +333,27 @@
           "file": "fr/articles-definite.json"
         },
         {
+          "id": "fr-conjugation-aller",
+          "topic": "conjugation",
+          "level": "A1",
+          "title": "Conjugaison : aller",
+          "file": "fr/conjugation-aller.json"
+        },
+        {
+          "id": "fr-conjugation-avoir",
+          "topic": "conjugation",
+          "level": "A1",
+          "title": "Conjugaison : avoir",
+          "file": "fr/conjugation-avoir.json"
+        },
+        {
+          "id": "fr-conjugation-etre",
+          "topic": "conjugation",
+          "level": "A1",
+          "title": "Conjugaison : être",
+          "file": "fr/conjugation-etre.json"
+        },
+        {
           "id": "fr-verbs-present-er",
           "topic": "er-verbs",
           "level": "A1",
@@ -221,11 +368,53 @@
           "file": "fr/gender-number-a1.json"
         },
         {
+          "id": "fr-negation-a1",
+          "topic": "negation",
+          "level": "A1",
+          "title": "La négation (ne… pas, jamais, plus, rien)",
+          "file": "fr/negation-a1.json"
+        },
+        {
+          "id": "fr-possessive-adjectives-a1",
+          "topic": "possessive-adjectives",
+          "level": "A1",
+          "title": "Les adjectifs possessifs (mon, ma, mes…)",
+          "file": "fr/possessive-adjectives-a1.json"
+        },
+        {
+          "id": "fr-questions-a1",
+          "topic": "questions",
+          "level": "A1",
+          "title": "Poser des questions (est-ce que, mots interrogatifs)",
+          "file": "fr/questions-a1.json"
+        },
+        {
           "id": "fr-subject-pronouns-a1",
           "topic": "subject-pronouns",
           "level": "A1",
           "title": "Pronoms sujets et le verbe être",
           "file": "fr/subject-pronouns-a1.json"
+        },
+        {
+          "id": "fr-vocabulary-adjectives-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Vocabulaire : les adjectifs courants (A1)",
+          "file": "fr/vocabulary-adjectives-a1.json"
+        },
+        {
+          "id": "fr-vocabulary-nouns-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Vocabulaire : les noms courants (A1)",
+          "file": "fr/vocabulary-nouns-a1.json"
+        },
+        {
+          "id": "fr-vocabulary-verbs-a1",
+          "topic": "vocabulary",
+          "level": "A1",
+          "title": "Vocabulaire : les verbes courants (A1)",
+          "file": "fr/vocabulary-verbs-a1.json"
         },
         {
           "id": "fr-adjective-agreement-a2",
@@ -235,11 +424,74 @@
           "file": "fr/adjective-agreement-a2.json"
         },
         {
+          "id": "fr-comparative-a2",
+          "topic": "comparative",
+          "level": "A2",
+          "title": "Le comparatif (plus, moins, aussi)",
+          "file": "fr/comparative-a2.json"
+        },
+        {
+          "id": "fr-conjugation-faire",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : faire",
+          "file": "fr/conjugation-faire.json"
+        },
+        {
+          "id": "fr-conjugation-finir",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : finir",
+          "file": "fr/conjugation-finir.json"
+        },
+        {
+          "id": "fr-conjugation-pouvoir",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : pouvoir",
+          "file": "fr/conjugation-pouvoir.json"
+        },
+        {
+          "id": "fr-conjugation-prendre",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : prendre",
+          "file": "fr/conjugation-prendre.json"
+        },
+        {
+          "id": "fr-conjugation-venir",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : venir",
+          "file": "fr/conjugation-venir.json"
+        },
+        {
+          "id": "fr-conjugation-vouloir",
+          "topic": "conjugation",
+          "level": "A2",
+          "title": "Conjugaison : vouloir",
+          "file": "fr/conjugation-vouloir.json"
+        },
+        {
           "id": "fr-futur-proche-a2",
           "topic": "futur-proche",
           "level": "A2",
           "title": "Le futur proche (aller + infinitif)",
           "file": "fr/futur-proche-a2.json"
+        },
+        {
+          "id": "fr-ir-verbs-a2",
+          "topic": "ir-verbs",
+          "level": "A2",
+          "title": "Le présent des verbes en -ir (finir, choisir…)",
+          "file": "fr/ir-verbs-a2.json"
+        },
+        {
+          "id": "fr-partitive-articles-a2",
+          "topic": "partitive-articles",
+          "level": "A2",
+          "title": "Les articles partitifs (du, de la, de l', des)",
+          "file": "fr/partitive-articles-a2.json"
         },
         {
           "id": "fr-passe-compose-a2",
@@ -256,11 +508,53 @@
           "file": "fr/prepositions-a2.json"
         },
         {
+          "id": "fr-reflexive-verbs-a2",
+          "topic": "reflexive-verbs",
+          "level": "A2",
+          "title": "Les verbes pronominaux au présent (se laver, se lever…)",
+          "file": "fr/reflexive-verbs-a2.json"
+        },
+        {
+          "id": "fr-vocabulary-adjectives-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Vocabulaire : les adjectifs (A2)",
+          "file": "fr/vocabulary-adjectives-a2.json"
+        },
+        {
+          "id": "fr-vocabulary-nouns-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Vocabulaire : les noms (A2)",
+          "file": "fr/vocabulary-nouns-a2.json"
+        },
+        {
+          "id": "fr-vocabulary-verbs-a2",
+          "topic": "vocabulary",
+          "level": "A2",
+          "title": "Vocabulaire : les verbes (A2)",
+          "file": "fr/vocabulary-verbs-a2.json"
+        },
+        {
           "id": "fr-conditional-b1",
           "topic": "conditional",
           "level": "B1",
           "title": "Le conditionnel présent",
           "file": "fr/conditional-b1.json"
+        },
+        {
+          "id": "fr-conjugation-devoir",
+          "topic": "conjugation",
+          "level": "B1",
+          "title": "Conjugaison : devoir",
+          "file": "fr/conjugation-devoir.json"
+        },
+        {
+          "id": "fr-futur-simple-b1",
+          "topic": "futur-simple",
+          "level": "B1",
+          "title": "Le futur simple",
+          "file": "fr/futur-simple-b1.json"
         },
         {
           "id": "fr-imparfait-vs-passe-compose-b1",
@@ -282,6 +576,13 @@
           "level": "B1",
           "title": "Le subjonctif présent",
           "file": "fr/subjunctive-present-b1.json"
+        },
+        {
+          "id": "fr-vocabulary-b1",
+          "topic": "vocabulary",
+          "level": "B1",
+          "title": "Vocabulaire en contexte (B1)",
+          "file": "fr/vocabulary-b1.json"
         }
       ]
     }
