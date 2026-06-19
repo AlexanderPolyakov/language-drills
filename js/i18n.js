@@ -23,9 +23,12 @@ const strings = {
 
     // Browse menu
     chooseLanguage: "Choose a language",
-    chooseTopic: "Choose a topic",
     chooseLevel: "Choose a level",
+    chooseCategory: "Choose a category",
     chooseExercise: "Choose an exercise",
+    randomDrill: "Mixed drill",
+    level: "Level",
+    category: "Category",
     back: "← Back",
     menu: "Menu",
 

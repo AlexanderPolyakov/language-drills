@@ -1,8 +1,14 @@
 // Menu + routing. Reads the content manifest and lets the learner browse by
-// language → topic → level → exercise, then hands the chosen exercise to the
-// generic engine. This is app-level navigation; the engine and the type modules
-// are untouched. Routing is hash-based so it works on static hosting (GitHub
-// Pages) and URLs are bookmarkable.
+// language → level → category → exercise, then hands the chosen exercise to the
+// generic engine. The level and category screens carry inline switchers so the
+// learner can change either facet without walking back up the tree. This is
+// app-level navigation; the engine and the type modules are untouched. Routing
+// is hash-based so it works on static hosting (GitHub Pages) and URLs are
+// bookmarkable.
+
+// CEFR levels in ascending order, used to present levels consistently regardless
+// of the order exercises happen to appear in the manifest.
+const CEFR = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
 import { renderExercise } from "./engine.js";
 import { t } from "./i18n.js";
@@ -24,7 +30,7 @@ export async function start(mountEl) {
   route();
 }
 
-// "#/en/articles/A2" → ["en", "articles", "A2"].
+// "#/en/A2/articles" → ["en", "A2", "articles"].
 function path() {
   const h = location.hash.replace(/^#\/?/, "");
   return h ? h.split("/").filter(Boolean) : [];
@@ -32,6 +38,16 @@ function path() {
 
 function lang(code) {
   return manifest.languages.find((l) => l.code === code);
+}
+
+// Levels a language offers, in CEFR order.
+function levelsOf(l) {
+  return CEFR.filter((lv) => l.exercises.some((e) => e.level === lv));
+}
+
+// Categories (topics) available at a given level, in manifest order.
+function categoriesAt(l, level) {
+  return uniq(l.exercises.filter((e) => e.level === level), "topic");
 }
 
 function route() {
@@ -43,11 +59,11 @@ function route() {
   // Random drill route: #/r/<lang-code>
   if (parts[0] === "r" && parts[1]) return showRandomSession(parts[1]);
 
-  const [code, topic, level] = parts;
+  const [code, level, topic] = parts;
   if (!code) return showLanguages();
-  if (!topic) return showTopics(code);
-  if (!level) return showLevels(code, topic);
-  return showExercises(code, topic, level);
+  if (!level) return showLevels(code);
+  if (!topic) return showCategories(code, level);
+  return showExercises(code, level, topic);
 }
 
 // --- rendering helpers -----------------------------------------------------
@@ -96,6 +112,28 @@ function uniq(items, key) {
   return [...new Set(items.map((x) => x[key]))];
 }
 
+// A horizontal row of chips for switching one facet (level or category) in
+// place. The active value renders as a plain highlighted chip; the others are
+// links that change just that facet of the current route. hrefFor(value) maps a
+// value to its destination hash.
+function switcher(label, values, active, hrefFor) {
+  const wrap = document.createElement("div");
+  wrap.className = "switcher";
+  wrap.append(Object.assign(document.createElement("span"), {
+    className: "switcher-label",
+    textContent: label,
+  }));
+  for (const v of values) {
+    const isActive = v === active;
+    const el = document.createElement(isActive ? "span" : "a");
+    el.className = "switch-chip" + (isActive ? " active" : "");
+    if (!isActive) el.href = hrefFor(v);
+    el.textContent = v;
+    wrap.append(el);
+  }
+  return wrap;
+}
+
 // --- screens ---------------------------------------------------------------
 
 function showLanguages() {
@@ -136,32 +174,46 @@ async function showRandomSession(code) {
   });
 }
 
-function showTopics(code) {
+// First facet after picking a language: the level. The language-wide mixed
+// drill stays featured at the top since it spans every level.
+function showLevels(code) {
   const l = lang(code);
   if (!l) return showLanguages();
-  screen(`${l.name} — ${t("chooseTopic")}`, "#/");
+  screen(`${l.name} — ${t("chooseLevel")}`, "#/");
   const entries = [
     { href: `#/r/${code}`, label: t("randomDrill"), featured: true },
-    ...uniq(l.exercises, "topic").map((topic) => ({ href: `#/${code}/${topic}`, label: topic })),
+    ...levelsOf(l).map((level) => ({ href: `#/${code}/${level}`, label: level })),
   ];
   root.append(list(entries));
 }
 
-function showLevels(code, topic) {
+// Second facet: the category, shown for the chosen level. A level switcher lets
+// the learner jump to another level without going back.
+function showCategories(code, level) {
   const l = lang(code);
   if (!l) return showLanguages();
-  const inTopic = l.exercises.filter((e) => e.topic === topic);
-  screen(`${topic} — ${t("chooseLevel")}`, `#/${code}`);
+  if (!levelsOf(l).includes(level)) return showLevels(code);
+  screen(`${l.name} · ${level} — ${t("chooseCategory")}`, `#/${code}`);
+  root.append(switcher(t("level"), levelsOf(l), level, (lv) => `#/${code}/${lv}`));
   root.append(
-    list(uniq(inTopic, "level").map((level) => ({ href: `#/${code}/${topic}/${level}`, label: level }))),
+    list(categoriesAt(l, level).map((topic) => ({ href: `#/${code}/${level}/${topic}`, label: topic }))),
   );
 }
 
-function showExercises(code, topic, level) {
+function showExercises(code, level, topic) {
   const l = lang(code);
   if (!l) return showLanguages();
-  const matches = l.exercises.filter((e) => e.topic === topic && e.level === level);
-  screen(`${topic} · ${level} — ${t("chooseExercise")}`, `#/${code}/${topic}`);
+  const matches = l.exercises.filter((e) => e.level === level && e.topic === topic);
+  if (!matches.length) return showCategories(code, level);
+  screen(`${topic} · ${level} — ${t("chooseExercise")}`, `#/${code}/${level}`);
+
+  // Switch level (keeping the category where it also exists, else fall back to
+  // that level's category list) or switch category within the current level.
+  root.append(switcher(t("level"), levelsOf(l), level, (lv) =>
+    categoriesAt(l, lv).includes(topic) ? `#/${code}/${lv}/${topic}` : `#/${code}/${lv}`,
+  ));
+  root.append(switcher(t("category"), categoriesAt(l, level), topic, (tp) => `#/${code}/${level}/${tp}`));
+
   root.append(
     list(matches.map((e) => {
       const p = progress.get(e.id);
@@ -183,11 +235,11 @@ async function showExercise(id) {
   if (!res.ok) throw new Error(`Failed to load ${entry.file}: ${res.status}`);
   const exercise = await res.json();
 
-  screen("", `#/${parentCode}/${entry.topic}/${entry.level}`);
+  screen("", `#/${parentCode}/${entry.level}/${entry.topic}`);
   const body = document.createElement("div");
   root.append(body);
 
-  const levelHref = `#/${parentCode}/${entry.topic}/${entry.level}`;
+  const levelHref = `#/${parentCode}/${entry.level}/${entry.topic}`;
   renderExercise(exercise, body, {
     onComplete: ({ correct, total }) => {
       progress.record(entry.id, correct, total);

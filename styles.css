@@ -179,6 +179,28 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 .crumbs a { color: var(--muted); text-decoration: none; }
 .crumbs a:hover { text-decoration: underline; }
 
+/* Inline facet switchers (change level or category without going back). */
+.switcher { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; margin: 0 0 0.75rem; }
+.switcher-label {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-right: 0.15rem;
+}
+.switch-chip {
+  padding: 0.2rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--surface);
+  font-size: 0.9rem;
+}
+.switch-chip:hover { border-color: var(--accent); background: #2e2010; }
+.switch-chip.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+
 .menu-list { list-style: none; padding: 0; margin: 0; }
 .menu-list li { margin: 0 0 0.5rem; }
 .menu-list a {
