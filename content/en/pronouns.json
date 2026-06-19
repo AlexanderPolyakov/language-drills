@@ -52,6 +52,42 @@
         { "answer": "us", "options": ["us", "we", "our"], "hint": "object of 'helps'" }
       ],
       "explanation": "Subject pronouns before verbs (I like; he helps); object pronoun after a verb (helps us)."
+    },
+    {
+      "text": "{1} are my friends.",
+      "blanks": [
+        { "answer": "They", "options": ["They", "Them", "Their"], "hint": "subject of the sentence" }
+      ],
+      "explanation": "Use the subject pronoun before the verb: They are my friends."
+    },
+    {
+      "text": "Is this your pen? Yes, it is {1}.",
+      "blanks": [
+        { "answer": "yours", "options": ["your", "yours", "you"], "hint": "stands alone, no noun after" }
+      ],
+      "explanation": "Use the possessive pronoun when no noun follows: it is yours."
+    },
+    {
+      "text": "The cat is cleaning {1} paws.",
+      "blanks": [
+        { "answer": "its", "options": ["it", "its", "it's"], "hint": "possessive adjective before a noun" }
+      ],
+      "explanation": "Use the possessive adjective 'its' before a noun: its paws. (Note: 'it's' means 'it is'.)"
+    },
+    {
+      "text": "That is John's bag. The blue one is {1}.",
+      "blanks": [
+        { "answer": "his", "options": ["he", "him", "his"], "hint": "stands alone, no noun after" }
+      ],
+      "explanation": "'His' can stand alone as a possessive pronoun: the blue one is his."
+    },
+    {
+      "text": "I called {1} but {2} did not answer the phone.",
+      "blanks": [
+        { "answer": "them", "options": ["they", "them", "their"], "hint": "object of the verb" },
+        { "answer": "they", "options": ["they", "them", "their"], "hint": "subject of 'did not answer'" }
+      ],
+      "explanation": "Object pronoun after a verb (I called them); subject pronoun before a verb (they did not answer)."
     }
   ]
 }

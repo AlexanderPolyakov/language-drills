@@ -1,0 +1,71 @@
+{
+  "id": "fr-subjunctive-present-b1",
+  "lang": "fr",
+  "topic": "subjunctive-present",
+  "level": "B1",
+  "type": "fill",
+  "title": "Le subjonctif présent",
+  "lesson": "Le subjonctif présent s'emploie dans une proposition subordonnée introduite par « que », après certains déclencheurs : la nécessité (il faut que), la volonté (vouloir que), le but (pour que), la concession (bien que), l'antériorité (avant que), les sentiments (être content/triste que) et le doute ou la négation d'opinion (ne pas penser que). Formation régulière : radical de la 3e personne du pluriel du présent + -e, -es, -e, -ions, -iez, -ent. Irréguliers fréquents : être (sois, soit, soyons, soyez, soient), avoir (aie, ait, ayons, ayez, aient), aller (aille), faire (fasse), pouvoir (puisse), savoir (sache).",
+  "items": [
+    {
+      "text": "Il faut que tu {1} à l'heure demain.",
+      "blanks": [{ "cue": "être", "answer": ["sois"], "hint": "subjonctif de être, 2e pers." }],
+      "explanation": "« Il faut que » exprime la nécessité et déclenche le subjonctif. Être au subjonctif (tu) : sois."
+    },
+    {
+      "text": "Je veux que vous {1} la vérité.",
+      "blanks": [{ "cue": "dire", "answer": ["disiez"], "hint": "vouloir que + subjonctif, vous" }],
+      "explanation": "« vouloir que » exprime la volonté et impose le subjonctif. Dire au subjonctif (vous) : disiez."
+    },
+    {
+      "text": "Nous travaillons dur pour que nos enfants {1} une bonne éducation.",
+      "blanks": [{ "cue": "avoir", "answer": ["aient"], "hint": "but : pour que + subjonctif" }],
+      "explanation": "« pour que » introduit le but et exige le subjonctif. Avoir au subjonctif (ils/elles) : aient."
+    },
+    {
+      "text": "Bien qu'il {1} malade, il est venu travailler.",
+      "blanks": [{ "cue": "être", "answer": ["soit"], "hint": "concession : bien que + subjonctif" }],
+      "explanation": "« bien que » exprime la concession et entraîne le subjonctif. Être au subjonctif (il) : soit."
+    },
+    {
+      "text": "Partons avant qu'il ne {1} trop tard.",
+      "blanks": [{ "cue": "être", "answer": ["soit"], "hint": "antériorité : avant que + subjonctif" }],
+      "explanation": "« avant que » marque l'antériorité et demande le subjonctif. Être au subjonctif (il) : soit (le « ne » est explétif)."
+    },
+    {
+      "text": "Je suis content que tu {1} venir à ma fête.",
+      "blanks": [{ "cue": "pouvoir", "answer": ["puisses"], "hint": "sentiment + subjonctif, pouvoir" }],
+      "explanation": "« être content que » exprime un sentiment et déclenche le subjonctif. Pouvoir au subjonctif (tu) : puisses."
+    },
+    {
+      "text": "Mes parents sont tristes que je {1} si loin.",
+      "blanks": [{ "cue": "partir", "answer": ["parte"], "hint": "sentiment + subjonctif, partir" }],
+      "explanation": "« être triste que » exprime un sentiment et impose le subjonctif. Partir au subjonctif (je) : parte."
+    },
+    {
+      "text": "Je ne pense pas qu'elle {1} la réponse.",
+      "blanks": [{ "cue": "savoir", "answer": ["sache"], "hint": "ne pas penser que + subjonctif" }],
+      "explanation": "« ne pas penser que » exprime un doute et entraîne le subjonctif. Savoir au subjonctif (elle) : sache."
+    },
+    {
+      "text": "Il faut que nous {1} attention à nos dépenses.",
+      "blanks": [{ "cue": "faire", "answer": ["fassions"], "hint": "il faut que + subjonctif, faire, nous" }],
+      "explanation": "« il faut que » déclenche le subjonctif. Faire au subjonctif (nous) : fassions."
+    },
+    {
+      "text": "Je voudrais que tu {1} chez le médecin.",
+      "blanks": [{ "cue": "aller", "answer": ["ailles"], "hint": "volonté + subjonctif, aller, tu" }],
+      "explanation": "« vouloir que » (ici « je voudrais que ») impose le subjonctif. Aller au subjonctif (tu) : ailles."
+    },
+    {
+      "text": "Bien que nous {1} fatigués, nous continuerons.",
+      "blanks": [{ "cue": "être", "answer": ["soyons"], "hint": "concession + subjonctif, être, nous" }],
+      "explanation": "« bien que » exprime la concession et exige le subjonctif. Être au subjonctif (nous) : soyons."
+    },
+    {
+      "text": "Il est important que vous {1} vos devoirs ce soir.",
+      "blanks": [{ "cue": "finir", "answer": ["finissiez"], "hint": "il est important que + subjonctif, finir, vous" }],
+      "explanation": "« il est important que » exprime la nécessité et déclenche le subjonctif. Finir au subjonctif (vous) : finissiez."
+    }
+  ]
+}

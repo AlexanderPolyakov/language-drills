@@ -1,0 +1,71 @@
+{
+  "id": "fr-imparfait-vs-passe-compose-b1",
+  "lang": "fr",
+  "topic": "imparfait-vs-passe-compose",
+  "level": "B1",
+  "type": "fill",
+  "title": "Imparfait ou passé composé ?",
+  "lesson": "On utilise l'imparfait pour les descriptions, les habitudes passées et le contexte (le décor d'une scène). On utilise le passé composé pour les actions ponctuelles, achevées, qui font avancer le récit. Souvent, l'imparfait pose le décor et le passé composé apporte l'événement qui survient : « Je dormais (contexte) quand le téléphone a sonné (action). » Avec l'auxiliaire être, le participe passé s'accorde avec le sujet.",
+  "items": [
+    {
+      "text": "Quand j'étais petit, je {1} souvent au parc le dimanche.",
+      "blanks": [{ "cue": "aller", "answer": ["allais"], "hint": "imparfait, habitude répétée" }],
+      "explanation": "« souvent » et « quand j'étais petit » signalent une habitude passée : on emploie l'imparfait, allais."
+    },
+    {
+      "text": "Hier soir, je {1} un film puis je me suis couché.",
+      "blanks": [{ "cue": "regarder", "answer": ["ai regardé"], "hint": "action ponctuelle et achevée" }],
+      "explanation": "« hier soir » et l'enchaînement d'actions terminées appellent le passé composé : ai regardé."
+    },
+    {
+      "text": "Il {1} beau et les oiseaux chantaient ce matin-là.",
+      "blanks": [{ "cue": "faire", "answer": ["faisait"], "hint": "description du décor" }],
+      "explanation": "Il s'agit d'une description du contexte (le temps qu'il faisait), donc imparfait : faisait."
+    },
+    {
+      "text": "Soudain, un homme {1} dans la pièce.",
+      "blanks": [{ "cue": "entrer", "answer": ["est entré", "est entrée"], "hint": "auxiliaire être, action soudaine" }],
+      "explanation": "« soudain » marque une action ponctuelle ; entrer se conjugue avec être, d'où est entré (accord possible : est entrée)."
+    },
+    {
+      "text": "Nous {1} la télévision quand l'orage a éclaté.",
+      "blanks": [{ "cue": "regarder", "answer": ["regardions"], "hint": "action en cours interrompue" }],
+      "explanation": "L'action était en cours (le décor) lorsqu'un événement l'a interrompue : imparfait, regardions."
+    },
+    {
+      "text": "Elle {1} au théâtre à sept heures et la pièce a commencé aussitôt.",
+      "blanks": [{ "cue": "arriver", "answer": ["est arrivée"], "hint": "auxiliaire être, sujet féminin, action ponctuelle" }],
+      "explanation": "Action ponctuelle avec arriver (auxiliaire être) ; le sujet « elle » est féminin, donc accord : est arrivée."
+    },
+    {
+      "text": "Tous les étés, mes grands-parents {1} à la mer.",
+      "blanks": [{ "cue": "partir", "answer": ["partaient"], "hint": "imparfait, habitude" }],
+      "explanation": "« tous les étés » indique une habitude répétée dans le passé : imparfait, partaient (même si partir prend être au passé composé)."
+    },
+    {
+      "text": "Pendant qu'elle lisait, ses enfants {1} dans le jardin.",
+      "blanks": [{ "cue": "jouer", "answer": ["jouaient"], "hint": "deux actions de fond simultanées" }],
+      "explanation": "Deux actions de fond simultanées et sans limite précise : on emploie l'imparfait, jouaient."
+    },
+    {
+      "text": "L'année dernière, ils {1} en Italie pour la première fois.",
+      "blanks": [{ "cue": "voyager", "answer": ["ont voyagé"], "hint": "événement daté et achevé" }],
+      "explanation": "« l'année dernière » et « pour la première fois » désignent un événement précis et achevé : passé composé, ont voyagé."
+    },
+    {
+      "text": "Je {1} déjà fini mon travail quand tu m'as appelé.",
+      "blanks": [{ "cue": "avoir", "answer": ["avais"], "hint": "plus-que-parfait : auxiliaire à l'imparfait" }],
+      "explanation": "L'action était terminée avant une autre action passée : on emploie le plus-que-parfait, dont l'auxiliaire avoir est à l'imparfait (avais fini)."
+    },
+    {
+      "text": "Marie {1} fatiguée, alors elle s'est reposée.",
+      "blanks": [{ "cue": "être", "answer": ["était"], "hint": "description d'un état" }],
+      "explanation": "On décrit un état (la fatigue) qui sert de contexte : imparfait, était. L'action qui suit (s'est reposée) est au passé composé."
+    },
+    {
+      "text": "Quand nous sommes sortis, il {1} encore.",
+      "blanks": [{ "cue": "pleuvoir", "answer": ["pleuvait"], "hint": "situation continue en arrière-plan" }],
+      "explanation": "La pluie est une situation continue qui formait le décor au moment de l'action ponctuelle « nous sommes sortis » : imparfait, pleuvait."
+    }
+  ]
+}

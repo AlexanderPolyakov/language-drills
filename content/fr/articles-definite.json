@@ -45,6 +45,52 @@
         { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" }
       ],
       "explanation": "Feminine singular nouns take 'la' (la fille)."
+    },
+    {
+      "text": "{1} homme parle avec {2} femme.",
+      "blanks": [
+        { "answer": "L'", "options": ["Le", "La", "L'", "Les"], "hint": "before a silent h" },
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" }
+      ],
+      "explanation": "'Homme' begins with a silent h, so 'le' elides to 'l'' (l'homme); 'femme' is feminine singular (la femme)."
+    },
+    {
+      "text": "Elle ouvre {1} fenêtre et regarde {2} arbres.",
+      "blanks": [
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" },
+        { "answer": "les", "options": ["le", "la", "l'", "les"], "hint": "plural" }
+      ],
+      "explanation": "'Fenêtre' is feminine singular (la fenêtre); 'arbres' is plural (les arbres)."
+    },
+    {
+      "text": "{1} eau est froide.",
+      "blanks": [
+        { "answer": "L'", "options": ["Le", "La", "L'", "Les"], "hint": "before a vowel sound" }
+      ],
+      "explanation": "'Eau' is feminine, but before a vowel the article 'la' elides to 'l'' (l'eau)."
+    },
+    {
+      "text": "Nous étudions {1} histoire de {2} France.",
+      "blanks": [
+        { "answer": "l'", "options": ["le", "la", "l'", "les"], "hint": "before a silent h" },
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" }
+      ],
+      "explanation": "'Histoire' is feminine and begins with a silent h, so 'la' elides to 'l'' (l'histoire); 'France' is feminine (la France)."
+    },
+    {
+      "text": "{1} maison a {2} porte rouge.",
+      "blanks": [
+        { "answer": "La", "options": ["Le", "La", "L'", "Les"], "hint": "feminine singular" },
+        { "answer": "la", "options": ["le", "la", "l'", "les"], "hint": "feminine singular" }
+      ],
+      "explanation": "Both 'maison' and 'porte' are feminine singular, so they take 'la' (la maison, la porte)."
+    },
+    {
+      "text": "J'aime {1} café le matin.",
+      "blanks": [
+        { "answer": "le", "options": ["le", "la", "l'", "les"], "hint": "masculine singular" }
+      ],
+      "explanation": "'Café' is masculine singular (le café). French keeps the definite article when speaking in general: J'aime le café."
     }
   ]
 }

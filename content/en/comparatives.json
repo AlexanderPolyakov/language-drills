@@ -36,6 +36,31 @@
       "text": "Her garden is {1} than mine.",
       "blanks": [{ "cue": "big", "answer": ["bigger"] }],
       "explanation": "Double the final consonant after a short vowel: big → bigger."
+    },
+    {
+      "text": "The weather today is {1} than yesterday.",
+      "blanks": [{ "cue": "bad", "answer": ["worse"] }],
+      "explanation": "'bad' is irregular: bad → worse."
+    },
+    {
+      "text": "My new flat is {1} than my old one.",
+      "blanks": [{ "cue": "comfortable", "answer": ["more comfortable"] }],
+      "explanation": "Adjectives of three or more syllables use 'more': more comfortable."
+    },
+    {
+      "text": "Her house is {1} from the city than mine.",
+      "blanks": [{ "cue": "far", "answer": ["farther", "further"] }],
+      "explanation": "'far' is irregular: far → farther (or further) for distance."
+    },
+    {
+      "text": "This exercise is {1} than the last one.",
+      "blanks": [{ "cue": "easy", "answer": ["easier"] }],
+      "explanation": "An adjective ending in -y changes to -ier: easy → easier."
+    },
+    {
+      "text": "A bike is {1} than a car.",
+      "blanks": [{ "cue": "cheap", "answer": ["cheaper"] }],
+      "explanation": "Short adjectives add -er: cheap → cheaper."
     }
   ]
 }

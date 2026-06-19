@@ -1,7 +1,7 @@
 {
   "id": "fr-verbs-present-er",
   "lang": "fr",
-  "topic": "verb-tenses",
+  "topic": "er-verbs",
   "level": "A1",
   "type": "fill",
   "title": "Présent des verbes en -er",
@@ -31,6 +31,36 @@
       "text": "Vous {1} une pomme.",
       "blanks": [{ "cue": "manger", "answer": ["mangez"] }],
       "explanation": "-er verbs: the 'vous' form ends in -ez: manger → vous mangez."
+    },
+    {
+      "text": "Elle {1} dans le parc.",
+      "blanks": [{ "cue": "marcher", "answer": ["marche"] }],
+      "explanation": "-er verbs: the 'il/elle' form ends in -e: marcher → elle marche."
+    },
+    {
+      "text": "Je {1} la musique.",
+      "blanks": [{ "cue": "écouter", "answer": ["écoute"] }],
+      "explanation": "-er verbs: the 'je' form ends in -e: écouter → j'écoute (note the accent on é)."
+    },
+    {
+      "text": "Tu {1} bien le français.",
+      "blanks": [{ "cue": "parler", "answer": ["parles"] }],
+      "explanation": "-er verbs: the 'tu' form ends in -es: parler → tu parles."
+    },
+    {
+      "text": "Nous {1} à la maison.",
+      "blanks": [{ "cue": "travailler", "answer": ["travaillons"] }],
+      "explanation": "-er verbs: the 'nous' form ends in -ons: travailler → nous travaillons."
+    },
+    {
+      "text": "Les enfants {1} dans le jardin.",
+      "blanks": [{ "cue": "jouer", "answer": ["jouent"] }],
+      "explanation": "-er verbs: the 'ils/elles' form ends in -ent (silent): jouer → ils jouent."
+    },
+    {
+      "text": "Vous {1} un café.",
+      "blanks": [{ "cue": "donner", "answer": ["donnez"] }],
+      "explanation": "-er verbs: the 'vous' form ends in -ez: donner → vous donnez."
     }
   ]
 }

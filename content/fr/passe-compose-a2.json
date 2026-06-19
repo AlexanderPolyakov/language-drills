@@ -1,0 +1,71 @@
+{
+  "id": "fr-passe-compose-a2",
+  "lang": "fr",
+  "topic": "passe-compose",
+  "level": "A2",
+  "type": "fill",
+  "title": "Le passé composé (avoir et être)",
+  "lesson": "Le passé composé se forme avec un auxiliaire au présent (avoir ou être) + le participe passé. La plupart des verbes utilisent avoir : j'ai mangé. Les verbes de mouvement et de changement d'état (aller, venir, partir, rester, arriver, entrer, etc.) utilisent être ; avec être, le participe passé s'accorde avec le sujet : elle est allée, ils sont partis, elles sont restées. Participes irréguliers fréquents : faire → fait, prendre → pris, voir → vu, avoir → eu, être → été.",
+  "items": [
+    {
+      "text": "Hier, j'{1} une pizza au restaurant.",
+      "blanks": [{ "cue": "manger", "answer": ["ai mangé"], "hint": "passé composé avec avoir" }],
+      "explanation": "Manger utilise l'auxiliaire avoir : j'ai mangé. Le participe passé des verbes en -er se termine par -é."
+    },
+    {
+      "text": "Tu {1} tes devoirs ce matin.",
+      "blanks": [{ "cue": "finir", "answer": ["as fini"], "hint": "passé composé avec avoir" }],
+      "explanation": "Finir utilise avoir : tu as fini. Le participe passé des verbes en -ir réguliers se termine par -i."
+    },
+    {
+      "text": "Nous {1} nos valises avant de partir.",
+      "blanks": [{ "cue": "faire", "answer": ["avons fait"], "hint": "participe irrégulier de faire" }],
+      "explanation": "Faire a un participe passé irrégulier : fait. Avec avoir : nous avons fait."
+    },
+    {
+      "text": "Elle {1} le train de huit heures.",
+      "blanks": [{ "cue": "prendre", "answer": ["a pris"], "hint": "participe irrégulier de prendre" }],
+      "explanation": "Prendre a un participe passé irrégulier : pris. Avec avoir, pas d'accord avec le sujet : elle a pris."
+    },
+    {
+      "text": "Vous {1} ce film au cinéma ?",
+      "blanks": [{ "cue": "voir", "answer": ["avez vu"], "hint": "participe irrégulier de voir" }],
+      "explanation": "Voir a un participe passé irrégulier : vu. Avec avoir : vous avez vu."
+    },
+    {
+      "text": "Ils {1} beaucoup de chance cette année.",
+      "blanks": [{ "cue": "avoir", "answer": ["ont eu"], "hint": "participe irrégulier de avoir" }],
+      "explanation": "Avoir a un participe passé irrégulier : eu. L'auxiliaire est aussi avoir : ils ont eu."
+    },
+    {
+      "text": "Le voyage {1} très long.",
+      "blanks": [{ "cue": "être", "answer": ["a été"], "hint": "participe irrégulier de être" }],
+      "explanation": "Être a un participe passé irrégulier : été. Son auxiliaire au passé composé est avoir : il a été."
+    },
+    {
+      "text": "Marie {1} au marché ce matin. (sujet féminin)",
+      "blanks": [{ "cue": "aller", "answer": ["est allée"], "hint": "être + accord avec un sujet féminin" }],
+      "explanation": "Aller utilise l'auxiliaire être. Le participe s'accorde avec le sujet féminin singulier : Marie est allée."
+    },
+    {
+      "text": "Mes amis {1} chez moi hier soir. (sujet masculin pluriel)",
+      "blanks": [{ "cue": "venir", "answer": ["sont venus"], "hint": "être + accord masculin pluriel" }],
+      "explanation": "Venir utilise être. Le participe (venu) s'accorde au masculin pluriel : ils sont venus."
+    },
+    {
+      "text": "Les filles {1} à la maison tout le week-end. (sujet féminin pluriel)",
+      "blanks": [{ "cue": "rester", "answer": ["sont restées"], "hint": "être + accord féminin pluriel" }],
+      "explanation": "Rester utilise être. Le participe (resté) s'accorde au féminin pluriel : elles sont restées."
+    },
+    {
+      "text": "Je {1} à midi. (j'indique mon genre dans l'accord)",
+      "blanks": [{ "cue": "je / partir", "answer": ["suis parti", "suis partie"], "hint": "être ; accord masculin (parti) ou féminin (partie)" }],
+      "explanation": "Partir utilise être. Avec « je », le participe s'accorde selon le genre du locuteur : suis parti (masculin) ou suis partie (féminin)."
+    },
+    {
+      "text": "Paul et Léa {1} à la gare en retard. (sujet mixte)",
+      "blanks": [{ "cue": "arriver", "answer": ["sont arrivés"], "hint": "être ; un groupe mixte prend le masculin pluriel" }],
+      "explanation": "Arriver utilise être. Un sujet mixte (masculin + féminin) prend l'accord masculin pluriel : ils sont arrivés."
+    }
+  ]
+}

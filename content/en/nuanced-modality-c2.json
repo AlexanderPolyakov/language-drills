@@ -1,0 +1,95 @@
+{
+  "id": "en-nuanced-modality-c2",
+  "lang": "en",
+  "topic": "nuanced-modality",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Fine shades of modal meaning",
+  "lesson": "At C2, modals carry precise, often non-literal meaning. Past deduction distinguishes near-certainty ('must have done'), impossibility ('can't / couldn't have done'), and possibility ('may / might have done'). Retrospective criticism or regret uses 'should have', wasted-effort 'needn't have', and missed-chance 'could have'. 'Would' (and 'used to') narrates past habits. 'May well' concedes likelihood, 'might as well' signals resigned acceptance of the only sensible option, and predictive 'will/'ll' expresses confident present assumption ('That'll be the postman').",
+  "items": [
+    {
+      "text": "The grass is soaked through this morning; it {1} during the night.",
+      "blanks": [
+        { "answer": "must have rained", "options": ["must have rained", "must rain", "should have rained"], "hint": "near-certain deduction about the past" }
+      ],
+      "explanation": "Logical near-certainty about a past event is 'must have + past participle'. 'Should have rained' would imply expectation or regret, not deduction; 'must rain' is present-tense obligation."
+    },
+    {
+      "text": "She was in Tokyo all week, so she {1} the one who left the note on my desk in London.",
+      "blanks": [
+        { "answer": "can't have been", "options": ["can't have been", "mustn't have been", "shouldn't have been"], "hint": "logical impossibility in the past" }
+      ],
+      "explanation": "The negative of deductive 'must have' is 'can't / couldn't have', expressing impossibility. 'Mustn't have' is non-standard for deduction in careful British English, and 'shouldn't have' conveys criticism, not impossibility."
+    },
+    {
+      "text": "I'm not certain why he's late; he {1} the earlier train and be on his way already.",
+      "blanks": [
+        { "answer": "might have caught", "options": ["might have caught", "must have caught", "can't have caught"], "hint": "tentative possibility, not certainty" }
+      ],
+      "explanation": "Open possibility about the past is 'might / may / could have + past participle'. The hedge 'I'm not certain' rules out the certainty of 'must have' and the impossibility of 'can't have'."
+    },
+    {
+      "text": "You've been complaining all evening; you {1} stayed at home if you felt that way.",
+      "blanks": [
+        { "answer": "should have", "options": ["should have", "needn't have", "can't have"], "hint": "retrospective criticism of a choice not taken" }
+      ],
+      "explanation": "'Should have + past participle' criticises a past decision or expresses regret about what was not done. 'Needn't have' would mean an action was performed unnecessarily; 'can't have' is impossibility."
+    },
+    {
+      "text": "I rushed to finish the report by Friday, but the client postponed the meeting, so I {1} bothered.",
+      "blanks": [
+        { "answer": "needn't have", "options": ["needn't have", "shouldn't have", "mustn't have"], "hint": "an action done that turned out to be unnecessary" }
+      ],
+      "explanation": "'Needn't have + past participle' marks effort that was expended but, in hindsight, was unnecessary (I did finish it). 'Didn't need to' would leave it open whether I did it; 'shouldn't have' implies it was wrong to do."
+    },
+    {
+      "text": "He missed an open goal in the final minute; we {1} won the match.",
+      "blanks": [
+        { "answer": "could have", "options": ["could have", "must have", "needn't have"], "hint": "an unrealised past possibility / missed chance" }
+      ],
+      "explanation": "'Could have + past participle' names a past possibility that did not come about — the chance was there but unrealised. 'Must have' asserts it happened; the sense here is precisely that it did not."
+    },
+    {
+      "text": "Every summer of my childhood, we {1} drive down to the coast and stay in the same little cottage.",
+      "blanks": [
+        { "answer": "would", "options": ["would", "should", "might"], "hint": "narrating a repeated past habit" }
+      ],
+      "explanation": "'Would' (like 'used to') narrates characteristic, repeated past actions. Note that 'would' suits repeated actions but not past states; 'used to' covers both, which is why 'would' pairs naturally with the dynamic verb 'drive' here."
+    },
+    {
+      "text": "Given how thorough she is, your suspicion {1} be correct — I wouldn't dismiss it.",
+      "blanks": [
+        { "answer": "may well", "options": ["may well", "might as well", "will well"], "hint": "conceding a strong likelihood" }
+      ],
+      "explanation": "'May/might well' concedes that something is quite likely or reasonable ('it is entirely possible that'). 'Might as well' signals resigned acceptance of an only option, a different meaning altogether."
+    },
+    {
+      "text": "There are no trains until morning and the hotel is full, so we {1} walk.",
+      "blanks": [
+        { "answer": "might as well", "options": ["might as well", "may well", "should as well"], "hint": "the only sensible option, accepted with resignation" }
+      ],
+      "explanation": "'Might as well' proposes a course of action as the only reasonable one left, often with a shrug of resignation: there's nothing better to do, so we walk. 'May well' would express likelihood, which does not fit."
+    },
+    {
+      "text": "There's the doorbell. {1} the courier with the parcel I've been expecting.",
+      "blanks": [
+        { "answer": "That'll be", "options": ["That'll be", "That must be being", "That should be"], "hint": "confident present assumption with predictive 'will'" }
+      ],
+      "explanation": "Predictive 'will/'ll' expresses a confident assumption about a present situation ('That'll be the postman'). It is near-certainty based on expectation, distinct from deduction with 'must' and from the weaker expectation of 'should'."
+    },
+    {
+      "text": "The lights are off and the car's gone; they {1} left for the airport already.",
+      "blanks": [
+        { "answer": "must have", "options": ["must have", "could have", "needn't have"], "hint": "confident deduction from present evidence" }
+      ],
+      "explanation": "Confident inference from converging evidence is 'must have + past participle'. The tentative 'could have' undersells the strength of the clues; 'needn't have' is the wrong meaning entirely."
+    },
+    {
+      "text": "You {1} have told me the venue had changed; I drove to the wrong building and waited an hour.",
+      "blanks": [
+        { "answer": "could", "options": ["could", "must", "needn't"], "hint": "reproach for something easily done but left undone" }
+      ],
+      "explanation": "Reproachful 'could have + past participle' chides someone for failing to do something that was within their power ('you could have told me'). It is close to 'should have' but foregrounds the missed opportunity rather than duty."
+    }
+  ]
+}

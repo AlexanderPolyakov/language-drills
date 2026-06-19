@@ -1,0 +1,95 @@
+{
+  "id": "en-mixed-conditionals-b2",
+  "lang": "en",
+  "topic": "mixed-conditionals",
+  "level": "B2",
+  "type": "fill",
+  "title": "Mixed conditionals, wish and if only",
+  "lesson": "Mixed conditionals combine two time frames. Past condition to present result: 'If + past perfect, ... would + base verb' (If I had studied medicine, I would be a doctor now). Present condition to past result: 'If + past simple, ... would have + past participle' (If I weren't so shy, I would have spoken to her). For regrets, use 'wish/if only + past perfect' about the past (I wish I had known) and 'wish/if only + past simple' about the present (I wish I were taller); 'wish + would' is used for annoying habits or wanted change (I wish you would stop).",
+  "items": [
+    {
+      "text": "If I had taken that job in Paris, I {1} (live) there now.",
+      "blanks": [
+        { "cue": "live", "answer": ["would be living", "would live"], "hint": "past condition, present result: would + base / would be -ing" }
+      ],
+      "explanation": "Past condition ('had taken') with a present result uses 'would + base verb' (or 'would be living') because the result is happening now."
+    },
+    {
+      "text": "If she weren't so afraid of flying, she {1} (come) with us to Japan last year.",
+      "blanks": [
+        { "cue": "come", "answer": ["would have come"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A present, ongoing condition ('weren't so afraid') with a past result uses 'would have + past participle'."
+    },
+    {
+      "text": "If he hadn't missed the train, he {1} (be) at the meeting right now.",
+      "blanks": [
+        { "cue": "be", "answer": ["would be"], "hint": "past condition, present result: would + base" }
+      ],
+      "explanation": "The past condition ('hadn't missed') produces a present result ('right now'), so we use 'would + base verb'."
+    },
+    {
+      "text": "If I spoke fluent German, I {1} (get) that contract in Berlin two months ago.",
+      "blanks": [
+        { "cue": "get", "answer": ["would have got", "would have gotten"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general present condition ('spoke fluent German') with a past result ('two months ago') uses 'would have + past participle'."
+    },
+    {
+      "text": "If they had saved more money when they were young, they {1} (not worry) about bills today.",
+      "blanks": [
+        { "cue": "not worry", "answer": ["wouldn't be worrying", "would not be worrying", "wouldn't worry", "would not worry"], "hint": "past condition, present result" }
+      ],
+      "explanation": "The past condition ('had saved') leads to a present result ('today'), so we use 'wouldn't worry' / 'wouldn't be worrying'."
+    },
+    {
+      "text": "If I weren't working tomorrow, I {1} (join) you on the trip.",
+      "blanks": [
+        { "cue": "join", "answer": ["would join"], "hint": "present/future condition, present result: would + base" }
+      ],
+      "explanation": "A present arrangement ('weren't working') with a present/future result uses 'would + base verb'."
+    },
+    {
+      "text": "I wish I {1} (study) harder when I was at school.",
+      "blanks": [
+        { "cue": "study", "answer": ["had studied"], "hint": "wish + past perfect for a past regret" }
+      ],
+      "explanation": "To express a regret about the past, we use 'wish + past perfect'."
+    },
+    {
+      "text": "I wish I {1} (be) taller; I can never reach the top shelf.",
+      "blanks": [
+        { "cue": "be", "answer": ["were", "was"], "hint": "wish + past simple for the present; 'were' is preferred" }
+      ],
+      "explanation": "To express a wish about a present situation, we use 'wish + past simple'; 'were' is preferred for all persons, though 'was' is common in informal speech."
+    },
+    {
+      "text": "If only I {1} (not say) those hurtful words at the party last night.",
+      "blanks": [
+        { "cue": "not say", "answer": ["hadn't said", "had not said"], "hint": "if only + past perfect for a past regret" }
+      ],
+      "explanation": "'If only', like 'wish', takes the past perfect when we regret a past action."
+    },
+    {
+      "text": "I wish you {1} (stop) interrupting me every time I try to speak.",
+      "blanks": [
+        { "cue": "stop", "answer": ["would stop"], "hint": "wish + would for an annoying habit" }
+      ],
+      "explanation": "'Wish + would' is used to complain about an annoying habit or to express a desire for someone's behaviour to change."
+    },
+    {
+      "text": "If only it {1} (not rain) so much here; the garden is always flooded.",
+      "blanks": [
+        { "cue": "not rain", "answer": ["didn't rain", "did not rain", "wouldn't rain", "would not rain"], "hint": "if only + past simple about the present" }
+      ],
+      "explanation": "'If only + past simple' expresses a wish about a present, ongoing situation; 'wouldn't rain' is also acceptable for a wanted change."
+    },
+    {
+      "text": "If we had bought that house ten years ago, we {1} (not pay) so much rent now.",
+      "blanks": [
+        { "cue": "not pay", "answer": ["wouldn't be paying", "would not be paying", "wouldn't pay", "would not pay"], "hint": "past condition, present result" }
+      ],
+      "explanation": "The past condition ('had bought') leads to a present result ('now'), so the main clause uses 'wouldn't pay' / 'wouldn't be paying'."
+    }
+  ]
+}

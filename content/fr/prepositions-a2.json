@@ -1,0 +1,71 @@
+{
+  "id": "fr-prepositions-a2",
+  "lang": "fr",
+  "topic": "prepositions",
+  "level": "A2",
+  "type": "cloze",
+  "title": "Les prépositions (à, de, en, chez)",
+  "lesson": "À et de se contractent avec l'article défini : à + le = au, à + les = aux, de + le = du, de + les = des ; à la et de la restent séparés. Devant un nom de pays : en + pays féminin ou commençant par une voyelle (en France, en Italie, en Iran), au + pays masculin (au Japon, au Canada), aux + pays pluriel (aux États-Unis). Chez s'emploie devant une personne pour dire « à la maison/au cabinet de » : chez moi, chez le médecin.",
+  "items": [
+    {
+      "text": "Je vais {1} cinéma ce soir.",
+      "blanks": [{ "answer": "au", "options": ["à", "au", "à la", "aux"], "hint": "à + le (cinéma, masculin)" }],
+      "explanation": "Cinéma est masculin : à + le = au cinéma."
+    },
+    {
+      "text": "Elle parle {1} étudiants de la classe.",
+      "blanks": [{ "answer": "aux", "options": ["à", "au", "à la", "aux"], "hint": "à + les (pluriel)" }],
+      "explanation": "Étudiants est pluriel : à + les = aux étudiants."
+    },
+    {
+      "text": "Nous allons {1} piscine le samedi.",
+      "blanks": [{ "answer": "à la", "options": ["au", "à la", "à l'", "aux"], "hint": "piscine est féminin" }],
+      "explanation": "Piscine est féminin singulier (commençant par une consonne) : à la piscine, sans contraction."
+    },
+    {
+      "text": "C'est le livre {1} professeur.",
+      "blanks": [{ "answer": "du", "options": ["de", "du", "de la", "des"], "hint": "de + le (professeur, masculin)" }],
+      "explanation": "Professeur est masculin : de + le = du professeur."
+    },
+    {
+      "text": "Voici les clés {1} voisins.",
+      "blanks": [{ "answer": "des", "options": ["de", "du", "de la", "des"], "hint": "de + les (pluriel)" }],
+      "explanation": "Voisins est pluriel : de + les = des voisins."
+    },
+    {
+      "text": "Quelle est la couleur {1} voiture ?",
+      "blanks": [{ "answer": "de la", "options": ["du", "de la", "de l'", "des"], "hint": "voiture est féminin" }],
+      "explanation": "Voiture est féminin singulier (consonne initiale) : de la voiture, sans contraction."
+    },
+    {
+      "text": "Cet été, nous voyageons {1} France.",
+      "blanks": [{ "answer": "en", "options": ["en", "au", "à", "aux"], "hint": "pays féminin" }],
+      "explanation": "La France est un pays féminin : on emploie en. En France."
+    },
+    {
+      "text": "Mon frère habite {1} Japon depuis deux ans.",
+      "blanks": [{ "answer": "au", "options": ["en", "au", "à", "aux"], "hint": "pays masculin" }],
+      "explanation": "Le Japon est un pays masculin : on emploie au. Au Japon."
+    },
+    {
+      "text": "Ils partent en vacances {1} États-Unis.",
+      "blanks": [{ "answer": "aux", "options": ["en", "au", "à", "aux"], "hint": "pays au pluriel" }],
+      "explanation": "Les États-Unis est un nom de pays pluriel : on emploie aux. Aux États-Unis."
+    },
+    {
+      "text": "Je dois aller {1} le médecin demain.",
+      "blanks": [{ "answer": "chez", "options": ["à", "au", "chez", "en"], "hint": "devant une personne" }],
+      "explanation": "Devant une personne (le médecin), on emploie chez : chez le médecin."
+    },
+    {
+      "text": "Ce soir, on dîne {1} moi.",
+      "blanks": [{ "answer": "chez", "options": ["à", "au", "chez", "en"], "hint": "« à la maison de » + pronom" }],
+      "explanation": "Chez + pronom signifie « à la maison de » : chez moi."
+    },
+    {
+      "text": "Elle étudie l'italien parce qu'elle veut vivre {1} Italie.",
+      "blanks": [{ "answer": "en", "options": ["en", "au", "à", "aux"], "hint": "pays féminin commençant par une voyelle" }],
+      "explanation": "L'Italie est un pays féminin : on emploie en. En Italie."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "en-articles-a1",
+  "lang": "en",
+  "topic": "articles",
+  "level": "A1",
+  "type": "cloze",
+  "title": "A, an, the, or nothing?",
+  "lesson": "Use 'a' before a consonant sound and 'an' before a vowel sound for one thing we mention for the first time. Use 'the' when it is clear which thing we mean. Use '—' (no article) for plural or uncountable nouns talked about in general.",
+  "items": [
+    {
+      "text": "I have {1} cat.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
+      ],
+      "explanation": "Use 'a' before a consonant sound: a cat."
+    },
+    {
+      "text": "She is eating {1} apple.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "Use 'an' before a vowel sound: an apple."
+    },
+    {
+      "text": "Look at {1} sun. It is very bright today.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "there is only one" }
+      ],
+      "explanation": "Use 'the' for something unique: there is only one sun."
+    },
+    {
+      "text": "{1} elephant is a big animal.",
+      "blanks": [
+        { "answer": "An", "options": ["A", "An", "The", "—"], "hint": "vowel sound, start of sentence" }
+      ],
+      "explanation": "Use 'an' before a vowel sound: an elephant. It is capitalized at the start of the sentence."
+    },
+    {
+      "text": "I like {1} dogs.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "plural noun in general" }
+      ],
+      "explanation": "Use no article for plural nouns talked about in general: I like dogs."
+    },
+    {
+      "text": "He is reading {1} book.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
+      ],
+      "explanation": "Use 'a' before a consonant sound: a book."
+    },
+    {
+      "text": "We saw {1} bird and {2} owl in the garden.",
+      "blanks": [
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" },
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "Use 'a' before a consonant sound (a bird) and 'an' before a vowel sound (an owl)."
+    },
+    {
+      "text": "Please close {1} door.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "we both know which one" }
+      ],
+      "explanation": "Use 'the' when it is clear which thing we mean: the door of this room."
+    },
+    {
+      "text": "I drink {1} water every morning.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "uncountable noun in general" }
+      ],
+      "explanation": "Use no article with uncountable nouns talked about in general: I drink water."
+    },
+    {
+      "text": "There is {1} egg on the plate.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" }
+      ],
+      "explanation": "Use 'an' before a vowel sound: an egg."
+    },
+    {
+      "text": "{1} moon is beautiful tonight.",
+      "blanks": [
+        { "answer": "The", "options": ["A", "An", "The", "—"], "hint": "there is only one" }
+      ],
+      "explanation": "Use 'the' for something unique: there is only one moon. It is capitalized at the start of the sentence."
+    },
+    {
+      "text": "She has {1} orange and {2} banana.",
+      "blanks": [
+        { "answer": "an", "options": ["a", "an", "the", "—"], "hint": "vowel sound" },
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
+      ],
+      "explanation": "Use 'an' before a vowel sound (an orange) and 'a' before a consonant sound (a banana)."
+    }
+  ]
+}

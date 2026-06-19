@@ -5,60 +5,11 @@
       "name": "English",
       "exercises": [
         {
-          "id": "en-articles-basic",
+          "id": "en-articles-a1",
           "topic": "articles",
-          "level": "A2",
+          "level": "A1",
           "title": "A, an, the, or nothing?",
-          "file": "en/articles-basic.json"
-        },
-        {
-          "id": "en-articles-geography",
-          "topic": "articles",
-          "level": "B1",
-          "title": "Articles with place names",
-          "file": "en/articles-geography.json"
-        },
-        {
-          "id": "en-articles-expressions",
-          "topic": "articles",
-          "level": "B1",
-          "title": "Articles in fixed expressions",
-          "file": "en/articles-expressions.json"
-        },
-        {
-          "id": "en-verbs-past-simple",
-          "topic": "verb-tenses",
-          "level": "A2",
-          "title": "Past simple: write the correct form",
-          "file": "en/verbs-past-simple.json"
-        },
-        {
-          "id": "en-verbs-present-perfect",
-          "topic": "verb-tenses",
-          "level": "B1",
-          "title": "Present perfect: write the correct form",
-          "file": "en/verbs-present-perfect.json"
-        },
-        {
-          "id": "en-verbs-future-will",
-          "topic": "verb-tenses",
-          "level": "A2",
-          "title": "Future with 'will': write the correct form",
-          "file": "en/verbs-future-will.json"
-        },
-        {
-          "id": "en-prepositions-time-place",
-          "topic": "prepositions",
-          "level": "A2",
-          "title": "in, on, or at? (time and place)",
-          "file": "en/prepositions-time-place.json"
-        },
-        {
-          "id": "en-comparatives",
-          "topic": "comparatives",
-          "level": "A2",
-          "title": "Comparatives: write the comparative form",
-          "file": "en/comparatives.json"
+          "file": "en/articles-a1.json"
         },
         {
           "id": "en-plurals",
@@ -68,25 +19,11 @@
           "file": "en/plurals.json"
         },
         {
-          "id": "en-conditionals",
-          "topic": "conditionals",
-          "level": "B1",
-          "title": "Conditionals: choose the correct verb form",
-          "file": "en/conditionals.json"
-        },
-        {
-          "id": "en-modals",
-          "topic": "modal-verbs",
-          "level": "A2",
-          "title": "Modal verbs: choose the right modal",
-          "file": "en/modals.json"
-        },
-        {
-          "id": "en-questions",
-          "topic": "question-formation",
-          "level": "A2",
-          "title": "Questions: turn each statement into a question",
-          "file": "en/questions.json"
+          "id": "en-present-simple-a1",
+          "topic": "present-simple",
+          "level": "A1",
+          "title": "Present simple: everyday verbs and 'be'",
+          "file": "en/present-simple-a1.json"
         },
         {
           "id": "en-pronouns",
@@ -96,11 +33,165 @@
           "file": "en/pronouns.json"
         },
         {
+          "id": "en-articles-basic",
+          "topic": "articles",
+          "level": "A2",
+          "title": "A, an, the, or nothing?",
+          "file": "en/articles-basic.json"
+        },
+        {
+          "id": "en-comparatives",
+          "topic": "comparatives",
+          "level": "A2",
+          "title": "Comparatives: write the comparative form",
+          "file": "en/comparatives.json"
+        },
+        {
+          "id": "en-verbs-future-will",
+          "topic": "future-forms",
+          "level": "A2",
+          "title": "The future: write the correct form",
+          "file": "en/verbs-future-will.json"
+        },
+        {
+          "id": "en-modals",
+          "topic": "modal-verbs",
+          "level": "A2",
+          "title": "Modal verbs: choose the right modal",
+          "file": "en/modals.json"
+        },
+        {
+          "id": "en-verbs-past-simple",
+          "topic": "past-simple",
+          "level": "A2",
+          "title": "Past simple: write the correct form",
+          "file": "en/verbs-past-simple.json"
+        },
+        {
+          "id": "en-prepositions-time-place",
+          "topic": "prepositions",
+          "level": "A2",
+          "title": "in, on, or at? (time and place)",
+          "file": "en/prepositions-time-place.json"
+        },
+        {
+          "id": "en-questions",
+          "topic": "question-formation",
+          "level": "A2",
+          "title": "Questions: turn each statement into a question",
+          "file": "en/questions.json"
+        },
+        {
+          "id": "en-articles-expressions",
+          "topic": "articles",
+          "level": "B1",
+          "title": "Articles in fixed expressions",
+          "file": "en/articles-expressions.json"
+        },
+        {
+          "id": "en-articles-geography",
+          "topic": "articles",
+          "level": "B1",
+          "title": "Articles with place names",
+          "file": "en/articles-geography.json"
+        },
+        {
+          "id": "en-conditionals",
+          "topic": "conditionals",
+          "level": "B1",
+          "title": "Conditionals: choose the correct verb form",
+          "file": "en/conditionals.json"
+        },
+        {
+          "id": "en-passive-voice-b1",
+          "topic": "passive-voice",
+          "level": "B1",
+          "title": "Passive voice: present and past simple",
+          "file": "en/passive-voice-b1.json"
+        },
+        {
+          "id": "en-verbs-present-perfect",
+          "topic": "present-perfect",
+          "level": "B1",
+          "title": "Present perfect: write the correct form",
+          "file": "en/verbs-present-perfect.json"
+        },
+        {
+          "id": "en-relative-clauses-b1",
+          "topic": "relative-clauses",
+          "level": "B1",
+          "title": "Relative clauses: who, which, that, whose, where, when",
+          "file": "en/relative-clauses-b1.json"
+        },
+        {
+          "id": "en-gerunds-infinitives-b2",
+          "topic": "gerunds-infinitives",
+          "level": "B2",
+          "title": "Gerunds and infinitives",
+          "file": "en/gerunds-infinitives-b2.json"
+        },
+        {
+          "id": "en-mixed-conditionals-b2",
+          "topic": "mixed-conditionals",
+          "level": "B2",
+          "title": "Mixed conditionals, wish and if only",
+          "file": "en/mixed-conditionals-b2.json"
+        },
+        {
           "id": "en-phrasal-verbs",
           "topic": "phrasal-verbs",
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
           "file": "en/phrasal-verbs.json"
+        },
+        {
+          "id": "en-reported-speech-b2",
+          "topic": "reported-speech",
+          "level": "B2",
+          "title": "Reported speech",
+          "file": "en/reported-speech-b2.json"
+        },
+        {
+          "id": "en-advanced-connectors-c1",
+          "topic": "advanced-connectors",
+          "level": "C1",
+          "title": "Advanced connectors and discourse markers",
+          "file": "en/advanced-connectors-c1.json"
+        },
+        {
+          "id": "en-cleft-sentences-c1",
+          "topic": "cleft-sentences",
+          "level": "C1",
+          "title": "Cleft sentences: it-clefts and wh-clefts",
+          "file": "en/cleft-sentences-c1.json"
+        },
+        {
+          "id": "en-inversion-c1",
+          "topic": "inversion",
+          "level": "C1",
+          "title": "Inversion after negative and restrictive adverbials",
+          "file": "en/inversion-c1.json"
+        },
+        {
+          "id": "en-discourse-markers-c2",
+          "topic": "discourse-markers",
+          "level": "C2",
+          "title": "Sophisticated discourse markers and register",
+          "file": "en/discourse-markers-c2.json"
+        },
+        {
+          "id": "en-formal-subjunctive-c2",
+          "topic": "formal-subjunctive",
+          "level": "C2",
+          "title": "The formal subjunctive and irrealis 'were'",
+          "file": "en/formal-subjunctive-c2.json"
+        },
+        {
+          "id": "en-nuanced-modality-c2",
+          "topic": "nuanced-modality",
+          "level": "C2",
+          "title": "Fine shades of modal meaning",
+          "file": "en/nuanced-modality-c2.json"
         }
       ]
     },
@@ -117,10 +208,80 @@
         },
         {
           "id": "fr-verbs-present-er",
-          "topic": "verb-tenses",
+          "topic": "er-verbs",
           "level": "A1",
           "title": "Présent des verbes en -er",
           "file": "fr/verbs-present-er.json"
+        },
+        {
+          "id": "fr-gender-number-a1",
+          "topic": "gender-number",
+          "level": "A1",
+          "title": "un, une ou des ?",
+          "file": "fr/gender-number-a1.json"
+        },
+        {
+          "id": "fr-subject-pronouns-a1",
+          "topic": "subject-pronouns",
+          "level": "A1",
+          "title": "Pronoms sujets et le verbe être",
+          "file": "fr/subject-pronouns-a1.json"
+        },
+        {
+          "id": "fr-adjective-agreement-a2",
+          "topic": "adjective-agreement",
+          "level": "A2",
+          "title": "L'accord des adjectifs",
+          "file": "fr/adjective-agreement-a2.json"
+        },
+        {
+          "id": "fr-futur-proche-a2",
+          "topic": "futur-proche",
+          "level": "A2",
+          "title": "Le futur proche (aller + infinitif)",
+          "file": "fr/futur-proche-a2.json"
+        },
+        {
+          "id": "fr-passe-compose-a2",
+          "topic": "passe-compose",
+          "level": "A2",
+          "title": "Le passé composé (avoir et être)",
+          "file": "fr/passe-compose-a2.json"
+        },
+        {
+          "id": "fr-prepositions-a2",
+          "topic": "prepositions",
+          "level": "A2",
+          "title": "Les prépositions (à, de, en, chez)",
+          "file": "fr/prepositions-a2.json"
+        },
+        {
+          "id": "fr-conditional-b1",
+          "topic": "conditional",
+          "level": "B1",
+          "title": "Le conditionnel présent",
+          "file": "fr/conditional-b1.json"
+        },
+        {
+          "id": "fr-imparfait-vs-passe-compose-b1",
+          "topic": "imparfait-vs-passe-compose",
+          "level": "B1",
+          "title": "Imparfait ou passé composé ?",
+          "file": "fr/imparfait-vs-passe-compose-b1.json"
+        },
+        {
+          "id": "fr-relative-pronouns-b1",
+          "topic": "relative-pronouns",
+          "level": "B1",
+          "title": "Les pronoms relatifs",
+          "file": "fr/relative-pronouns-b1.json"
+        },
+        {
+          "id": "fr-subjunctive-present-b1",
+          "topic": "subjunctive-present",
+          "level": "B1",
+          "title": "Le subjonctif présent",
+          "file": "fr/subjunctive-present-b1.json"
         }
       ]
     }

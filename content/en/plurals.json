@@ -36,6 +36,36 @@
       "text": "one tomato, two {1}",
       "blanks": [{ "cue": "tomato", "answer": ["tomatoes"] }],
       "explanation": "Some nouns ending in -o add -es: tomato → tomatoes."
+    },
+    {
+      "text": "one cat, two {1}",
+      "blanks": [{ "cue": "cat", "answer": ["cats"] }],
+      "explanation": "Most nouns just add -s: cat → cats."
+    },
+    {
+      "text": "one woman, two {1}",
+      "blanks": [{ "cue": "woman", "answer": ["women"] }],
+      "explanation": "Irregular plural: woman → women."
+    },
+    {
+      "text": "one foot, two {1}",
+      "blanks": [{ "cue": "foot", "answer": ["feet"] }],
+      "explanation": "Irregular plural: foot → feet."
+    },
+    {
+      "text": "one tooth, two {1}",
+      "blanks": [{ "cue": "tooth", "answer": ["teeth"] }],
+      "explanation": "Irregular plural: tooth → teeth."
+    },
+    {
+      "text": "one mouse, two {1}",
+      "blanks": [{ "cue": "mouse", "answer": ["mice"] }],
+      "explanation": "Irregular plural: mouse → mice."
+    },
+    {
+      "text": "one knife, two {1}",
+      "blanks": [{ "cue": "knife", "answer": ["knives"] }],
+      "explanation": "Nouns ending in -fe change to -ves: knife → knives."
     }
   ]
 }

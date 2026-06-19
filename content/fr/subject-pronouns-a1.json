@@ -1,0 +1,71 @@
+{
+  "id": "fr-subject-pronouns-a1",
+  "lang": "fr",
+  "topic": "subject-pronouns",
+  "level": "A1",
+  "type": "fill",
+  "title": "Pronoms sujets et le verbe être",
+  "lesson": "Les pronoms sujets sont je, tu, il, elle, nous, vous, ils, elles. Le verbe 'être' au présent se conjugue : je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. 'Je' devient 'j'' devant une voyelle.",
+  "items": [
+    {
+      "text": "Je {1} étudiant.",
+      "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "je + être" }],
+      "explanation": "Avec 'je', le verbe être se conjugue 'suis' (je suis)."
+    },
+    {
+      "text": "Tu {1} français.",
+      "blanks": [{ "cue": "être", "answer": ["es"], "hint": "tu + être" }],
+      "explanation": "Avec 'tu', le verbe être se conjugue 'es' (tu es)."
+    },
+    {
+      "text": "Il {1} grand.",
+      "blanks": [{ "cue": "être", "answer": ["est"], "hint": "il + être" }],
+      "explanation": "Avec 'il', le verbe être se conjugue 'est' (il est)."
+    },
+    {
+      "text": "Elle {1} contente.",
+      "blanks": [{ "cue": "être", "answer": ["est"], "hint": "elle + être" }],
+      "explanation": "Avec 'elle', le verbe être se conjugue 'est' (elle est)."
+    },
+    {
+      "text": "Nous {1} amis.",
+      "blanks": [{ "cue": "être", "answer": ["sommes"], "hint": "nous + être" }],
+      "explanation": "Avec 'nous', le verbe être se conjugue 'sommes' (nous sommes)."
+    },
+    {
+      "text": "Vous {1} en retard.",
+      "blanks": [{ "cue": "être", "answer": ["êtes"], "hint": "vous + être" }],
+      "explanation": "Avec 'vous', le verbe être se conjugue 'êtes' (vous êtes), avec un accent circonflexe."
+    },
+    {
+      "text": "Ils {1} à la maison.",
+      "blanks": [{ "cue": "être", "answer": ["sont"], "hint": "ils + être" }],
+      "explanation": "Avec 'ils', le verbe être se conjugue 'sont' (ils sont)."
+    },
+    {
+      "text": "Elles {1} fatiguées.",
+      "blanks": [{ "cue": "être", "answer": ["sont"], "hint": "elles + être" }],
+      "explanation": "Avec 'elles', le verbe être se conjugue 'sont' (elles sont)."
+    },
+    {
+      "text": "{1} es très gentil.",
+      "blanks": [{ "cue": "pronom : 2e personne du singulier", "answer": ["Tu"], "hint": "qui va avec 'es' ?" }],
+      "explanation": "La forme 'es' correspond au pronom 'tu' (tu es). En début de phrase, on écrit 'Tu' avec une majuscule."
+    },
+    {
+      "text": "{1} sommes à Paris.",
+      "blanks": [{ "cue": "pronom : 1re personne du pluriel", "answer": ["Nous"], "hint": "qui va avec 'sommes' ?" }],
+      "explanation": "La forme 'sommes' correspond au pronom 'nous' (nous sommes). En début de phrase, on écrit 'Nous'."
+    },
+    {
+      "text": "J' {1} content.",
+      "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "j' + être" }],
+      "explanation": "Devant une voyelle, 'je' s'élide en 'j'' (j'ai, j'aime). Avec être, on dit 'je suis' : la forme reste 'suis'."
+    },
+    {
+      "text": "{1} est professeur.",
+      "blanks": [{ "cue": "pronom : 3e personne du singulier masculin", "answer": ["Il"], "hint": "qui va avec 'est' ?" }],
+      "explanation": "Pour un homme, on utilise le pronom 'il' (il est). En début de phrase, on écrit 'Il'."
+    }
+  ]
+}

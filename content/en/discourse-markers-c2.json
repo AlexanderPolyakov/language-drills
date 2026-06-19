@@ -1,0 +1,95 @@
+{
+  "id": "en-discourse-markers-c2",
+  "lang": "en",
+  "topic": "discourse-markers",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Sophisticated discourse markers and register",
+  "lesson": "Advanced cohesion depends on choosing the marker whose precise logical relation and register fit the context. Concessive 'nonetheless' and the very formal 'notwithstanding' (which can also be a preposition) override a preceding point; 'albeit' introduces a clipped concession; 'granted (that)' concedes before objecting. 'Conversely' flags an inverse relationship; 'insofar as' limits a claim to the extent something holds. Summative 'by and large' and 'to all intents and purposes' generalise; 'that said' pivots to qualification; 'all the more so' intensifies a reason just given.",
+  "items": [
+    {
+      "text": "The expedition was under-funded and poorly equipped; {1}, it reached the summit ahead of schedule.",
+      "blanks": [
+        { "answer": "nonetheless", "options": ["nonetheless", "insofar as", "conversely"], "hint": "concession: 'in spite of that'" }
+      ],
+      "explanation": "'Nonetheless' (and 'nevertheless') concedes the difficulties yet asserts a surprising result. 'Insofar as' restricts a claim and 'conversely' flags an opposite, neither of which fits a straightforward concession."
+    },
+    {
+      "text": "{1} the committee's reservations, the funding was approved in full.",
+      "blanks": [
+        { "answer": "Notwithstanding", "options": ["Notwithstanding", "Conversely", "Insofar as"], "hint": "very formal preposition meaning 'despite'" }
+      ],
+      "explanation": "'Notwithstanding' here is a formal preposition equivalent to 'despite' or 'in spite of', taking a noun phrase directly. The alternatives are adverbial connectors and cannot govern 'the committee's reservations' this way."
+    },
+    {
+      "text": "Northern dialects lengthen the vowel in such words; {1}, southern speakers tend to clip it.",
+      "blanks": [
+        { "answer": "conversely", "options": ["conversely", "albeit", "granted"], "hint": "introduces the inverse/opposite case" }
+      ],
+      "explanation": "'Conversely' signals that the second clause is the inverse of the first (lengthen vs clip). 'Albeit' introduces a concession and 'granted' a concessive admission, neither of which marks an opposite pattern."
+    },
+    {
+      "text": "The theory holds {1} we restrict it to ideal gases; beyond that, its predictions break down.",
+      "blanks": [
+        { "answer": "insofar as", "options": ["insofar as", "nonetheless", "notwithstanding"], "hint": "'to the extent that'; limits the claim's scope" }
+      ],
+      "explanation": "'Insofar as' delimits the extent to which a statement is true ('to the degree that'). The sentence restricts the theory's validity to a condition, which is exactly this marker's function."
+    },
+    {
+      "text": "She accepted the post, {1} with considerable reluctance, once the terms were improved.",
+      "blanks": [
+        { "answer": "albeit", "options": ["albeit", "conversely", "by and large"], "hint": "compressed concession before a phrase, = 'though'" }
+      ],
+      "explanation": "'Albeit' introduces a concessive phrase compactly (= 'though it was'), typically attaching to an adjective or adverbial, not a full clause with a new subject. 'By and large' generalises and does not fit a concession."
+    },
+    {
+      "text": "{1} that the data are incomplete, the trend they reveal is still unmistakable.",
+      "blanks": [
+        { "answer": "Granted", "options": ["Granted", "Conversely", "Insofar as"], "hint": "concede a point first, then push back" }
+      ],
+      "explanation": "'Granted (that)' concedes an opposing point up front before the speaker presses on with their own ('...the trend is still unmistakable'). It sets up a concession-then-rebuttal that 'conversely' and 'insofar as' cannot."
+    },
+    {
+      "text": "The two firms have separate names, but {1} they now operate as a single company.",
+      "blanks": [
+        { "answer": "to all intents and purposes", "options": ["to all intents and purposes", "all the more so", "insofar as"], "hint": "'in every practical respect', though not officially" }
+      ],
+      "explanation": "'To all intents and purposes' means 'in every practical sense, if not the formal one' — a perfect fit for entities that are technically distinct yet effectively one. The other markers do not carry this 'in practice' meaning."
+    },
+    {
+      "text": "There were a few dull stretches, but {1} the novel is gripping and beautifully paced.",
+      "blanks": [
+        { "answer": "by and large", "options": ["by and large", "notwithstanding", "conversely"], "hint": "'on the whole / generally speaking'" }
+      ],
+      "explanation": "'By and large' generalises across the whole while allowing minor exceptions ('on the whole'). It fits the move from a small caveat to an overall verdict; the others do not generalise."
+    },
+    {
+      "text": "The new policy will cut costs significantly. {1}, it risks alienating long-standing customers.",
+      "blanks": [
+        { "answer": "That said", "options": ["That said", "All the more so", "Insofar as"], "hint": "pivot to a qualifying counterpoint" }
+      ],
+      "explanation": "'That said' acknowledges what has just been stated and then pivots to a qualification or counterpoint ('having said that'). 'All the more so' would intensify the prior point rather than qualify it."
+    },
+    {
+      "text": "Mentoring matters for every junior employee, and {1} for those without a university background.",
+      "blanks": [
+        { "answer": "all the more so", "options": ["all the more so", "that said", "conversely"], "hint": "intensifies the point just made for a special case" }
+      ],
+      "explanation": "'All the more so' strengthens a claim for a particular case — the reasoning applies, and even more forcefully here. 'That said' would reverse direction and 'conversely' would introduce an opposite, both wrong here."
+    },
+    {
+      "text": "Your objection is reasonable; {1}, the deadline is fixed and cannot be moved.",
+      "blanks": [
+        { "answer": "be that as it may", "options": ["be that as it may", "all the more so", "insofar as"], "hint": "concede, then override: 'even so'" }
+      ],
+      "explanation": "'Be that as it may' concedes the validity of the previous statement while declaring it will not change the outcome ('even so'). It is more emphatic and formal than a plain 'but'; the alternatives do not perform this concede-and-override move."
+    },
+    {
+      "text": "The lecture, {1} brief, managed to cover every essential point in the syllabus.",
+      "blanks": [
+        { "answer": "albeit", "options": ["albeit", "nonetheless", "to all intents and purposes"], "hint": "concessive 'although it was', fronting an adjective" }
+      ],
+      "explanation": "'Albeit' fits neatly before a single adjective ('albeit brief' = 'although it was brief'). 'Nonetheless' is a sentence adverb that cannot bridge directly into the adjective this way, and the summative phrase does not concede."
+    }
+  ]
+}

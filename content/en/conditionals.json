@@ -52,6 +52,46 @@
         { "answer": "would be", "options": ["would be", "will be", "would have been"], "hint": "present result of a past condition" }
       ],
       "explanation": "Third conditional for the past action (had left / would have caught), but 'would be' — not 'would have been' — for a present result: she would be home by now."
+    },
+    {
+      "text": "If you {1} water to 100°C, it {2}.",
+      "blanks": [
+        { "answer": "heat", "options": ["heat", "will heat", "heated"], "hint": "zero conditional 'if' clause" },
+        { "answer": "boils", "options": ["boils", "will boil", "would boil"], "hint": "zero conditional result" }
+      ],
+      "explanation": "Zero conditional for scientific facts: present simple in both clauses (heat … boils)."
+    },
+    {
+      "text": "If we {1} now, we {2} the start of the film.",
+      "blanks": [
+        { "answer": "leave", "options": ["leave", "will leave", "left"], "hint": "first conditional 'if' clause" },
+        { "answer": "won't miss", "options": ["won't miss", "wouldn't miss", "didn't miss"], "hint": "first conditional negative result" }
+      ],
+      "explanation": "First conditional: if + present simple (leave), will/won't + base verb (won't miss) for a realistic future."
+    },
+    {
+      "text": "If I {1} you, I {2} the job.",
+      "blanks": [
+        { "answer": "were", "options": ["were", "am", "will be"], "hint": "unreal present, advice" },
+        { "answer": "would accept", "options": ["would accept", "will accept", "accepted"], "hint": "second conditional result" }
+      ],
+      "explanation": "Second conditional for advice in an unreal situation: 'If I were you, I would accept…' ('were' for all persons)."
+    },
+    {
+      "text": "If she {1} more time, she {2} a longer trip.",
+      "blanks": [
+        { "answer": "had", "options": ["had", "has", "will have"], "hint": "unreal present 'if' clause" },
+        { "answer": "would take", "options": ["would take", "will take", "took"], "hint": "second conditional result" }
+      ],
+      "explanation": "Second conditional for an imagined present situation: if + past simple (had), would + base verb (would take)."
+    },
+    {
+      "text": "If we {1} the map, we {2} lost.",
+      "blanks": [
+        { "answer": "had brought", "options": ["had brought", "brought", "have brought"], "hint": "third conditional 'if' clause" },
+        { "answer": "wouldn't have got", "options": ["wouldn't have got", "won't get", "wouldn't get"], "hint": "third conditional negative result" }
+      ],
+      "explanation": "Third conditional for an unreal past: if + past perfect (had brought), would(n't) have + past participle (wouldn't have got)."
     }
   ]
 }

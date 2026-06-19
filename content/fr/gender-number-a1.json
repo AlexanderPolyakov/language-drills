@@ -1,0 +1,96 @@
+{
+  "id": "fr-gender-number-a1",
+  "lang": "fr",
+  "topic": "gender-number",
+  "level": "A1",
+  "type": "cloze",
+  "title": "un, une ou des ?",
+  "lesson": "L'article indéfini change selon le genre et le nombre : 'un' devant un nom masculin singulier (un livre), 'une' devant un nom féminin singulier (une table), et 'des' devant un nom pluriel, masculin ou féminin (des chats, des maisons).",
+  "items": [
+    {
+      "text": "J'ai {1} livre.",
+      "blanks": [
+        { "answer": "un", "options": ["un", "une", "des"], "hint": "masculin singulier" }
+      ],
+      "explanation": "'Livre' est masculin singulier, donc on utilise 'un' (un livre)."
+    },
+    {
+      "text": "Il y a {1} table dans la cuisine.",
+      "blanks": [
+        { "answer": "une", "options": ["un", "une", "des"], "hint": "féminin singulier" }
+      ],
+      "explanation": "'Table' est féminin singulier, donc on utilise 'une' (une table)."
+    },
+    {
+      "text": "Je vois {1} chats dans le jardin.",
+      "blanks": [
+        { "answer": "des", "options": ["un", "une", "des"], "hint": "pluriel" }
+      ],
+      "explanation": "'Chats' est au pluriel, donc on utilise 'des' (des chats)."
+    },
+    {
+      "text": "Elle achète {1} pomme.",
+      "blanks": [
+        { "answer": "une", "options": ["un", "une", "des"], "hint": "féminin singulier" }
+      ],
+      "explanation": "'Pomme' est féminin singulier, donc on utilise 'une' (une pomme)."
+    },
+    {
+      "text": "C'est {1} chien noir.",
+      "blanks": [
+        { "answer": "un", "options": ["un", "une", "des"], "hint": "masculin singulier" }
+      ],
+      "explanation": "'Chien' est masculin singulier, donc on utilise 'un' (un chien)."
+    },
+    {
+      "text": "Nous avons {1} amis à Paris.",
+      "blanks": [
+        { "answer": "des", "options": ["un", "une", "des"], "hint": "pluriel" }
+      ],
+      "explanation": "'Amis' est au pluriel, donc on utilise 'des' (des amis)."
+    },
+    {
+      "text": "Tu manges {1} banane.",
+      "blanks": [
+        { "answer": "une", "options": ["un", "une", "des"], "hint": "féminin singulier" }
+      ],
+      "explanation": "'Banane' est féminin singulier, donc on utilise 'une' (une banane)."
+    },
+    {
+      "text": "Il y a {1} stylo sur la table.",
+      "blanks": [
+        { "answer": "un", "options": ["un", "une", "des"], "hint": "masculin singulier" }
+      ],
+      "explanation": "'Stylo' est masculin singulier, donc on utilise 'un' (un stylo)."
+    },
+    {
+      "text": "Je voudrais {1} voiture rouge.",
+      "blanks": [
+        { "answer": "une", "options": ["un", "une", "des"], "hint": "féminin singulier" }
+      ],
+      "explanation": "'Voiture' est féminin singulier, donc on utilise 'une' (une voiture)."
+    },
+    {
+      "text": "Elle a {1} fleurs sur la fenêtre.",
+      "blanks": [
+        { "answer": "des", "options": ["un", "une", "des"], "hint": "pluriel" }
+      ],
+      "explanation": "'Fleurs' est au pluriel, donc on utilise 'des' (des fleurs)."
+    },
+    {
+      "text": "C'est {1} maison blanche.",
+      "blanks": [
+        { "answer": "une", "options": ["un", "une", "des"], "hint": "féminin singulier" }
+      ],
+      "explanation": "'Maison' est féminin singulier, donc on utilise 'une' (une maison)."
+    },
+    {
+      "text": "Il porte {1} sac et {2} chaussures.",
+      "blanks": [
+        { "answer": "un", "options": ["un", "une", "des"], "hint": "masculin singulier" },
+        { "answer": "des", "options": ["un", "une", "des"], "hint": "pluriel" }
+      ],
+      "explanation": "'Sac' est masculin singulier (un sac) ; 'chaussures' est au pluriel (des chaussures)."
+    }
+  ]
+}

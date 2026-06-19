@@ -1,0 +1,71 @@
+{
+  "id": "fr-relative-pronouns-b1",
+  "lang": "fr",
+  "topic": "relative-pronouns",
+  "level": "B1",
+  "type": "cloze",
+  "title": "Les pronoms relatifs",
+  "lesson": "Les pronoms relatifs relient deux propositions en évitant une répétition. « qui » remplace le sujet du verbe qui suit. « que » remplace le complément d'objet direct (COD). « où » remplace un complément de lieu ou de temps. « dont » remplace un complément introduit par « de » (verbe, nom ou adjectif construit avec « de »). « ce qui » et « ce que » s'emploient quand l'antécédent est neutre ou indéfini : « ce qui » est sujet, « ce que » est COD.",
+  "items": [
+    {
+      "text": "C'est le professeur {1} enseigne l'histoire.",
+      "blanks": [{ "answer": "qui", "options": ["qui", "que", "dont"], "hint": "sujet du verbe enseigne" }],
+      "explanation": "Le pronom est le sujet de « enseigne », donc on emploie qui."
+    },
+    {
+      "text": "Le livre {1} tu m'as prêté est passionnant.",
+      "blanks": [{ "answer": "que", "options": ["qui", "que", "où"], "hint": "COD de tu as prêté" }],
+      "explanation": "Le pronom est le complément d'objet direct de « tu m'as prêté », donc on emploie que."
+    },
+    {
+      "text": "Voici la ville {1} je suis né.",
+      "blanks": [{ "answer": "où", "options": ["que", "où", "dont"], "hint": "complément de lieu" }],
+      "explanation": "Le pronom remplace un complément de lieu (« né dans cette ville »), donc on emploie où."
+    },
+    {
+      "text": "C'est le film {1} tout le monde parle.",
+      "blanks": [{ "answer": "dont", "options": ["que", "dont", "qui"], "hint": "parler de quelque chose" }],
+      "explanation": "On dit « parler de quelque chose » ; le pronom remplace ce complément en « de », donc dont."
+    },
+    {
+      "text": "Je ne comprends pas {1} se passe ici.",
+      "blanks": [{ "answer": "ce qui", "options": ["ce qui", "ce que", "qui"], "hint": "sujet neutre du verbe se passe" }],
+      "explanation": "L'antécédent est neutre et le pronom est sujet de « se passe » : on emploie ce qui."
+    },
+    {
+      "text": "Dis-moi {1} tu veux pour ton anniversaire.",
+      "blanks": [{ "answer": "ce que", "options": ["ce qui", "ce que", "que"], "hint": "COD neutre de tu veux" }],
+      "explanation": "L'antécédent est neutre et le pronom est COD de « tu veux » : on emploie ce que."
+    },
+    {
+      "text": "L'été est la saison {1} je préfère.",
+      "blanks": [{ "answer": "que", "options": ["qui", "que", "dont"], "hint": "COD de je préfère" }],
+      "explanation": "Le pronom est COD de « je préfère » (préférer quelque chose), donc que."
+    },
+    {
+      "text": "Le moment {1} il est arrivé, tout a changé.",
+      "blanks": [{ "answer": "où", "options": ["que", "où", "dont"], "hint": "complément de temps" }],
+      "explanation": "« où » s'emploie aussi pour le temps : « le moment où » signifie « au moment où »."
+    },
+    {
+      "text": "C'est une voiture {1} le prix est très élevé.",
+      "blanks": [{ "answer": "dont", "options": ["que", "dont", "où"], "hint": "le prix de la voiture" }],
+      "explanation": "« dont » remplace un complément du nom en « de » : « le prix de la voiture », donc dont."
+    },
+    {
+      "text": "Les amis {1} m'ont aidé sont très gentils.",
+      "blanks": [{ "answer": "qui", "options": ["qui", "que", "dont"], "hint": "sujet du verbe ont aidé" }],
+      "explanation": "Le pronom est le sujet de « ont aidé », donc on emploie qui."
+    },
+    {
+      "text": "Tout {1} brille n'est pas or.",
+      "blanks": [{ "answer": "ce qui", "options": ["ce qui", "ce que", "qui"], "hint": "sujet neutre du verbe brille" }],
+      "explanation": "Après « tout », l'antécédent est neutre et le pronom est sujet de « brille » : on emploie ce qui."
+    },
+    {
+      "text": "C'est exactement {1} j'avais besoin.",
+      "blanks": [{ "answer": "ce dont", "options": ["ce dont", "ce que", "ce qui"], "hint": "avoir besoin de quelque chose" }],
+      "explanation": "On dit « avoir besoin de quelque chose » ; avec un antécédent neutre, le complément en « de » donne ce dont."
+    }
+  ]
+}

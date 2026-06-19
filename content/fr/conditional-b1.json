@@ -1,0 +1,71 @@
+{
+  "id": "fr-conditional-b1",
+  "lang": "fr",
+  "topic": "conditional",
+  "level": "B1",
+  "type": "fill",
+  "title": "Le conditionnel présent",
+  "lesson": "Le conditionnel présent se forme avec le radical du futur simple suivi des terminaisons de l'imparfait : -ais, -ais, -ait, -ions, -iez, -aient. On l'emploie pour la politesse (je voudrais, pourriez-vous), pour exprimer un souhait, et dans la phrase hypothétique « Si + imparfait, conditionnel présent » : « Si j'avais le temps, je voyagerais. » Les radicaux irréguliers du futur se retrouvent au conditionnel : être → serais, avoir → aurais, aller → irais, faire → ferais, pouvoir → pourrais, vouloir → voudrais, venir → viendrais, devoir → devrais.",
+  "items": [
+    {
+      "text": "Si j'avais le temps, je {1} davantage.",
+      "blanks": [{ "cue": "voyager", "answer": ["voyagerais"], "hint": "Si + imparfait, conditionnel présent" }],
+      "explanation": "Dans « Si + imparfait », la principale est au conditionnel présent : voyager → je voyagerais."
+    },
+    {
+      "text": "Je {1} un café, s'il vous plaît.",
+      "blanks": [{ "cue": "vouloir", "answer": ["voudrais"], "hint": "politesse, radical irrégulier voudr-" }],
+      "explanation": "« je voudrais » exprime une demande polie. Vouloir a un radical irrégulier : voudr- + -ais = voudrais."
+    },
+    {
+      "text": "{1}-vous m'aider, s'il vous plaît ?",
+      "blanks": [{ "cue": "pouvoir", "answer": ["Pourriez"], "hint": "politesse, début de phrase (majuscule), radical pourr-" }],
+      "explanation": "Pour une demande polie, on utilise le conditionnel. Pouvoir : radical pourr- + -iez = pourriez (majuscule en début de phrase)."
+    },
+    {
+      "text": "Si tu étais riche, qu'est-ce que tu {1} ?",
+      "blanks": [{ "cue": "faire", "answer": ["ferais"], "hint": "Si + imparfait, conditionnel ; radical fer-" }],
+      "explanation": "Après « Si + imparfait », on emploie le conditionnel. Faire a le radical irrégulier fer- + -ais = ferais."
+    },
+    {
+      "text": "À ta place, je {1} plus prudent.",
+      "blanks": [{ "cue": "être", "answer": ["serais"], "hint": "conseil ; radical irrégulier ser-" }],
+      "explanation": "Le conditionnel exprime ici un conseil. Être a le radical irrégulier ser- + -ais = serais."
+    },
+    {
+      "text": "Nous {1} bien vous accompagner ce soir.",
+      "blanks": [{ "cue": "aimer", "answer": ["aimerions"], "hint": "souhait poli, nous" }],
+      "explanation": "« nous aimerions » exprime un souhait poli : radical du futur aimer- + -ions = aimerions."
+    },
+    {
+      "text": "Si nous gagnions au loto, nous {1} une grande maison.",
+      "blanks": [{ "cue": "acheter", "answer": ["achèterions"], "hint": "Si + imparfait, conditionnel ; accent grave" }],
+      "explanation": "Après « Si + imparfait », conditionnel présent. Acheter prend un accent grave au futur/conditionnel : achèter- + -ions = achèterions."
+    },
+    {
+      "text": "Il {1} venir avec nous, mais il est trop occupé.",
+      "blanks": [{ "cue": "aimer", "answer": ["aimerait"], "hint": "souhait, il" }],
+      "explanation": "Le conditionnel exprime un souhait non réalisé : aimer- + -ait = aimerait."
+    },
+    {
+      "text": "Si vous aviez une voiture, vous {1} plus facilement.",
+      "blanks": [{ "cue": "aller", "answer": ["iriez"], "hint": "Si + imparfait, conditionnel ; radical ir-" }],
+      "explanation": "Après « Si + imparfait », conditionnel. Aller a le radical irrégulier ir- + -iez = iriez."
+    },
+    {
+      "text": "Tu {1} faire attention à ce que tu dis.",
+      "blanks": [{ "cue": "devoir", "answer": ["devrais"], "hint": "conseil ; radical irrégulier devr-" }],
+      "explanation": "Le conditionnel de devoir exprime un conseil ou une obligation atténuée : devr- + -ais = devrais."
+    },
+    {
+      "text": "Si elle avait plus d'argent, elle {1} le monde entier.",
+      "blanks": [{ "cue": "visiter", "answer": ["visiterait"], "hint": "Si + imparfait, conditionnel, elle" }],
+      "explanation": "Après « Si + imparfait », conditionnel présent : visiter- + -ait = visiterait."
+    },
+    {
+      "text": "Ils {1} ravis de vous rencontrer un jour.",
+      "blanks": [{ "cue": "être", "answer": ["seraient"], "hint": "éventualité ; radical ser-, ils" }],
+      "explanation": "Le conditionnel exprime une éventualité. Être : ser- + -aient = seraient."
+    }
+  ]
+}

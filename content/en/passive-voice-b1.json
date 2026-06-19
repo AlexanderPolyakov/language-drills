@@ -1,0 +1,71 @@
+{
+  "id": "en-passive-voice-b1",
+  "lang": "en",
+  "topic": "passive-voice",
+  "level": "B1",
+  "type": "fill",
+  "title": "Passive voice: present and past simple",
+  "lesson": "In the passive, the object of the action becomes the subject. Form it with the verb 'be' + past participle: present simple (am/is/are + participle) or past simple (was/were + participle). Use the passive when the action matters more than who does it. If you mention the doer, introduce it with 'by': 'The window was broken by the boys.'",
+  "items": [
+    {
+      "text": "English {1} all over the world.",
+      "blanks": [{ "cue": "speak", "answer": ["is spoken"], "hint": "present simple passive, singular subject" }],
+      "explanation": "Present simple passive: is/are + past participle. 'English' is singular, so 'is spoken' (speak → spoken)."
+    },
+    {
+      "text": "These cars {1} in Germany.",
+      "blanks": [{ "cue": "make", "answer": ["are made"], "hint": "present simple passive, plural subject" }],
+      "explanation": "Present simple passive with a plural subject: 'are' + past participle. make → made."
+    },
+    {
+      "text": "The bridge {1} in 1932.",
+      "blanks": [{ "cue": "build", "answer": ["was built"], "hint": "past simple passive, singular subject" }],
+      "explanation": "Past simple passive: was/were + past participle. Singular subject 'bridge' takes 'was'; build → built."
+    },
+    {
+      "text": "The letters {1} yesterday.",
+      "blanks": [{ "cue": "send", "answer": ["were sent"], "hint": "past simple passive, plural subject" }],
+      "explanation": "Past simple passive with a plural subject: 'were' + past participle. send → sent."
+    },
+    {
+      "text": "This office {1} every morning.",
+      "blanks": [{ "cue": "clean", "answer": ["is cleaned"], "hint": "present simple passive, routine" }],
+      "explanation": "A regular action in the present uses the present simple passive: is + cleaned (regular -ed participle)."
+    },
+    {
+      "text": "The thief {1} by a neighbour.",
+      "blanks": [{ "cue": "catch", "answer": ["was caught"], "hint": "past simple passive with an agent" }],
+      "explanation": "Past simple passive: 'was' + caught (catch → caught). The doer is introduced with 'by': 'by a neighbour'."
+    },
+    {
+      "text": "Millions of emails {1} every day.",
+      "blanks": [{ "cue": "send", "answer": ["are sent"], "hint": "present simple passive, plural subject" }],
+      "explanation": "Present simple passive with a plural subject 'millions': 'are' + sent. send → sent."
+    },
+    {
+      "text": "The painting {1} by a famous artist in 1889.",
+      "blanks": [{ "cue": "paint", "answer": ["was painted"], "hint": "past simple passive with an agent" }],
+      "explanation": "Past simple passive: 'was' + painted. The agent follows 'by': 'by a famous artist'."
+    },
+    {
+      "text": "Rice {1} in many Asian countries.",
+      "blanks": [{ "cue": "grow", "answer": ["is grown"], "hint": "present simple passive, uncountable subject" }],
+      "explanation": "'Rice' is uncountable and treated as singular, so 'is grown' (grow → grown)."
+    },
+    {
+      "text": "The windows {1} during the storm last night.",
+      "blanks": [{ "cue": "break", "answer": ["were broken"], "hint": "past simple passive, plural subject" }],
+      "explanation": "Past simple passive with a plural subject 'windows': 'were' + broken. break → broken."
+    },
+    {
+      "text": "This song {1} by people of all ages.",
+      "blanks": [{ "cue": "love", "answer": ["is loved"], "hint": "present simple passive with an agent" }],
+      "explanation": "Present simple passive: 'is' + loved. The people who love it are introduced with 'by'."
+    },
+    {
+      "text": "The results {1} to the students last week.",
+      "blanks": [{ "cue": "explain", "answer": ["were explained"], "hint": "past simple passive, plural subject" }],
+      "explanation": "Past simple passive with a plural subject 'results': 'were' + explained (regular -ed participle)."
+    }
+  ]
+}
