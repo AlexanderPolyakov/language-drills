@@ -43,7 +43,7 @@
       "explanation": "The 'The reason (why) ... is/was that ...' frame emphasises a cause. The complement clause is introduced by 'that', and 'was' matches the past narrative."
     },
     {
-      "prompt": "I love its simplicity about this design. (rewrite beginning 'The thing that')",
+      "prompt": "I love the simplicity of this design. (rewrite beginning 'The thing that')",
       "answer": ["The thing that I love about this design is its simplicity.", "The thing I love about this design is its simplicity."],
       "explanation": "'The thing that ... is ...' is a wh-type cleft using 'the thing' instead of 'what'. The emphasised element 'its simplicity' takes end-focus."
     },
