@@ -5,67 +5,67 @@
   "level": "A2",
   "type": "fill",
   "title": "Le futur proche (aller + infinitif)",
-  "lesson": "Le futur proche exprime une action future, souvent proche ou certaine. Il se forme avec le verbe aller au présent (je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont) suivi d'un verbe à l'infinitif : Je vais manger. À la forme négative, le ne... pas entoure le verbe aller : Je ne vais pas manger.",
+  "lesson": "The futur proche (near future) expresses a future action, often near or certain. It is formed with the verb aller in the present (je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont) followed by a verb in the infinitive: Je vais manger. In the negative form, ne... pas wraps around the verb aller: Je ne vais pas manger.",
   "items": [
     {
       "text": "Demain, je {1} mes grands-parents.",
-      "blanks": [{ "cue": "visiter", "answer": ["vais visiter"], "hint": "aller (je) + infinitif" }],
-      "explanation": "Futur proche : aller au présent (je vais) + infinitif (visiter)."
+      "blanks": [{ "cue": "visiter", "answer": ["vais visiter"], "hint": "aller (je) + infinitive" }],
+      "explanation": "Futur proche: aller in the present (je vais) + infinitive (visiter)."
     },
     {
       "text": "Tu {1} le bus ou le métro ?",
-      "blanks": [{ "cue": "prendre", "answer": ["vas prendre"], "hint": "aller (tu) + infinitif" }],
-      "explanation": "Futur proche : tu vas + l'infinitif prendre. L'infinitif reste invariable."
+      "blanks": [{ "cue": "prendre", "answer": ["vas prendre"], "hint": "aller (tu) + infinitive" }],
+      "explanation": "Futur proche: tu vas + the infinitive prendre. The infinitive stays invariable."
     },
     {
       "text": "Il {1} un café avec ses collègues.",
-      "blanks": [{ "cue": "boire", "answer": ["va boire"], "hint": "aller (il) + infinitif" }],
-      "explanation": "Futur proche : il va + l'infinitif boire."
+      "blanks": [{ "cue": "boire", "answer": ["va boire"], "hint": "aller (il) + infinitive" }],
+      "explanation": "Futur proche: il va + the infinitive boire."
     },
     {
       "text": "Nous {1} au cinéma ce soir.",
-      "blanks": [{ "cue": "aller", "answer": ["allons aller"], "hint": "aller (nous) + infinitif aller" }],
-      "explanation": "Futur proche : nous allons + l'infinitif. Ici le verbe principal est aussi aller : nous allons aller."
+      "blanks": [{ "cue": "aller", "answer": ["allons aller"], "hint": "aller (nous) + infinitive aller" }],
+      "explanation": "Futur proche: nous allons + the infinitive. Here the main verb is also aller: nous allons aller."
     },
     {
       "text": "Vous {1} une nouvelle voiture cette année ?",
-      "blanks": [{ "cue": "acheter", "answer": ["allez acheter"], "hint": "aller (vous) + infinitif" }],
-      "explanation": "Futur proche : vous allez + l'infinitif acheter."
+      "blanks": [{ "cue": "acheter", "answer": ["allez acheter"], "hint": "aller (vous) + infinitive" }],
+      "explanation": "Futur proche: vous allez + the infinitive acheter."
     },
     {
       "text": "Elles {1} chez leur tante en juillet.",
-      "blanks": [{ "cue": "partir", "answer": ["vont partir"], "hint": "aller (ils/elles) + infinitif" }],
-      "explanation": "Futur proche : elles vont + l'infinitif partir."
+      "blanks": [{ "cue": "partir", "answer": ["vont partir"], "hint": "aller (ils/elles) + infinitive" }],
+      "explanation": "Futur proche: elles vont + the infinitive partir."
     },
     {
       "text": "On {1} la télévision après le dîner.",
-      "blanks": [{ "cue": "regarder", "answer": ["va regarder"], "hint": "aller (on) + infinitif" }],
-      "explanation": "« On » se conjugue comme il/elle : on va + l'infinitif regarder."
+      "blanks": [{ "cue": "regarder", "answer": ["va regarder"], "hint": "aller (on) + infinitive" }],
+      "explanation": "« On » is conjugated like il/elle: on va + the infinitive regarder."
     },
     {
       "text": "Je {1} pas sortir ce soir, je suis fatigué.",
-      "blanks": [{ "cue": "sortir, au négatif", "answer": ["ne vais"], "hint": "négation : ne vais (devant pas)" }],
-      "explanation": "À la négative, ne... pas entoure aller. Ici « pas » suit déjà le blanc : Je ne vais pas sortir."
+      "blanks": [{ "cue": "sortir, negative", "answer": ["ne vais"], "hint": "negation: ne vais (before pas)" }],
+      "explanation": "In the negative, ne... pas wraps around aller. Here « pas » already follows the blank: Je ne vais pas sortir."
     },
     {
       "text": "Les enfants {1} leurs devoirs avant de jouer.",
-      "blanks": [{ "cue": "faire", "answer": ["vont faire"], "hint": "aller (ils) + infinitif" }],
-      "explanation": "Futur proche : les enfants (ils) vont + l'infinitif faire."
+      "blanks": [{ "cue": "faire", "answer": ["vont faire"], "hint": "aller (ils) + infinitive" }],
+      "explanation": "Futur proche: les enfants (ils) vont + the infinitive faire."
     },
     {
       "text": "Est-ce que tu {1} à ma question ?",
-      "blanks": [{ "cue": "répondre", "answer": ["vas répondre"], "hint": "aller (tu) + infinitif" }],
-      "explanation": "Futur proche : tu vas + l'infinitif répondre."
+      "blanks": [{ "cue": "répondre", "answer": ["vas répondre"], "hint": "aller (tu) + infinitive" }],
+      "explanation": "Futur proche: tu vas + the infinitive répondre."
     },
     {
       "text": "Nous {1} bientôt, le train arrive.",
-      "blanks": [{ "cue": "monter", "answer": ["allons monter"], "hint": "aller (nous) + infinitif" }],
-      "explanation": "Futur proche : nous allons + l'infinitif monter."
+      "blanks": [{ "cue": "monter", "answer": ["allons monter"], "hint": "aller (nous) + infinitive" }],
+      "explanation": "Futur proche: nous allons + the infinitive monter."
     },
     {
       "text": "Je pense qu'il {1} demain.",
-      "blanks": [{ "cue": "pleuvoir", "answer": ["va pleuvoir"], "hint": "aller (il impersonnel) + infinitif" }],
-      "explanation": "Avec un verbe impersonnel comme pleuvoir, on emploie il : il va pleuvoir."
+      "blanks": [{ "cue": "pleuvoir", "answer": ["va pleuvoir"], "hint": "aller (impersonal il) + infinitive" }],
+      "explanation": "With an impersonal verb like pleuvoir, you use il: il va pleuvoir."
     }
   ]
 }

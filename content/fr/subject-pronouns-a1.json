@@ -5,67 +5,67 @@
   "level": "A1",
   "type": "fill",
   "title": "Pronoms sujets et le verbe être",
-  "lesson": "Les pronoms sujets sont je, tu, il, elle, nous, vous, ils, elles. Le verbe 'être' au présent se conjugue : je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. 'Je' devient 'j'' devant une voyelle.",
+  "lesson": "The subject pronouns are je, tu, il, elle, nous, vous, ils, elles. The verb 'être' in the present tense is conjugated: je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont. 'Je' becomes 'j'' before a vowel.",
   "items": [
     {
       "text": "Je {1} étudiant.",
       "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "je + être" }],
-      "explanation": "Avec 'je', le verbe être se conjugue 'suis' (je suis)."
+      "explanation": "With 'je', the verb être is conjugated 'suis' (je suis)."
     },
     {
       "text": "Tu {1} français.",
       "blanks": [{ "cue": "être", "answer": ["es"], "hint": "tu + être" }],
-      "explanation": "Avec 'tu', le verbe être se conjugue 'es' (tu es)."
+      "explanation": "With 'tu', the verb être is conjugated 'es' (tu es)."
     },
     {
       "text": "Il {1} grand.",
       "blanks": [{ "cue": "être", "answer": ["est"], "hint": "il + être" }],
-      "explanation": "Avec 'il', le verbe être se conjugue 'est' (il est)."
+      "explanation": "With 'il', the verb être is conjugated 'est' (il est)."
     },
     {
       "text": "Elle {1} contente.",
       "blanks": [{ "cue": "être", "answer": ["est"], "hint": "elle + être" }],
-      "explanation": "Avec 'elle', le verbe être se conjugue 'est' (elle est)."
+      "explanation": "With 'elle', the verb être is conjugated 'est' (elle est)."
     },
     {
       "text": "Nous {1} amis.",
       "blanks": [{ "cue": "être", "answer": ["sommes"], "hint": "nous + être" }],
-      "explanation": "Avec 'nous', le verbe être se conjugue 'sommes' (nous sommes)."
+      "explanation": "With 'nous', the verb être is conjugated 'sommes' (nous sommes)."
     },
     {
       "text": "Vous {1} en retard.",
       "blanks": [{ "cue": "être", "answer": ["êtes"], "hint": "vous + être" }],
-      "explanation": "Avec 'vous', le verbe être se conjugue 'êtes' (vous êtes), avec un accent circonflexe."
+      "explanation": "With 'vous', the verb être is conjugated 'êtes' (vous êtes), with a circumflex accent."
     },
     {
       "text": "Ils {1} à la maison.",
       "blanks": [{ "cue": "être", "answer": ["sont"], "hint": "ils + être" }],
-      "explanation": "Avec 'ils', le verbe être se conjugue 'sont' (ils sont)."
+      "explanation": "With 'ils', the verb être is conjugated 'sont' (ils sont)."
     },
     {
       "text": "Elles {1} fatiguées.",
       "blanks": [{ "cue": "être", "answer": ["sont"], "hint": "elles + être" }],
-      "explanation": "Avec 'elles', le verbe être se conjugue 'sont' (elles sont)."
+      "explanation": "With 'elles', the verb être is conjugated 'sont' (elles sont)."
     },
     {
       "text": "{1} es très gentil.",
-      "blanks": [{ "cue": "pronom : 2e personne du singulier", "answer": ["Tu"], "hint": "qui va avec 'es' ?" }],
-      "explanation": "La forme 'es' correspond au pronom 'tu' (tu es). En début de phrase, on écrit 'Tu' avec une majuscule."
+      "blanks": [{ "cue": "pronoun: 2nd person singular", "answer": ["Tu"], "hint": "which one goes with 'es'?" }],
+      "explanation": "The form 'es' corresponds to the pronoun 'tu' (tu es). At the start of a sentence, write 'Tu' with a capital letter."
     },
     {
       "text": "{1} sommes à Paris.",
-      "blanks": [{ "cue": "pronom : 1re personne du pluriel", "answer": ["Nous"], "hint": "qui va avec 'sommes' ?" }],
-      "explanation": "La forme 'sommes' correspond au pronom 'nous' (nous sommes). En début de phrase, on écrit 'Nous'."
+      "blanks": [{ "cue": "pronoun: 1st person plural", "answer": ["Nous"], "hint": "which one goes with 'sommes'?" }],
+      "explanation": "The form 'sommes' corresponds to the pronoun 'nous' (nous sommes). At the start of a sentence, write 'Nous'."
     },
     {
       "text": "J' {1} content.",
       "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "j' + être" }],
-      "explanation": "Devant une voyelle, 'je' s'élide en 'j'' (j'ai, j'aime). Avec être, on dit 'je suis' : la forme reste 'suis'."
+      "explanation": "Before a vowel, 'je' is elided to 'j'' (j'ai, j'aime). With être, you say 'je suis': the form stays 'suis'."
     },
     {
       "text": "{1} est professeur.",
-      "blanks": [{ "cue": "pronom : 3e personne du singulier masculin", "answer": ["Il"], "hint": "qui va avec 'est' ?" }],
-      "explanation": "Pour un homme, on utilise le pronom 'il' (il est). En début de phrase, on écrit 'Il'."
+      "blanks": [{ "cue": "pronoun: 3rd person singular masculine", "answer": ["Il"], "hint": "which one goes with 'est'?" }],
+      "explanation": "For a man, use the pronoun 'il' (il est). At the start of a sentence, write 'Il'."
     }
   ]
 }

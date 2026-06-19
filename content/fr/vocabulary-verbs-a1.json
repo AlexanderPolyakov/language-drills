@@ -5,7 +5,7 @@
   "level": "A1",
   "type": "fill",
   "title": "Vocabulaire : les verbes courants (A1)",
-  "lesson": "Voici des verbes à l'infinitif. Après un verbe comme 'aimer', 'vouloir' ou 'pouvoir', le second verbe reste à l'infinitif.",
+  "lesson": "Here are some verbs in the infinitive. After a verb like 'aimer', 'vouloir', or 'pouvoir', the second verb stays in the infinitive.",
   "items": [
     { "text": "J'aime {1} des pâtes.", "blanks": [ { "cue": "to eat", "answer": ["manger"] } ], "explanation": "manger = to eat (infinitive)." },
     { "text": "Je veux {1} de l'eau.", "blanks": [ { "cue": "to drink", "answer": ["boire"] } ], "explanation": "boire = to drink (infinitive)." },

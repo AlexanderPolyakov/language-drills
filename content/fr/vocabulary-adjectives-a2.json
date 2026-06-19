@@ -5,7 +5,7 @@
   "level": "A2",
   "type": "fill",
   "title": "Vocabulaire : les adjectifs (A2)",
-  "lesson": "Des adjectifs plus expressifs au niveau A2. Accorde l'adjectif quand le nom est féminin.",
+  "lesson": "More expressive adjectives at the A2 level. Make the adjective agree when the noun is feminine.",
   "items": [
     { "text": "Ce film est vraiment {1}.", "blanks": [ { "cue": "boring", "answer": ["ennuyeux"] } ], "explanation": "ennuyeux = boring (masculine singular)." },
     { "text": "Ce fauteuil est très {1}.", "blanks": [ { "cue": "comfortable", "answer": ["confortable"] } ], "explanation": "confortable = comfortable (same in masculine and feminine)." },

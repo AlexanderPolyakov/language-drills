@@ -5,67 +5,67 @@
   "level": "B1",
   "type": "fill",
   "title": "Imparfait ou passé composé ?",
-  "lesson": "On utilise l'imparfait pour les descriptions, les habitudes passées et le contexte (le décor d'une scène). On utilise le passé composé pour les actions ponctuelles, achevées, qui font avancer le récit. Souvent, l'imparfait pose le décor et le passé composé apporte l'événement qui survient : « Je dormais (contexte) quand le téléphone a sonné (action). » Avec l'auxiliaire être, le participe passé s'accorde avec le sujet.",
+  "lesson": "You use the imparfait for descriptions, past habits, and context (the backdrop of a scene). You use the passé composé for one-off, completed actions that move the story forward. Often, the imparfait sets the scene and the passé composé brings in the event that occurs: « Je dormais (context) quand le téléphone a sonné (action). » With the auxiliary être, the past participle agrees with the subject.",
   "items": [
     {
       "text": "Quand j'étais petit, je {1} souvent au parc le dimanche.",
-      "blanks": [{ "cue": "aller", "answer": ["allais"], "hint": "imparfait, habitude répétée" }],
-      "explanation": "« souvent » et « quand j'étais petit » signalent une habitude passée : on emploie l'imparfait, allais."
+      "blanks": [{ "cue": "aller", "answer": ["allais"], "hint": "imparfait, repeated habit" }],
+      "explanation": "« souvent » and « quand j'étais petit » signal a past habit, so the imparfait is used: allais."
     },
     {
       "text": "Hier soir, je {1} un film puis je me suis couché.",
-      "blanks": [{ "cue": "regarder", "answer": ["ai regardé"], "hint": "action ponctuelle et achevée" }],
-      "explanation": "« hier soir » et l'enchaînement d'actions terminées appellent le passé composé : ai regardé."
+      "blanks": [{ "cue": "regarder", "answer": ["ai regardé"], "hint": "one-off, completed action" }],
+      "explanation": "« hier soir » and the sequence of finished actions call for the passé composé: ai regardé."
     },
     {
       "text": "Il {1} beau et les oiseaux chantaient ce matin-là.",
-      "blanks": [{ "cue": "faire", "answer": ["faisait"], "hint": "description du décor" }],
-      "explanation": "Il s'agit d'une description du contexte (le temps qu'il faisait), donc imparfait : faisait."
+      "blanks": [{ "cue": "faire", "answer": ["faisait"], "hint": "description of the setting" }],
+      "explanation": "This is a description of the context (the weather), so the imparfait is used: faisait."
     },
     {
       "text": "Soudain, un homme {1} dans la pièce.",
-      "blanks": [{ "cue": "entrer", "answer": ["est entré", "est entrée"], "hint": "auxiliaire être, action soudaine" }],
-      "explanation": "« soudain » marque une action ponctuelle ; entrer se conjugue avec être, d'où est entré (accord possible : est entrée)."
+      "blanks": [{ "cue": "entrer", "answer": ["est entré", "est entrée"], "hint": "auxiliary être, sudden action" }],
+      "explanation": "« soudain » marks a one-off action; entrer is conjugated with être, hence est entré (possible agreement: est entrée)."
     },
     {
       "text": "Nous {1} la télévision quand l'orage a éclaté.",
-      "blanks": [{ "cue": "regarder", "answer": ["regardions"], "hint": "action en cours interrompue" }],
-      "explanation": "L'action était en cours (le décor) lorsqu'un événement l'a interrompue : imparfait, regardions."
+      "blanks": [{ "cue": "regarder", "answer": ["regardions"], "hint": "ongoing action that is interrupted" }],
+      "explanation": "The action was ongoing (the backdrop) when an event interrupted it: imparfait, regardions."
     },
     {
       "text": "Elle {1} au théâtre à sept heures et la pièce a commencé aussitôt.",
-      "blanks": [{ "cue": "arriver", "answer": ["est arrivée"], "hint": "auxiliaire être, sujet féminin, action ponctuelle" }],
-      "explanation": "Action ponctuelle avec arriver (auxiliaire être) ; le sujet « elle » est féminin, donc accord : est arrivée."
+      "blanks": [{ "cue": "arriver", "answer": ["est arrivée"], "hint": "auxiliary être, feminine subject, one-off action" }],
+      "explanation": "A one-off action with arriver (auxiliary être); the subject « elle » is feminine, so it agrees: est arrivée."
     },
     {
       "text": "Tous les étés, mes grands-parents {1} à la mer.",
-      "blanks": [{ "cue": "partir", "answer": ["partaient"], "hint": "imparfait, habitude" }],
-      "explanation": "« tous les étés » indique une habitude répétée dans le passé : imparfait, partaient (même si partir prend être au passé composé)."
+      "blanks": [{ "cue": "partir", "answer": ["partaient"], "hint": "imparfait, habit" }],
+      "explanation": "« tous les étés » indicates a habit repeated in the past: imparfait, partaient (even though partir takes être in the passé composé)."
     },
     {
       "text": "Pendant qu'elle lisait, ses enfants {1} dans le jardin.",
-      "blanks": [{ "cue": "jouer", "answer": ["jouaient"], "hint": "deux actions de fond simultanées" }],
-      "explanation": "Deux actions de fond simultanées et sans limite précise : on emploie l'imparfait, jouaient."
+      "blanks": [{ "cue": "jouer", "answer": ["jouaient"], "hint": "two simultaneous background actions" }],
+      "explanation": "Two simultaneous background actions with no precise limit: the imparfait is used, jouaient."
     },
     {
       "text": "L'année dernière, ils {1} en Italie pour la première fois.",
-      "blanks": [{ "cue": "voyager", "answer": ["ont voyagé"], "hint": "événement daté et achevé" }],
-      "explanation": "« l'année dernière » et « pour la première fois » désignent un événement précis et achevé : passé composé, ont voyagé."
+      "blanks": [{ "cue": "voyager", "answer": ["ont voyagé"], "hint": "dated, completed event" }],
+      "explanation": "« l'année dernière » and « pour la première fois » point to a specific, completed event: passé composé, ont voyagé."
     },
     {
       "text": "Je {1} déjà fini mon travail quand tu m'as appelé.",
-      "blanks": [{ "cue": "avoir", "answer": ["avais"], "hint": "plus-que-parfait : auxiliaire à l'imparfait" }],
-      "explanation": "L'action était terminée avant une autre action passée : on emploie le plus-que-parfait, dont l'auxiliaire avoir est à l'imparfait (avais fini)."
+      "blanks": [{ "cue": "avoir", "answer": ["avais"], "hint": "pluperfect: auxiliary in the imparfait" }],
+      "explanation": "The action was finished before another past action: the pluperfect (plus-que-parfait) is used, whose auxiliary avoir is in the imparfait (avais fini)."
     },
     {
       "text": "Marie {1} fatiguée, alors elle s'est reposée.",
-      "blanks": [{ "cue": "être", "answer": ["était"], "hint": "description d'un état" }],
-      "explanation": "On décrit un état (la fatigue) qui sert de contexte : imparfait, était. L'action qui suit (s'est reposée) est au passé composé."
+      "blanks": [{ "cue": "être", "answer": ["était"], "hint": "description of a state" }],
+      "explanation": "It describes a state (tiredness) that serves as context: imparfait, était. The action that follows (s'est reposée) is in the passé composé."
     },
     {
       "text": "Quand nous sommes sortis, il {1} encore.",
-      "blanks": [{ "cue": "pleuvoir", "answer": ["pleuvait"], "hint": "situation continue en arrière-plan" }],
-      "explanation": "La pluie est une situation continue qui formait le décor au moment de l'action ponctuelle « nous sommes sortis » : imparfait, pleuvait."
+      "blanks": [{ "cue": "pleuvoir", "answer": ["pleuvait"], "hint": "ongoing situation in the background" }],
+      "explanation": "The rain is an ongoing situation that formed the backdrop at the moment of the one-off action « nous sommes sortis »: imparfait, pleuvait."
     }
   ]
 }

@@ -5,7 +5,7 @@
   "level": "A2",
   "type": "fill",
   "title": "Vocabulaire : les noms (A2)",
-  "lesson": "Des noms utiles de la vie quotidienne au niveau A2. Tape le mot français manquant.",
+  "lesson": "Useful everyday nouns at the A2 level. Type the missing French word.",
   "items": [
     { "text": "Nous préparons un long {1} en Italie.", "blanks": [ { "cue": "trip", "answer": ["voyage"] } ], "explanation": "voyage = trip (masculine)." },
     { "text": "J'ai acheté un {1} de train.", "blanks": [ { "cue": "ticket", "answer": ["billet"] } ], "explanation": "billet = ticket (masculine)." },
