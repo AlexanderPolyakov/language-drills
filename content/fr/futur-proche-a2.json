@@ -44,7 +44,7 @@
     },
     {
       "text": "Je {1} pas sortir ce soir, je suis fatigué.",
-      "blanks": [{ "cue": "(négatif) sortir", "answer": ["ne vais", "ne vais pas"], "hint": "négation : ne va devant aller" }],
+      "blanks": [{ "cue": "sortir, au négatif", "answer": ["ne vais", "ne vais pas"], "hint": "négation : ne va devant aller" }],
       "explanation": "À la négative, ne... pas entoure aller. Ici « pas » suit déjà le blanc : Je ne vais pas sortir."
     },
     {

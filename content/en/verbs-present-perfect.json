@@ -44,7 +44,7 @@
     },
     {
       "text": "The bus hasn't arrived {1}.",
-      "blanks": [{ "cue": "yet (adverb)", "answer": ["yet"] }],
+      "blanks": [{ "cue": "adverb meaning 'up to now'", "answer": ["yet"] }],
       "explanation": "'yet' goes at the end of negatives and questions to mean 'up to now': hasn't arrived yet."
     },
     {

@@ -9,62 +9,158 @@
   "items": [
     {
       "text": "C'est une {1} maison. (grand)",
-      "blanks": [{ "cue": "grand (féminin singulier)", "answer": ["grande"], "hint": "féminin : +e" }],
+      "blanks": [
+        {
+          "cue": "grand → féminin singulier",
+          "answer": [
+            "grande"
+          ],
+          "hint": "féminin : +e"
+        }
+      ],
       "explanation": "Maison est féminin singulier, donc grand → grande (on ajoute -e)."
     },
     {
       "text": "Ce sont des livres {1}. (intéressant)",
-      "blanks": [{ "cue": "intéressant (masculin pluriel)", "answer": ["intéressants"], "hint": "masculin pluriel : +s" }],
+      "blanks": [
+        {
+          "cue": "intéressant → masculin pluriel",
+          "answer": [
+            "intéressants"
+          ],
+          "hint": "masculin pluriel : +s"
+        }
+      ],
       "explanation": "Livres est masculin pluriel, donc intéressant → intéressants (on ajoute -s)."
     },
     {
       "text": "Les voitures sont {1}. (petit)",
-      "blanks": [{ "cue": "petit (féminin pluriel)", "answer": ["petites"], "hint": "féminin pluriel : +es" }],
+      "blanks": [
+        {
+          "cue": "petit → féminin pluriel",
+          "answer": [
+            "petites"
+          ],
+          "hint": "féminin pluriel : +es"
+        }
+      ],
       "explanation": "Voitures est féminin pluriel : petit → petite → petites (féminin -e + pluriel -s)."
     },
     {
       "text": "Elle porte une {1} robe. (beau)",
-      "blanks": [{ "cue": "beau (féminin singulier)", "answer": ["belle"], "hint": "adjectif irrégulier" }],
+      "blanks": [
+        {
+          "cue": "beau → féminin singulier",
+          "answer": [
+            "belle"
+          ],
+          "hint": "adjectif irrégulier"
+        }
+      ],
       "explanation": "Beau est irrégulier : son féminin est belle. Robe est féminin singulier."
     },
     {
       "text": "Nous avons une {1} voiture. (nouveau)",
-      "blanks": [{ "cue": "nouveau (féminin singulier)", "answer": ["nouvelle"], "hint": "adjectif irrégulier" }],
+      "blanks": [
+        {
+          "cue": "nouveau → féminin singulier",
+          "answer": [
+            "nouvelle"
+          ],
+          "hint": "adjectif irrégulier"
+        }
+      ],
       "explanation": "Nouveau est irrégulier : son féminin est nouvelle. Voiture est féminin singulier."
     },
     {
       "text": "J'aime cette chemise {1}. (blanc)",
-      "blanks": [{ "cue": "blanc (féminin singulier)", "answer": ["blanche"], "hint": "adjectif irrégulier" }],
+      "blanks": [
+        {
+          "cue": "blanc → féminin singulier",
+          "answer": [
+            "blanche"
+          ],
+          "hint": "adjectif irrégulier"
+        }
+      ],
       "explanation": "Blanc est irrégulier : son féminin est blanche. Chemise est féminin singulier."
     },
     {
       "text": "Marie est très {1} aujourd'hui. (heureux)",
-      "blanks": [{ "cue": "heureux (féminin singulier)", "answer": ["heureuse"], "hint": "adjectif en -eux → -euse" }],
+      "blanks": [
+        {
+          "cue": "heureux → féminin singulier",
+          "answer": [
+            "heureuse"
+          ],
+          "hint": "adjectif en -eux → -euse"
+        }
+      ],
       "explanation": "Les adjectifs en -eux font leur féminin en -euse : heureux → heureuse."
     },
     {
       "text": "Ils ont de {1} amis. (vieux)",
-      "blanks": [{ "cue": "vieux (masculin pluriel)", "answer": ["vieux"], "hint": "adjectif irrégulier, invariable au masculin pluriel" }],
+      "blanks": [
+        {
+          "cue": "vieux → masculin pluriel",
+          "answer": [
+            "vieux"
+          ],
+          "hint": "adjectif irrégulier, invariable au masculin pluriel"
+        }
+      ],
       "explanation": "Vieux est invariable au masculin pluriel : vieux. (Au féminin : vieille / vieilles.)"
     },
     {
       "text": "Ce sont de {1} hôtels. (beau)",
-      "blanks": [{ "cue": "beau (masculin pluriel)", "answer": ["beaux"], "hint": "beau → beaux au pluriel" }],
+      "blanks": [
+        {
+          "cue": "beau → masculin pluriel",
+          "answer": [
+            "beaux"
+          ],
+          "hint": "beau → beaux au pluriel"
+        }
+      ],
       "explanation": "Au masculin pluriel, beau devient beaux (les adjectifs en -eau prennent -x)."
     },
     {
       "text": "Les fleurs sont {1}. (blanc)",
-      "blanks": [{ "cue": "blanc (féminin pluriel)", "answer": ["blanches"], "hint": "féminin blanche + s" }],
+      "blanks": [
+        {
+          "cue": "blanc → féminin pluriel",
+          "answer": [
+            "blanches"
+          ],
+          "hint": "féminin blanche + s"
+        }
+      ],
       "explanation": "Fleurs est féminin pluriel : blanc → blanche → blanches."
     },
     {
       "text": "Mon frère est plus {1} que moi. (grand)",
-      "blanks": [{ "cue": "grand (masculin singulier)", "answer": ["grand"], "hint": "masculin singulier : forme de base" }],
+      "blanks": [
+        {
+          "cue": "grand → masculin singulier",
+          "answer": [
+            "grand"
+          ],
+          "hint": "masculin singulier : forme de base"
+        }
+      ],
       "explanation": "Frère est masculin singulier : l'adjectif reste à sa forme de base, grand."
     },
     {
       "text": "Elles sont toutes {1}. (heureux)",
-      "blanks": [{ "cue": "heureux (féminin pluriel)", "answer": ["heureuses"], "hint": "féminin pluriel de heureux" }],
+      "blanks": [
+        {
+          "cue": "heureux → féminin pluriel",
+          "answer": [
+            "heureuses"
+          ],
+          "hint": "féminin pluriel de heureux"
+        }
+      ],
       "explanation": "Heureux au féminin singulier est heureuse, au féminin pluriel heureuses."
     }
   ]

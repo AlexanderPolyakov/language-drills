@@ -59,7 +59,7 @@
     {
       "text": "She spoke softly {1} the children sleeping in the next room be woken.",
       "blanks": [
-        { "cue": "(conjunction of negative purpose)", "answer": ["lest"], "hint": "archaic-formal 'for fear that'; followed by the subjunctive" }
+        { "cue": "conj. of negative purpose", "answer": ["lest"], "hint": "archaic-formal 'for fear that'; followed by the subjunctive" }
       ],
       "explanation": "'Lest' means 'in order that...not' / 'for fear that' and governs the bare subjunctive: 'lest...be woken'. It belongs to elevated written register and needs no further negative."
     },
