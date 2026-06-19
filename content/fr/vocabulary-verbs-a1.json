@@ -31,7 +31,7 @@
     { "text": "J'aime {1} dans la mer.", "blanks": [ { "cue": "to swim", "answer": ["nager"] } ], "explanation": "nager = to swim (infinitive)." },
     { "text": "Nous voulons {1} une chanson.", "blanks": [ { "cue": "to sing", "answer": ["chanter"] } ], "explanation": "chanter = to sing (infinitive)." },
     { "text": "Il faut {1} avant de manger.", "blanks": [ { "cue": "to wash oneself", "answer": ["se laver"] } ], "explanation": "se laver = to wash oneself (reflexive infinitive)." },
-    { "text": "Je veux {1} mes grands-parents.", "blanks": [ { "cue": "to visit", "answer": ["visiter"] } ], "explanation": "visiter = to visit (a place); for people French often uses 'rendre visite à'." },
+    { "text": "Je veux {1} le musée du Louvre.", "blanks": [ { "cue": "to visit", "answer": ["visiter"] } ], "explanation": "visiter = to visit a place (visiter un musée); for visiting people French uses 'rendre visite à' instead." },
     { "text": "Tu peux m'{1} ?", "blanks": [ { "cue": "to help", "answer": ["aider"] } ], "explanation": "aider = to help (infinitive)." },
     { "text": "Je dois {1} le travail.", "blanks": [ { "cue": "to finish", "answer": ["finir"] } ], "explanation": "finir = to finish (infinitive)." },
     { "text": "Nous voulons {1} la maison.", "blanks": [ { "cue": "to clean", "answer": ["nettoyer"] } ], "explanation": "nettoyer = to clean (infinitive)." },

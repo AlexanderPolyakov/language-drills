@@ -8,7 +8,7 @@
   "lesson": "The futur proche (near future) expresses a future action, often near or certain. It is formed with the verb aller in the present (je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont) followed by a verb in the infinitive: Je vais manger. In the negative form, ne... pas wraps around the verb aller: Je ne vais pas manger.",
   "items": [
     {
-      "text": "Demain, je {1} mes grands-parents.",
+      "text": "Demain, je {1} le musée.",
       "blanks": [{ "cue": "visiter", "answer": ["vais visiter"], "hint": "aller (je) + infinitive" }],
       "explanation": "Futur proche: aller in the present (je vais) + infinitive (visiter)."
     },
