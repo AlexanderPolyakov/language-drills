@@ -1,0 +1,181 @@
+{
+  "id": "fr-futur-simple-b1",
+  "lang": "fr",
+  "topic": "futur-simple",
+  "level": "B1",
+  "title": "Le futur simple",
+  "type": "fill",
+  "lesson": "Le futur simple se forme à partir de l'infinitif + les terminaisons -ai, -as, -a, -ons, -ez, -ont. Les verbes en -re perdent le -e final (prendre → prendra). Beaucoup de verbes fréquents ont un radical irrégulier : être → ser-, avoir → aur-, aller → ir-, faire → fer-, venir → viendr-, voir → verr-, pouvoir → pourr-, devoir → devr-, vouloir → voudr-, savoir → saur-.",
+  "items": [
+    {
+      "text": "Demain, je {1} à mes amis au téléphone.",
+      "blanks": [{ "cue": "parler", "answer": ["parlerai"] }],
+      "explanation": "Regular: infinitive 'parler' + 'ai' for 'je': 'parlerai'."
+    },
+    {
+      "text": "Tu {1} avec nous samedi prochain.",
+      "blanks": [{ "cue": "manger", "answer": ["mangeras"] }],
+      "explanation": "Regular: 'manger' + 'as' for 'tu': 'mangeras'."
+    },
+    {
+      "text": "Elle {1} la vérité un jour.",
+      "blanks": [{ "cue": "savoir", "answer": ["saura"] }],
+      "explanation": "Irregular stem 'saur-' + 'a' for 'elle': 'saura'."
+    },
+    {
+      "text": "Nous {1} en vacances en Italie cet été.",
+      "blanks": [{ "cue": "aller", "answer": ["irons"] }],
+      "explanation": "Irregular stem 'ir-' + 'ons' for 'nous': 'irons'."
+    },
+    {
+      "text": "Vous {1} un beau spectacle ce soir.",
+      "blanks": [{ "cue": "voir", "answer": ["verrez"] }],
+      "explanation": "Irregular stem 'verr-' + 'ez' for 'vous': 'verrez'."
+    },
+    {
+      "text": "Ils {1} contents de la nouvelle.",
+      "blanks": [{ "cue": "être", "answer": ["seront"] }],
+      "explanation": "Irregular stem 'ser-' + 'ont' for 'ils': 'seront'."
+    },
+    {
+      "text": "Je {1} bientôt vingt ans.",
+      "blanks": [{ "cue": "avoir", "answer": ["aurai"] }],
+      "explanation": "Irregular stem 'aur-' + 'ai' for 'je': 'aurai'."
+    },
+    {
+      "text": "Tu {1} tes devoirs avant de sortir.",
+      "blanks": [{ "cue": "finir", "answer": ["finiras"] }],
+      "explanation": "Regular -ir: 'finir' + 'as' for 'tu': 'finiras'."
+    },
+    {
+      "text": "Il {1} chez nous la semaine prochaine.",
+      "blanks": [{ "cue": "venir", "answer": ["viendra"] }],
+      "explanation": "Irregular stem 'viendr-' + 'a' for 'il': 'viendra'."
+    },
+    {
+      "text": "Nous {1} un gâteau pour ton anniversaire.",
+      "blanks": [{ "cue": "faire", "answer": ["ferons"] }],
+      "explanation": "Irregular stem 'fer-' + 'ons' for 'nous': 'ferons'."
+    },
+    {
+      "text": "Vous {1} venir si vous voulez.",
+      "blanks": [{ "cue": "pouvoir", "answer": ["pourrez"] }],
+      "explanation": "Irregular stem 'pourr-' + 'ez' for 'vous': 'pourrez'."
+    },
+    {
+      "text": "Elles {1} partir avant la nuit.",
+      "blanks": [{ "cue": "devoir", "answer": ["devront"] }],
+      "explanation": "Irregular stem 'devr-' + 'ont' for 'elles': 'devront'."
+    },
+    {
+      "text": "Je {1} ce livre quand j'aurai le temps.",
+      "blanks": [{ "cue": "lire", "answer": ["lirai"] }],
+      "explanation": "Regular -re: drop the -e, 'lir' + 'ai' for 'je': 'lirai'."
+    },
+    {
+      "text": "Tu {1} ce que tu désires pour Noël.",
+      "blanks": [{ "cue": "vouloir", "answer": ["voudras"] }],
+      "explanation": "Irregular stem 'voudr-' + 'as' for 'tu': 'voudras'."
+    },
+    {
+      "text": "On {1} la réponse demain matin.",
+      "blanks": [{ "cue": "avoir", "answer": ["aura"] }],
+      "explanation": "Irregular stem 'aur-' + 'a' for 'on': 'aura'."
+    },
+    {
+      "text": "Nous {1} le train de huit heures.",
+      "blanks": [{ "cue": "prendre", "answer": ["prendrons"] }],
+      "explanation": "Regular -re: drop the -e, 'prendr' + 'ons' for 'nous': 'prendrons'."
+    },
+    {
+      "text": "Vous {1} bientôt à Paris.",
+      "blanks": [{ "cue": "être", "answer": ["serez"] }],
+      "explanation": "Irregular stem 'ser-' + 'ez' for 'vous': 'serez'."
+    },
+    {
+      "text": "Mes parents {1} me chercher à la gare.",
+      "blanks": [{ "cue": "venir", "answer": ["viendront"] }],
+      "explanation": "Irregular stem 'viendr-' + 'ont' for 'ils': 'viendront'."
+    },
+    {
+      "text": "Je {1} mes clés sur la table.",
+      "blanks": [{ "cue": "laisser", "answer": ["laisserai"] }],
+      "explanation": "Regular: 'laisser' + 'ai' for 'je': 'laisserai'."
+    },
+    {
+      "text": "Tu {1} comment réparer la voiture.",
+      "blanks": [{ "cue": "savoir", "answer": ["sauras"] }],
+      "explanation": "Irregular stem 'saur-' + 'as' for 'tu': 'sauras'."
+    },
+    {
+      "text": "Le médecin {1} bientôt le résultat.",
+      "blanks": [{ "cue": "voir", "answer": ["verra"] }],
+      "explanation": "Irregular stem 'verr-' + 'a' for 'il': 'verra'."
+    },
+    {
+      "text": "Nous {1} plus tard cette question.",
+      "blanks": [{ "cue": "devoir", "answer": ["devrons"] }],
+      "explanation": "Irregular stem 'devr-' + 'ons' for 'nous': 'devrons'."
+    },
+    {
+      "text": "Vous {1} de la place pour tout le monde.",
+      "blanks": [{ "cue": "avoir", "answer": ["aurez"] }],
+      "explanation": "Irregular stem 'aur-' + 'ez' for 'vous': 'aurez'."
+    },
+    {
+      "text": "Ils {1} le projet la semaine prochaine.",
+      "blanks": [{ "cue": "finir", "answer": ["finiront"] }],
+      "explanation": "Regular -ir: 'finir' + 'ont' for 'ils': 'finiront'."
+    },
+    {
+      "text": "Je {1} au cinéma avec toi demain.",
+      "blanks": [{ "cue": "aller", "answer": ["irai"] }],
+      "explanation": "Irregular stem 'ir-' + 'ai' for 'je': 'irai'."
+    },
+    {
+      "text": "Tu {1} très heureux dans ta nouvelle maison.",
+      "blanks": [{ "cue": "être", "answer": ["seras"] }],
+      "explanation": "Irregular stem 'ser-' + 'as' for 'tu': 'seras'."
+    },
+    {
+      "text": "Elle {1} de son mieux pour réussir.",
+      "blanks": [{ "cue": "faire", "answer": ["fera"] }],
+      "explanation": "Irregular stem 'fer-' + 'a' for 'elle': 'fera'."
+    },
+    {
+      "text": "Nous {1} t'aider si nécessaire.",
+      "blanks": [{ "cue": "pouvoir", "answer": ["pourrons"] }],
+      "explanation": "Irregular stem 'pourr-' + 'ons' for 'nous': 'pourrons'."
+    },
+    {
+      "text": "Vous {1} sûrement gagner le concours.",
+      "blanks": [{ "cue": "vouloir", "answer": ["voudrez"] }],
+      "explanation": "Irregular stem 'voudr-' + 'ez' for 'vous': 'voudrez'."
+    },
+    {
+      "text": "Les invités {1} à vingt heures.",
+      "blanks": [{ "cue": "arriver", "answer": ["arriveront"] }],
+      "explanation": "Regular: 'arriver' + 'ont' for 'ils': 'arriveront'."
+    },
+    {
+      "text": "Je {1} ma décision demain.",
+      "blanks": [{ "cue": "prendre", "answer": ["prendrai"] }],
+      "explanation": "Regular -re: drop the -e, 'prendr' + 'ai' for 'je': 'prendrai'."
+    },
+    {
+      "text": "Tu {1} venir nous voir cet hiver.",
+      "blanks": [{ "cue": "devoir", "answer": ["devras"] }],
+      "explanation": "Irregular stem 'devr-' + 'as' for 'tu': 'devras'."
+    },
+    {
+      "text": "Il {1} bientôt parler trois langues.",
+      "blanks": [{ "cue": "pouvoir", "answer": ["pourra"] }],
+      "explanation": "Irregular stem 'pourr-' + 'a' for 'il': 'pourra'."
+    },
+    {
+      "text": "Nous {1} la maison de nos rêves un jour.",
+      "blanks": [{ "cue": "avoir", "answer": ["aurons"] }],
+      "explanation": "Irregular stem 'aur-' + 'ons' for 'nous': 'aurons'."
+    }
+  ]
+}

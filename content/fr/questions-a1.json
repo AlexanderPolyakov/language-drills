@@ -1,0 +1,181 @@
+{
+  "id": "fr-questions-a1",
+  "lang": "fr",
+  "topic": "questions",
+  "level": "A1",
+  "title": "Poser des questions (est-ce que, mots interrogatifs)",
+  "type": "cloze",
+  "lesson": "Pour poser une question, on utilise 'est-ce que' devant une phrase pour une réponse oui/non, ou un mot interrogatif pour demander une information précise : qui (personne), que/qu' (chose), où (lieu), quand (temps), comment (manière), pourquoi (raison), combien (quantité), quel/quelle (avec un nom). Choisissez le mot selon la réponse attendue.",
+  "items": [
+    {
+      "text": "{1} tu aimes le café ? — Oui, beaucoup.",
+      "blanks": [{ "options": ["Est-ce que", "Où", "Quand"], "answer": "Est-ce que" }],
+      "explanation": "A yes/no answer needs 'est-ce que'."
+    },
+    {
+      "text": "{1} habites-tu ? — À Paris.",
+      "blanks": [{ "options": ["Où", "Quand", "Comment"], "answer": "Où" }],
+      "explanation": "An answer about place needs 'où' (where)."
+    },
+    {
+      "text": "{1} commence le film ? — À vingt heures.",
+      "blanks": [{ "options": ["Quand", "Où", "Qui"], "answer": "Quand" }],
+      "explanation": "An answer about time needs 'quand' (when)."
+    },
+    {
+      "text": "{1} t'appelles-tu ? — Je m'appelle Léa.",
+      "blanks": [{ "options": ["Comment", "Pourquoi", "Combien"], "answer": "Comment" }],
+      "explanation": "Asking for a name uses 'comment' (how)."
+    },
+    {
+      "text": "{1} es-tu en retard ? — Parce que j'ai raté le bus.",
+      "blanks": [{ "options": ["Pourquoi", "Quand", "Où"], "answer": "Pourquoi" }],
+      "explanation": "An answer beginning with 'parce que' answers 'pourquoi' (why)."
+    },
+    {
+      "text": "{1} coûte ce livre ? — Quinze euros.",
+      "blanks": [{ "options": ["Combien", "Comment", "Qui"], "answer": "Combien" }],
+      "explanation": "An answer about price/quantity needs 'combien' (how much)."
+    },
+    {
+      "text": "{1} est à la porte ? — C'est mon voisin.",
+      "blanks": [{ "options": ["Qui", "Que", "Où"], "answer": "Qui" }],
+      "explanation": "An answer naming a person needs 'qui' (who)."
+    },
+    {
+      "text": "{1} fais-tu ce soir ? — Je regarde un film.",
+      "blanks": [{ "options": ["Que", "Qui", "Où"], "answer": "Que" }],
+      "explanation": "Asking about a thing/activity uses 'que' (what)."
+    },
+    {
+      "text": "{1} âge as-tu ? — J'ai vingt ans.",
+      "blanks": [{ "options": ["Quel", "Quelle", "Combien"], "answer": "Quel" }],
+      "explanation": "'âge' is masculine, so the interrogative adjective is 'quel'."
+    },
+    {
+      "text": "{1} heure est-il ? — Il est midi.",
+      "blanks": [{ "options": ["Quelle", "Quel", "Combien"], "answer": "Quelle" }],
+      "explanation": "'heure' is feminine, so the interrogative adjective is 'quelle'."
+    },
+    {
+      "text": "{1} vous parlez français ? — Oui, un peu.",
+      "blanks": [{ "options": ["Est-ce que", "Qui", "Où"], "answer": "Est-ce que" }],
+      "explanation": "A yes/no answer needs 'est-ce que'."
+    },
+    {
+      "text": "{1} vas-tu en vacances ? — En Espagne.",
+      "blanks": [{ "options": ["Où", "Quand", "Pourquoi"], "answer": "Où" }],
+      "explanation": "An answer about destination needs 'où' (where)."
+    },
+    {
+      "text": "{1} pars-tu ? — Demain matin.",
+      "blanks": [{ "options": ["Quand", "Comment", "Combien"], "answer": "Quand" }],
+      "explanation": "An answer about time needs 'quand' (when)."
+    },
+    {
+      "text": "{1} vas-tu au travail ? — En métro.",
+      "blanks": [{ "options": ["Comment", "Pourquoi", "Qui"], "answer": "Comment" }],
+      "explanation": "An answer about means/manner needs 'comment' (how)."
+    },
+    {
+      "text": "{1} pleures-tu ? — Parce que je suis triste.",
+      "blanks": [{ "options": ["Pourquoi", "Quand", "Combien"], "answer": "Pourquoi" }],
+      "explanation": "An answer beginning with 'parce que' answers 'pourquoi'."
+    },
+    {
+      "text": "{1} de frères as-tu ? — J'en ai deux.",
+      "blanks": [{ "options": ["Combien", "Comment", "Quel"], "answer": "Combien" }],
+      "explanation": "An answer giving a number needs 'combien' (how many)."
+    },
+    {
+      "text": "{1} a téléphoné ? — C'était ma mère.",
+      "blanks": [{ "options": ["Qui", "Que", "Quand"], "answer": "Qui" }],
+      "explanation": "An answer naming a person needs 'qui' (who)."
+    },
+    {
+      "text": "{1} veux-tu manger ? — Une pizza.",
+      "blanks": [{ "options": ["Que", "Qui", "Où"], "answer": "Que" }],
+      "explanation": "Asking about a thing uses 'que' (what)."
+    },
+    {
+      "text": "{1} est ton plat préféré ? — Les lasagnes.",
+      "blanks": [{ "options": ["Quel", "Quelle", "Qui"], "answer": "Quel" }],
+      "explanation": "'plat' is masculine, so the interrogative adjective is 'quel'."
+    },
+    {
+      "text": "{1} est ta couleur préférée ? — Le bleu.",
+      "blanks": [{ "options": ["Quelle", "Quel", "Comment"], "answer": "Quelle" }],
+      "explanation": "'couleur' is feminine, so the interrogative adjective is 'quelle'."
+    },
+    {
+      "text": "{1} tu as faim ? — Non, j'ai déjà mangé.",
+      "blanks": [{ "options": ["Est-ce que", "Pourquoi", "Combien"], "answer": "Est-ce que" }],
+      "explanation": "A yes/no answer needs 'est-ce que'."
+    },
+    {
+      "text": "{1} se trouve la gare ? — Près du centre-ville.",
+      "blanks": [{ "options": ["Où", "Quand", "Qui"], "answer": "Où" }],
+      "explanation": "An answer about location needs 'où' (where)."
+    },
+    {
+      "text": "{1} reviens-tu de voyage ? — La semaine prochaine.",
+      "blanks": [{ "options": ["Quand", "Où", "Comment"], "answer": "Quand" }],
+      "explanation": "An answer about time needs 'quand' (when)."
+    },
+    {
+      "text": "{1} ça va ? — Ça va bien, merci.",
+      "blanks": [{ "options": ["Comment", "Combien", "Pourquoi"], "answer": "Comment" }],
+      "explanation": "Asking how things are uses 'comment'."
+    },
+    {
+      "text": "{1} apprends-tu le français ? — Pour mon travail.",
+      "blanks": [{ "options": ["Pourquoi", "Quand", "Où"], "answer": "Pourquoi" }],
+      "explanation": "An answer giving a reason ('pour…') answers 'pourquoi'."
+    },
+    {
+      "text": "{1} de personnes viennent ? — Environ dix.",
+      "blanks": [{ "options": ["Combien", "Qui", "Comment"], "answer": "Combien" }],
+      "explanation": "An answer giving a number needs 'combien' (how many)."
+    },
+    {
+      "text": "{1} t'a aidé à déménager ? — Mes amis.",
+      "blanks": [{ "options": ["Qui", "Que", "Où"], "answer": "Qui" }],
+      "explanation": "An answer naming people needs 'qui' (who)."
+    },
+    {
+      "text": "{1} est-ce que tu cherches ? — Mes lunettes.",
+      "blanks": [{ "options": ["Qu'", "Qui", "Où"], "answer": "Qu'" }],
+      "explanation": "Before 'est-ce', 'que' becomes 'qu''; asking about a thing."
+    },
+    {
+      "text": "{1} jour sommes-nous ? — Nous sommes lundi.",
+      "blanks": [{ "options": ["Quel", "Quelle", "Combien"], "answer": "Quel" }],
+      "explanation": "'jour' is masculine, so the interrogative adjective is 'quel'."
+    },
+    {
+      "text": "{1} est ton adresse ? — 12 rue des Lilas.",
+      "blanks": [{ "options": ["Quelle", "Quel", "Où"], "answer": "Quelle" }],
+      "explanation": "'adresse' is feminine, so the interrogative adjective is 'quelle'."
+    },
+    {
+      "text": "{1} vous avez réservé une table ? — Oui, pour ce soir.",
+      "blanks": [{ "options": ["Est-ce que", "Qui", "Quand"], "answer": "Est-ce que" }],
+      "explanation": "A yes/no answer needs 'est-ce que'."
+    },
+    {
+      "text": "{1} est-ce que tu viens ? — En voiture.",
+      "blanks": [{ "options": ["Comment", "Qui", "Combien"], "answer": "Comment" }],
+      "explanation": "An answer about means/manner needs 'comment' (how)."
+    },
+    {
+      "text": "{1} dort le chat ? — Sur le canapé.",
+      "blanks": [{ "options": ["Où", "Quand", "Pourquoi"], "answer": "Où" }],
+      "explanation": "An answer about location needs 'où' (where)."
+    },
+    {
+      "text": "{1} veulent-ils faire ce week-end ? — Aller à la plage.",
+      "blanks": [{ "options": ["Que", "Qui", "Combien"], "answer": "Que" }],
+      "explanation": "Asking about an activity/thing uses 'que' (what)."
+    }
+  ]
+}

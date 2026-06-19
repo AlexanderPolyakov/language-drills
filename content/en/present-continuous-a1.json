@@ -1,0 +1,187 @@
+{
+  "id": "en-present-continuous-a1",
+  "lang": "en",
+  "topic": "present-continuous",
+  "level": "A1",
+  "type": "fill",
+  "title": "Present continuous: am/is/are + -ing",
+  "lesson": "Use am/is/are + verb-ing for actions happening now. The subject decides am (I), is (he/she/it), or are (you/we/they).",
+  "items": [
+    {
+      "text": "I {1} a letter right now.",
+      "blanks": [ { "cue": "write", "answer": ["am writing", "'m writing"] } ],
+      "explanation": "I takes 'am'; 'write' drops the e before -ing."
+    },
+    {
+      "text": "She {1} to music in her room.",
+      "blanks": [ { "cue": "listen", "answer": ["is listening", "'s listening"] } ],
+      "explanation": "She takes 'is' + listening."
+    },
+    {
+      "text": "We {1} football in the park.",
+      "blanks": [ { "cue": "play", "answer": ["are playing", "'re playing"] } ],
+      "explanation": "We takes 'are' + playing."
+    },
+    {
+      "text": "He {1} fast because he is late.",
+      "blanks": [ { "cue": "run", "answer": ["is running", "'s running"] } ],
+      "explanation": "Short vowel + single consonant: 'run' doubles the n to make running."
+    },
+    {
+      "text": "They {1} dinner in the kitchen.",
+      "blanks": [ { "cue": "make", "answer": ["are making", "'re making"] } ],
+      "explanation": "'make' drops the final e before -ing."
+    },
+    {
+      "text": "You {1} too much noise!",
+      "blanks": [ { "cue": "make", "answer": ["are making", "'re making"] } ],
+      "explanation": "You takes 'are' + making."
+    },
+    {
+      "text": "The baby {1} right now.",
+      "blanks": [ { "cue": "sleep", "answer": ["is sleeping", "'s sleeping"] } ],
+      "explanation": "The baby = it, so use 'is' + sleeping."
+    },
+    {
+      "text": "I {1} my homework at the moment.",
+      "blanks": [ { "cue": "do", "answer": ["am doing", "'m doing"] } ],
+      "explanation": "I takes 'am' + doing."
+    },
+    {
+      "text": "My parents {1} TV in the living room.",
+      "blanks": [ { "cue": "watch", "answer": ["are watching", "'re watching"] } ],
+      "explanation": "Plural subject takes 'are' + watching."
+    },
+    {
+      "text": "It {1} outside, so take an umbrella.",
+      "blanks": [ { "cue": "rain", "answer": ["is raining", "'s raining"] } ],
+      "explanation": "It takes 'is' + raining."
+    },
+    {
+      "text": "We {1} for the bus now.",
+      "blanks": [ { "cue": "wait", "answer": ["are waiting", "'re waiting"] } ],
+      "explanation": "We takes 'are' + waiting."
+    },
+    {
+      "text": "She {1} a cake for the party.",
+      "blanks": [ { "cue": "bake", "answer": ["is baking", "'s baking"] } ],
+      "explanation": "'bake' drops the final e before -ing."
+    },
+    {
+      "text": "I {1} not {2} today; I'm too tired.",
+      "blanks": [
+        { "cue": "be", "answer": ["am"] },
+        { "cue": "swim", "answer": ["swimming"] }
+      ],
+      "explanation": "Negative with I: am not + swimming (double the m)."
+    },
+    {
+      "text": "He {1} his bike to school today.",
+      "blanks": [ { "cue": "ride", "answer": ["is riding", "'s riding"] } ],
+      "explanation": "'ride' drops the final e before -ing."
+    },
+    {
+      "text": "The children {1} in the garden.",
+      "blanks": [ { "cue": "play", "answer": ["are playing", "'re playing"] } ],
+      "explanation": "Plural subject takes 'are' + playing."
+    },
+    {
+      "text": "I {1} a great book this week.",
+      "blanks": [ { "cue": "read", "answer": ["am reading", "'m reading"] } ],
+      "explanation": "I takes 'am' + reading."
+    },
+    {
+      "text": "She {1} not {2} now; she's busy.",
+      "blanks": [
+        { "cue": "be", "answer": ["is", "'s"] },
+        { "cue": "cook", "answer": ["cooking"] }
+      ],
+      "explanation": "Negative: is not (isn't) + cooking."
+    },
+    {
+      "text": "We {1} a new house at the moment.",
+      "blanks": [ { "cue": "build", "answer": ["are building", "'re building"] } ],
+      "explanation": "We takes 'are' + building."
+    },
+    {
+      "text": "The dog {1} at the door.",
+      "blanks": [ { "cue": "sit", "answer": ["is sitting", "'s sitting"] } ],
+      "explanation": "Short vowel + single consonant: 'sit' doubles the t to make sitting."
+    },
+    {
+      "text": "You {1} English very well today.",
+      "blanks": [ { "cue": "speak", "answer": ["are speaking", "'re speaking"] } ],
+      "explanation": "You takes 'are' + speaking."
+    },
+    {
+      "text": "I {1} a cup of tea right now.",
+      "blanks": [ { "cue": "have", "answer": ["am having", "'m having"] } ],
+      "explanation": "'have' drops the final e; here it means 'drinking'."
+    },
+    {
+      "text": "They {1} their grandparents this weekend.",
+      "blanks": [ { "cue": "visit", "answer": ["are visiting", "'re visiting"] } ],
+      "explanation": "Plural subject takes 'are' + visiting."
+    },
+    {
+      "text": "He isn't {1}; he's awake.",
+      "blanks": [ { "cue": "sleep", "answer": ["sleeping"] } ],
+      "explanation": "After 'isn't' use only the -ing form: sleeping."
+    },
+    {
+      "text": "My sister {1} her hair.",
+      "blanks": [ { "cue": "cut", "answer": ["is cutting", "'s cutting"] } ],
+      "explanation": "Short vowel + single consonant: 'cut' doubles the t to make cutting."
+    },
+    {
+      "text": "We aren't {1} TV right now.",
+      "blanks": [ { "cue": "watch", "answer": ["watching"] } ],
+      "explanation": "After 'aren't' use only the -ing form: watching."
+    },
+    {
+      "text": "I {1} a photo of the sunset.",
+      "blanks": [ { "cue": "take", "answer": ["am taking", "'m taking"] } ],
+      "explanation": "'take' drops the final e before -ing."
+    },
+    {
+      "text": "The teacher {1} on the board.",
+      "blanks": [ { "cue": "write", "answer": ["is writing", "'s writing"] } ],
+      "explanation": "She/he/it takes 'is'; 'write' drops the e."
+    },
+    {
+      "text": "You aren't {1} hard enough.",
+      "blanks": [ { "cue": "try", "answer": ["trying"] } ],
+      "explanation": "After 'aren't' use the -ing form: trying."
+    },
+    {
+      "text": "It {1} colder this evening.",
+      "blanks": [ { "cue": "get", "answer": ["is getting", "'s getting"] } ],
+      "explanation": "Short vowel + single consonant: 'get' doubles the t to make getting."
+    },
+    {
+      "text": "I {1} for my keys everywhere.",
+      "blanks": [ { "cue": "look", "answer": ["am looking", "'m looking"] } ],
+      "explanation": "I takes 'am' + looking."
+    },
+    {
+      "text": "The students {1} hard for the exam.",
+      "blanks": [ { "cue": "study", "answer": ["are studying", "'re studying"] } ],
+      "explanation": "Plural subject takes 'are' + studying."
+    },
+    {
+      "text": "She {1} a new song at the moment.",
+      "blanks": [ { "cue": "sing", "answer": ["is singing", "'s singing"] } ],
+      "explanation": "She takes 'is' + singing."
+    },
+    {
+      "text": "We {1} to the airport now.",
+      "blanks": [ { "cue": "drive", "answer": ["are driving", "'re driving"] } ],
+      "explanation": "'drive' drops the final e before -ing."
+    },
+    {
+      "text": "He {1} his room this morning.",
+      "blanks": [ { "cue": "clean", "answer": ["is cleaning", "'s cleaning"] } ],
+      "explanation": "He takes 'is' + cleaning."
+    }
+  ]
+}

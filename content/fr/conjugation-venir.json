@@ -1,0 +1,52 @@
+{
+  "id": "fr-conjugation-venir",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A2",
+  "type": "fill",
+  "title": "Conjugaison : venir",
+  "lesson": "Venir ('to come') is irregular: 'je viens', plural stem 'ven-', third person plural 'viennent', future stem 'viendr-', subjunctive 'vienne / venions'. It takes ÊTRE in the passé composé, so the participle ('venu') agrees with the subject.",
+  "items": [
+    { "text": "Aujourd'hui, je {1} te voir après le travail.", "blanks": [ { "cue": "venir — présent", "answer": ["viens"] } ], "explanation": "venir, present, je → viens." },
+    { "text": "Tu {1} souvent dans ce café ?", "blanks": [ { "cue": "venir — présent", "answer": ["viens"] } ], "explanation": "venir, present, tu → viens." },
+    { "text": "Elle {1} d'un petit village.", "blanks": [ { "cue": "venir — présent", "answer": ["vient"] } ], "explanation": "venir, present, il/elle → vient." },
+    { "text": "En ce moment, nous {1} vous chercher.", "blanks": [ { "cue": "venir — présent", "answer": ["venons"] } ], "explanation": "venir, present, nous → venons." },
+    { "text": "Vous {1} à la fête ce soir ?", "blanks": [ { "cue": "venir — présent", "answer": ["venez"] } ], "explanation": "venir, present, vous → venez." },
+    { "text": "Ils {1} de loin pour ce concert.", "blanks": [ { "cue": "venir — présent", "answer": ["viennent"] } ], "explanation": "venir, present, ils/elles → viennent." },
+
+    { "text": "Hier, je {1} te rendre visite. (je = homme ou femme)", "blanks": [ { "cue": "venir — passé composé", "answer": ["suis venu", "suis venue"] } ], "explanation": "venir, passé composé (être), je → suis venu / suis venue." },
+    { "text": "Hier, tu {1} sans prévenir. (tu = homme ou femme)", "blanks": [ { "cue": "venir — passé composé", "answer": ["es venu", "es venue"] } ], "explanation": "venir, passé composé (être), tu → es venu / es venue." },
+    { "text": "Hier, il {1} avec ses amis.", "blanks": [ { "cue": "venir — passé composé", "answer": ["est venu"] } ], "explanation": "venir, passé composé (être), il → est venu." },
+    { "text": "La semaine dernière, nous {1} en train. (nous = groupe mixte ou masculin)", "blanks": [ { "cue": "venir — passé composé", "answer": ["sommes venus", "sommes venues"] } ], "explanation": "venir, passé composé (être), nous → sommes venus / sommes venues." },
+    { "text": "Hier, vous {1} très tôt. (vous = groupe)", "blanks": [ { "cue": "venir — passé composé", "answer": ["êtes venus", "êtes venues", "êtes venu", "êtes venue"] } ], "explanation": "venir, passé composé (être), vous → êtes venus / venues (or singular venu/venue)." },
+    { "text": "Hier, elles {1} ensemble à pied.", "blanks": [ { "cue": "venir — passé composé", "answer": ["sont venues"] } ], "explanation": "venir, passé composé (être), elles → sont venues." },
+
+    { "text": "Autrefois, je {1} ici tous les étés.", "blanks": [ { "cue": "venir — imparfait", "answer": ["venais"] } ], "explanation": "venir, imparfait, je → venais." },
+    { "text": "Avant, tu {1} me voir chaque dimanche.", "blanks": [ { "cue": "venir — imparfait", "answer": ["venais"] } ], "explanation": "venir, imparfait, tu → venais." },
+    { "text": "À l'époque, elle {1} en bus à l'école.", "blanks": [ { "cue": "venir — imparfait", "answer": ["venait"] } ], "explanation": "venir, imparfait, il/elle → venait." },
+    { "text": "Autrefois, nous {1} dîner chez eux.", "blanks": [ { "cue": "venir — imparfait", "answer": ["venions"] } ], "explanation": "venir, imparfait, nous → venions." },
+    { "text": "Avant, vous {1} toujours en retard.", "blanks": [ { "cue": "venir — imparfait", "answer": ["veniez"] } ], "explanation": "venir, imparfait, vous → veniez." },
+    { "text": "Quand ils étaient petits, ils {1} jouer ici.", "blanks": [ { "cue": "venir — imparfait", "answer": ["venaient"] } ], "explanation": "venir, imparfait, ils/elles → venaient." },
+
+    { "text": "Demain, je {1} te chercher à la gare.", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendrai"] } ], "explanation": "venir, futur simple, je → viendrai." },
+    { "text": "Demain, tu {1} avec nous, j'espère.", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendras"] } ], "explanation": "venir, futur simple, tu → viendras." },
+    { "text": "Plus tard, elle {1} habiter en ville.", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendra"] } ], "explanation": "venir, futur simple, il/elle → viendra." },
+    { "text": "Bientôt, nous {1} vous rendre visite.", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendrons"] } ], "explanation": "venir, futur simple, nous → viendrons." },
+    { "text": "Demain, vous {1} à quelle heure ?", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendrez"] } ], "explanation": "venir, futur simple, vous → viendrez." },
+    { "text": "L'an prochain, ils {1} s'installer près de nous.", "blanks": [ { "cue": "venir — futur simple", "answer": ["viendront"] } ], "explanation": "venir, futur simple, ils/elles → viendront." },
+
+    { "text": "Si j'étais libre, je {1} avec plaisir.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendrais"] } ], "explanation": "venir, conditionnel présent, je → viendrais." },
+    { "text": "Si on t'invitait, tu {1} sans hésiter.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendrais"] } ], "explanation": "venir, conditionnel présent, tu → viendrais." },
+    { "text": "Si elle pouvait, elle {1} ce soir.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendrait"] } ], "explanation": "venir, conditionnel présent, il/elle → viendrait." },
+    { "text": "Avec une voiture, nous {1} plus souvent.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendrions"] } ], "explanation": "venir, conditionnel présent, nous → viendrions." },
+    { "text": "Si vous vouliez, vous {1} dîner chez nous.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendriez"] } ], "explanation": "venir, conditionnel présent, vous → viendriez." },
+    { "text": "S'ils étaient prévenus, ils {1} aussitôt.", "blanks": [ { "cue": "venir — conditionnel présent", "answer": ["viendraient"] } ], "explanation": "venir, conditionnel présent, ils/elles → viendraient." },
+
+    { "text": "Il faut que je {1} te voir rapidement.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["vienne"] } ], "explanation": "venir, subjonctif présent, je → vienne." },
+    { "text": "Il faut que tu {1} m'aider tout de suite.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["viennes"] } ], "explanation": "venir, subjonctif présent, tu → viennes." },
+    { "text": "Il faut qu'elle {1} signer le document.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["vienne"] } ], "explanation": "venir, subjonctif présent, il/elle → vienne." },
+    { "text": "Il faut que nous {1} plus tôt demain.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["venions"] } ], "explanation": "venir, subjonctif présent, nous → venions." },
+    { "text": "Il faut que vous {1} avec vos papiers.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["veniez"] } ], "explanation": "venir, subjonctif présent, vous → veniez." },
+    { "text": "Il faut qu'ils {1} régler ce problème.", "blanks": [ { "cue": "venir — subjonctif présent", "answer": ["viennent"] } ], "explanation": "venir, subjonctif présent, ils/elles → viennent." }
+  ]
+}
