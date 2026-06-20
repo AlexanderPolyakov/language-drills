@@ -333,74 +333,11 @@
           "file": "fr/articles-definite.json"
         },
         {
-          "id": "fr-conjugation-aller-present",
+          "id": "fr-conjugation-a1",
           "topic": "conjugation",
           "level": "A1",
-          "title": "Conjugaison : aller — présent",
-          "file": "fr/conjugation-aller-present.json"
-        },
-        {
-          "id": "fr-conjugation-avoir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : avoir — présent",
-          "file": "fr/conjugation-avoir-present.json"
-        },
-        {
-          "id": "fr-conjugation-devoir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : devoir — présent",
-          "file": "fr/conjugation-devoir-present.json"
-        },
-        {
-          "id": "fr-conjugation-etre-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : être — présent",
-          "file": "fr/conjugation-etre-present.json"
-        },
-        {
-          "id": "fr-conjugation-faire-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : faire — présent",
-          "file": "fr/conjugation-faire-present.json"
-        },
-        {
-          "id": "fr-conjugation-finir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : finir — présent",
-          "file": "fr/conjugation-finir-present.json"
-        },
-        {
-          "id": "fr-conjugation-pouvoir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : pouvoir — présent",
-          "file": "fr/conjugation-pouvoir-present.json"
-        },
-        {
-          "id": "fr-conjugation-prendre-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : prendre — présent",
-          "file": "fr/conjugation-prendre-present.json"
-        },
-        {
-          "id": "fr-conjugation-venir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : venir — présent",
-          "file": "fr/conjugation-venir-present.json"
-        },
-        {
-          "id": "fr-conjugation-vouloir-present",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : vouloir — présent",
-          "file": "fr/conjugation-vouloir-present.json"
+          "title": "Conjugaison : le présent",
+          "file": "fr/conjugation-a1.json"
         },
         {
           "id": "fr-verbs-present-er",
@@ -480,74 +417,11 @@
           "file": "fr/comparative-a2.json"
         },
         {
-          "id": "fr-conjugation-aller-passe-futur",
+          "id": "fr-conjugation-a2",
           "topic": "conjugation",
           "level": "A2",
-          "title": "Conjugaison : aller — passé composé, imparfait et futur",
-          "file": "fr/conjugation-aller-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-avoir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : avoir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-avoir-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-devoir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : devoir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-devoir-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-etre-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : être — passé composé, imparfait et futur",
-          "file": "fr/conjugation-etre-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-faire-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : faire — passé composé, imparfait et futur",
-          "file": "fr/conjugation-faire-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-finir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : finir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-finir-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-pouvoir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : pouvoir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-pouvoir-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-prendre-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : prendre — passé composé, imparfait et futur",
-          "file": "fr/conjugation-prendre-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-venir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : venir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-venir-passe-futur.json"
-        },
-        {
-          "id": "fr-conjugation-vouloir-passe-futur",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : vouloir — passé composé, imparfait et futur",
-          "file": "fr/conjugation-vouloir-passe-futur.json"
+          "title": "Conjugaison : présent, passé composé, imparfait et futur",
+          "file": "fr/conjugation-a2.json"
         },
         {
           "id": "fr-futur-proche-a2",
@@ -620,74 +494,11 @@
           "file": "fr/conditional-b1.json"
         },
         {
-          "id": "fr-conjugation-aller-modes",
+          "id": "fr-conjugation-b1",
           "topic": "conjugation",
           "level": "B1",
-          "title": "Conjugaison : aller — conditionnel et subjonctif",
-          "file": "fr/conjugation-aller-modes.json"
-        },
-        {
-          "id": "fr-conjugation-avoir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : avoir — conditionnel et subjonctif",
-          "file": "fr/conjugation-avoir-modes.json"
-        },
-        {
-          "id": "fr-conjugation-devoir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : devoir — conditionnel et subjonctif",
-          "file": "fr/conjugation-devoir-modes.json"
-        },
-        {
-          "id": "fr-conjugation-etre-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : être — conditionnel et subjonctif",
-          "file": "fr/conjugation-etre-modes.json"
-        },
-        {
-          "id": "fr-conjugation-faire-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : faire — conditionnel et subjonctif",
-          "file": "fr/conjugation-faire-modes.json"
-        },
-        {
-          "id": "fr-conjugation-finir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : finir — conditionnel et subjonctif",
-          "file": "fr/conjugation-finir-modes.json"
-        },
-        {
-          "id": "fr-conjugation-pouvoir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : pouvoir — conditionnel et subjonctif",
-          "file": "fr/conjugation-pouvoir-modes.json"
-        },
-        {
-          "id": "fr-conjugation-prendre-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : prendre — conditionnel et subjonctif",
-          "file": "fr/conjugation-prendre-modes.json"
-        },
-        {
-          "id": "fr-conjugation-venir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : venir — conditionnel et subjonctif",
-          "file": "fr/conjugation-venir-modes.json"
-        },
-        {
-          "id": "fr-conjugation-vouloir-modes",
-          "topic": "conjugation",
-          "level": "B1",
-          "title": "Conjugaison : vouloir — conditionnel et subjonctif",
-          "file": "fr/conjugation-vouloir-modes.json"
+          "title": "Conjugaison : tous les temps (conditionnel et subjonctif inclus)",
+          "file": "fr/conjugation-b1.json"
         },
         {
           "id": "fr-futur-simple-b1",
