@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-pouvoir-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : pouvoir — conditionnel et subjonctif",
+  "lesson": "Pouvoir ('to be able to / can') is highly irregular. Note 'je peux', the plural stem 'pouv-', a future stem 'pourr-', and the subjunctive stem 'puiss-'. Its past participle is 'pu'.",
+  "items": [
+    {"text": "Avec de l'aide, je {1} finir à temps.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourrais"]}], "explanation": "pouvoir, conditionnel présent, je → pourrais."},
+    {"text": "Si tu voulais, tu {1} apprendre le piano.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourrais"]}], "explanation": "pouvoir, conditionnel présent, tu → pourrais."},
+    {"text": "Avec un peu de chance, elle {1} gagner.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourrait"]}], "explanation": "pouvoir, conditionnel présent, il/elle → pourrait."},
+    {"text": "Avec plus de temps, nous {1} tout vérifier.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourrions"]}], "explanation": "pouvoir, conditionnel présent, nous → pourrions."},
+    {"text": "Si vous insistiez, vous {1} obtenir un rabais.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourriez"]}], "explanation": "pouvoir, conditionnel présent, vous → pourriez."},
+    {"text": "Avec un effort, ils {1} réussir l'examen.", "blanks": [{"cue": "pouvoir — conditionnel présent", "answer": ["pourraient"]}], "explanation": "pouvoir, conditionnel présent, ils/elles → pourraient."},
+    {"text": "Il faut que je {1} me concentrer un instant.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puisse"]}], "explanation": "pouvoir, subjonctif présent, je → puisse."},
+    {"text": "Il faut que tu {1} dormir un peu.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puisses"]}], "explanation": "pouvoir, subjonctif présent, tu → puisses."},
+    {"text": "Il faut qu'elle {1} se reposer ce week-end.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puisse"]}], "explanation": "pouvoir, subjonctif présent, il/elle → puisse."},
+    {"text": "Il faut que nous {1} compter sur toi.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puissions"]}], "explanation": "pouvoir, subjonctif présent, nous → puissions."},
+    {"text": "Il faut que vous {1} entendre cette nouvelle.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puissiez"]}], "explanation": "pouvoir, subjonctif présent, vous → puissiez."},
+    {"text": "Il faut qu'ils {1} accéder au bâtiment.", "blanks": [{"cue": "pouvoir — subjonctif présent", "answer": ["puissent"]}], "explanation": "pouvoir, subjonctif présent, ils/elles → puissent."}
+  ]
+}

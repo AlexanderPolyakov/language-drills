@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-etre-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : être — conditionnel et subjonctif",
+  "lesson": "être is the most common irregular verb in French, meaning 'to be'. It is also the auxiliary used to form the passé composé of many verbs of movement.",
+  "items": [
+    {"text": "À ta place, je {1} plus prudent.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["serais"]}], "explanation": "être, conditionnel présent, je → serais."},
+    {"text": "Tu {1} plus heureux ailleurs.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["serais"]}], "explanation": "être, conditionnel présent, tu → serais."},
+    {"text": "Il {1} ravi de venir.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["serait"]}], "explanation": "être, conditionnel présent, il → serait."},
+    {"text": "Nous {1} d'accord avec ça.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["serions"]}], "explanation": "être, conditionnel présent, nous → serions."},
+    {"text": "Vous {1} les bienvenus.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["seriez"]}], "explanation": "être, conditionnel présent, vous → seriez."},
+    {"text": "Ils {1} fiers de toi.", "blanks": [{"cue": "être — conditionnel présent", "answer": ["seraient"]}], "explanation": "être, conditionnel présent, ils → seraient."},
+    {"text": "Il faut que je {1} à l'heure.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["sois"]}], "explanation": "être, subjonctif présent, je → sois."},
+    {"text": "Je veux que tu {1} sage.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["sois"]}], "explanation": "être, subjonctif présent, tu → sois."},
+    {"text": "Il faut qu'il {1} présent.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["soit"]}], "explanation": "être, subjonctif présent, il → soit."},
+    {"text": "Il faut que nous {1} prêts.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["soyons"]}], "explanation": "être, subjonctif présent, nous → soyons."},
+    {"text": "Je veux que vous {1} polis.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["soyez"]}], "explanation": "être, subjonctif présent, vous → soyez."},
+    {"text": "Il faut qu'elles {1} là.", "blanks": [{"cue": "être — subjonctif présent", "answer": ["soient"]}], "explanation": "être, subjonctif présent, elles → soient."}
+  ]
+}

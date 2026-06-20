@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-prendre-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : prendre — conditionnel et subjonctif",
+  "lesson": "Prendre is an irregular -re verb that drops the 'd' in the plural (nous prenons) and doubles the 'n' in the third person plural (ils prennent). Its past participle is 'pris'.",
+  "items": [
+    {"text": "Si j'avais le temps, je {1} des cours de piano.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendrais"]}], "explanation": "prendre, conditionnel présent, je → prendrais."},
+    {"text": "À ma place, tu {1} la même décision.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendrais"]}], "explanation": "prendre, conditionnel présent, tu → prendrais."},
+    {"text": "Si possible, elle {1} un jour de congé.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendrait"]}], "explanation": "prendre, conditionnel présent, il/elle → prendrait."},
+    {"text": "Avec plus d'argent, nous {1} un plus grand appartement.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendrions"]}], "explanation": "prendre, conditionnel présent, nous → prendrions."},
+    {"text": "Si vous vouliez, vous {1} le dessert maintenant.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendriez"]}], "explanation": "prendre, conditionnel présent, vous → prendriez."},
+    {"text": "S'ils pouvaient, ils {1} une année sabbatique.", "blanks": [{"cue": "prendre — conditionnel présent", "answer": ["prendraient"]}], "explanation": "prendre, conditionnel présent, ils/elles → prendraient."},
+    {"text": "Il faut que je {1} mes médicaments chaque jour.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["prenne"]}], "explanation": "prendre, subjonctif présent, je → prenne."},
+    {"text": "Il faut que tu {1} le temps de te reposer.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["prennes"]}], "explanation": "prendre, subjonctif présent, tu → prennes."},
+    {"text": "Il faut qu'elle {1} l'air un peu.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["prenne"]}], "explanation": "prendre, subjonctif présent, il/elle → prenne."},
+    {"text": "Il faut que nous {1} une décision rapidement.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["prenions"]}], "explanation": "prendre, subjonctif présent, nous → prenions."},
+    {"text": "Il faut que vous {1} vos billets à l'avance.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["preniez"]}], "explanation": "prendre, subjonctif présent, vous → preniez."},
+    {"text": "Il faut qu'ils {1} leurs précautions.", "blanks": [{"cue": "prendre — subjonctif présent", "answer": ["prennent"]}], "explanation": "prendre, subjonctif présent, ils/elles → prennent."}
+  ]
+}

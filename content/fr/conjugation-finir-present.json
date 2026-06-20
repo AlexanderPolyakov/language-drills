@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-finir-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : finir — présent",
+  "lesson": "finir means 'to finish' and is the model for regular second-group -ir verbs, which insert -iss- in the plural present and throughout the imparfait.",
+  "items": [
+    {"text": "En ce moment, je {1} mon repas.", "blanks": [{"cue": "finir — présent", "answer": ["finis"]}], "explanation": "finir, present, je → finis."},
+    {"text": "Tu {1} toujours en retard.", "blanks": [{"cue": "finir — présent", "answer": ["finis"]}], "explanation": "finir, present, tu → finis."},
+    {"text": "Il {1} son travail.", "blanks": [{"cue": "finir — présent", "answer": ["finit"]}], "explanation": "finir, present, il → finit."},
+    {"text": "Nous {1} le projet aujourd'hui.", "blanks": [{"cue": "finir — présent", "answer": ["finissons"]}], "explanation": "finir, present, nous → finissons."},
+    {"text": "Vous {1} vos exercices.", "blanks": [{"cue": "finir — présent", "answer": ["finissez"]}], "explanation": "finir, present, vous → finissez."},
+    {"text": "Elles {1} le livre.", "blanks": [{"cue": "finir — présent", "answer": ["finissent"]}], "explanation": "finir, present, elles → finissent."}
+  ]
+}

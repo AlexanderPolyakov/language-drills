@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-venir-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : venir — présent",
+  "lesson": "Venir ('to come') is irregular: 'je viens', plural stem 'ven-', third person plural 'viennent', future stem 'viendr-', subjunctive 'vienne / venions'. It takes ÊTRE in the passé composé, so the participle ('venu') agrees with the subject.",
+  "items": [
+    {"text": "Aujourd'hui, je {1} te voir après le travail.", "blanks": [{"cue": "venir — présent", "answer": ["viens"]}], "explanation": "venir, present, je → viens."},
+    {"text": "Tu {1} souvent dans ce café ?", "blanks": [{"cue": "venir — présent", "answer": ["viens"]}], "explanation": "venir, present, tu → viens."},
+    {"text": "Elle {1} d'un petit village.", "blanks": [{"cue": "venir — présent", "answer": ["vient"]}], "explanation": "venir, present, il/elle → vient."},
+    {"text": "En ce moment, nous {1} vous chercher.", "blanks": [{"cue": "venir — présent", "answer": ["venons"]}], "explanation": "venir, present, nous → venons."},
+    {"text": "Vous {1} à la fête ce soir ?", "blanks": [{"cue": "venir — présent", "answer": ["venez"]}], "explanation": "venir, present, vous → venez."},
+    {"text": "Ils {1} de loin pour ce concert.", "blanks": [{"cue": "venir — présent", "answer": ["viennent"]}], "explanation": "venir, present, ils/elles → viennent."}
+  ]
+}

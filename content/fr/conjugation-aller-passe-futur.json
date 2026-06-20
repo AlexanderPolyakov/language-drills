@@ -1,0 +1,29 @@
+{
+  "id": "fr-conjugation-aller-passe-futur",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A2",
+  "type": "fill",
+  "title": "Conjugaison : aller — passé composé, imparfait et futur",
+  "lesson": "aller means 'to go' and is highly irregular. It uses être as its auxiliary in the passé composé, so the past participle agrees with the subject.",
+  "items": [
+    {"text": "Hier, je {1} chez le médecin.", "blanks": [{"cue": "aller — passé composé", "answer": ["suis allé", "suis allée"]}], "explanation": "aller, passé composé with être, je → suis allé / suis allée."},
+    {"text": "Hier, tu {1} au travail.", "blanks": [{"cue": "aller — passé composé", "answer": ["es allé", "es allée"]}], "explanation": "aller, passé composé with être, tu → es allé / es allée."},
+    {"text": "Il {1} en ville hier.", "blanks": [{"cue": "aller — passé composé", "answer": ["est allé"]}], "explanation": "aller, passé composé with être, il → est allé."},
+    {"text": "Nous {1} à la montagne hier.", "blanks": [{"cue": "aller — passé composé", "answer": ["sommes allés", "sommes allées"]}], "explanation": "aller, passé composé with être, nous → sommes allés / sommes allées."},
+    {"text": "Vous {1} au restaurant hier soir.", "blanks": [{"cue": "aller — passé composé", "answer": ["êtes allés", "êtes allées", "êtes allé", "êtes allée"]}], "explanation": "aller, passé composé with être, vous → êtes allés / allées / allé / allée."},
+    {"text": "Elles {1} au concert hier.", "blanks": [{"cue": "aller — passé composé", "answer": ["sont allées"]}], "explanation": "aller, passé composé with être, elles → sont allées."},
+    {"text": "Autrefois, j' {1} souvent à la mer.", "blanks": [{"cue": "aller — imparfait", "answer": ["allais"]}], "explanation": "aller, imparfait, je → allais."},
+    {"text": "Quand tu {1} à l'école, tu chantais.", "blanks": [{"cue": "aller — imparfait", "answer": ["allais"]}], "explanation": "aller, imparfait, tu → allais."},
+    {"text": "Il {1} au parc chaque dimanche.", "blanks": [{"cue": "aller — imparfait", "answer": ["allait"]}], "explanation": "aller, imparfait, il → allait."},
+    {"text": "Autrefois, nous {1} à la campagne.", "blanks": [{"cue": "aller — imparfait", "answer": ["allions"]}], "explanation": "aller, imparfait, nous → allions."},
+    {"text": "Vous {1} chez vos grands-parents.", "blanks": [{"cue": "aller — imparfait", "answer": ["alliez"]}], "explanation": "aller, imparfait, vous → alliez."},
+    {"text": "Ils {1} au stade le samedi.", "blanks": [{"cue": "aller — imparfait", "answer": ["allaient"]}], "explanation": "aller, imparfait, ils → allaient."},
+    {"text": "Demain, j' {1} à la gare.", "blanks": [{"cue": "aller — futur simple", "answer": ["irai"]}], "explanation": "aller, futur simple, je → irai."},
+    {"text": "Demain, tu {1} au bureau.", "blanks": [{"cue": "aller — futur simple", "answer": ["iras"]}], "explanation": "aller, futur simple, tu → iras."},
+    {"text": "Il {1} en France l'été prochain.", "blanks": [{"cue": "aller — futur simple", "answer": ["ira"]}], "explanation": "aller, futur simple, il → ira."},
+    {"text": "Nous {1} à la fête demain.", "blanks": [{"cue": "aller — futur simple", "answer": ["irons"]}], "explanation": "aller, futur simple, nous → irons."},
+    {"text": "Vous {1} loin un jour.", "blanks": [{"cue": "aller — futur simple", "answer": ["irez"]}], "explanation": "aller, futur simple, vous → irez."},
+    {"text": "Elles {1} à l'université.", "blanks": [{"cue": "aller — futur simple", "answer": ["iront"]}], "explanation": "aller, futur simple, elles → iront."}
+  ]
+}

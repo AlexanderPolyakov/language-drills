@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-faire-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : faire — conditionnel et subjonctif",
+  "lesson": "faire means 'to do' or 'to make' and is a very common irregular verb appearing in many idiomatic expressions.",
+  "items": [
+    {"text": "À ta place, je {1} autrement.", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["ferais"]}], "explanation": "faire, conditionnel présent, je → ferais."},
+    {"text": "Tu {1} quoi avec cet argent ?", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["ferais"]}], "explanation": "faire, conditionnel présent, tu → ferais."},
+    {"text": "Il {1} mieux de se taire.", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["ferait"]}], "explanation": "faire, conditionnel présent, il → ferait."},
+    {"text": "Nous {1} ça avec plaisir.", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["ferions"]}], "explanation": "faire, conditionnel présent, nous → ferions."},
+    {"text": "Vous {1} bien de partir.", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["feriez"]}], "explanation": "faire, conditionnel présent, vous → feriez."},
+    {"text": "Ils {1} le tour du monde.", "blanks": [{"cue": "faire — conditionnel présent", "answer": ["feraient"]}], "explanation": "faire, conditionnel présent, ils → feraient."},
+    {"text": "Il faut que je {1} attention.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fasse"]}], "explanation": "faire, subjonctif présent, je → fasse."},
+    {"text": "Je veux que tu {1} un effort.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fasses"]}], "explanation": "faire, subjonctif présent, tu → fasses."},
+    {"text": "Il faut qu'il {1} ses devoirs.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fasse"]}], "explanation": "faire, subjonctif présent, il → fasse."},
+    {"text": "Il faut que nous {1} vite.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fassions"]}], "explanation": "faire, subjonctif présent, nous → fassions."},
+    {"text": "Je veux que vous {1} le silence.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fassiez"]}], "explanation": "faire, subjonctif présent, vous → fassiez."},
+    {"text": "Il faut qu'elles {1} leur lit.", "blanks": [{"cue": "faire — subjonctif présent", "answer": ["fassent"]}], "explanation": "faire, subjonctif présent, elles → fassent."}
+  ]
+}

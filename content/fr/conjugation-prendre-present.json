@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-prendre-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : prendre — présent",
+  "lesson": "Prendre is an irregular -re verb that drops the 'd' in the plural (nous prenons) and doubles the 'n' in the third person plural (ils prennent). Its past participle is 'pris'.",
+  "items": [
+    {"text": "Le matin, je {1} le bus pour aller au travail.", "blanks": [{"cue": "prendre — présent", "answer": ["prends"]}], "explanation": "prendre, present, je → prends."},
+    {"text": "Tu {1} toujours trop de temps pour te préparer.", "blanks": [{"cue": "prendre — présent", "answer": ["prends"]}], "explanation": "prendre, present, tu → prends."},
+    {"text": "Elle {1} un café tous les matins.", "blanks": [{"cue": "prendre — présent", "answer": ["prend"]}], "explanation": "prendre, present, il/elle → prend."},
+    {"text": "En ce moment, nous {1} des notes en cours.", "blanks": [{"cue": "prendre — présent", "answer": ["prenons"]}], "explanation": "prendre, present, nous → prenons."},
+    {"text": "Vous {1} l'avion ce soir, n'est-ce pas ?", "blanks": [{"cue": "prendre — présent", "answer": ["prenez"]}], "explanation": "prendre, present, vous → prenez."},
+    {"text": "Ils {1} le train de huit heures.", "blanks": [{"cue": "prendre — présent", "answer": ["prennent"]}], "explanation": "prendre, present, ils/elles → prennent."}
+  ]
+}

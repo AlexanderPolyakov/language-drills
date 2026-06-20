@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-avoir-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : avoir — conditionnel et subjonctif",
+  "lesson": "avoir means 'to have' and is the most common auxiliary verb in French, used to form the passé composé of most verbs.",
+  "items": [
+    {"text": "Avec plus d'argent, j' {1} une maison.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["aurais"]}], "explanation": "avoir, conditionnel présent, je → aurais."},
+    {"text": "Tu {1} tort de partir.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["aurais"]}], "explanation": "avoir, conditionnel présent, tu → aurais."},
+    {"text": "Il {1} besoin de toi.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["aurait"]}], "explanation": "avoir, conditionnel présent, il → aurait."},
+    {"text": "Nous {1} plus de place ailleurs.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["aurions"]}], "explanation": "avoir, conditionnel présent, nous → aurions."},
+    {"text": "Vous {1} tort de croire ça.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["auriez"]}], "explanation": "avoir, conditionnel présent, vous → auriez."},
+    {"text": "Ils {1} peur dans le noir.", "blanks": [{"cue": "avoir — conditionnel présent", "answer": ["auraient"]}], "explanation": "avoir, conditionnel présent, ils → auraient."},
+    {"text": "Il faut que j' {1} du courage.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["aie"]}], "explanation": "avoir, subjonctif présent, je → aie."},
+    {"text": "Je veux que tu {1} confiance.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["aies"]}], "explanation": "avoir, subjonctif présent, tu → aies."},
+    {"text": "Il faut qu'il {1} de la patience.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["ait"]}], "explanation": "avoir, subjonctif présent, il → ait."},
+    {"text": "Il faut que nous {1} le temps.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["ayons"]}], "explanation": "avoir, subjonctif présent, nous → ayons."},
+    {"text": "Je veux que vous {1} raison.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["ayez"]}], "explanation": "avoir, subjonctif présent, vous → ayez."},
+    {"text": "Il faut qu'elles {1} leurs papiers.", "blanks": [{"cue": "avoir — subjonctif présent", "answer": ["aient"]}], "explanation": "avoir, subjonctif présent, elles → aient."}
+  ]
+}

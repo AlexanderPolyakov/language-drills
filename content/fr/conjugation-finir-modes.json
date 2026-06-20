@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-finir-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : finir — conditionnel et subjonctif",
+  "lesson": "finir means 'to finish' and is the model for regular second-group -ir verbs, which insert -iss- in the plural present and throughout the imparfait.",
+  "items": [
+    {"text": "Avec ton aide, je {1} plus vite.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finirais"]}], "explanation": "finir, conditionnel présent, je → finirais."},
+    {"text": "Tu {1} plus tôt sans moi.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finirais"]}], "explanation": "finir, conditionnel présent, tu → finirais."},
+    {"text": "Il {1} mal sans ce conseil.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finirait"]}], "explanation": "finir, conditionnel présent, il → finirait."},
+    {"text": "Nous {1} avant ce soir.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finirions"]}], "explanation": "finir, conditionnel présent, nous → finirions."},
+    {"text": "Vous {1} plus vite à deux.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finiriez"]}], "explanation": "finir, conditionnel présent, vous → finiriez."},
+    {"text": "Ils {1} par accepter.", "blanks": [{"cue": "finir — conditionnel présent", "answer": ["finiraient"]}], "explanation": "finir, conditionnel présent, ils → finiraient."},
+    {"text": "Il faut que je {1} ce travail.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finisse"]}], "explanation": "finir, subjonctif présent, je → finisse."},
+    {"text": "Je veux que tu {1} ton assiette.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finisses"]}], "explanation": "finir, subjonctif présent, tu → finisses."},
+    {"text": "Il faut qu'il {1} à temps.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finisse"]}], "explanation": "finir, subjonctif présent, il → finisse."},
+    {"text": "Il faut que nous {1} ce soir.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finissions"]}], "explanation": "finir, subjonctif présent, nous → finissions."},
+    {"text": "Je veux que vous {1} le projet.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finissiez"]}], "explanation": "finir, subjonctif présent, vous → finissiez."},
+    {"text": "Il faut qu'elles {1} avant midi.", "blanks": [{"cue": "finir — subjonctif présent", "answer": ["finissent"]}], "explanation": "finir, subjonctif présent, elles → finissent."}
+  ]
+}

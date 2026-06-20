@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-pouvoir-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : pouvoir — présent",
+  "lesson": "Pouvoir ('to be able to / can') is highly irregular. Note 'je peux', the plural stem 'pouv-', a future stem 'pourr-', and the subjunctive stem 'puiss-'. Its past participle is 'pu'.",
+  "items": [
+    {"text": "Aujourd'hui, je {1} t'aider si tu veux.", "blanks": [{"cue": "pouvoir — présent", "answer": ["peux"]}], "explanation": "pouvoir, present, je → peux."},
+    {"text": "Tu {1} venir avec nous ce soir.", "blanks": [{"cue": "pouvoir — présent", "answer": ["peux"]}], "explanation": "pouvoir, present, tu → peux."},
+    {"text": "Elle {1} parler trois langues.", "blanks": [{"cue": "pouvoir — présent", "answer": ["peut"]}], "explanation": "pouvoir, present, il/elle → peut."},
+    {"text": "En ce moment, nous {1} entendre la musique d'ici.", "blanks": [{"cue": "pouvoir — présent", "answer": ["pouvons"]}], "explanation": "pouvoir, present, nous → pouvons."},
+    {"text": "Vous {1} entrer, la porte est ouverte.", "blanks": [{"cue": "pouvoir — présent", "answer": ["pouvez"]}], "explanation": "pouvoir, present, vous → pouvez."},
+    {"text": "Ils {1} finir le travail avant midi.", "blanks": [{"cue": "pouvoir — présent", "answer": ["peuvent"]}], "explanation": "pouvoir, present, ils/elles → peuvent."}
+  ]
+}

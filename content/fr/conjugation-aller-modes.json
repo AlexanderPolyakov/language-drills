@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-aller-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : aller — conditionnel et subjonctif",
+  "lesson": "aller means 'to go' and is highly irregular. It uses être as its auxiliary in the passé composé, so the past participle agrees with the subject.",
+  "items": [
+    {"text": "Si je pouvais, j' {1} à la mer.", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["irais"]}], "explanation": "aller, conditionnel présent, je → irais."},
+    {"text": "Tu {1} où, à ma place ?", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["irais"]}], "explanation": "aller, conditionnel présent, tu → irais."},
+    {"text": "Il {1} bien avec un peu de repos.", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["irait"]}], "explanation": "aller, conditionnel présent, il → irait."},
+    {"text": "Nous {1} volontiers avec vous.", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["irions"]}], "explanation": "aller, conditionnel présent, nous → irions."},
+    {"text": "Vous {1} mieux après des vacances.", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["iriez"]}], "explanation": "aller, conditionnel présent, vous → iriez."},
+    {"text": "Ils {1} plus vite en train.", "blanks": [{"cue": "aller — conditionnel présent", "answer": ["iraient"]}], "explanation": "aller, conditionnel présent, ils → iraient."},
+    {"text": "Il faut que j' {1} chez le dentiste.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["aille"]}], "explanation": "aller, subjonctif présent, je → aille."},
+    {"text": "Je veux que tu {1} te coucher.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["ailles"]}], "explanation": "aller, subjonctif présent, tu → ailles."},
+    {"text": "Il faut qu'il {1} à l'hôpital.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["aille"]}], "explanation": "aller, subjonctif présent, il → aille."},
+    {"text": "Il faut que nous {1} plus loin.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["allions"]}], "explanation": "aller, subjonctif présent, nous → allions."},
+    {"text": "Je veux que vous {1} là-bas.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["alliez"]}], "explanation": "aller, subjonctif présent, vous → alliez."},
+    {"text": "Il faut qu'elles {1} à la réunion.", "blanks": [{"cue": "aller — subjonctif présent", "answer": ["aillent"]}], "explanation": "aller, subjonctif présent, elles → aillent."}
+  ]
+}

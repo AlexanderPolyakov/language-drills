@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-faire-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : faire — présent",
+  "lesson": "faire means 'to do' or 'to make' and is a very common irregular verb appearing in many idiomatic expressions.",
+  "items": [
+    {"text": "En ce moment, je {1} mes devoirs.", "blanks": [{"cue": "faire — présent", "answer": ["fais"]}], "explanation": "faire, present, je → fais."},
+    {"text": "Tu {1} du bruit.", "blanks": [{"cue": "faire — présent", "answer": ["fais"]}], "explanation": "faire, present, tu → fais."},
+    {"text": "Elle {1} la cuisine.", "blanks": [{"cue": "faire — présent", "answer": ["fait"]}], "explanation": "faire, present, elle → fait."},
+    {"text": "Nous {1} du sport.", "blanks": [{"cue": "faire — présent", "answer": ["faisons"]}], "explanation": "faire, present, nous → faisons."},
+    {"text": "Vous {1} attention.", "blanks": [{"cue": "faire — présent", "answer": ["faites"]}], "explanation": "faire, present, vous → faites."},
+    {"text": "Ils {1} leurs valises.", "blanks": [{"cue": "faire — présent", "answer": ["font"]}], "explanation": "faire, present, ils → font."}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fr-conjugation-vouloir-modes",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "B1",
+  "type": "fill",
+  "title": "Conjugaison : vouloir — conditionnel et subjonctif",
+  "lesson": "Vouloir ('to want') is irregular: 'je veux', plural stem 'voul-', third person plural 'veulent', future stem 'voudr-', and subjunctive 'veuille / voulions'. Its past participle is 'voulu'.",
+  "items": [
+    {"text": "Je {1} bien un verre d'eau, merci.", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudrais"]}], "explanation": "vouloir, conditionnel présent, je → voudrais."},
+    {"text": "Tu {1} venir avec nous ce soir ?", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudrais"]}], "explanation": "vouloir, conditionnel présent, tu → voudrais."},
+    {"text": "Elle {1} bien partir en vacances.", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudrait"]}], "explanation": "vouloir, conditionnel présent, il/elle → voudrait."},
+    {"text": "Nous {1} réserver une table pour deux.", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudrions"]}], "explanation": "vouloir, conditionnel présent, nous → voudrions."},
+    {"text": "Vous {1} un peu plus de café ?", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudriez"]}], "explanation": "vouloir, conditionnel présent, vous → voudriez."},
+    {"text": "Ils {1} bien rester un jour de plus.", "blanks": [{"cue": "vouloir — conditionnel présent", "answer": ["voudraient"]}], "explanation": "vouloir, conditionnel présent, ils/elles → voudraient."},
+    {"text": "Il faut que je {1} vraiment réussir pour y arriver.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["veuille"]}], "explanation": "vouloir, subjonctif présent, je → veuille."},
+    {"text": "Il faut que tu {1} bien faire un effort.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["veuilles"]}], "explanation": "vouloir, subjonctif présent, tu → veuilles."},
+    {"text": "Il faut qu'elle {1} bien nous écouter.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["veuille"]}], "explanation": "vouloir, subjonctif présent, il/elle → veuille."},
+    {"text": "Il faut que nous {1} tous la même chose.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["voulions"]}], "explanation": "vouloir, subjonctif présent, nous → voulions."},
+    {"text": "Il faut que vous {1} bien patienter un peu.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["vouliez"]}], "explanation": "vouloir, subjonctif présent, vous → vouliez."},
+    {"text": "Il faut qu'ils {1} bien coopérer avec nous.", "blanks": [{"cue": "vouloir — subjonctif présent", "answer": ["veuillent"]}], "explanation": "vouloir, subjonctif présent, ils/elles → veuillent."}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fr-conjugation-etre-present",
+  "lang": "fr",
+  "topic": "conjugation",
+  "level": "A1",
+  "type": "fill",
+  "title": "Conjugaison : être — présent",
+  "lesson": "être is the most common irregular verb in French, meaning 'to be'. It is also the auxiliary used to form the passé composé of many verbs of movement.",
+  "items": [
+    {"text": "En ce moment, je {1} très fatigué.", "blanks": [{"cue": "être — présent", "answer": ["suis"]}], "explanation": "être, present, je → suis."},
+    {"text": "Tu {1} mon meilleur ami.", "blanks": [{"cue": "être — présent", "answer": ["es"]}], "explanation": "être, present, tu → es."},
+    {"text": "Il {1} dans la cuisine.", "blanks": [{"cue": "être — présent", "answer": ["est"]}], "explanation": "être, present, il → est."},
+    {"text": "Nous {1} en retard ce matin.", "blanks": [{"cue": "être — présent", "answer": ["sommes"]}], "explanation": "être, present, nous → sommes."},
+    {"text": "Vous {1} très gentils.", "blanks": [{"cue": "être — présent", "answer": ["êtes"]}], "explanation": "être, present, vous → êtes."},
+    {"text": "Elles {1} à la maison.", "blanks": [{"cue": "être — présent", "answer": ["sont"]}], "explanation": "être, present, elles → sont."}
+  ]
+}
