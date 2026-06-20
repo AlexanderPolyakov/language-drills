@@ -333,25 +333,11 @@
           "file": "fr/articles-definite.json"
         },
         {
-          "id": "fr-conjugation-aller",
+          "id": "fr-conjugation-a1",
           "topic": "conjugation",
           "level": "A1",
-          "title": "Conjugaison : aller",
-          "file": "fr/conjugation-aller.json"
-        },
-        {
-          "id": "fr-conjugation-avoir",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : avoir",
-          "file": "fr/conjugation-avoir.json"
-        },
-        {
-          "id": "fr-conjugation-etre",
-          "topic": "conjugation",
-          "level": "A1",
-          "title": "Conjugaison : être",
-          "file": "fr/conjugation-etre.json"
+          "title": "Conjugaison : le présent",
+          "file": "fr/conjugation-a1.json"
         },
         {
           "id": "fr-verbs-present-er",
@@ -431,46 +417,11 @@
           "file": "fr/comparative-a2.json"
         },
         {
-          "id": "fr-conjugation-faire",
+          "id": "fr-conjugation-a2",
           "topic": "conjugation",
           "level": "A2",
-          "title": "Conjugaison : faire",
-          "file": "fr/conjugation-faire.json"
-        },
-        {
-          "id": "fr-conjugation-finir",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : finir",
-          "file": "fr/conjugation-finir.json"
-        },
-        {
-          "id": "fr-conjugation-pouvoir",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : pouvoir",
-          "file": "fr/conjugation-pouvoir.json"
-        },
-        {
-          "id": "fr-conjugation-prendre",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : prendre",
-          "file": "fr/conjugation-prendre.json"
-        },
-        {
-          "id": "fr-conjugation-venir",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : venir",
-          "file": "fr/conjugation-venir.json"
-        },
-        {
-          "id": "fr-conjugation-vouloir",
-          "topic": "conjugation",
-          "level": "A2",
-          "title": "Conjugaison : vouloir",
-          "file": "fr/conjugation-vouloir.json"
+          "title": "Conjugaison : présent, passé composé, imparfait et futur",
+          "file": "fr/conjugation-a2.json"
         },
         {
           "id": "fr-futur-proche-a2",
@@ -543,11 +494,11 @@
           "file": "fr/conditional-b1.json"
         },
         {
-          "id": "fr-conjugation-devoir",
+          "id": "fr-conjugation-b1",
           "topic": "conjugation",
           "level": "B1",
-          "title": "Conjugaison : devoir",
-          "file": "fr/conjugation-devoir.json"
+          "title": "Conjugaison : tous les temps (conditionnel et subjonctif inclus)",
+          "file": "fr/conjugation-b1.json"
         },
         {
           "id": "fr-futur-simple-b1",
