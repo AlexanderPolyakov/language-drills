@@ -124,7 +124,9 @@ h2 { font-size: 1.15rem; margin: 0 0 1rem; }
 
 /* Fill type (gap-fill: type the right form of a cued word, workbook-style).
    Shares the cloze sentence rhythm so blanks sit evenly on generous rows. */
-.fill { margin: 0; font-size: 1.1rem; line-height: 2.1; }
+/* pre-line honours newlines in item text (e.g. conjugation paradigms, one
+   form per line) while still collapsing ordinary spaces and wrapping. */
+.fill { margin: 0; font-size: 1.1rem; line-height: 2.1; white-space: pre-line; }
 .fill .cue { color: var(--muted); font-style: italic; }
 .fill .gap {
   font: inherit;
