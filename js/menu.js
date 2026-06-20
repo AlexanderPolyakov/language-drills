@@ -56,8 +56,8 @@ function route() {
   // Exercise route: #/x/<exercise-id>
   if (parts[0] === "x" && parts[1]) return showExercise(parts[1]);
 
-  // Random drill route: #/r/<lang-code>
-  if (parts[0] === "r" && parts[1]) return showRandomSession(parts[1]);
+  // Mixed drill route: #/r/<lang-code>/<level>
+  if (parts[0] === "r" && parts[1] && parts[2]) return showRandomSession(parts[1], parts[2]);
 
   const [code, level, topic] = parts;
   if (!code) return showLanguages();
@@ -143,19 +143,24 @@ function showLanguages() {
   );
 }
 
-// Load every exercise file for a language, pool all items (each tagged with
-// their type), and run a single mixed session through the engine.
-async function showRandomSession(code) {
+// Load every exercise file for one level of a language, pool all items (each
+// tagged with their type), and run a single mixed session through the engine.
+// Mixing topics within a single level is useful practice; mixing levels is not,
+// so the drill is scoped to a level rather than the whole language.
+async function showRandomSession(code, level) {
   const l = lang(code);
   if (!l) return showLanguages();
+  if (!levelsOf(l).includes(level)) return showLevels(code);
 
-  screen("", `#/${code}`);
+  const backHref = `#/${code}/${level}`;
+  screen("", backHref);
   const body = document.createElement("div");
   root.append(body);
 
-  // Fetch all exercise files in parallel.
+  // Fetch this level's exercise files in parallel.
+  const atLevel = l.exercises.filter((e) => e.level === level);
   const files = await Promise.all(
-    l.exercises.map((e) => fetch(CONTENT_BASE + e.file).then((r) => r.json()))
+    atLevel.map((e) => fetch(CONTENT_BASE + e.file).then((r) => r.json()))
   );
 
   // Pool items, tagging each with its exercise type so the engine can dispatch.
@@ -166,38 +171,39 @@ async function showRandomSession(code) {
     }
   }
 
-  const synthetic = { type: null, title: t("randomDrill"), items: allItems };
+  const synthetic = { type: null, title: `${t("randomDrill")} · ${level}`, items: allItems };
   renderExercise(synthetic, body, {
     onComplete: ({ correct, total }) => {
-      showResults(correct, total, `#/${code}`, () => showRandomSession(code));
+      showResults(correct, total, backHref, () => showRandomSession(code, level));
     },
   });
 }
 
-// First facet after picking a language: the level. The language-wide mixed
-// drill stays featured at the top since it spans every level.
+// First facet after picking a language: the level.
 function showLevels(code) {
   const l = lang(code);
   if (!l) return showLanguages();
   screen(`${l.name} — ${t("chooseLevel")}`, "#/");
-  const entries = [
-    { href: `#/r/${code}`, label: t("randomDrill"), featured: true },
-    ...levelsOf(l).map((level) => ({ href: `#/${code}/${level}`, label: level })),
-  ];
-  root.append(list(entries));
+  root.append(
+    list(levelsOf(l).map((level) => ({ href: `#/${code}/${level}`, label: level }))),
+  );
 }
 
 // Second facet: the category, shown for the chosen level. A level switcher lets
-// the learner jump to another level without going back.
+// the learner jump to another level without going back. The mixed drill is
+// featured at the top here — it pools every topic at this level into one
+// session.
 function showCategories(code, level) {
   const l = lang(code);
   if (!l) return showLanguages();
   if (!levelsOf(l).includes(level)) return showLevels(code);
   screen(`${l.name} · ${level} — ${t("chooseCategory")}`, `#/${code}`);
   root.append(switcher(t("level"), levelsOf(l), level, (lv) => `#/${code}/${lv}`));
-  root.append(
-    list(categoriesAt(l, level).map((topic) => ({ href: `#/${code}/${level}/${topic}`, label: topic }))),
-  );
+  const entries = [
+    { href: `#/r/${code}/${level}`, label: t("randomDrill"), featured: true },
+    ...categoriesAt(l, level).map((topic) => ({ href: `#/${code}/${level}/${topic}`, label: topic })),
+  ];
+  root.append(list(entries));
 }
 
 function showExercises(code, level, topic) {

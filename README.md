@@ -16,7 +16,7 @@ is handed to a generic engine that quizzes you one randomly-ordered item at a
 time. After each answer you get immediate feedback, the correct answer on a
 miss, and a short explanation of the rule before moving on. Each sitting is
 capped at 10 items (sampled from the pool, reshuffled on every retry), and a
-per-language **Mixed drill** pools items from every level and category into one
+per-level **Mixed drill** pools items from every category at that level into one
 session.
 
 Scores are saved per exercise in `localStorage` only — there is no backend,
