@@ -12,15 +12,20 @@ per-verb French conjugation drills.
 ## How it works
 
 You browse **language → level → category → exercise**, and the chosen exercise
-is handed to a generic engine that quizzes you one randomly-ordered item at a
-time. After each answer you get immediate feedback, the correct answer on a
-miss, and a short explanation of the rule before moving on. Each sitting is
-capped at 10 items (sampled from the pool, reshuffled on every retry), and a
-per-level **Mixed drill** pools items from every category at that level into one
-session.
+is handed to a generic engine that quizzes you one item at a time. After each
+answer you get immediate feedback, the correct answer on a miss, and a short
+explanation of the rule before moving on. Each sitting is capped at 10 items
+(sampled from the pool), and a per-level **Mixed drill** pools items from every
+category at that level into one session.
 
-Scores are saved per exercise in `localStorage` only — there is no backend,
-account or database.
+Which items a session shows isn't purely random: every item is tracked like an
+**Anki card** (spaced repetition, SM-2 lite). The engine weights selection
+toward items that are *due*, *overdue*, or simply *hard* — so material you keep
+getting wrong, or haven't seen in a while, resurfaces more often, while items
+you've answered correctly drift further apart over days. See `js/srs.js`.
+
+Scores are saved per exercise, and per-item scheduling per card, in
+`localStorage` only — there is no backend, account or database.
 
 ## Exercise types
 
@@ -48,6 +53,7 @@ js/
   app.js              # bootstrap
   menu.js             # manifest-driven browse + hash routing (#/en/A2/articles)
   engine.js           # generic one-item-at-a-time runner (SESSION_SIZE cap)
+  srs.js              # per-item spaced repetition (SM-2 lite): schedule + weighting
   progress.js         # best/last score per exercise, in localStorage
   i18n.js             # UI strings (kept separate from exercise content)
   types/

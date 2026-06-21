@@ -163,12 +163,14 @@ async function showRandomSession(code, level) {
     atLevel.map((e) => fetch(CONTENT_BASE + e.file).then((r) => r.json()))
   );
 
-  // Pool items, tagging each with its exercise type so the engine can dispatch.
+  // Pool items, tagging each with its exercise type so the engine can dispatch,
+  // and with a stable SRS key (`<source-exercise-id>#<index>`) so spaced
+  // repetition tracks the same item whether it's drilled here or on its own.
   const allItems = [];
   for (const ex of files) {
-    for (const item of ex.items) {
-      allItems.push({ ...item, type: ex.type, caption: ex.title });
-    }
+    ex.items.forEach((item, i) => {
+      allItems.push({ ...item, type: ex.type, caption: ex.title, _srs: `${ex.id}#${i}` });
+    });
   }
 
   const synthetic = { type: null, title: `${t("randomDrill")} · ${level}`, items: allItems };
