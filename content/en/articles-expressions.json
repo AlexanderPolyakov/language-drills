@@ -27,7 +27,7 @@
       "blanks": [
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "musical instruments" },
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" },
-        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "the radio" }
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "listen to ___ radio (fixed)" }
       ],
       "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
     },

@@ -34,7 +34,7 @@
     { "text": "Cette expérience a été très {1} pour lui.", "blanks": [ { "cue": "rewarding", "answer": ["enrichissante"] } ], "explanation": "enrichissant becomes 'enrichissante' (feminine) to agree with 'expérience'." },
     { "text": "Il faut rester {1} face aux difficultés.", "blanks": [ { "cue": "optimistic", "answer": ["optimiste"] } ], "explanation": "optimiste = optimistic (same in masculine and feminine)." },
     { "text": "Cette technologie est en plein {1}.", "blanks": [ { "cue": "development", "answer": ["développement"] } ], "explanation": "développement = development (masculine)." },
-    { "text": "Le {1} des emplois inquiète la région.", "blanks": [ { "cue": "loss", "answer": ["perte"] } ], "explanation": "Note: 'perte' is feminine (la perte = the loss)." },
+    { "text": "La {1} des emplois inquiète la région.", "blanks": [ { "cue": "loss", "answer": ["perte"] } ], "explanation": "Note: 'perte' is feminine (la perte = the loss)." },
     { "text": "Nous devons {1} nos efforts.", "blanks": [ { "cue": "to maintain", "answer": ["maintenir"] } ], "explanation": "maintenir = to maintain (infinitive)." },
     { "text": "Ce produit respecte la {1}.", "blanks": [ { "cue": "nature", "answer": ["nature"] } ], "explanation": "nature = nature (feminine)." },
     { "text": "La recherche a fait un grand {1}.", "blanks": [ { "cue": "progress", "answer": ["progrès"] } ], "explanation": "progrès = progress (masculine, invariable)." },
