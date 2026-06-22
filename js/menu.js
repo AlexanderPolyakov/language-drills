@@ -221,9 +221,15 @@ function showCategories(code, level) {
   if (!levelsOf(l).includes(level)) return showLevels(code);
   screen(`${l.name} · ${level} — ${t("chooseCategory")}`, `#/${code}`);
   root.append(switcher(t("level"), levelsOf(l), level, (lv) => `#/${code}/${lv}`));
+  // The mixed drill pools every topic at this level, so its badge sums them all.
+  const atLevel = l.exercises.filter((e) => e.level === level);
   const entries = [
-    { href: `#/r/${code}/${level}`, label: t("randomDrill"), featured: true },
-    ...categoriesAt(l, level).map((topic) => ({ href: `#/${code}/${level}/${topic}`, label: topic })),
+    { href: `#/r/${code}/${level}`, label: t("randomDrill"), featured: true, note: dueNote(atLevel) },
+    ...categoriesAt(l, level).map((topic) => ({
+      href: `#/${code}/${level}/${topic}`,
+      label: topic,
+      note: dueNote(atLevel.filter((e) => e.topic === topic)),
+    })),
   ];
   root.append(list(entries));
 }

@@ -24,9 +24,10 @@ toward items that are *due*, *overdue*, or simply *hard* — so material you kee
 getting wrong, or haven't seen in a while, resurfaces more often, while items
 you've answered correctly drift further apart over days. See `js/srs.js`.
 
-The level and exercise menus show a **`<due> / <total> due`** badge so you can
-see at a glance how much is waiting for review (new, never-seen items count as
-due); `0 / N due` means everything has been reviewed and isn't due yet.
+Every browse menu — levels, categories (including the Mixed drill), and
+exercises — shows a **`<due> / <total> due`** badge so you can see at a glance
+how much is waiting for review (new, never-seen items count as due); `0 / N due`
+means everything has been reviewed and isn't due yet.
 
 This per-item scheduling is saved in `localStorage` only — there is no backend,
 account or database.
