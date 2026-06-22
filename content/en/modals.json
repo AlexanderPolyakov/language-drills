@@ -10,7 +10,7 @@
     {
       "text": "You {1} smoke here; it's forbidden.",
       "blanks": [
-        { "answer": "mustn't", "options": ["must", "mustn't", "can"], "hint": "prohibition" }
+        { "answer": "mustn't", "options": ["can", "must", "mustn't"], "hint": "prohibition" }
       ],
       "explanation": "'mustn't' expresses prohibition — it is not allowed."
     },
@@ -18,38 +18,38 @@
       "text": "I {1} swim when I was five, but now I {2} ride a bicycle as well.",
       "blanks": [
         { "answer": "could", "options": ["can", "could", "must"], "hint": "past ability" },
-        { "answer": "can", "options": ["can", "could", "must"], "hint": "present ability" }
+        { "answer": "can", "options": ["could", "must", "can"], "hint": "present ability" }
       ],
       "explanation": "'could' is the past form of 'can' for ability; 'can' expresses present ability."
     },
     {
       "text": "{1} you help me, please?",
       "blanks": [
-        { "answer": "Could", "options": ["Could", "Must", "Should"], "hint": "polite request" }
+        { "answer": "Could", "options": ["Must", "Should", "Could"], "hint": "polite request" }
       ],
       "explanation": "'Could you…' makes a polite request."
     },
     {
       "text": "You {1} see a doctor — that cough {2} be serious.",
       "blanks": [
-        { "answer": "should", "options": ["should", "mustn't", "can"], "hint": "advice" },
-        { "answer": "might", "options": ["might", "must", "can't"], "hint": "possibility" }
+        { "answer": "should", "options": ["should", "can", "mustn't"], "hint": "advice" },
+        { "answer": "might", "options": ["can't", "might", "must"], "hint": "possibility" }
       ],
       "explanation": "'should' gives advice; 'might' expresses possibility — it may or may not be serious."
     },
     {
       "text": "Students {1} bring their ID to the exam.",
       "blanks": [
-        { "answer": "must", "options": ["must", "might", "could"], "hint": "strong obligation" }
+        { "answer": "must", "options": ["might", "must", "could"], "hint": "strong obligation" }
       ],
       "explanation": "'must' expresses strong obligation or a rule."
     },
     {
       "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights, and you {3} exceed the speed limit.",
       "blanks": [
-        { "answer": "should", "options": ["should", "might", "could"], "hint": "advice" },
-        { "answer": "must", "options": ["must", "might", "should"], "hint": "obligation" },
-        { "answer": "mustn't", "options": ["mustn't", "must", "might"], "hint": "prohibition" }
+        { "answer": "should", "options": ["might", "could", "should"], "hint": "advice" },
+        { "answer": "must", "options": ["should", "might", "must"], "hint": "obligation" },
+        { "answer": "mustn't", "options": ["might", "must", "mustn't"], "hint": "prohibition" }
       ],
       "explanation": "'should' for advice (drive carefully); 'must' for obligation (use headlights — it's required); 'mustn't' for prohibition (exceeding the limit is forbidden)."
     },
@@ -77,7 +77,7 @@
     {
       "text": "You {1} eat more vegetables; they're good for you.",
       "blanks": [
-        { "answer": "should", "options": ["should", "mustn't", "can't"], "hint": "advice" }
+        { "answer": "should", "options": ["mustn't", "can't", "should"], "hint": "advice" }
       ],
       "explanation": "'should' gives advice or a recommendation."
     },
