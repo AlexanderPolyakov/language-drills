@@ -37,7 +37,9 @@ const strings = {
     youScored: (n, total) => `You scored ${n} / ${total}`,
     perfect: "Perfect score!",
     backToMenu: "Back to menu",
-    best: (n, total) => `best ${n}/${total}`,
+    // Spaced-repetition progress badge: how many items are due for review out of
+    // the total. "0 / N due" means everything has been reviewed and isn't due yet.
+    due: (n, total) => `${n}/${total} due`,
   },
 };
 

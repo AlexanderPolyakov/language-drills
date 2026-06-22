@@ -13,6 +13,7 @@ const SESSION_SIZE = 10;
 
 import { t } from "./i18n.js";
 import { types } from "./types/index.js";
+import * as srs from "./srs.js";
 
 // Fisher–Yates shuffle (returns a copy).
 function shuffle(arr) {
@@ -117,8 +118,18 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
   root.append(Object.assign(document.createElement("h2"), { textContent: exercise.title }));
 
   // item.type overrides exercise.type so mixed-pool sessions work without engine changes.
-  const all = shuffle(exercise.items.map((item) => ({ ...item, type: item.type ?? exercise.type })));
-  const order = all.slice(0, SESSION_SIZE);
+  // Each item also carries a stable SRS key (`<exercise-id>#<index>`): mixed-pool
+  // items arrive pre-keyed by the menu (they come from many exercises); a plain
+  // single-exercise session keys its items by their position here. The key drives
+  // both spaced-repetition selection and per-item recording below.
+  const all = exercise.items.map((item, i) => ({
+    ...item,
+    type: item.type ?? exercise.type,
+    _srs: item._srs ?? `${exercise.id ?? "ex"}#${i}`,
+  }));
+  // Fill the session by spaced-repetition weight (due/overdue/hard items first),
+  // then shuffle the chosen few so presentation order still feels natural.
+  const order = shuffle(srs.select(all, SESSION_SIZE, (it) => it._srs));
   const total = order.length;
   let index = 0;
   let correct = 0;
@@ -162,7 +173,11 @@ export function renderExercise(exercise, root, { onComplete } = {}) {
   }
 
   function onCheck() {
-    if (current.check()) correct++;
+    const ok = current.check();
+    // Update this item's spaced-repetition card with the outcome (right/wrong),
+    // which reschedules it for future sessions.
+    srs.review(order[index]._srs, ok);
+    if (ok) correct++;
     const last = index === total - 1;
     actionBtn.textContent = last ? t("finish") : t("continue");
     actionBtn.disabled = false;

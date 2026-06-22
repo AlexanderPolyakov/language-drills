@@ -12,7 +12,7 @@ const CEFR = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
 import { renderExercise } from "./engine.js";
 import { t } from "./i18n.js";
-import * as progress from "./progress.js";
+import * as srs from "./srs.js";
 
 const MANIFEST_URL = "content/manifest.json";
 const CONTENT_BASE = "content/";
@@ -38,6 +38,22 @@ function path() {
 
 function lang(code) {
   return manifest.languages.find((l) => l.code === code);
+}
+
+// The SRS keys for every item in one exercise, derived from its id and item
+// count (the engine keys items the same way: `<exercise-id>#<index>`). The
+// manifest carries `count` so we can do this without loading the content file.
+function keysFor(entry) {
+  return Array.from({ length: entry.count }, (_, i) => `${entry.id}#${i}`);
+}
+
+// A "<due> / <total> due" badge for a group of exercises — used on both the
+// level list (all exercises at a level) and the exercise list. Replaces the old
+// best-score badge, which no longer means much once items are scheduled.
+function dueNote(entries) {
+  const keys = entries.flatMap(keysFor);
+  const total = entries.reduce((s, e) => s + e.count, 0);
+  return total ? t("due", srs.dueCount(keys), total) : "";
 }
 
 // Levels a language offers, in CEFR order.
@@ -69,7 +85,7 @@ function route() {
 // --- rendering helpers -----------------------------------------------------
 
 // A vertical list of links. Each entry: { href, label, note? } — note renders
-// as a small muted badge (used to show best scores).
+// as a small muted badge (used to show the due/total count).
 function list(entries) {
   const ul = document.createElement("ul");
   ul.className = "menu-list";
@@ -163,12 +179,14 @@ async function showRandomSession(code, level) {
     atLevel.map((e) => fetch(CONTENT_BASE + e.file).then((r) => r.json()))
   );
 
-  // Pool items, tagging each with its exercise type so the engine can dispatch.
+  // Pool items, tagging each with its exercise type so the engine can dispatch,
+  // and with a stable SRS key (`<source-exercise-id>#<index>`) so spaced
+  // repetition tracks the same item whether it's drilled here or on its own.
   const allItems = [];
   for (const ex of files) {
-    for (const item of ex.items) {
-      allItems.push({ ...item, type: ex.type, caption: ex.title });
-    }
+    ex.items.forEach((item, i) => {
+      allItems.push({ ...item, type: ex.type, caption: ex.title, _srs: `${ex.id}#${i}` });
+    });
   }
 
   const synthetic = { type: null, title: `${t("randomDrill")} · ${level}`, items: allItems };
@@ -185,7 +203,11 @@ function showLevels(code) {
   if (!l) return showLanguages();
   screen(`${l.name} — ${t("chooseLevel")}`, "#/");
   root.append(
-    list(levelsOf(l).map((level) => ({ href: `#/${code}/${level}`, label: level }))),
+    list(levelsOf(l).map((level) => ({
+      href: `#/${code}/${level}`,
+      label: level,
+      note: dueNote(l.exercises.filter((e) => e.level === level)),
+    }))),
   );
 }
 
@@ -199,9 +221,15 @@ function showCategories(code, level) {
   if (!levelsOf(l).includes(level)) return showLevels(code);
   screen(`${l.name} · ${level} — ${t("chooseCategory")}`, `#/${code}`);
   root.append(switcher(t("level"), levelsOf(l), level, (lv) => `#/${code}/${lv}`));
+  // The mixed drill pools every topic at this level, so its badge sums them all.
+  const atLevel = l.exercises.filter((e) => e.level === level);
   const entries = [
-    { href: `#/r/${code}/${level}`, label: t("randomDrill"), featured: true },
-    ...categoriesAt(l, level).map((topic) => ({ href: `#/${code}/${level}/${topic}`, label: topic })),
+    { href: `#/r/${code}/${level}`, label: t("randomDrill"), featured: true, note: dueNote(atLevel) },
+    ...categoriesAt(l, level).map((topic) => ({
+      href: `#/${code}/${level}/${topic}`,
+      label: topic,
+      note: dueNote(atLevel.filter((e) => e.topic === topic)),
+    })),
   ];
   root.append(list(entries));
 }
@@ -221,10 +249,11 @@ function showExercises(code, level, topic) {
   root.append(switcher(t("category"), categoriesAt(l, level), topic, (tp) => `#/${code}/${level}/${tp}`));
 
   root.append(
-    list(matches.map((e) => {
-      const p = progress.get(e.id);
-      return { href: `#/x/${e.id}`, label: e.title, note: p ? t("best", p.best, p.total) : "" };
-    })),
+    list(matches.map((e) => ({
+      href: `#/x/${e.id}`,
+      label: e.title,
+      note: dueNote([e]),
+    }))),
   );
 }
 
@@ -248,7 +277,8 @@ async function showExercise(id) {
   const levelHref = `#/${parentCode}/${entry.level}/${entry.topic}`;
   renderExercise(exercise, body, {
     onComplete: ({ correct, total }) => {
-      progress.record(entry.id, correct, total);
+      // Per-item spaced-repetition state is recorded inside the engine as each
+      // answer is checked; here we just show the round's results.
       showResults(correct, total, levelHref, () => showExercise(id));
     },
   });

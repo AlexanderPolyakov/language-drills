@@ -79,7 +79,7 @@ const languages = LANGS.map(([code, name]) => {
       errors.push(`${rel}: no items`);
     else ex.items.forEach((it, i) => validateItem(rel, i, ex.type, it));
 
-    entries.push({ id: ex.id, topic: ex.topic, level: ex.level, title: ex.title, file: rel, _n: ex.items?.length ?? 0 });
+    entries.push({ id: ex.id, topic: ex.topic, level: ex.level, title: ex.title, file: rel, count: ex.items?.length ?? 0 });
   }
 
   // Stable manifest order: by CEFR level, then topic name, then id.
@@ -88,8 +88,8 @@ const languages = LANGS.map(([code, name]) => {
     a.topic.localeCompare(b.topic) ||
     a.id.localeCompare(b.id));
 
-  summary.push(`${code}: ${entries.length} exercises, ${entries.reduce((s, e) => s + e._n, 0)} items`);
-  return { code, name, exercises: entries.map(({ _n, ...e }) => e) };
+  summary.push(`${code}: ${entries.length} exercises, ${entries.reduce((s, e) => s + e.count, 0)} items`);
+  return { code, name, exercises: entries };
 });
 
 // Duplicate id check across everything.
