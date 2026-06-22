@@ -9,315 +9,360 @@
           "topic": "articles",
           "level": "A1",
           "title": "A, an, the, or nothing?",
-          "file": "en/articles-a1.json"
+          "file": "en/articles-a1.json",
+          "count": 12
         },
         {
           "id": "en-demonstratives-a1",
           "topic": "demonstratives",
           "level": "A1",
           "title": "this, that, these, those",
-          "file": "en/demonstratives-a1.json"
+          "file": "en/demonstratives-a1.json",
+          "count": 34
         },
         {
           "id": "en-plurals",
           "topic": "plurals",
           "level": "A1",
           "title": "Plurals: write the plural form",
-          "file": "en/plurals.json"
+          "file": "en/plurals.json",
+          "count": 12
         },
         {
           "id": "en-possessive-adjectives-a1",
           "topic": "possessive-adjectives",
           "level": "A1",
           "title": "Possessive adjectives: my, your, his, her, its, our, their",
-          "file": "en/possessive-adjectives-a1.json"
+          "file": "en/possessive-adjectives-a1.json",
+          "count": 34
         },
         {
           "id": "en-present-continuous-a1",
           "topic": "present-continuous",
           "level": "A1",
           "title": "Present continuous: am/is/are + -ing",
-          "file": "en/present-continuous-a1.json"
+          "file": "en/present-continuous-a1.json",
+          "count": 34
         },
         {
           "id": "en-present-simple-a1",
           "topic": "present-simple",
           "level": "A1",
           "title": "Present simple: everyday verbs and 'be'",
-          "file": "en/present-simple-a1.json"
+          "file": "en/present-simple-a1.json",
+          "count": 12
         },
         {
           "id": "en-pronouns",
           "topic": "pronouns",
           "level": "A1",
           "title": "Pronouns: subject, object, and possessive",
-          "file": "en/pronouns.json"
+          "file": "en/pronouns.json",
+          "count": 11
         },
         {
           "id": "en-there-is-there-are-a1",
           "topic": "there-is-there-are",
           "level": "A1",
           "title": "There is / there are",
-          "file": "en/there-is-there-are-a1.json"
+          "file": "en/there-is-there-are-a1.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-adjectives-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Common adjectives: choose the right word",
-          "file": "en/vocabulary-adjectives-a1.json"
+          "file": "en/vocabulary-adjectives-a1.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-nouns-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Everyday nouns: choose the right word",
-          "file": "en/vocabulary-nouns-a1.json"
+          "file": "en/vocabulary-nouns-a1.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-verbs-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Everyday verbs: choose the right word",
-          "file": "en/vocabulary-verbs-a1.json"
+          "file": "en/vocabulary-verbs-a1.json",
+          "count": 34
         },
         {
           "id": "en-adverbs-of-frequency-a2",
           "topic": "adverbs-of-frequency",
           "level": "A2",
           "title": "Adverbs of frequency",
-          "file": "en/adverbs-frequency-a2.json"
+          "file": "en/adverbs-frequency-a2.json",
+          "count": 34
         },
         {
           "id": "en-articles-basic",
           "topic": "articles",
           "level": "A2",
           "title": "A, an, the, or nothing?",
-          "file": "en/articles-basic.json"
+          "file": "en/articles-basic.json",
+          "count": 11
         },
         {
           "id": "en-comparatives",
           "topic": "comparatives",
           "level": "A2",
           "title": "Comparatives: write the comparative form",
-          "file": "en/comparatives.json"
+          "file": "en/comparatives.json",
+          "count": 11
         },
         {
           "id": "en-verbs-future-will",
           "topic": "future-forms",
           "level": "A2",
           "title": "The future: write the correct form",
-          "file": "en/verbs-future-will.json"
+          "file": "en/verbs-future-will.json",
+          "count": 11
         },
         {
           "id": "en-modals",
           "topic": "modal-verbs",
           "level": "A2",
           "title": "Modal verbs: choose the right modal",
-          "file": "en/modals.json"
+          "file": "en/modals.json",
+          "count": 11
         },
         {
           "id": "en-verbs-past-simple",
           "topic": "past-simple",
           "level": "A2",
           "title": "Past simple: write the correct form",
-          "file": "en/verbs-past-simple.json"
+          "file": "en/verbs-past-simple.json",
+          "count": 11
         },
         {
           "id": "en-prepositions-time-place",
           "topic": "prepositions",
           "level": "A2",
           "title": "in, on, or at? (time and place)",
-          "file": "en/prepositions-time-place.json"
+          "file": "en/prepositions-time-place.json",
+          "count": 11
         },
         {
           "id": "en-quantifiers-a2",
           "topic": "quantifiers",
           "level": "A2",
           "title": "some, any, much, many, a lot of",
-          "file": "en/quantifiers-a2.json"
+          "file": "en/quantifiers-a2.json",
+          "count": 34
         },
         {
           "id": "en-questions",
           "topic": "question-formation",
           "level": "A2",
           "title": "Questions: turn each statement into a question",
-          "file": "en/questions.json"
+          "file": "en/questions.json",
+          "count": 11
         },
         {
           "id": "en-superlatives-a2",
           "topic": "superlatives",
           "level": "A2",
           "title": "Superlatives: the -est / the most…",
-          "file": "en/superlatives-a2.json"
+          "file": "en/superlatives-a2.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-adjectives-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Adjectives in context (A2)",
-          "file": "en/vocabulary-adjectives-a2.json"
+          "file": "en/vocabulary-adjectives-a2.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-nouns-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Nouns in context (A2)",
-          "file": "en/vocabulary-nouns-a2.json"
+          "file": "en/vocabulary-nouns-a2.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-verbs-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Verbs in context (A2)",
-          "file": "en/vocabulary-verbs-a2.json"
+          "file": "en/vocabulary-verbs-a2.json",
+          "count": 34
         },
         {
           "id": "en-articles-expressions",
           "topic": "articles",
           "level": "B1",
           "title": "Articles in fixed expressions",
-          "file": "en/articles-expressions.json"
+          "file": "en/articles-expressions.json",
+          "count": 5
         },
         {
           "id": "en-articles-geography",
           "topic": "articles",
           "level": "B1",
           "title": "Articles with place names",
-          "file": "en/articles-geography.json"
+          "file": "en/articles-geography.json",
+          "count": 5
         },
         {
           "id": "en-conditionals",
           "topic": "conditionals",
           "level": "B1",
           "title": "Conditionals: choose the correct verb form",
-          "file": "en/conditionals.json"
+          "file": "en/conditionals.json",
+          "count": 11
         },
         {
           "id": "en-passive-voice-b1",
           "topic": "passive-voice",
           "level": "B1",
           "title": "Passive voice: present and past simple",
-          "file": "en/passive-voice-b1.json"
+          "file": "en/passive-voice-b1.json",
+          "count": 12
         },
         {
           "id": "en-past-continuous-b1",
           "topic": "past-continuous",
           "level": "B1",
           "title": "Past continuous: was/were + -ing",
-          "file": "en/past-continuous-b1.json"
+          "file": "en/past-continuous-b1.json",
+          "count": 34
         },
         {
           "id": "en-verbs-present-perfect",
           "topic": "present-perfect",
           "level": "B1",
           "title": "Present perfect: write the correct form",
-          "file": "en/verbs-present-perfect.json"
+          "file": "en/verbs-present-perfect.json",
+          "count": 12
         },
         {
           "id": "en-relative-clauses-b1",
           "topic": "relative-clauses",
           "level": "B1",
           "title": "Relative clauses: who, which, that, whose, where, when",
-          "file": "en/relative-clauses-b1.json"
+          "file": "en/relative-clauses-b1.json",
+          "count": 12
         },
         {
           "id": "en-used-to-b1",
           "topic": "used-to",
           "level": "B1",
           "title": "used to: past habits and states",
-          "file": "en/used-to-b1.json"
+          "file": "en/used-to-b1.json",
+          "count": 34
         },
         {
           "id": "en-vocabulary-b1",
           "topic": "vocabulary",
           "level": "B1",
           "title": "Vocabulary in context (B1)",
-          "file": "en/vocabulary-b1.json"
+          "file": "en/vocabulary-b1.json",
+          "count": 34
         },
         {
           "id": "en-gerunds-infinitives-b2",
           "topic": "gerunds-infinitives",
           "level": "B2",
           "title": "Gerunds and infinitives",
-          "file": "en/gerunds-infinitives-b2.json"
+          "file": "en/gerunds-infinitives-b2.json",
+          "count": 12
         },
         {
           "id": "en-mixed-conditionals-b2",
           "topic": "mixed-conditionals",
           "level": "B2",
           "title": "Mixed conditionals, wish and if only",
-          "file": "en/mixed-conditionals-b2.json"
+          "file": "en/mixed-conditionals-b2.json",
+          "count": 12
         },
         {
           "id": "en-phrasal-verbs",
           "topic": "phrasal-verbs",
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
-          "file": "en/phrasal-verbs.json"
+          "file": "en/phrasal-verbs.json",
+          "count": 12
         },
         {
           "id": "en-reported-speech-b2",
           "topic": "reported-speech",
           "level": "B2",
           "title": "Reported speech",
-          "file": "en/reported-speech-b2.json"
+          "file": "en/reported-speech-b2.json",
+          "count": 12
         },
         {
           "id": "en-vocabulary-b2",
           "topic": "vocabulary",
           "level": "B2",
           "title": "Vocabulary in context (B2)",
-          "file": "en/vocabulary-b2.json"
+          "file": "en/vocabulary-b2.json",
+          "count": 34
         },
         {
           "id": "en-advanced-connectors-c1",
           "topic": "advanced-connectors",
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
-          "file": "en/advanced-connectors-c1.json"
+          "file": "en/advanced-connectors-c1.json",
+          "count": 12
         },
         {
           "id": "en-cleft-sentences-c1",
           "topic": "cleft-sentences",
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
-          "file": "en/cleft-sentences-c1.json"
+          "file": "en/cleft-sentences-c1.json",
+          "count": 12
         },
         {
           "id": "en-inversion-c1",
           "topic": "inversion",
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
-          "file": "en/inversion-c1.json"
+          "file": "en/inversion-c1.json",
+          "count": 12
         },
         {
           "id": "en-vocabulary-c1",
           "topic": "vocabulary",
           "level": "C1",
           "title": "Vocabulary in context (C1)",
-          "file": "en/vocabulary-c1.json"
+          "file": "en/vocabulary-c1.json",
+          "count": 34
         },
         {
           "id": "en-discourse-markers-c2",
           "topic": "discourse-markers",
           "level": "C2",
           "title": "Sophisticated discourse markers and register",
-          "file": "en/discourse-markers-c2.json"
+          "file": "en/discourse-markers-c2.json",
+          "count": 12
         },
         {
           "id": "en-formal-subjunctive-c2",
           "topic": "formal-subjunctive",
           "level": "C2",
           "title": "The formal subjunctive and irrealis 'were'",
-          "file": "en/formal-subjunctive-c2.json"
+          "file": "en/formal-subjunctive-c2.json",
+          "count": 12
         },
         {
           "id": "en-nuanced-modality-c2",
           "topic": "nuanced-modality",
           "level": "C2",
           "title": "Fine shades of modal meaning",
-          "file": "en/nuanced-modality-c2.json"
+          "file": "en/nuanced-modality-c2.json",
+          "count": 12
         }
       ]
     },
@@ -330,210 +375,240 @@
           "topic": "articles",
           "level": "A1",
           "title": "le, la, l' ou les ?",
-          "file": "fr/articles-definite.json"
+          "file": "fr/articles-definite.json",
+          "count": 11
         },
         {
           "id": "fr-conjugation-a1",
           "topic": "conjugation",
           "level": "A1",
           "title": "Conjugaison : le présent",
-          "file": "fr/conjugation-a1.json"
+          "file": "fr/conjugation-a1.json",
+          "count": 12
         },
         {
           "id": "fr-verbs-present-er",
           "topic": "er-verbs",
           "level": "A1",
           "title": "Présent des verbes en -er",
-          "file": "fr/verbs-present-er.json"
+          "file": "fr/verbs-present-er.json",
+          "count": 11
         },
         {
           "id": "fr-gender-number-a1",
           "topic": "gender-number",
           "level": "A1",
           "title": "un, une ou des ?",
-          "file": "fr/gender-number-a1.json"
+          "file": "fr/gender-number-a1.json",
+          "count": 12
         },
         {
           "id": "fr-negation-a1",
           "topic": "negation",
           "level": "A1",
           "title": "La négation (ne… pas, jamais, plus, rien)",
-          "file": "fr/negation-a1.json"
+          "file": "fr/negation-a1.json",
+          "count": 34
         },
         {
           "id": "fr-possessive-adjectives-a1",
           "topic": "possessive-adjectives",
           "level": "A1",
           "title": "Les adjectifs possessifs (mon, ma, mes…)",
-          "file": "fr/possessive-adjectives-a1.json"
+          "file": "fr/possessive-adjectives-a1.json",
+          "count": 34
         },
         {
           "id": "fr-questions-a1",
           "topic": "questions",
           "level": "A1",
           "title": "Poser des questions (est-ce que, mots interrogatifs)",
-          "file": "fr/questions-a1.json"
+          "file": "fr/questions-a1.json",
+          "count": 34
         },
         {
           "id": "fr-subject-pronouns-a1",
           "topic": "subject-pronouns",
           "level": "A1",
           "title": "Pronoms sujets et le verbe être",
-          "file": "fr/subject-pronouns-a1.json"
+          "file": "fr/subject-pronouns-a1.json",
+          "count": 12
         },
         {
           "id": "fr-vocabulary-adjectives-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Vocabulaire : les adjectifs courants (A1)",
-          "file": "fr/vocabulary-adjectives-a1.json"
+          "file": "fr/vocabulary-adjectives-a1.json",
+          "count": 34
         },
         {
           "id": "fr-vocabulary-nouns-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Vocabulaire : les noms courants (A1)",
-          "file": "fr/vocabulary-nouns-a1.json"
+          "file": "fr/vocabulary-nouns-a1.json",
+          "count": 35
         },
         {
           "id": "fr-vocabulary-verbs-a1",
           "topic": "vocabulary",
           "level": "A1",
           "title": "Vocabulaire : les verbes courants (A1)",
-          "file": "fr/vocabulary-verbs-a1.json"
+          "file": "fr/vocabulary-verbs-a1.json",
+          "count": 34
         },
         {
           "id": "fr-adjective-agreement-a2",
           "topic": "adjective-agreement",
           "level": "A2",
           "title": "L'accord des adjectifs",
-          "file": "fr/adjective-agreement-a2.json"
+          "file": "fr/adjective-agreement-a2.json",
+          "count": 12
         },
         {
           "id": "fr-comparative-a2",
           "topic": "comparative",
           "level": "A2",
           "title": "Le comparatif (plus, moins, aussi)",
-          "file": "fr/comparative-a2.json"
+          "file": "fr/comparative-a2.json",
+          "count": 34
         },
         {
           "id": "fr-conjugation-a2",
           "topic": "conjugation",
           "level": "A2",
           "title": "Conjugaison : présent, passé composé, imparfait et futur",
-          "file": "fr/conjugation-a2.json"
+          "file": "fr/conjugation-a2.json",
+          "count": 96
         },
         {
           "id": "fr-futur-proche-a2",
           "topic": "futur-proche",
           "level": "A2",
           "title": "Le futur proche (aller + infinitif)",
-          "file": "fr/futur-proche-a2.json"
+          "file": "fr/futur-proche-a2.json",
+          "count": 12
         },
         {
           "id": "fr-ir-verbs-a2",
           "topic": "ir-verbs",
           "level": "A2",
           "title": "Le présent des verbes en -ir (finir, choisir…)",
-          "file": "fr/ir-verbs-a2.json"
+          "file": "fr/ir-verbs-a2.json",
+          "count": 34
         },
         {
           "id": "fr-partitive-articles-a2",
           "topic": "partitive-articles",
           "level": "A2",
           "title": "Les articles partitifs (du, de la, de l', des)",
-          "file": "fr/partitive-articles-a2.json"
+          "file": "fr/partitive-articles-a2.json",
+          "count": 34
         },
         {
           "id": "fr-passe-compose-a2",
           "topic": "passe-compose",
           "level": "A2",
           "title": "Le passé composé (avoir et être)",
-          "file": "fr/passe-compose-a2.json"
+          "file": "fr/passe-compose-a2.json",
+          "count": 12
         },
         {
           "id": "fr-prepositions-a2",
           "topic": "prepositions",
           "level": "A2",
           "title": "Les prépositions (à, de, en, chez)",
-          "file": "fr/prepositions-a2.json"
+          "file": "fr/prepositions-a2.json",
+          "count": 12
         },
         {
           "id": "fr-reflexive-verbs-a2",
           "topic": "reflexive-verbs",
           "level": "A2",
           "title": "Les verbes pronominaux au présent (se laver, se lever…)",
-          "file": "fr/reflexive-verbs-a2.json"
+          "file": "fr/reflexive-verbs-a2.json",
+          "count": 34
         },
         {
           "id": "fr-vocabulary-adjectives-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Vocabulaire : les adjectifs (A2)",
-          "file": "fr/vocabulary-adjectives-a2.json"
+          "file": "fr/vocabulary-adjectives-a2.json",
+          "count": 34
         },
         {
           "id": "fr-vocabulary-nouns-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Vocabulaire : les noms (A2)",
-          "file": "fr/vocabulary-nouns-a2.json"
+          "file": "fr/vocabulary-nouns-a2.json",
+          "count": 34
         },
         {
           "id": "fr-vocabulary-verbs-a2",
           "topic": "vocabulary",
           "level": "A2",
           "title": "Vocabulaire : les verbes (A2)",
-          "file": "fr/vocabulary-verbs-a2.json"
+          "file": "fr/vocabulary-verbs-a2.json",
+          "count": 34
         },
         {
           "id": "fr-conditional-b1",
           "topic": "conditional",
           "level": "B1",
           "title": "Le conditionnel présent",
-          "file": "fr/conditional-b1.json"
+          "file": "fr/conditional-b1.json",
+          "count": 12
         },
         {
           "id": "fr-conjugation-b1",
           "topic": "conjugation",
           "level": "B1",
           "title": "Conjugaison : tous les temps (conditionnel et subjonctif inclus)",
-          "file": "fr/conjugation-b1.json"
+          "file": "fr/conjugation-b1.json",
+          "count": 216
         },
         {
           "id": "fr-futur-simple-b1",
           "topic": "futur-simple",
           "level": "B1",
           "title": "Le futur simple",
-          "file": "fr/futur-simple-b1.json"
+          "file": "fr/futur-simple-b1.json",
+          "count": 34
         },
         {
           "id": "fr-imparfait-vs-passe-compose-b1",
           "topic": "imparfait-vs-passe-compose",
           "level": "B1",
           "title": "Imparfait ou passé composé ?",
-          "file": "fr/imparfait-vs-passe-compose-b1.json"
+          "file": "fr/imparfait-vs-passe-compose-b1.json",
+          "count": 12
         },
         {
           "id": "fr-relative-pronouns-b1",
           "topic": "relative-pronouns",
           "level": "B1",
           "title": "Les pronoms relatifs",
-          "file": "fr/relative-pronouns-b1.json"
+          "file": "fr/relative-pronouns-b1.json",
+          "count": 12
         },
         {
           "id": "fr-subjunctive-present-b1",
           "topic": "subjunctive-present",
           "level": "B1",
           "title": "Le subjonctif présent",
-          "file": "fr/subjunctive-present-b1.json"
+          "file": "fr/subjunctive-present-b1.json",
+          "count": 12
         },
         {
           "id": "fr-vocabulary-b1",
           "topic": "vocabulary",
           "level": "B1",
           "title": "Vocabulaire en contexte (B1)",
-          "file": "fr/vocabulary-b1.json"
+          "file": "fr/vocabulary-b1.json",
+          "count": 34
         }
       ]
     }

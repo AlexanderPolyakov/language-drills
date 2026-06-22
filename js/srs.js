@@ -9,9 +9,9 @@
 // in days, so day-to-day use naturally resurfaces older material while a single
 // sitting won't keep repeating something just answered.
 //
-// Storage is separate from js/progress.js: that file keeps exercise-level best
-// scores for the menu; this one keeps per-item scheduling. Keys are stable
-// strings of the form `<exercise-id>#<item-index>`, assigned by the caller.
+// This per-item scheduling is the app's only persisted progress. Keys are stable
+// strings of the form `<exercise-id>#<item-index>`, assigned by the caller, and
+// the menu reads dueCount() off them to show a "<due>/<total> due" badge.
 
 const KEY = "language-drills:srs";
 const DAY = 86400000; // ms in a day
@@ -40,6 +40,23 @@ function freshCard() {
 
 export function get(key) {
   return load()[key] || null;
+}
+
+// Is this card due for review right now? A card the learner has never seen
+// counts as due — new material needs learning before it can be "reviewed".
+export function isDue(card, now = Date.now()) {
+  if (!card || !card.seen) return true;
+  return now >= card.due;
+}
+
+// How many of the given item keys are due right now. Used by the menu to show
+// "<due> / <total> due" so progress is legible under spaced repetition (a
+// best-score badge no longer makes sense when items resurface on a schedule).
+export function dueCount(keys, now = Date.now()) {
+  const data = load();
+  let n = 0;
+  for (const k of keys) if (isDue(data[k], now)) n++;
+  return n;
 }
 
 // Record one answer for an item and persist the updated card. SM-2 lite:

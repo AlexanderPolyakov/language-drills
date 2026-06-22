@@ -24,8 +24,12 @@ toward items that are *due*, *overdue*, or simply *hard* — so material you kee
 getting wrong, or haven't seen in a while, resurfaces more often, while items
 you've answered correctly drift further apart over days. See `js/srs.js`.
 
-Scores are saved per exercise, and per-item scheduling per card, in
-`localStorage` only — there is no backend, account or database.
+The level and exercise menus show a **`<due> / <total> due`** badge so you can
+see at a glance how much is waiting for review (new, never-seen items count as
+due); `0 / N due` means everything has been reviewed and isn't due yet.
+
+This per-item scheduling is saved in `localStorage` only — there is no backend,
+account or database.
 
 ## Exercise types
 
@@ -54,7 +58,6 @@ js/
   menu.js             # manifest-driven browse + hash routing (#/en/A2/articles)
   engine.js           # generic one-item-at-a-time runner (SESSION_SIZE cap)
   srs.js              # per-item spaced repetition (SM-2 lite): schedule + weighting
-  progress.js         # best/last score per exercise, in localStorage
   i18n.js             # UI strings (kept separate from exercise content)
   types/
     index.js          # type registry
@@ -62,7 +65,7 @@ js/
     fill.js           # render / check / mark for fill
     transform.js      # render / check for transform
 content/
-  manifest.json       # generated index of every exercise (id, topic, level, file)
+  manifest.json       # generated index of every exercise (id, topic, level, file, count)
   en/ *.json          # English exercises
   fr/ *.json          # French exercises
 scripts/
