@@ -17,9 +17,9 @@
     { "text": "Je lis un bon {1}.", "blanks": [ { "cue": "book", "answer": ["livre"] } ], "explanation": "livre = book (masculine)." },
     { "text": "Les enfants vont à l'{1}.", "blanks": [ { "cue": "school", "answer": ["école"] } ], "explanation": "école = school (feminine)." },
     { "text": "Paris est une belle {1}.", "blanks": [ { "cue": "city", "answer": ["ville"] } ], "explanation": "ville = city (feminine)." },
-    { "text": "Mon père conduit une {1} rouge.", "blanks": [ { "cue": "car", "answer": ["voiture"] } ], "explanation": "voiture = car (feminine)." },
+    { "text": "Mon père conduit une {1} rouge.", "blanks": [ { "cue": "car", "answer": ["voiture", "auto"] } ], "explanation": "voiture = car (feminine)." },
     { "text": "Ma {1} est grande : nous sommes six.", "blanks": [ { "cue": "family", "answer": ["famille"] } ], "explanation": "famille = family (feminine)." },
-    { "text": "Pierre est mon meilleur {1}.", "blanks": [ { "cue": "friend", "answer": ["ami"] } ], "explanation": "ami = friend (masculine)." },
+    { "text": "Pierre est mon meilleur {1}.", "blanks": [ { "cue": "friend", "answer": ["ami", "copain"] } ], "explanation": "ami = friend (masculine)." },
     { "text": "Quel beau {1} aujourd'hui !", "blanks": [ { "cue": "day", "answer": ["jour"] } ], "explanation": "jour = day (masculine)." },
     { "text": "Je dors bien la {1}.", "blanks": [ { "cue": "night", "answer": ["nuit"] } ], "explanation": "nuit = night (feminine)." },
     { "text": "Donne-moi ta {1}, s'il te plaît.", "blanks": [ { "cue": "hand", "answer": ["main"] } ], "explanation": "main = hand (feminine)." },
@@ -41,6 +41,6 @@
     { "text": "Je regarde la {1} bleue.", "blanks": [ { "cue": "sea", "answer": ["mer"] } ], "explanation": "mer = sea (feminine)." },
     { "text": "Il y a un grand {1} dans le jardin.", "blanks": [ { "cue": "bird", "answer": ["oiseau"] } ], "explanation": "oiseau = bird (masculine)." },
     { "text": "Le {1} coule sous le pont.", "blanks": [ { "cue": "river", "answer": ["fleuve"] } ], "explanation": "fleuve = river (masculine)." },
-    { "text": "Ma {1} est gentille avec les élèves.", "blanks": [ { "cue": "teacher", "answer": ["maîtresse"] } ], "explanation": "maîtresse = (female) teacher (feminine)." }
+    { "text": "Ma {1} est gentille avec les élèves.", "blanks": [ { "cue": "teacher", "answer": ["maîtresse", "institutrice", "enseignante"] } ], "explanation": "maîtresse = (female) teacher (feminine)." }
   ]
 }
