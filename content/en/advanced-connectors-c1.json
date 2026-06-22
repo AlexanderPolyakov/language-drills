@@ -9,37 +9,37 @@
   "items": [
     {
       "text": "{1} the heavy rain, the match went ahead as planned.",
-      "blanks": [{ "answer": "Despite", "options": ["Despite", "Although", "However", "Whereas"], "hint": "preposition + noun phrase ('the heavy rain')" }],
+      "blanks": [{ "answer": "Despite", "options": ["However", "Whereas", "Despite", "Although"], "hint": "preposition + noun phrase ('the heavy rain')" }],
       "explanation": "'Despite' is a preposition and is followed by a noun phrase ('the heavy rain'). 'Although' would need a clause; 'however' is an adverb; 'whereas' marks contrast between two facts."
     },
     {
       "text": "{1} it was raining heavily, the match went ahead as planned.",
-      "blanks": [{ "answer": "Although", "options": ["Although", "Despite", "In spite of", "Hence"], "hint": "conjunction + clause (subject + verb)" }],
+      "blanks": [{ "answer": "Although", "options": ["Despite", "In spite of", "Although", "Hence"], "hint": "conjunction + clause (subject + verb)" }],
       "explanation": "'Although' is a conjunction introducing a full clause ('it was raining'). 'Despite' and 'in spite of' need a noun, not a clause; 'hence' shows consequence."
     },
     {
       "text": "My brother is very outgoing, {1} I tend to be rather shy.",
-      "blanks": [{ "answer": "whereas", "options": ["whereas", "despite", "owing to", "so as to"], "hint": "direct contrast between two facts" }],
+      "blanks": [{ "answer": "whereas", "options": ["owing to", "so as to", "despite", "whereas"], "hint": "direct contrast between two facts" }],
       "explanation": "'Whereas' draws a direct contrast between two simultaneous facts (outgoing vs shy). The other options express cause, concession with a noun, or purpose."
     },
     {
       "text": "The figures look discouraging. {1}, there are real grounds for optimism.",
-      "blanks": [{ "answer": "Nevertheless", "options": ["Nevertheless", "Therefore", "Owing to", "Provided that"], "hint": "concessive linking adverb between sentences" }],
+      "blanks": [{ "answer": "Nevertheless", "options": ["Provided that", "Nevertheless", "Therefore", "Owing to"], "hint": "concessive linking adverb between sentences" }],
       "explanation": "'Nevertheless' is a concessive adverb meaning 'in spite of that', linking two sentences. 'Therefore' shows result; 'owing to' needs a noun; 'provided that' sets a condition."
     },
     {
       "text": "The plan is ambitious. It is, {1}, entirely achievable.",
-      "blanks": [{ "answer": "however", "options": ["however", "hence", "whereas", "in order to"], "hint": "contrast adverb, here placed mid-sentence between commas" }],
+      "blanks": [{ "answer": "however", "options": ["whereas", "however", "hence", "in order to"], "hint": "contrast adverb, here placed mid-sentence between commas" }],
       "explanation": "'However' is a contrast adverb that can sit mid-sentence between commas. 'Hence' signals consequence; 'whereas' joins clauses; 'in order to' expresses purpose."
     },
     {
       "text": "The flight was cancelled {1} the dense fog over the airport.",
-      "blanks": [{ "answer": "owing to", "options": ["owing to", "although", "whereas", "thus"], "hint": "prepositional phrase of cause + noun" }],
+      "blanks": [{ "answer": "owing to", "options": ["whereas", "although", "thus", "owing to"], "hint": "prepositional phrase of cause + noun" }],
       "explanation": "'Owing to' is a prepositional phrase of cause followed by a noun phrase ('the dense fog'). 'Although' and 'whereas' need clauses; 'thus' introduces a consequence."
     },
     {
       "text": "The road was closed {1} an accident earlier that morning.",
-      "blanks": [{ "answer": "due to", "options": ["due to", "so that", "nevertheless", "no matter how"], "hint": "cause + noun phrase ('an accident')" }],
+      "blanks": [{ "answer": "due to", "options": ["no matter how", "nevertheless", "so that", "due to"], "hint": "cause + noun phrase ('an accident')" }],
       "explanation": "'Due to' introduces a cause as a noun phrase ('an accident'). 'So that' introduces a purpose clause; 'nevertheless' is concessive; 'no matter how' concedes degree."
     },
     {
@@ -49,22 +49,22 @@
     },
     {
       "text": "She left an hour early {1} avoid the rush-hour traffic.",
-      "blanks": [{ "answer": "in order to", "options": ["in order to", "owing to", "despite", "whereas"], "hint": "purpose + bare infinitive ('avoid')" }],
+      "blanks": [{ "answer": "in order to", "options": ["despite", "in order to", "owing to", "whereas"], "hint": "purpose + bare infinitive ('avoid')" }],
       "explanation": "'In order to' expresses purpose and is followed by an infinitive ('avoid'). 'Owing to' and 'despite' take nouns; 'whereas' joins contrasting clauses."
     },
     {
       "text": "He spoke slowly {1} make himself perfectly understood.",
-      "blanks": [{ "answer": "so as to", "options": ["so as to", "due to", "however", "provided that"], "hint": "purpose, alternative to 'in order to'" }],
+      "blanks": [{ "answer": "so as to", "options": ["so as to", "provided that", "however", "due to"], "hint": "purpose, alternative to 'in order to'" }],
       "explanation": "'So as to' + infinitive expresses purpose, equivalent to 'in order to'. 'Due to' takes a noun; 'however' is a contrast adverb; 'provided that' is conditional."
     },
     {
       "text": "The evidence was inconclusive; {1}, the case was dismissed.",
-      "blanks": [{ "answer": "hence", "options": ["hence", "although", "whereas", "in spite of"], "hint": "introduces a logical consequence" }],
+      "blanks": [{ "answer": "hence", "options": ["although", "hence", "whereas", "in spite of"], "hint": "introduces a logical consequence" }],
       "explanation": "'Hence' introduces a logical consequence ('for this reason'). The other options express concession or contrast, not result."
     },
     {
       "text": "{1} hard she tried, she couldn't open the jar.",
-      "blanks": [{ "answer": "No matter how", "options": ["No matter how", "Despite", "Owing to", "Provided that"], "hint": "concedes the degree of effort" }],
+      "blanks": [{ "answer": "No matter how", "options": ["Despite", "Provided that", "Owing to", "No matter how"], "hint": "concedes the degree of effort" }],
       "explanation": "'No matter how + adjective/adverb' concedes regardless of degree ('however hard'). It is followed by a clause; 'despite' and 'owing to' take nouns, and 'provided that' is conditional."
     }
   ]

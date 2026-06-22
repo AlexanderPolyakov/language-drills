@@ -10,7 +10,7 @@
     {
       "text": "If it {1} tomorrow, we will stay home.",
       "blanks": [
-        { "answer": "rains", "options": ["rains", "will rain", "rained"], "hint": "first conditional 'if' clause" }
+        { "answer": "rains", "options": ["rained", "rains", "will rain"], "hint": "first conditional 'if' clause" }
       ],
       "explanation": "First conditional: if + present simple, will + base verb. 'If it rains…'."
     },
@@ -24,32 +24,32 @@
     {
       "text": "If you {1} hard, you {2} the exam.",
       "blanks": [
-        { "answer": "study", "options": ["study", "studied", "will study"], "hint": "first conditional 'if' clause" },
-        { "answer": "will pass", "options": ["will pass", "would pass", "passed"], "hint": "first conditional result" }
+        { "answer": "study", "options": ["studied", "will study", "study"], "hint": "first conditional 'if' clause" },
+        { "answer": "will pass", "options": ["would pass", "passed", "will pass"], "hint": "first conditional result" }
       ],
       "explanation": "First conditional: if + present simple (study), will + base verb (will pass) for a realistic future event."
     },
     {
       "text": "If you heat ice, it {1}.",
       "blanks": [
-        { "answer": "melts", "options": ["melts", "will melt", "would melt"], "hint": "general truth" }
+        { "answer": "melts", "options": ["melts", "would melt", "will melt"], "hint": "general truth" }
       ],
       "explanation": "Zero conditional for general truths: present simple in both clauses."
     },
     {
       "text": "If they {1} us, we {2} the project on time.",
       "blanks": [
-        { "answer": "had helped", "options": ["had helped", "have helped", "help"], "hint": "third conditional 'if' clause" },
-        { "answer": "would have finished", "options": ["would have finished", "will finish", "would finish"], "hint": "third conditional result" }
+        { "answer": "had helped", "options": ["help", "had helped", "have helped"], "hint": "third conditional 'if' clause" },
+        { "answer": "would have finished", "options": ["will finish", "would have finished", "would finish"], "hint": "third conditional result" }
       ],
       "explanation": "Third conditional: if + past perfect (had helped), would have + past participle (would have finished) — an unreal past."
     },
     {
       "text": "If she {1} earlier, she {2} the train and {3} home by now.",
       "blanks": [
-        { "answer": "had left", "options": ["had left", "left", "leaves"], "hint": "third conditional 'if' clause" },
-        { "answer": "would have caught", "options": ["would have caught", "will catch", "would catch"], "hint": "third conditional action" },
-        { "answer": "would be", "options": ["would be", "will be", "would have been"], "hint": "present result of a past condition" }
+        { "answer": "had left", "options": ["left", "leaves", "had left"], "hint": "third conditional 'if' clause" },
+        { "answer": "would have caught", "options": ["would catch", "will catch", "would have caught"], "hint": "third conditional action" },
+        { "answer": "would be", "options": ["would have been", "will be", "would be"], "hint": "present result of a past condition" }
       ],
       "explanation": "Third conditional for the past action (had left / would have caught), but 'would be' — not 'would have been' — for a present result: she would be home by now."
     },
@@ -65,7 +65,7 @@
       "text": "If we {1} now, we {2} the start of the film.",
       "blanks": [
         { "answer": "leave", "options": ["leave", "will leave", "left"], "hint": "first conditional 'if' clause" },
-        { "answer": "won't miss", "options": ["won't miss", "wouldn't miss", "didn't miss"], "hint": "first conditional negative result" }
+        { "answer": "won't miss", "options": ["wouldn't miss", "didn't miss", "won't miss"], "hint": "first conditional negative result" }
       ],
       "explanation": "First conditional: if + present simple (leave), will/won't + base verb (won't miss) for a realistic future."
     },
@@ -80,15 +80,15 @@
     {
       "text": "If she {1} more time, she {2} a longer trip.",
       "blanks": [
-        { "answer": "had", "options": ["had", "has", "will have"], "hint": "unreal present 'if' clause" },
-        { "answer": "would take", "options": ["would take", "will take", "took"], "hint": "second conditional result" }
+        { "answer": "had", "options": ["will have", "had", "has"], "hint": "unreal present 'if' clause" },
+        { "answer": "would take", "options": ["will take", "would take", "took"], "hint": "second conditional result" }
       ],
       "explanation": "Second conditional for an imagined present situation: if + past simple (had), would + base verb (would take)."
     },
     {
       "text": "If we {1} the map, we {2} lost.",
       "blanks": [
-        { "answer": "had brought", "options": ["had brought", "brought", "have brought"], "hint": "third conditional 'if' clause" },
+        { "answer": "had brought", "options": ["had brought", "have brought", "brought"], "hint": "third conditional 'if' clause" },
         { "answer": "wouldn't have got", "options": ["wouldn't have got", "won't get", "wouldn't get"], "hint": "third conditional negative result" }
       ],
       "explanation": "Third conditional for an unreal past: if + past perfect (had brought), would(n't) have + past participle (wouldn't have got)."

@@ -9,7 +9,7 @@
   "items": [
     {
       "text": "Je ne mange {1} de viande, je suis végétarien.",
-      "blanks": [{ "options": ["pas", "jamais", "rien"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "pas", "jamais"], "answer": "jamais" }],
       "explanation": "'ne… jamais' means 'never', which fits a permanent habit."
     },
     {
@@ -19,42 +19,42 @@
     },
     {
       "text": "Il est tard, je ne veux {1} sortir ce soir.",
-      "blanks": [{ "options": ["pas", "rien", "personne"], "answer": "pas" }],
+      "blanks": [{ "options": ["rien", "personne", "pas"], "answer": "pas" }],
       "explanation": "'ne… pas' = simple negation: I do not want to go out."
     },
     {
       "text": "Avant je fumais, mais maintenant je ne fume {1}.",
-      "blanks": [{ "options": ["pas", "plus", "jamais"], "answer": "plus" }],
+      "blanks": [{ "options": ["plus", "jamais", "pas"], "answer": "plus" }],
       "explanation": "'ne… plus' means 'no longer / not anymore', marking a change."
     },
     {
       "text": "Le frigo est vide : il n'y a {1} à manger.",
-      "blanks": [{ "options": ["rien", "personne", "jamais"], "answer": "rien" }],
+      "blanks": [{ "options": ["rien", "jamais", "personne"], "answer": "rien" }],
       "explanation": "'ne… rien' means 'nothing'."
     },
     {
       "text": "La maison est silencieuse, il n'y a {1} ici.",
-      "blanks": [{ "options": ["rien", "personne", "plus"], "answer": "personne" }],
+      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "personne" }],
       "explanation": "'ne… personne' means 'nobody / no one'."
     },
     {
       "text": "Je n'aime {1} les épinards, c'est dégoûtant.",
-      "blanks": [{ "options": ["pas", "rien", "personne"], "answer": "pas" }],
+      "blanks": [{ "options": ["rien", "pas", "personne"], "answer": "pas" }],
       "explanation": "'ne… pas' negates the verb 'aimer'."
     },
     {
       "text": "Elle ne boit {1} d'alcool, c'est contre ses principes.",
-      "blanks": [{ "options": ["pas", "jamais", "rien"], "answer": "jamais" }],
+      "blanks": [{ "options": ["jamais", "rien", "pas"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never, for an absolute rule."
     },
     {
       "text": "Nous n'avons {1} d'argent, nous avons tout dépensé.",
-      "blanks": [{ "options": ["plus", "personne", "jamais"], "answer": "plus" }],
+      "blanks": [{ "options": ["jamais", "personne", "plus"], "answer": "plus" }],
       "explanation": "'ne… plus' = no more / none left after spending everything."
     },
     {
       "text": "Chut ! Je ne dis {1}, c'est un secret.",
-      "blanks": [{ "options": ["rien", "personne", "plus"], "answer": "rien" }],
+      "blanks": [{ "options": ["plus", "personne", "rien"], "answer": "rien" }],
       "explanation": "'ne… rien' = nothing, the object of 'dire'."
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "text": "Il a déménagé : il n'habite {1} dans cette ville.",
-      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "plus" }],
+      "blanks": [{ "options": ["rien", "personne", "plus"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer, after moving away."
     },
     {
@@ -89,17 +89,17 @@
     },
     {
       "text": "Le magasin n'est {1} ouvert le lundi.",
-      "blanks": [{ "options": ["pas", "rien", "personne"], "answer": "pas" }],
+      "blanks": [{ "options": ["personne", "pas", "rien"], "answer": "pas" }],
       "explanation": "'ne… pas' negates the adjective phrase with 'être'."
     },
     {
       "text": "On ne se trompe {1} quand on est attentif.",
-      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "jamais", "personne"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never, expressing a general truth."
     },
     {
       "text": "Le bébé dort : ne faites {1} de bruit !",
-      "blanks": [{ "options": ["pas", "personne", "rien"], "answer": "pas" }],
+      "blanks": [{ "options": ["pas", "rien", "personne"], "answer": "pas" }],
       "explanation": "'ne… pas' is used here in a negative imperative."
     },
     {
@@ -109,32 +109,32 @@
     },
     {
       "text": "Cette boîte est vide : elle ne contient {1}.",
-      "blanks": [{ "options": ["rien", "personne", "jamais"], "answer": "rien" }],
+      "blanks": [{ "options": ["personne", "jamais", "rien"], "answer": "rien" }],
       "explanation": "'ne… rien' = nothing inside the box."
     },
     {
       "text": "J'ai sonné longtemps mais je n'ai vu {1}.",
-      "blanks": [{ "options": ["personne", "rien", "plus"], "answer": "personne" }],
+      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "personne" }],
       "explanation": "'ne… personne' = nobody; 'personne' follows the past participle."
     },
     {
       "text": "Elle ne parle {1} espagnol, seulement français.",
-      "blanks": [{ "options": ["pas", "rien", "personne"], "answer": "pas" }],
+      "blanks": [{ "options": ["personne", "rien", "pas"], "answer": "pas" }],
       "explanation": "'ne… pas' negates 'parler'."
     },
     {
       "text": "Depuis sa retraite, il ne travaille {1}.",
-      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "plus" }],
+      "blanks": [{ "options": ["personne", "plus", "rien"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer works, after retiring."
     },
     {
       "text": "Quand il pleut, nous ne sortons {1} sans parapluie.",
-      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
+      "blanks": [{ "options": ["jamais", "personne", "rien"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never go out without an umbrella."
     },
     {
       "text": "Je suis fatigué, je ne ferai {1} ce soir.",
-      "blanks": [{ "options": ["rien", "personne", "plus"], "answer": "rien" }],
+      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "rien" }],
       "explanation": "'ne… rien' = nothing; I will do nothing tonight."
     },
     {
@@ -144,17 +144,17 @@
     },
     {
       "text": "Ce restaurant n'est {1} cher, c'est abordable.",
-      "blanks": [{ "options": ["pas", "rien", "jamais"], "answer": "pas" }],
+      "blanks": [{ "options": ["rien", "jamais", "pas"], "answer": "pas" }],
       "explanation": "'ne… pas' negates the adjective 'cher'."
     },
     {
       "text": "Mes enfants ne mentent {1}, je leur fais confiance.",
-      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "jamais", "personne"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never lie."
     },
     {
       "text": "Le projet est annulé : on n'en parle {1}.",
-      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "plus" }],
+      "blanks": [{ "options": ["personne", "rien", "plus"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer talk about it."
     },
     {
@@ -164,17 +164,17 @@
     },
     {
       "text": "Il est très timide, il n'invite {1} chez lui.",
-      "blanks": [{ "options": ["personne", "rien", "plus"], "answer": "personne" }],
+      "blanks": [{ "options": ["rien", "plus", "personne"], "answer": "personne" }],
       "explanation": "'ne… personne' = invites nobody."
     },
     {
       "text": "Je n'ai {1} le temps de t'expliquer maintenant.",
-      "blanks": [{ "options": ["pas", "personne", "rien"], "answer": "pas" }],
+      "blanks": [{ "options": ["rien", "personne", "pas"], "answer": "pas" }],
       "explanation": "'ne… pas' negates 'avoir le temps'."
     },
     {
       "text": "Elle était malade, mais elle ne tousse {1}.",
-      "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "plus" }],
+      "blanks": [{ "options": ["rien", "plus", "personne"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer coughs, after recovering."
     }
   ]
