@@ -34,7 +34,7 @@
     { "text": "He likes to {1} happy songs in the shower.", "blanks": [ { "options": ["sing", "read", "walk"], "answer": "sing" } ], "explanation": "You sing songs with your voice." },
     { "text": "I {1} you because you are my best friend.", "blanks": [ { "options": ["love", "buy", "wash"], "answer": "love" } ], "explanation": "You love people who are very important to you." },
     { "text": "Please {1} the light when you leave the room.", "blanks": [ { "options": ["turn off", "cook", "drive"], "answer": "turn off" } ], "explanation": "You turn off the light to stop it shining." },
-    { "text": "The dog likes to {1} after the ball.", "blanks": [ { "options": ["jump", "read", "drink"], "answer": "jump" } ], "explanation": "You jump when you push up off the ground." },
+    { "text": "The dog likes to {1} for the ball.", "blanks": [ { "options": ["jump", "read", "drink"], "answer": "jump" } ], "explanation": "You jump when you push up off the ground." },
     { "text": "I {1} my keys on the table by the door.", "blanks": [ { "options": ["put", "swim", "sing"], "answer": "put" } ], "explanation": "You put something when you place it somewhere." },
     { "text": "Can you {1} this heavy box for me?", "blanks": [ { "options": ["carry", "drink", "read"], "answer": "carry" } ], "explanation": "You carry a heavy box by holding and moving it." },
     { "text": "I {1} a new word in English today.", "blanks": [ { "options": ["learn", "cook", "drive"], "answer": "learn" } ], "explanation": "You learn when you get new knowledge." },
