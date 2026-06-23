@@ -30,7 +30,7 @@
     { "text": "I will {1} a table at the restaurant for eight o'clock.", "blanks": [ { "options": ["lend", "lose", "book"], "answer": "book" } ], "explanation": "You book something by arranging to keep it for you." },
     { "text": "Try not to {1} the bus; the next one is in an hour.", "blanks": [ { "options": ["save", "win", "miss"], "answer": "miss" } ], "explanation": "You miss a bus when you fail to catch it in time." },
     { "text": "The two friends {1} to meet at the cinema later.", "blanks": [ { "options": ["lost", "borrowed", "agreed"], "answer": "agreed" } ], "explanation": "You agree when you and another person share the same idea." },
-    { "text": "I forgot to {1} my brother's birthday this year.", "blanks": [ { "options": ["spend", "remember", "rent"], "answer": "remember" } ], "explanation": "You remember something that you keep in your mind." },
+    { "text": "I always try to {1} my brother's birthday.", "blanks": [ { "options": ["spend", "remember", "rent"], "answer": "remember" } ], "explanation": "You remember something that you keep in your mind." },
     { "text": "She wants to {1} a new language next year.", "blanks": [ { "options": ["learn", "win", "lend"], "answer": "learn" } ], "explanation": "You learn a language when you gain the skill to use it." },
     { "text": "The waiter will {1} our food to the table.", "blanks": [ { "options": ["save", "bring", "lose"], "answer": "bring" } ], "explanation": "You bring something when you carry it to a place." },
     { "text": "We should {1} early to avoid the traffic.", "blanks": [ { "options": ["leave", "rent", "complain"], "answer": "leave" } ], "explanation": "You leave a place when you go away from it." },

@@ -9,7 +9,7 @@
   "items": [
     {
       "text": "Je ne mange {1} de viande, je suis végétarien.",
-      "blanks": [{ "options": ["rien", "pas", "jamais"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "personne", "jamais"], "answer": "jamais" }],
       "explanation": "'ne… jamais' means 'never', which fits a permanent habit."
     },
     {
