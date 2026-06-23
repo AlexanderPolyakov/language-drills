@@ -1,0 +1,32 @@
+{
+  "id": "fr-subjonctif-passe-b2",
+  "lang": "fr",
+  "topic": "subjonctif-passe",
+  "level": "B2",
+  "type": "fill",
+  "title": "Le subjonctif passé",
+  "lesson": "The past subjunctive expresses an action seen as completed BEFORE the moment referred to by the main verb. It is a compound tense: auxiliary « avoir » or « être » in the PRESENT subjunctive + past participle. So « j'aie fait », « il soit parti », « que tu sois venu(e) ». It appears after the same triggers as the present subjunctive — « bien que », « je doute que », « il est possible que », « être content/désolé que » — but only when the subordinate action is prior to the main one: « Je suis content que tu sois venu » (you came, then I am happy). As with the passé composé, the past participle of « être » verbs agrees in gender and number with the subject, and the participle of « avoir » verbs agrees with a preceding direct object.",
+  "items": [
+    {
+      "text": "Bien qu'il {1} tôt, il a manqué son train.",
+      "blanks": [
+        { "cue": "partir", "answer": ["soit parti"], "hint": "subjonctif passé, il, être verb: auxiliary 'être' (subj. present) + past participle" }
+      ],
+      "explanation": "« Bien que » triggers the subjunctive, and the action (leaving) is prior to missing the train, so the past subjunctive is used. « Partir » takes « être »: « qu'il soit parti »."
+    },
+    {
+      "text": "Je doute qu'ils {1} la vérité hier.",
+      "blanks": [
+        { "cue": "dire", "answer": ["aient dit"], "hint": "subjonctif passé, ils, avoir verb: auxiliary 'avoir' (subj. present) + past participle" }
+      ],
+      "explanation": "« Je doute que » expresses doubt and requires the subjunctive; « hier » places the action in the past, so the past subjunctive applies. « Dire » takes « avoir »: « qu'ils aient dit »."
+    },
+    {
+      "text": "Il est possible qu'elle {1} avant la fin de la réunion.",
+      "blanks": [
+        { "cue": "partir", "answer": ["soit partie"], "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject" }
+      ],
+      "explanation": "« Il est possible que » triggers the subjunctive, and the departure is prior to the end of the meeting, so the past subjunctive is used. « Partir » takes « être », and the participle agrees with the feminine subject: « qu'elle soit partie »."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "fr-mise-en-relief-c1",
+  "lang": "fr",
+  "topic": "mise-en-relief",
+  "level": "C1",
+  "type": "transform",
+  "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
+  "lesson": "Clefting (« la mise en relief ») highlights one element of a sentence. Use « c'est … qui » to emphasise the SUBJECT (« C'est Marie qui a téléphoné ») and « c'est … que » to emphasise any other element — direct object, complement of time, place, manner (« C'est à Paris qu'il habite »). To foreground a whole idea, frame it with « Ce qui … , c'est » (when the highlighted element is a subject) or « Ce que … , c'est » (when it is a direct object). When the verb of the clause governs the preposition « de » (e.g. « avoir besoin de », « parler de », « rêver de »), use « Ce dont … , c'est ». The presentative « c'est » stays invariable in careful written French, though « ce sont » is preferred before a plural noun.",
+  "items": [
+    {
+      "prompt": "Le manque de financement a fait échouer le projet. (mettre en relief le sujet avec « c'est… qui »)",
+      "answer": ["C'est le manque de financement qui a fait échouer le projet."],
+      "explanation": "To emphasise the SUBJECT « le manque de financement », it is framed with « c'est … qui »: the verb keeps its third-person form (« a fait ») because « qui » carries the original subject."
+    },
+    {
+      "prompt": "Nous avons signé le contrat à Bruxelles. (mettre en relief le lieu avec « c'est… que »)",
+      "answer": ["C'est à Bruxelles que nous avons signé le contrat."],
+      "explanation": "« À Bruxelles » is a complement of place, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est à Bruxelles que nous avons signé le contrat »."
+    },
+    {
+      "prompt": "Nous avons besoin de temps, pas d'argent. (mettre en relief « de temps » avec « ce dont… c'est »)",
+      "answer": ["Ce dont nous avons besoin, c'est de temps, pas d'argent.", "Ce dont nous avons besoin, c'est du temps, pas d'argent."],
+      "explanation": "« Avoir besoin » governs the preposition « de », so the clefting pronoun is « ce dont » (= de quoi). The structure « Ce dont … , c'est de … » repeats the « de » in the highlighted element: « Ce dont nous avons besoin, c'est de temps »."
+    }
+  ]
+}

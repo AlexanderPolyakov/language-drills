@@ -1,0 +1,39 @@
+{
+  "id": "fr-connecteurs-logiques-b2",
+  "lang": "fr",
+  "topic": "connecteurs-logiques",
+  "level": "B2",
+  "type": "cloze",
+  "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
+  "lesson": "Logical connectors structure an argument by expressing relationships such as cause, consequence, opposition, concession and purpose. Be careful with the construction each one governs. CAUSE: « étant donné que », « comme » and « puisque » introduce a clause with the indicative; « en raison de » and « grâce à » introduce a noun. CONSEQUENCE: « de sorte que » + indicative expresses a result; « si bien que » also marks a result. OPPOSITION/CONCESSION: « bien que » and « quoique » require the SUBJUNCTIVE; « en dépit de » and « malgré » introduce a noun; « tandis que » and « alors que » + indicative mark contrast. PURPOSE: « afin que » and « pour que » require the SUBJUNCTIVE, whereas « afin de » and « pour » + infinitive are used when the subject is the same in both clauses.",
+  "items": [
+    {
+      "text": "{1} la pluie battante, le match a été maintenu et les supporters sont restés jusqu'au bout.",
+      "blanks": [
+        { "answer": "En dépit de", "options": ["En dépit de", "Bien que", "Afin que", "Étant donné que"], "hint": "concession introducing a NOUN ('la pluie'), not a clause" }
+      ],
+      "explanation": "« En dépit de » (like « malgré ») expresses concession and is followed by a noun group: « En dépit de la pluie ». « Bien que » and « afin que » would require a conjugated verb in the subjunctive, and « étant donné que » expresses cause."
+    },
+    {
+      "text": "{1} il soit le plus expérimenté de l'équipe, on ne lui a pas confié le projet.",
+      "blanks": [
+        { "answer": "Bien qu'", "options": ["Bien qu'", "En dépit d'", "Étant donné qu'", "Grâce à"], "hint": "concession + verb in the SUBJUNCTIVE ('soit')" }
+      ],
+      "explanation": "« Bien que » introduces a concession and governs the subjunctive (« soit »); before a vowel it elides to « Bien qu' ». « En dépit de » and « grâce à » take a noun, and « étant donné que » expresses cause with the indicative."
+    },
+    {
+      "text": "{1} les conditions météorologiques se dégradaient, le préfet a décidé d'annuler la manifestation.",
+      "blanks": [
+        { "answer": "Étant donné que", "options": ["Étant donné que", "Afin que", "De sorte que", "En dépit de"], "hint": "cause + a clause in the indicative ('se dégradaient')" }
+      ],
+      "explanation": "« Étant donné que » introduces a cause and is followed by a clause in the indicative (« se dégradaient »). « Afin que » expresses purpose (+ subjunctive), « de sorte que » consequence, and « en dépit de » takes a noun."
+    },
+    {
+      "text": "La direction a réorganisé les horaires {1} chaque salarié puisse concilier travail et vie de famille.",
+      "blanks": [
+        { "answer": "afin que", "options": ["afin que", "afin de", "grâce à", "parce que"], "hint": "purpose + a DIFFERENT subject in the SUBJUNCTIVE ('puisse')" }
+      ],
+      "explanation": "« Afin que » expresses purpose and requires the subjunctive (« puisse »); it is used because the two clauses have different subjects (la direction / chaque salarié). « Afin de » would require an infinitive with the same subject, « grâce à » takes a noun, and « parce que » expresses cause with the indicative."
+    }
+  ]
+}

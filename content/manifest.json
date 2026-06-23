@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 12
+          "count": 15
         },
         {
           "id": "en-inversion-c1",
@@ -330,7 +330,7 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json",
-          "count": 12
+          "count": 16
         },
         {
           "id": "en-vocabulary-c1",
@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 12
+          "count": 15
         }
       ]
     },
@@ -609,6 +609,30 @@
           "title": "Vocabulaire en contexte (B1)",
           "file": "fr/vocabulary-b1.json",
           "count": 34
+        },
+        {
+          "id": "fr-connecteurs-logiques-b2",
+          "topic": "connecteurs-logiques",
+          "level": "B2",
+          "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
+          "file": "fr/connecteurs-logiques-b2.json",
+          "count": 4
+        },
+        {
+          "id": "fr-subjonctif-passe-b2",
+          "topic": "subjonctif-passe",
+          "level": "B2",
+          "title": "Le subjonctif passé",
+          "file": "fr/subjonctif-passe-b2.json",
+          "count": 3
+        },
+        {
+          "id": "fr-mise-en-relief-c1",
+          "topic": "mise-en-relief",
+          "level": "C1",
+          "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
+          "file": "fr/mise-en-relief-c1.json",
+          "count": 3
         }
       ]
     }

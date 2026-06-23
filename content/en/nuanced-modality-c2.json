@@ -90,6 +90,27 @@
         { "answer": "could", "options": ["could", "must", "needn't"], "hint": "reproach for something easily done but left undone" }
       ],
       "explanation": "Reproachful 'could have + past participle' chides someone for failing to do something that was within their power ('you could have told me'). It is close to 'should have' but foregrounds the missed opportunity rather than duty."
+    },
+    {
+      "text": "In the end the talk was cancelled, so I {1} prepared my slides — but at least the work wasn't wasted.",
+      "blanks": [
+        { "answer": "needn't have", "options": ["needn't have", "didn't need to", "shouldn't have"], "hint": "I DID prepare them, and only afterwards learned it was unnecessary" }
+      ],
+      "explanation": "'Needn't have + past participle' states that an action WAS carried out and later proved unnecessary (I did prepare the slides). 'Didn't need to' merely reports that no necessity existed and leaves open whether the action happened; 'shouldn't have' would imply the act was wrong."
+    },
+    {
+      "text": "Luckily I checked the timetable in advance, so I {1} rush in the morning — the train left an hour later than I'd thought.",
+      "blanks": [
+        { "answer": "didn't need to", "options": ["didn't need to", "needn't have", "mustn't have" ], "hint": "no necessity existed, so the action was never performed" }
+      ],
+      "explanation": "'Didn't need to + bare infinitive' reports that there was no obligation, and (because I checked first) I did NOT do the action. This contrasts with 'needn't have rushed', which would mean I rushed pointlessly."
+    },
+    {
+      "text": "I really wish you'd consulted me first; I'd rather you {1} acted without asking.",
+      "blanks": [
+        { "answer": "hadn't", "options": ["hadn't", "didn't", "wouldn't have"], "hint": "'would rather' + past perfect to regret a completed past action" }
+      ],
+      "explanation": "To express a preference about a past event that cannot now be changed, 'would rather' takes the past perfect: 'I'd rather you hadn't acted'. The past simple 'didn't' is used for preferences about the present/future, not for regretting a finished action."
     }
   ]
 }

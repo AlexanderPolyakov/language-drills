@@ -66,6 +66,21 @@
       "prompt": "I most appreciate your patience. (rewrite as a wh-cleft beginning 'What')",
       "answer": ["What I most appreciate is your patience.", "What I appreciate most is your patience."],
       "explanation": "The wh-cleft 'What I most appreciate is ...' places 'your patience' in the emphatic end position after the linking verb 'is'."
+    },
+    {
+      "prompt": "I only want a fair hearing. (rewrite as a wh-cleft beginning 'All')",
+      "answer": ["All I want is a fair hearing.", "All I want is a fair hearing, nothing more."],
+      "explanation": "An 'All ... is ...' cleft is a wh-type structure where 'all' means 'the only thing'. It downplays the demand and gives end-focus to 'a fair hearing': 'All I want is a fair hearing.'"
+    },
+    {
+      "prompt": "Her constant encouragement helped me pass. (emphasise 'her constant encouragement' with an it-cleft)",
+      "answer": ["It was her constant encouragement that helped me pass.", "It was her constant encouragement that helped me to pass."],
+      "explanation": "The it-cleft foregrounds the cause: 'It was her constant encouragement that helped me pass.' For a non-human subject, the relative pronoun is 'that' (or 'which'), and 'was' matches the original past tense."
+    },
+    {
+      "prompt": "I'm going to do nothing but rest this weekend. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I'm going to do this weekend is rest.", "What I'm going to do this weekend is just rest."],
+      "explanation": "An action-focus wh-cleft uses 'do': 'What I'm going to do this weekend is rest.' As with other action clefts, the focused verb may follow 'is' as a bare infinitive."
     }
   ]
 }
