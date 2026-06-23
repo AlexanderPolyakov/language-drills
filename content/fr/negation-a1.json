@@ -44,7 +44,7 @@
     },
     {
       "text": "Elle ne boit {1} d'alcool, c'est contre ses principes.",
-      "blanks": [{ "options": ["jamais", "rien", "pas"], "answer": "jamais" }],
+      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never, for an absolute rule."
     },
     {
