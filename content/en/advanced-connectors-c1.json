@@ -66,6 +66,24 @@
       "text": "{1} hard she tried, she couldn't open the jar.",
       "blanks": [{ "answer": "No matter how", "options": ["Despite", "Provided that", "Owing to", "No matter how"], "hint": "concedes the degree of effort" }],
       "explanation": "'No matter how + adjective/adverb' concedes regardless of degree ('however hard'). It is followed by a clause; 'despite' and 'owing to' take nouns, and 'provided that' is conditional."
+    },
+    {
+      "text": "{1} much I admire her talent, I cannot overlook the missed deadlines.",
+      "blanks": [{ "answer": "However", "options": ["Even though", "However", "Given that", "No sooner"], "hint": "concessive 'no matter how' + much + clause" }],
+      "explanation": "'However much I admire her talent' uses the concessive pattern 'however + much/many + clause' (= 'no matter how much'). The other options cannot take the following 'much' ('Even though much I admire', 'Given that much I admire' are ungrammatical); 'no sooner' begins a time correlative."
+    },
+    {
+      "text": "{1} the new evidence has come to light, the case will have to be reopened.",
+      "blanks": [{ "answer": "Given that", "options": ["So as to", "Much as", "Given that", "Hence"], "hint": "states an accepted reason + clause" }],
+      "explanation": "'Given that' introduces an accepted premise as a cause ('since/because it is a fact that'), taking a full clause. 'So as to' marks purpose before an infinitive; 'much as' is concessive; 'hence' is a consequence adverb, not a clause-opening conjunction here."
+    },
+    {
+      "text": "{1} had the meeting begun {2} the fire alarm went off.",
+      "blanks": [
+        { "answer": "No sooner", "options": ["No sooner", "Given that", "Much as", "Hardly"], "hint": "correlative of immediacy; inverts the auxiliary, pairs with 'than'" },
+        { "answer": "than", "options": ["than", "when", "that", "as"], "hint": "the second half of the 'no sooner ... ___' correlative" }
+      ],
+      "explanation": "'No sooner ... than' is a correlative marking one event immediately following another, triggering subject-auxiliary inversion ('No sooner had the meeting begun'). The matching word is 'than', not 'when'; 'hardly' would pair with 'when' instead, so only 'No sooner' fits the 'than' in the second blank."
     }
   ]
 }

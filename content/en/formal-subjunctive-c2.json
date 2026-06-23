@@ -90,6 +90,27 @@
         { "cue": "may", "answer": ["may"], "hint": "fixed concessive subjunctive idiom" }
       ],
       "explanation": "'Come what may' is a fossilised subjunctive meaning 'whatever happens'. The inverted 'come' is itself a subjunctive; the phrase is invariable and emphatic."
+    },
+    {
+      "text": "The auditor proposed that the board {1} early in the new year to review the findings.",
+      "blanks": [
+        { "cue": "reconvene", "answer": ["reconvene"], "hint": "base form after 'propose that', no -s" }
+      ],
+      "explanation": "'Propose that' triggers the mandative subjunctive, so the verb stays in the uninflected base form: 'the board reconvene', never 'reconvenes'. The missing third-person -s is the only overt marker with this regular verb."
+    },
+    {
+      "text": "{1} it to say that the experiment had to be repeated many times before anyone believed the result.",
+      "blanks": [
+        { "cue": "suffice", "answer": ["Suffice"], "hint": "fossilised subjunctive opener (= 'let it be enough to say'); bare base form, capitalised at the start" }
+      ],
+      "explanation": "'Suffice it to say' is a frozen subjunctive formula (= 'let it be enough to say') in which 'suffice' is itself a bare subjunctive used without a third-person -s; the rest of the sentence is ordinary indicative. The tested form is the subjunctive 'Suffice' that opens the idiom."
+    },
+    {
+      "text": "It is vital that the witness {1} pressured into changing her account under any circumstances.",
+      "blanks": [
+        { "cue": "not be", "answer": ["not be"], "hint": "negative mandative subjunctive: 'not be', never 'isn't'" }
+      ],
+      "explanation": "After 'it is vital/essential that', the mandative subjunctive uses the bare 'be', and negation precedes it directly: 'that the witness not be pressured', not 'isn't pressured' or 'should not be'. The negative subjunctive places 'not' before the uninflected 'be'."
     }
   ]
 }

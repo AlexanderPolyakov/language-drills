@@ -21,6 +21,21 @@
       "prompt": "Nous avons besoin de temps, pas d'argent. (mettre en relief « de temps » avec « ce dont… c'est »)",
       "answer": ["Ce dont nous avons besoin, c'est de temps, pas d'argent.", "Ce dont nous avons besoin, c'est du temps, pas d'argent."],
       "explanation": "« Avoir besoin » governs the preposition « de », so the clefting pronoun is « ce dont » (= de quoi). The structure « Ce dont … , c'est de … » repeats the « de » in the highlighted element: « Ce dont nous avons besoin, c'est de temps »."
+    },
+    {
+      "prompt": "Son honnêteté me plaît le plus chez elle. (mettre en relief le sujet/l'idée avec « ce qui… , c'est »)",
+      "answer": ["Ce qui me plaît le plus chez elle, c'est son honnêteté."],
+      "explanation": "To foreground an element that is the SUBJECT of the verb (« son honnêteté » is the subject of « plaît »), use « Ce qui … , c'est »: « Ce qui me plaît le plus chez elle, c'est son honnêteté ». « Ce qui » stands for the subject, and « c'est » presents the highlighted noun."
+    },
+    {
+      "prompt": "Je redoute son indifférence. (mettre en relief le COD avec « ce que… , c'est »)",
+      "answer": ["Ce que je redoute, c'est son indifférence."],
+      "explanation": "« Son indifférence » is the DIRECT OBJECT of « redouter », so the clefting pronoun is « ce que »: « Ce que je redoute, c'est son indifférence ». « Ce que » replaces the direct object, and « c'est » introduces the foregrounded element."
+    },
+    {
+      "prompt": "Je tiens surtout à ta sincérité. (mettre en relief le complément avec « ce à quoi… , c'est »)",
+      "answer": ["Ce à quoi je tiens surtout, c'est ta sincérité.", "Ce à quoi je tiens surtout, c'est à ta sincérité."],
+      "explanation": "« Tenir à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je tiens surtout, c'est ta sincérité ». The preposition « à » may optionally be echoed in the highlighted element (« c'est à ta sincérité »)."
     }
   ]
 }

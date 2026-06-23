@@ -34,6 +34,34 @@
         { "answer": "afin que", "options": ["afin que", "afin de", "grâce à", "parce que"], "hint": "purpose + a DIFFERENT subject in the SUBJUNCTIVE ('puisse')" }
       ],
       "explanation": "« Afin que » expresses purpose and requires the subjunctive (« puisse »); it is used because the two clauses have different subjects (la direction / chaque salarié). « Afin de » would require an infinitive with the same subject, « grâce à » takes a noun, and « parce que » expresses cause with the indicative."
+    },
+    {
+      "text": "Le rapport a été remis en retard, {1} la commission a dû reporter sa décision à la séance suivante.",
+      "blanks": [
+        { "answer": "si bien que", "options": ["si bien que", "bien que", "de peur que", "pourvu que"], "hint": "consequence + indicative ('a dû'): a result that actually happened" }
+      ],
+      "explanation": "« Si bien que » introduces a consequence and is followed by the indicative (« a dû ») because the result is presented as real. « Bien que » and « de peur que » require the subjunctive, and « pourvu que » expresses a condition with the subjunctive."
+    },
+    {
+      "text": "Elle a noté chaque consigne dans son carnet, {1} oublier le moindre détail avant l'examen.",
+      "blanks": [
+        { "answer": "de peur d'", "options": ["de peur d'", "si bien qu'", "tandis qu'", "du moment qu'"], "hint": "fear used as purpose, same subject, + INFINITIVE ('oublier')" }
+      ],
+      "explanation": "When the subject is the same in both clauses, « de peur de » + infinitive expresses a feared purpose: « de peur d'oublier ». Before a vowel « de » elides to « d' ». « Si bien que », « tandis que » and « du moment que » all introduce a conjugated clause, not an infinitive."
+    },
+    {
+      "text": "Mon frère adore les longues randonnées en montagne, {1} moi je préfère passer mes vacances au bord de la mer.",
+      "blanks": [
+        { "answer": "tandis que", "options": ["tandis que", "grâce à", "faute de", "quoique"], "hint": "opposition between two facts + indicative ('je préfère')" }
+      ],
+      "explanation": "« Tandis que » (like « alors que ») marks an opposition between two contrasting facts and is followed by the indicative (« je préfère »). « Grâce à » and « faute de » introduce a noun, and « quoique » expresses concession with the subjunctive."
+    },
+    {
+      "text": "{1} une préparation suffisante, l'équipe a échoué dès le premier tour de la compétition.",
+      "blanks": [
+        { "answer": "Faute d'", "options": ["Faute d'", "Grâce à", "Quoiqu'", "Du moment qu'"], "hint": "cause = the LACK of something, + NOUN ('une préparation')" }
+      ],
+      "explanation": "« Faute de » expresses a cause understood as a lack and is followed by a noun: « Faute d'une préparation suffisante » (= because there was not enough). Before a vowel « de » elides to « d' ». « Grâce à » introduces a positive cause, while « quoique » and « du moment que » govern a conjugated clause."
     }
   ]
 }

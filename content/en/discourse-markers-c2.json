@@ -90,6 +90,34 @@
         { "answer": "albeit", "options": ["albeit", "nonetheless", "to all intents and purposes"], "hint": "concessive 'although it was', fronting an adjective" }
       ],
       "explanation": "'Albeit' fits neatly before a single adjective ('albeit brief' = 'although it was brief'). 'Nonetheless' is a sentence adverb that cannot bridge directly into the adjective this way, and the summative phrase does not concede."
+    },
+    {
+      "text": "The charity wants to eradicate illiteracy in the region. {1}, it is opening a network of free evening schools.",
+      "blanks": [
+        { "answer": "To that end", "options": ["To that end", "If anything", "By the same token"], "hint": "introduces the means adopted to achieve a stated aim" }
+      ],
+      "explanation": "'To that end' means 'in order to achieve that purpose', linking a stated goal to the action taken to reach it. 'If anything' adjusts a previous statement and 'by the same token' draws a parallel inference, neither of which marks purpose-and-means."
+    },
+    {
+      "text": "A witness can misremember a face after only minutes; {1}, we should distrust testimony recalled years later.",
+      "blanks": [
+        { "answer": "by the same token", "options": ["by the same token", "if anything", "much less"], "hint": "'by the same reasoning'; extends one logic to a parallel case" }
+      ],
+      "explanation": "'By the same token' applies the same line of reasoning to an analogous case ('for the same reason'). 'If anything' would correct or strengthen the prior claim and 'much less' adds a stronger negative item, neither of which extends a parallel inference."
+    },
+    {
+      "text": "The reforms have not weakened the institution; {1}, they have made it more resilient than before.",
+      "blanks": [
+        { "answer": "if anything", "options": ["if anything", "to that end", "much less"], "hint": "corrects toward the opposite: 'rather the reverse'" }
+      ],
+      "explanation": "'If anything' signals that, far from the negated claim, the opposite is closer to the truth ('rather the reverse'). 'To that end' marks purpose and 'much less' adds a stronger negative element after a negative, neither of which performs this corrective reversal."
+    },
+    {
+      "text": "He can barely keep a houseplant alive, {1} manage a working farm single-handed.",
+      "blanks": [
+        { "answer": "much less", "options": ["much less", "if anything", "for all that"], "hint": "after a negative, adds a yet more unlikely case" }
+      ],
+      "explanation": "'Much less' follows a negative statement to add an even more improbable possibility ('let alone'); the prior negative licenses it ('can barely... much less manage a farm'). 'If anything' corrects a claim and 'for all that' concedes, so neither fits this escalation after a negative."
     }
   ]
 }

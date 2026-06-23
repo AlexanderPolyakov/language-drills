@@ -27,6 +27,27 @@
         { "cue": "partir", "answer": ["soit partie"], "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject" }
       ],
       "explanation": "« Il est possible que » triggers the subjunctive, and the departure is prior to the end of the meeting, so the past subjunctive is used. « Partir » takes « être », and the participle agrees with the feminine subject: « qu'elle soit partie »."
+    },
+    {
+      "text": "Je suis désolé qu'elle {1} dans ses calculs et qu'elle ait dû tout recommencer.",
+      "blanks": [
+        { "cue": "se tromper", "answer": ["se soit trompée"], "hint": "subjonctif passé, elle, pronominal verb: auxiliary 'être' + participle agrees with the feminine subject" }
+      ],
+      "explanation": "« Je suis désolé que » triggers the subjunctive, and the mistake is prior to the main moment, so the past subjunctive is used. Pronominal verbs form their compound tenses with « être », and here the participle agrees with the feminine subject: « qu'elle se soit trompée »."
+    },
+    {
+      "text": "Il se peut qu'ils {1} la maison plus cher que prévu, vu le marché actuel.",
+      "blanks": [
+        { "cue": "vendre", "answer": ["aient vendu"], "hint": "subjonctif passé, ils, avoir verb: no preceding direct object, so no agreement on the participle" }
+      ],
+      "explanation": "« Il se peut que » expresses possibility and triggers the subjunctive; the sale is seen as already completed, so the past subjunctive is used. « Vendre » takes « avoir », and since the direct object « la maison » follows the verb, the participle stays invariable: « qu'ils aient vendu »."
+    },
+    {
+      "text": "Les lettres que tu m'as montrées sont les seules qu'il {1} de toute sa vie.",
+      "blanks": [
+        { "cue": "écrire", "answer": ["ait écrites"], "hint": "subjonctif passé, il, avoir verb: the preceding direct object 'que' (= les lettres, f.pl.) forces agreement" }
+      ],
+      "explanation": "« Le seul / les seules que » is a superlative-type trigger requiring the subjunctive, and the writing is prior to the main moment, so the past subjunctive applies. « Écrire » takes « avoir »; here the relative pronoun « que » refers to « les lettres » (feminine plural) and precedes the verb, so the participle agrees: « qu'il ait écrites »."
     }
   ]
 }
