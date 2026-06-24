@@ -49,6 +49,13 @@
         { "cue": "accepter", "answer": ["auraient accepté"], "hint": "hypothetical concordance: « si » + plus-que-parfait in the past calls for the conditionnel passé in the main clause" }
       ],
       "explanation": "This is the irrealis-of-the-past pattern (« le système hypothétique » of unrealized past conditions): « si » + plus-que-parfait (« s'il avait insisté ») requires the conditionnel passé in the result clause. So « ils auraient accepté » expresses what would have happened — acceptance that did not occur — embedded in the past frame set by « était convaincu »."
+    },
+    {
+      "text": "Le vieux maître exigeait que chaque élève {1} ses gammes avant de jouer la moindre mélodie.",
+      "blanks": [
+        { "cue": "répéter", "answer": ["répétât", "répète"], "hint": "subjunctive concordance: simultaneity after a past main verb — literary « répétât » (subjonctif imparfait) or modern « répète » (subjonctif présent)" }
+      ],
+      "explanation": "« Exiger que » triggers the subjunctive, and the repeating is simultaneous with (or posterior to) the past demand « exigeait ». In strict literary concordance, a past main verb calls the subjonctif imparfait for simultaneity: « qu'il répétât ». Modern usage normally keeps the subjonctif présent « qu'il répète », which is the standard form today; both are accepted."
     }
   ]
 }

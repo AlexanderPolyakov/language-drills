@@ -314,7 +314,7 @@
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
           "file": "en/advanced-connectors-c1.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "en-cleft-sentences-c1",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "en-inversion-c1",
@@ -346,7 +346,7 @@
           "level": "C2",
           "title": "Sophisticated discourse markers and register",
           "file": "en/discourse-markers-c2.json",
-          "count": 16
+          "count": 18
         },
         {
           "id": "en-formal-subjunctive-c2",
@@ -354,7 +354,7 @@
           "level": "C2",
           "title": "The formal subjunctive and irrealis 'were'",
           "file": "en/formal-subjunctive-c2.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "en-nuanced-modality-c2",
@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 15
+          "count": 17
         }
       ]
     },
@@ -616,7 +616,7 @@
           "level": "B2",
           "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
           "file": "fr/connecteurs-logiques-b2.json",
-          "count": 8
+          "count": 10
         },
         {
           "id": "fr-gerondif-participe-present-b2",
@@ -624,7 +624,7 @@
           "level": "B2",
           "title": "Le gérondif et le participe présent",
           "file": "fr/gerondif-participe-present-b2.json",
-          "count": 6
+          "count": 8
         },
         {
           "id": "fr-subjonctif-passe-b2",
@@ -632,7 +632,7 @@
           "level": "B2",
           "title": "Le subjonctif passé",
           "file": "fr/subjonctif-passe-b2.json",
-          "count": 8
+          "count": 10
         },
         {
           "id": "fr-accord-participe-passe-c1",
@@ -640,7 +640,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 6
+          "count": 8
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -648,7 +648,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 6
+          "count": 7
         },
         {
           "id": "fr-concordance-des-temps-c2",
@@ -656,7 +656,7 @@
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 6
+          "count": 7
         }
       ]
     }

@@ -62,6 +62,20 @@
         { "cue": "écrire", "answer": ["soient écrit"], "hint": "subjonctif passé, elles, pronominal verb where « se » is COI (écrire À qqn): no agreement, participle invariable" }
       ],
       "explanation": "« Bien que » triggers the subjunctive and the writing is prior to the main clause, so the past subjunctive is used. « S'écrire » comes from « écrire À quelqu'un », so the reflexive « se » is an INDIRECT object: the participle does NOT agree and stays invariable despite the feminine plural subject — « qu'elles se soient écrit ». (The following direct object « de longs messages » does not precede the verb, so it triggers no agreement either.)"
+    },
+    {
+      "text": "Nous sommes heureux que vous {1} venir malgré votre emploi du temps chargé.",
+      "blanks": [
+        { "cue": "pouvoir", "answer": ["ayez pu"], "hint": "subjonctif passé, vous, avoir verb: auxiliary 'avoir' (subj. present) + past participle; object follows, no agreement" }
+      ],
+      "explanation": "« Être heureux que » expresses emotion and triggers the subjunctive; the being-able is prior to our present happiness, so the past subjunctive is used. « Pouvoir » takes « avoir », and since it is followed by an infinitive (no preceding direct object), the participle stays invariable: « que vous ayez pu »."
+    },
+    {
+      "text": "C'est le plus beau cadeau qu'on lui {1} jamais.",
+      "blanks": [
+        { "cue": "offrir", "answer": ["ait offert"], "hint": "subjonctif passé after a superlative ('le plus beau'); avoir verb, object 'que' (= le cadeau, m.sg.) so no audible change" }
+      ],
+      "explanation": "A superlative antecedent (« le plus beau cadeau ») is a classic trigger of the subjunctive, and « jamais » places the gift-giving in the completed past, so the past subjunctive applies. « Offrir » takes « avoir »; the relative « que » refers to « le cadeau » (masculine singular) and precedes the verb, but masculine-singular agreement is silent and unwritten: « qu'on lui ait offert »."
     }
   ]
 }

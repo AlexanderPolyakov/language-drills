@@ -84,6 +84,16 @@
         { "answer": "than", "options": ["than", "when", "that", "as"], "hint": "the second half of the 'no sooner ... ___' correlative" }
       ],
       "explanation": "'No sooner ... than' is a correlative marking one event immediately following another, triggering subject-auxiliary inversion ('No sooner had the meeting begun'). The matching word is 'than', not 'when'; 'hardly' would pair with 'when' instead, so only 'No sooner' fits the 'than' in the second blank."
+    },
+    {
+      "text": "The supplier doubled its prices overnight; we {1} switched to a cheaper competitor.",
+      "blanks": [{ "answer": "thus", "options": ["whereas", "thus", "although", "provided that"], "hint": "introduces a consequence ('and so')" }],
+      "explanation": "'Thus' introduces a consequence ('and so / as a result'), linking the price rise to the decision that followed. 'Although' and 'whereas' mark concession or contrast, and 'provided that' sets a condition, none of which signals a result."
+    },
+    {
+      "text": "{1} I respect his experience, I cannot accept his conclusion on this point.",
+      "blanks": [{ "answer": "Much as", "options": ["Much as", "Owing to", "So that", "Hence"], "hint": "concessive conjunction + clause = 'although very much'" }],
+      "explanation": "'Much as' is a concessive conjunction introducing a clause ('Much as I respect him' = 'although I greatly respect him'). 'Owing to' takes a noun, 'so that' marks purpose/result, and 'hence' is a consequence adverb, none of which opens a concessive clause this way."
     }
   ]
 }

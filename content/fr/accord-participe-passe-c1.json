@@ -49,6 +49,20 @@
         { "cue": "entendre", "answer": ["entendues"], "hint": "participe passé + infinitive: the preceding object 'les cantatrices' DOES the action of « chanter », so agreement applies" }
       ],
       "explanation": "Mirror case of « les airs que j'ai entendu jouer ». Here the preceding direct object « les cantatrices » is the SUBJECT of the infinitive — they are the ones singing — so the participle agrees with it (feminine plural): « les cantatrices que j'ai entendues chanter ». Agreement happens precisely because the object performs the infinitive's action."
+    },
+    {
+      "text": "Après des mois de brouille, les deux associées se sont enfin {1} pour faire la paix.",
+      "blanks": [
+        { "cue": "revoir", "answer": ["revues"], "hint": "pronominal verb where « se » is COD (revoir quelqu'un): the participle agrees with the feminine plural subject" }
+      ],
+      "explanation": "« Se revoir » comes from « revoir QUELQU'UN » (a direct construction), so the reflexive « se » is the DIRECT object. With pronominal verbs, the participle agrees with a direct-object reflexive pronoun, here feminine plural: « les deux associées se sont revues ». Contrast « se parler » (parler À quelqu'un, COI → no agreement)."
+    },
+    {
+      "text": "Avec tous les imprévus, les efforts qu'il a {1} pour terminer à temps furent considérables.",
+      "blanks": [
+        { "cue": "falloir", "answer": ["fallu"], "hint": "impersonal verb « falloir »: its participle is ALWAYS invariable, even with a preceding object" }
+      ],
+      "explanation": "« Falloir » is an impersonal verb, and the past participle of impersonal verbs (« il a fallu », « il a plu », « il a neigé ») is ALWAYS invariable — the « il » is a neuter, non-referential subject. Even though « que » refers to « les efforts » (masculine plural) and precedes the verb, the participle does not agree: « les efforts qu'il a fallu »."
     }
   ]
 }

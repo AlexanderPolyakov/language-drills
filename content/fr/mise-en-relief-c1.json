@@ -36,6 +36,11 @@
       "prompt": "Je tiens surtout à ta sincérité. (mettre en relief le complément avec « ce à quoi… , c'est »)",
       "answer": ["Ce à quoi je tiens surtout, c'est ta sincérité.", "Ce à quoi je tiens surtout, c'est à ta sincérité."],
       "explanation": "« Tenir à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je tiens surtout, c'est ta sincérité ». The preposition « à » may optionally be echoed in the highlighted element (« c'est à ta sincérité »)."
+    },
+    {
+      "prompt": "Tout a basculé pour elle en 1995. (mettre en relief le complément de temps avec « c'est… que »)",
+      "answer": ["C'est en 1995 que tout a basculé pour elle."],
+      "explanation": "« En 1995 » is a complement of TIME, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est en 1995 que tout a basculé pour elle ». As with complements of place or manner, any element other than the subject is clefted with « que »."
     }
   ]
 }

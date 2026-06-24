@@ -111,6 +111,20 @@
         { "cue": "not be", "answer": ["not be"], "hint": "negative mandative subjunctive: 'not be', never 'isn't'" }
       ],
       "explanation": "After 'it is vital/essential that', the mandative subjunctive uses the bare 'be', and negation precedes it directly: 'that the witness not be pressured', not 'isn't pressured' or 'should not be'. The negative subjunctive places 'not' before the uninflected 'be'."
+    },
+    {
+      "text": "{1} the agreement to collapse, both governments would face severe economic consequences.",
+      "blanks": [
+        { "cue": "be", "answer": ["Were"], "hint": "inverted formal conditional: 'Were ... to' replaces 'If ... were to'; capitalised at the start" }
+      ],
+      "explanation": "Formal conditionals can drop 'if' and invert the subjunctive 'were' to the front: 'Were the agreement to collapse' = 'If the agreement were to collapse'. The irrealis 'were' is used for all subjects, and the clause opens the sentence so it is capitalised."
+    },
+    {
+      "text": "It is high time the authorities {1} this scandal seriously instead of issuing empty statements.",
+      "blanks": [
+        { "cue": "take", "answer": ["took"], "hint": "'it is (high) time' + past subjunctive for an overdue action" }
+      ],
+      "explanation": "'It is (high) time' is followed by the past subjunctive to mark something that is overdue: 'it is high time they took it seriously' (not 'take'). The past-tense form here is irrealis, signalling that the action ought already to be happening but is not."
     }
   ]
 }

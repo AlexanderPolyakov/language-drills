@@ -118,6 +118,20 @@
         { "answer": "much less", "options": ["much less", "if anything", "for all that"], "hint": "after a negative, adds a yet more unlikely case" }
       ],
       "explanation": "'Much less' follows a negative statement to add an even more improbable possibility ('let alone'); the prior negative licenses it ('can barely... much less manage a farm'). 'If anything' corrects a claim and 'for all that' concedes, so neither fits this escalation after a negative."
+    },
+    {
+      "text": "{1} his undoubted brilliance, he never managed to finish a single project.",
+      "blanks": [
+        { "answer": "For all", "options": ["For all", "Insofar as", "By and large"], "hint": "concessive preposition + noun phrase = 'despite'" }
+      ],
+      "explanation": "'For all' is a concessive preposition taking a noun phrase ('for all his brilliance' = 'despite all his brilliance'), conceding a quality before noting it counted for nothing. 'Insofar as' restricts scope and 'by and large' generalises; neither governs a noun phrase concessively."
+    },
+    {
+      "text": "Earlier critics dismissed the work as derivative; {1}, more recent scholarship treats it as quietly original.",
+      "blanks": [
+        { "answer": "on the contrary", "options": ["on the contrary", "in the same vein", "to that end"], "hint": "marks a sharp reversal of the preceding judgement" }
+      ],
+      "explanation": "'On the contrary' rebuts the preceding statement and asserts its opposite ('not derivative but original'), which is exactly the reversal here. 'In the same vein' would signal continuation of the same line of thought and 'to that end' marks purpose-and-means, neither of which performs this reversal of judgement."
     }
   ]
 }

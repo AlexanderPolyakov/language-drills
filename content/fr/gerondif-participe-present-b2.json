@@ -50,6 +50,21 @@
         { "cue": "fatiguer — participe", "answer": ["fatiguant"], "hint": "participe présent: invariable and keeps the « u » of the verb → fatiguant" }
       ],
       "explanation": "« Fatiguer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « fatigant » (a tiring book) loses the « u » and agrees like an adjective; the participe présent « fatiguant » keeps the « u » of the verb, stays invariable, and governs an object (« fatiguant ses parents par ses questions » = tiring his parents). Compare also fatigant/fatiguant with provocant/provoquant and négligent/négligeant."
+    },
+    {
+      "text": "Les candidats {1} le concours recevront leur convocation par courriel.",
+      "blanks": [
+        { "cue": "passer", "answer": ["passant"], "hint": "bare present participle (no « en ») replacing a relative clause = « qui passent »; invariable" }
+      ],
+      "explanation": "The BARE present participle (without « en ») replaces a relative clause: « les candidats passant le concours » = « les candidats qui passent le concours ». This is the participe présent, so it takes no « en », stays invariable, and governs a direct object (« le concours »). A gérondif « en passant » would be impossible here, since the form qualifies « les candidats », not the main verb."
+    },
+    {
+      "text": "Ses propos {1} ont choqué l'assemblée, alors qu'il pensait simplement {2} le débat par une question audacieuse.",
+      "blanks": [
+        { "cue": "provoquer — adjectif", "answer": ["provocants"], "hint": "adjectif verbal: agrees (m.pl. with 'propos') and changes spelling → provocant(s)" },
+        { "cue": "provoquer — gérondif", "answer": ["en provoquant"], "hint": "gérondif of means: « en » + present participle, keeps the « qu » → en provoquant" }
+      ],
+      "explanation": "« Provoquer » distinguishes its adjectif verbal from its present participle by SPELLING. The adjectif verbal « provocant » (provocative remarks) changes « qu » to « c » and agrees like an adjective — here masculine plural with « propos »: « provocants ». The verbal form keeps « qu »: in the gérondif « en provoquant le débat » (= by sparking the debate) it stays invariable and governs an object. Compare fatigant/fatiguant and négligent/négligeant."
     }
   ]
 }

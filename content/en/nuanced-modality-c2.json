@@ -111,6 +111,20 @@
         { "answer": "hadn't", "options": ["hadn't", "didn't", "wouldn't have"], "hint": "'would rather' + past perfect to regret a completed past action" }
       ],
       "explanation": "To express a preference about a past event that cannot now be changed, 'would rather' takes the past perfect: 'I'd rather you hadn't acted'. The past simple 'didn't' is used for preferences about the present/future, not for regretting a finished action."
+    },
+    {
+      "text": "I can see the appeal of the city, but I {1} live somewhere quieter, if I'm honest.",
+      "blanks": [
+        { "answer": "would rather", "options": ["would rather", "had rather", "would sooner have"], "hint": "stating a present/general preference of one's own + bare infinitive" }
+      ],
+      "explanation": "When the preference is the speaker's own and concerns the present or future, 'would rather' is followed by the bare infinitive ('would rather live'). 'Would sooner have' would force a perfect infinitive (past reference), and 'had rather' is archaic and out of place in this neutral, modern register."
+    },
+    {
+      "text": "Under the terms of the treaty, each signatory {1} not deploy such weapons within the demilitarised zone.",
+      "blanks": [
+        { "answer": "shall", "options": ["shall", "shalt", "shan't"], "hint": "legalistic 'shall' imposing a binding obligation in a formal document" }
+      ],
+      "explanation": "In legal and contractual prose, 'shall' imposes a binding duty on the subject ('the signatory shall not deploy'). The archaic second-person 'shalt' is wrong both in person and register, and 'shan't' (= 'shall not') would create an ungrammatical double negative before 'not deploy'."
     }
   ]
 }
