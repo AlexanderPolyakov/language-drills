@@ -1,0 +1,40 @@
+{
+  "id": "fr-concordance-des-temps-c2",
+  "lang": "fr",
+  "topic": "concordance-des-temps",
+  "level": "C2",
+  "type": "fill",
+  "title": "La concordance des temps",
+  "lesson": "When the main verb is in a PAST tense, the tenses of the subordinate clause shift to respect « la concordance des temps ». In reported speech and indirect questions framed in the past, the rule of thumb is: a present becomes the imparfait (action simultaneous with the main verb), a futur simple becomes the conditionnel présent (action posterior to the main verb), and a passé composé / present becomes the plus-que-parfait (action anterior to the main verb). The conditionnel here is not a 'condition' but a « futur dans le passé ». With the subjunctive, careful written French follows the same logic: after a present main verb you use the subjonctif présent (simultaneous/posterior) or passé (anterior); in literary registers a past main verb can call the subjonctif imparfait or plus-que-parfait, but modern usage normally keeps the subjonctif présent/passé."
+  ,
+  "items": [
+    {
+      "text": "Il m'a dit qu'il {1} fatigué ce jour-là.",
+      "blanks": [
+        { "cue": "être", "answer": ["était"], "hint": "reported speech in a past frame: a present in direct speech becomes the imparfait (simultaneity)" }
+      ],
+      "explanation": "The main verb « a dit » is in the past. The original direct statement « Je suis fatigué » is simultaneous with the act of speaking, so the present « suis » shifts to the imparfait: « il était fatigué »."
+    },
+    {
+      "text": "Elle savait bien qu'il {1} en retard à la réunion du lendemain.",
+      "blanks": [
+        { "cue": "arriver", "answer": ["arriverait"], "hint": "futur dans le passé: a futur simple after a past main verb becomes the conditionnel présent" }
+      ],
+      "explanation": "The main verb « savait » is past, and the subordinate action is posterior to it (« le lendemain »). A futur simple in direct speech (« il arrivera ») becomes the conditionnel présent — the « futur dans le passé »: « il arriverait »."
+    },
+    {
+      "text": "Le journaliste a affirmé que l'accord {1} signé la veille par les deux parties.",
+      "blanks": [
+        { "cue": "être", "answer": ["avait été"], "hint": "anteriority in a past frame: a passé composé becomes the plus-que-parfait" }
+      ],
+      "explanation": "The main verb « a affirmé » is past, and the subordinate action happened BEFORE it (« la veille »). A passé composé in direct speech (« l'accord a été signé ») shifts to the plus-que-parfait to mark anteriority: « avait été signé »."
+    },
+    {
+      "text": "Je craignais qu'il ne {1} déjà tout dépensé avant notre arrivée.",
+      "blanks": [
+        { "cue": "avoir", "answer": ["ait", "eût"], "hint": "subjunctive concordance: anteriority after a past main verb — modern « ait » (subjonctif passé) or literary « eût » (subjonctif plus-que-parfait)" }
+      ],
+      "explanation": "« Craindre que » triggers the subjunctive, and the spending is anterior to the fear (« avant notre arrivée »), so anteriority is expressed by the subjonctif passé « qu'il ait déjà tout dépensé » in modern usage. In strict literary concordance after the past « craignais », the subjonctif plus-que-parfait « qu'il n'eût déjà tout dépensé » is also correct. (« ne » here is the « ne » explétif, not a negation.)"
+    }
+  ]
+}

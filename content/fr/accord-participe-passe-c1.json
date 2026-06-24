@@ -1,0 +1,33 @@
+{
+  "id": "fr-accord-participe-passe-c1",
+  "lang": "fr",
+  "topic": "accord-participe-passe",
+  "level": "C1",
+  "type": "fill",
+  "title": "L'accord du participe passé (cas difficiles)",
+  "lesson": "Three hard cases of past-participle agreement. (1) With « avoir », the participle agrees with the DIRECT object only when that object PRECEDES the verb — typically a relative « que » or a fronted pronoun: « les fleurs que j'ai achetées » (que = les fleurs, f.pl., placed before → agreement); no agreement when the object follows or is « en ». (2) With pronominal verbs, the participle agrees with the reflexive pronoun ONLY when that pronoun is the DIRECT object: « elles se sont lavées » (se = COD), but « elles se sont parlé » / « elles se sont lavé les mains » (se = COI, no agreement). (3) A participle followed by an INFINITIVE agrees only if the preceding direct object is the SUBJECT of that infinitive (it does the action): « les musiciens que j'ai entendus jouer » (the musicians play → agreement) vs « les airs que j'ai entendu jouer » (the tunes are played, not playing → no agreement)."
+  ,
+  "items": [
+    {
+      "text": "Voici les lettres que je leur ai {1} la semaine dernière.",
+      "blanks": [
+        { "cue": "envoyer", "answer": ["envoyées"], "hint": "avoir + preceding direct object: « que » = les lettres (f.pl.) placed before the verb forces agreement" }
+      ],
+      "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here « que » refers to « les lettres » (feminine plural) and stands before the verb, so the participle agrees: « envoyées ». (« leur » is an indirect object and plays no role in the agreement.)"
+    },
+    {
+      "text": "Après la dispute, les deux sœurs ne se sont plus {1} pendant des années.",
+      "blanks": [
+        { "cue": "parler", "answer": ["parlé"], "hint": "pronominal verb where « se » is COI (parler à quelqu'un): no agreement, participle stays invariable" }
+      ],
+      "explanation": "« Se parler » comes from « parler À quelqu'un », so the reflexive pronoun « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable: « elles se sont parlé »."
+    },
+    {
+      "text": "Les airs que j'ai {1} jouer ce soir-là m'ont profondément ému.",
+      "blanks": [
+        { "cue": "entendre", "answer": ["entendu"], "hint": "participe passé + infinitive: the preceding object 'les airs' is played, not the doer of 'jouer', so no agreement" }
+      ],
+      "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les airs » are being played (they do not play), so « que » is the object of « jouer », not its subject: the participle stays invariable — « les airs que j'ai entendu jouer »."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fr-gerondif-participe-present-b2",
+  "lang": "fr",
+  "topic": "gerondif-participe-present",
+  "level": "B2",
+  "type": "fill",
+  "title": "Le gérondif et le participe présent",
+  "lesson": "The « gérondif » is « en » + the present participle (-ant) and always refers to the SUBJECT of the main verb. It expresses simultaneity (« Il chante en travaillant » = while working), manner/means (« Il a réussi en travaillant dur » = by working hard), or condition (« En partant tôt, tu éviteras les bouchons » = if you leave early). « Tout en + gérondif » reinforces simultaneity and, very often, adds a nuance of CONCESSION: « Tout en reconnaissant ses torts, il refuse de s'excuser » (= even though he admits his faults). The bare present participle (without « en ») is an invariable verbal form replacing a relative clause (« une foule manifestant dans la rue » = qui manifeste). Do not confuse it with the « adjectif verbal », which agrees and is sometimes spelled differently (provoquant → provocante, fatiguant → fatigant)."
+  ,
+  "items": [
+    {
+      "text": "Il aime écouter de la musique {1} ses devoirs.",
+      "blanks": [
+        { "cue": "faire", "answer": ["en faisant"], "hint": "gérondif of simultaneity: « en » + present participle, same subject as the main verb" }
+      ],
+      "explanation": "The gérondif « en + -ant » expresses an action simultaneous with the main verb and shares its subject (« il »). « Faire » → « en faisant »: he listens to music WHILE doing his homework."
+    },
+    {
+      "text": "C'est {1} avec acharnement qu'elle a fini par décrocher le poste.",
+      "blanks": [
+        { "cue": "travailler", "answer": ["en travaillant"], "hint": "gérondif of means/manner: 'by doing X', « en » + present participle" }
+      ],
+      "explanation": "Here the gérondif expresses the MEANS by which the result was achieved (« by working relentlessly »). The cleft « c'est … que » highlights it and forces the gérondif (a bare participle « travaillant » would not fit). « Travailler » → « en travaillant »: it answers 'how did she get the job?'."
+    },
+    {
+      "text": "{1} les difficultés de la tâche, il a néanmoins refusé toute aide.",
+      "blanks": [
+        { "cue": "reconnaître", "answer": ["tout en reconnaissant"], "hint": "concession: « tout en » + present participle = 'while/even though admitting'" }
+      ],
+      "explanation": "« Tout en + gérondif » reinforces simultaneity and here carries a clear nuance of CONCESSION (= bien qu'il reconnaisse). « Reconnaître » → « tout en reconnaissant »: even though he acknowledges the difficulty, he refuses help."
+    }
+  ]
+}

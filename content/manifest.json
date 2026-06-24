@@ -619,6 +619,14 @@
           "count": 8
         },
         {
+          "id": "fr-gerondif-participe-present-b2",
+          "topic": "gerondif-participe-present",
+          "level": "B2",
+          "title": "Le gérondif et le participe présent",
+          "file": "fr/gerondif-participe-present-b2.json",
+          "count": 3
+        },
+        {
           "id": "fr-subjonctif-passe-b2",
           "topic": "subjonctif-passe",
           "level": "B2",
@@ -627,12 +635,28 @@
           "count": 6
         },
         {
+          "id": "fr-accord-participe-passe-c1",
+          "topic": "accord-participe-passe",
+          "level": "C1",
+          "title": "L'accord du participe passé (cas difficiles)",
+          "file": "fr/accord-participe-passe-c1.json",
+          "count": 3
+        },
+        {
           "id": "fr-mise-en-relief-c1",
           "topic": "mise-en-relief",
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
           "count": 6
+        },
+        {
+          "id": "fr-concordance-des-temps-c2",
+          "topic": "concordance-des-temps",
+          "level": "C2",
+          "title": "La concordance des temps",
+          "file": "fr/concordance-des-temps-c2.json",
+          "count": 4
         }
       ]
     }
