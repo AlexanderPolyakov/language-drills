@@ -28,6 +28,27 @@
         { "cue": "entendre", "answer": ["entendu"], "hint": "participe passé + infinitive: the preceding object 'les airs' is played, not the doer of 'jouer', so no agreement" }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les airs » are being played (they do not play), so « que » is the object of « jouer », not its subject: the participle stays invariable — « les airs que j'ai entendu jouer »."
+    },
+    {
+      "text": "Elle s'est {1} les mains avant de se mettre à table.",
+      "blanks": [
+        { "cue": "laver", "answer": ["lavé"], "hint": "pronominal verb with a direct object FOLLOWING (« les mains »): « se » is COI, so no agreement" }
+      ],
+      "explanation": "Contrast « elle s'est lavée » (se = direct object → agreement) with this sentence. Here the direct object is « les mains », which FOLLOWS the verb, so the reflexive « se » becomes the indirect object (she washed the hands TO herself). The participle therefore does NOT agree and stays invariable: « elle s'est lavé les mains »."
+    },
+    {
+      "text": "Des erreurs, le correcteur en a {1} beaucoup dans ce manuscrit.",
+      "blanks": [
+        { "cue": "trouver", "answer": ["trouvé"], "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable" }
+      ],
+      "explanation": "With « avoir », a preceding direct object normally forces agreement, but the pronoun « en » is a recognized EXCEPTION: it is treated as a neuter/partitive (« of them ») and never triggers agreement. So despite « des erreurs » being feminine plural, the participle stays invariable: « il en a trouvé beaucoup »."
+    },
+    {
+      "text": "Les cantatrices que j'ai {1} chanter ce soir-là étaient éblouissantes.",
+      "blanks": [
+        { "cue": "entendre", "answer": ["entendues"], "hint": "participe passé + infinitive: the preceding object 'les cantatrices' DOES the action of « chanter », so agreement applies" }
+      ],
+      "explanation": "Mirror case of « les airs que j'ai entendu jouer ». Here the preceding direct object « les cantatrices » is the SUBJECT of the infinitive — they are the ones singing — so the participle agrees with it (feminine plural): « les cantatrices que j'ai entendues chanter ». Agreement happens precisely because the object performs the infinitive's action."
     }
   ]
 }

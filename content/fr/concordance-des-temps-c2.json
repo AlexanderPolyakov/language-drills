@@ -35,6 +35,20 @@
         { "cue": "avoir", "answer": ["ait", "eût"], "hint": "subjunctive concordance: anteriority after a past main verb — modern « ait » (subjonctif passé) or literary « eût » (subjonctif plus-que-parfait)" }
       ],
       "explanation": "« Craindre que » triggers the subjunctive, and the spending is anterior to the fear (« avant notre arrivée »), so anteriority is expressed by the subjonctif passé « qu'il ait déjà tout dépensé » in modern usage. In strict literary concordance after the past « craignais », the subjonctif plus-que-parfait « qu'il n'eût déjà tout dépensé » is also correct. (« ne » here is the « ne » explétif, not a negation.)"
+    },
+    {
+      "text": "Il avait promis qu'il nous {1} dès qu'il aurait terminé son travail.",
+      "blanks": [
+        { "cue": "rejoindre", "answer": ["rejoindrait"], "hint": "futur dans le passé: a futur simple in direct speech becomes the conditionnel présent after a past main verb" }
+      ],
+      "explanation": "The main verb « avait promis » is in the past, and the promised action is posterior to it. The original « je vous rejoindrai dès que j'aurai terminé » shifts both verbs: the futur simple « rejoindrai » becomes the conditionnel présent « rejoindrait » (futur dans le passé), while the subordinate futur antérieur « aurai terminé » becomes « aurait terminé », keeping its anteriority relative to the new main action."
+    },
+    {
+      "text": "Il était convaincu que, s'il avait insisté davantage, ils {1} sa proposition.",
+      "blanks": [
+        { "cue": "accepter", "answer": ["auraient accepté"], "hint": "hypothetical concordance: « si » + plus-que-parfait in the past calls for the conditionnel passé in the main clause" }
+      ],
+      "explanation": "This is the irrealis-of-the-past pattern (« le système hypothétique » of unrealized past conditions): « si » + plus-que-parfait (« s'il avait insisté ») requires the conditionnel passé in the result clause. So « ils auraient accepté » expresses what would have happened — acceptance that did not occur — embedded in the past frame set by « était convaincu »."
     }
   ]
 }

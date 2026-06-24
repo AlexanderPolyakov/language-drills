@@ -48,6 +48,20 @@
         { "cue": "écrire", "answer": ["ait écrites"], "hint": "subjonctif passé, il, avoir verb: the preceding direct object 'que' (= les lettres, f.pl.) forces agreement" }
       ],
       "explanation": "« Le seul / les seules que » is a superlative-type trigger requiring the subjunctive, and the writing is prior to the main moment, so the past subjunctive applies. « Écrire » takes « avoir »; here the relative pronoun « que » refers to « les lettres » (feminine plural) and precedes the verb, so the participle agrees: « qu'il ait écrites »."
+    },
+    {
+      "text": "Partons vite, avant qu'ils ne {1} de notre absence.",
+      "blanks": [
+        { "cue": "s'apercevoir", "answer": ["se soient aperçus"], "hint": "subjonctif passé, ils, pronominal verb: auxiliary 'être' + participle agrees with the masculine plural subject; « ne » is explétif" }
+      ],
+      "explanation": "« Avant que » always triggers the subjunctive, and the past subjunctive marks the noticing as a completed event we want to forestall. « S'apercevoir » is essentially pronominal, forms its compound tenses with « être », and its participle agrees with the subject « ils »: « qu'ils se soient aperçus ». The « ne » is the « ne » explétif typical of « avant que », not a negation."
+    },
+    {
+      "text": "Bien qu'elles se {1} de longs messages, elles ne se sont jamais rencontrées.",
+      "blanks": [
+        { "cue": "écrire", "answer": ["soient écrit"], "hint": "subjonctif passé, elles, pronominal verb where « se » is COI (écrire À qqn): no agreement, participle invariable" }
+      ],
+      "explanation": "« Bien que » triggers the subjunctive and the writing is prior to the main clause, so the past subjunctive is used. « S'écrire » comes from « écrire À quelqu'un », so the reflexive « se » is an INDIRECT object: the participle does NOT agree and stays invariable despite the feminine plural subject — « qu'elles se soient écrit ». (The following direct object « de longs messages » does not precede the verb, so it triggers no agreement either.)"
     }
   ]
 }

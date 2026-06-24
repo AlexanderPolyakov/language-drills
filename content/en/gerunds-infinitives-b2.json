@@ -90,6 +90,27 @@
         { "cue": "feel", "answer": ["feeling"], "hint": "can't help + -ing" }
       ],
       "explanation": "'Can't help doing' is a fixed expression meaning to be unable to stop yourself; it is always followed by the gerund."
+    },
+    {
+      "text": "If the door is stuck, try {1} a little oil on the hinges.",
+      "blanks": [
+        { "cue": "put", "answer": ["putting"], "hint": "try = experiment with a possible solution" }
+      ],
+      "explanation": "'Try doing' means to experiment with something as a possible solution; here, putting oil on the hinges is one method that might solve the problem."
+    },
+    {
+      "text": "Taking on this new role will {1} working much longer hours than before.",
+      "blanks": [
+        { "cue": "involve", "answer": ["involve"], "hint": "base form after 'will'; 'involve' + -ing" }
+      ],
+      "explanation": "After the modal 'will' the verb takes the base form 'involve'; 'involve' (meaning 'entail' or 'have as a consequence') is then followed by the gerund, which is why 'working' is in the -ing form."
+    },
+    {
+      "text": "After a few weeks she got used to {1} on the left side of the road.",
+      "blanks": [
+        { "cue": "drive", "answer": ["driving"], "hint": "'to' in 'be/get used to' is a preposition" }
+      ],
+      "explanation": "In 'be/get used to' (meaning to become accustomed to), 'to' is a preposition, so it must be followed by the gerund, not the bare infinitive."
     }
   ]
 }

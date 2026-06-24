@@ -28,6 +28,28 @@
         { "cue": "reconnaître", "answer": ["tout en reconnaissant"], "hint": "concession: « tout en » + present participle = 'while/even though admitting'" }
       ],
       "explanation": "« Tout en + gérondif » reinforces simultaneity and here carries a clear nuance of CONCESSION (= bien qu'il reconnaisse). « Reconnaître » → « tout en reconnaissant »: even though he acknowledges the difficulty, he refuses help."
+    },
+    {
+      "text": "{1} davantage, tu obtiendrais facilement la bourse.",
+      "blanks": [
+        { "cue": "travailler", "answer": ["en travaillant"], "hint": "gérondif of condition: « en » + present participle = 'if you did X'; note the conditionnel in the main clause" }
+      ],
+      "explanation": "Here the gérondif expresses a CONDITION, equivalent to a « si » clause: « en travaillant davantage » = « si tu travaillais davantage ». The conditionnel présent « obtiendrais » in the main clause signals this hypothetical value. « Travailler » → « en travaillant »: by/if working more, you would easily get the scholarship."
+    },
+    {
+      "text": "{1} quoi répondre, elle est restée silencieuse un long moment.",
+      "blanks": [
+        { "cue": "ne pas savoir", "answer": ["ne sachant pas"], "hint": "bare present participle (no « en ») used as a cause clause = « comme elle ne savait pas »" }
+      ],
+      "explanation": "The BARE present participle (without « en ») can open a clause expressing CAUSE, replacing « comme/parce qu'elle ne savait pas ». This is the participe présent, not the gérondif, so no « en » is used. « Savoir » → « sachant »; the negation wraps the participle: « ne sachant pas quoi répondre »."
+    },
+    {
+      "text": "C'est un livre très {1}, mais l'enfant, {2} ses parents par ses questions, n'a pas voulu le poser.",
+      "blanks": [
+        { "cue": "fatiguer — adjectif", "answer": ["fatigant"], "hint": "adjectif verbal: agrees and drops the « u » of « fatiguer » → fatigant(e)" },
+        { "cue": "fatiguer — participe", "answer": ["fatiguant"], "hint": "participe présent: invariable and keeps the « u » of the verb → fatiguant" }
+      ],
+      "explanation": "« Fatiguer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « fatigant » (a tiring book) loses the « u » and agrees like an adjective; the participe présent « fatiguant » keeps the « u » of the verb, stays invariable, and governs an object (« fatiguant ses parents par ses questions » = tiring his parents). Compare also fatigant/fatiguant with provocant/provoquant and négligent/négligeant."
     }
   ]
 }

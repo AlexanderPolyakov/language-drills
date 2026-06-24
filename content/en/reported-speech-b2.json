@@ -66,6 +66,16 @@
       "prompt": "\"I went to the doctor last week,\" he said. (reported speech)",
       "answer": ["He said (that) he had gone to the doctor the week before.", "He said that he had gone to the doctor the week before.", "He said he had gone to the doctor the week before.", "He said (that) he had gone to the doctor the previous week.", "He said he had gone to the doctor the previous week."],
       "explanation": "Past simple 'went' backshifts to past perfect 'had gone', and 'last week' becomes 'the week before' / 'the previous week'."
+    },
+    {
+      "prompt": "\"Why are you sitting here?\" the teacher asked the boy. (reported question)",
+      "answer": ["The teacher asked the boy why he was sitting there.", "The teacher asked why he was sitting there."],
+      "explanation": "The wh- question keeps statement word order; 'are you sitting' backshifts to 'he was sitting' and the place word 'here' becomes 'there'."
+    },
+    {
+      "prompt": "\"I must finish this report today,\" she said. (reported speech)",
+      "answer": ["She said (that) she had to finish that report that day.", "She said that she had to finish that report that day.", "She said she had to finish that report that day."],
+      "explanation": "The modal 'must' (obligation) backshifts to 'had to', 'this' becomes 'that', and 'today' becomes 'that day'."
     }
   ]
 }

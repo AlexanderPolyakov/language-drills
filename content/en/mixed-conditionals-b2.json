@@ -90,6 +90,27 @@
         { "cue": "not pay", "answer": ["wouldn't be paying", "would not be paying", "wouldn't pay", "would not pay"], "hint": "past condition, present result" }
       ],
       "explanation": "The past condition ('had bought') leads to a present result ('now'), so the main clause uses 'wouldn't pay' / 'wouldn't be paying'."
+    },
+    {
+      "text": "If I were more organised, I {1} (not miss) that important deadline yesterday.",
+      "blanks": [
+        { "cue": "not miss", "answer": ["wouldn't have missed", "would not have missed"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general present characteristic ('were more organised') with a past result ('yesterday') uses 'would have + past participle'."
+    },
+    {
+      "text": "If she had learnt to drive years ago, she {1} (not depend) on buses now.",
+      "blanks": [
+        { "cue": "not depend", "answer": ["wouldn't depend", "would not depend", "wouldn't be depending", "would not be depending"], "hint": "past condition, present result: would + base" }
+      ],
+      "explanation": "The past condition ('had learnt') produces a present result ('now'), so the main clause uses 'wouldn't depend' / 'wouldn't be depending'."
+    },
+    {
+      "text": "I wish my neighbour {1} (turn) his music down; I can't sleep with all that noise.",
+      "blanks": [
+        { "cue": "turn", "answer": ["would turn"], "hint": "wish + would for an annoying habit you want changed" }
+      ],
+      "explanation": "'Wish + would' is used to express irritation about someone's repeated behaviour and a desire for them to change it."
     }
   ]
 }

@@ -95,6 +95,20 @@
         { "answer": "sort out", "options": ["sort after", "sort out", "sort through"], "hint": "fix or deal with a problem" }
       ],
       "explanation": "'sort out' means to resolve or deal with a problem; 'sort out the heater' or 'sort the heater out' are both correct."
+    },
+    {
+      "text": "I don't know how she {1} her noisy upstairs neighbours for so many years.",
+      "blanks": [
+        { "answer": "put up with", "options": ["put up with", "put down to", "put off"], "hint": "tolerate something unpleasant" }
+      ],
+      "explanation": "'put up with' means to tolerate or endure something unpleasant without complaining."
+    },
+    {
+      "text": "While clearing out the attic, I {1} a box of old photographs from my childhood.",
+      "blanks": [
+        { "answer": "came across", "options": ["came across", "came down with", "came up against"], "hint": "find something by chance" }
+      ],
+      "explanation": "'come across' means to find or meet something or someone by chance; 'come down with' = catch an illness, and 'come up against' = face a difficulty, so neither fits here."
     }
   ]
 }
