@@ -77,6 +77,13 @@
         { "cue": "rendre", "answer": ["rendu"], "hint": "in the locution « se rendre compte », « compte » is the direct object and « se » is indirect: the participle stays invariable" }
       ],
       "explanation": "In the fixed expression « se rendre compte (de) », the direct object is the noun « compte » (« rendre compte à soi-même »), so the reflexive « se » is an INDIRECT object. With pronominal verbs the participle agrees only with a direct-object reflexive pronoun; here it does not, and « compte » follows the verb anyway, so the participle stays invariable: « elle s'est rendu compte ». (Contrast « elle s'est revue », where « se » is the direct object.)"
+    },
+    {
+      "text": "Trompées par une fausse promesse d'embauche, elles se sont {1} avoir par des escrocs.",
+      "blanks": [
+        { "cue": "faire", "answer": ["fait"], "hint": "« se faire + infinitif »: the participle « fait » is ALWAYS invariable in this construction, like the causative « faire faire »" }
+      ],
+      "explanation": "In the pronominal causative « se faire + infinitif » (« se faire avoir » = to be tricked), the past participle « fait » is ALWAYS invariable, exactly like the plain causative « faire + infinitif ». Even though the subject « elles » is feminine plural and « se » could look like a direct object, the rule that « fait » before an infinitive never agrees overrides pronominal agreement: « elles se sont fait avoir », never « faites ». This invariability was officially confirmed for « se faire » + infinitive (rectifications and Grevisse, _Le Bon Usage_)."
     }
   ]
 }

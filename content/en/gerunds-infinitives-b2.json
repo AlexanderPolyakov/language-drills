@@ -111,6 +111,20 @@
         { "cue": "drive", "answer": ["driving"], "hint": "'to' in 'be/get used to' is a preposition" }
       ],
       "explanation": "In 'be/get used to' (meaning to become accustomed to), 'to' is a preposition, so it must be followed by the gerund, not the bare infinitive."
+    },
+    {
+      "text": "After a brief pause for questions, the lecturer went on {1} the second half of her argument.",
+      "blanks": [
+        { "cue": "explain", "answer": ["to explain"], "hint": "go on + to-infinitive = move to the next thing" }
+      ],
+      "explanation": "'Go on to do' means to do something next, after finishing something else; here the lecturer moved on to a new stage of her talk. (Compare 'go on doing', which means to continue the same activity.)"
+    },
+    {
+      "text": "I regret {1} you that your application has not been successful.",
+      "blanks": [
+        { "cue": "inform", "answer": ["to inform", "to tell"], "hint": "regret + to-infinitive for bad news you are about to give" }
+      ],
+      "explanation": "'Regret to do' (with verbs like inform, tell, say, announce) introduces bad news that the speaker is giving now and is sorry about. This contrasts with 'regret doing', which expresses sorrow about a past action."
     }
   ]
 }

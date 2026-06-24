@@ -123,6 +123,13 @@
         { "answer": "get over", "options": ["get over", "get through", "get by"], "hint": "recover emotionally from something upsetting" }
       ],
       "explanation": "'get over' means to recover from an illness, shock or upsetting experience. 'get through' = finish or survive a difficult period (and needs the period itself as object), and 'get by' = manage with limited means, so neither expresses recovering from a bereavement."
+    },
+    {
+      "text": "The police promised to {1} the complaint and report back within a week.",
+      "blanks": [
+        { "answer": "look into", "options": ["look into", "look up", "look on"], "hint": "investigate something" }
+      ],
+      "explanation": "'look into' means to investigate or examine a matter. 'look up' = find information in a reference source, and 'look on' = watch something happen without taking part, so neither fits investigating a complaint."
     }
   ]
 }

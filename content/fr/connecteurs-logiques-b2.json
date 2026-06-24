@@ -76,6 +76,13 @@
         { "answer": "de sorte que", "options": ["de sorte que", "afin que", "de peur que", "à condition que"], "hint": "consequence presented as REAL + indicative ('pouvait'): a result that actually followed" }
       ],
       "explanation": "« De sorte que » + indicative (« pouvait ») marks a CONSEQUENCE presented as a real result: the audience could indeed follow. Note that « de sorte que » + subjunctive would instead express purpose; here the indicative makes the result-reading unambiguous. « Afin que » and « de peur que » express purpose/fear with the subjunctive, and « à condition que » expresses a condition with the subjunctive."
+    },
+    {
+      "text": "Le dossier était {1} complexe que même les experts ont mis des semaines à le comprendre.",
+      "blanks": [
+        { "answer": "tellement", "options": ["tellement", "tant", "davantage", "aussi"], "hint": "intensity of an ADJECTIVE ('complexe') leading to a consequence: « si / tellement … que »" }
+      ],
+      "explanation": "Consequence can be expressed by intensifying an adjective with « si … que » or « tellement … que »: « tellement complexe que… » (= so complex that…). Before an ADJECTIVE only « tellement » (or « si ») works: « tant » modifies a verb or a noun (« il travaille tant que… », « tant de travail que… »), never an adjective; « davantage » means 'more' (comparative, not intensity + que); and « aussi … que » expresses a comparison of equality, not a consequence."
     }
   ]
 }

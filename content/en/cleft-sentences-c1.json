@@ -91,6 +91,11 @@
       "prompt": "Your support has made all the difference, not your money. (emphasise 'your support' with an it-cleft beginning 'It is')",
       "answer": ["It is your support that has made all the difference, not your money.", "It is your support, not your money, that has made all the difference."],
       "explanation": "The it-cleft sets up a corrective contrast: 'It is your support that has made all the difference, not your money.' The verb agrees with the original ('has made'), and 'that' is used for the non-human focus 'your support'."
+    },
+    {
+      "prompt": "The brakes failed on the icy road. (rewrite as a wh-cleft beginning 'What happened')",
+      "answer": ["What happened was that the brakes failed on the icy road.", "What happened was the brakes failed on the icy road."],
+      "explanation": "An event-focus wh-cleft uses 'What happened was (that) ...' to foreground a whole event rather than a single noun. The 'what' clause is the subject, 'was' is the linking verb, and the focused clause may be introduced by 'that'."
     }
   ]
 }

@@ -76,6 +76,16 @@
       "prompt": "\"I must finish this report today,\" she said. (reported speech)",
       "answer": ["She said (that) she had to finish that report that day.", "She said that she had to finish that report that day.", "She said she had to finish that report that day."],
       "explanation": "The modal 'must' (obligation) backshifts to 'had to', 'this' becomes 'that', and 'today' becomes 'that day'."
+    },
+    {
+      "prompt": "\"What time does the next train leave?\" the tourist asked. (reported question)",
+      "answer": ["The tourist asked what time the next train left.", "The tourist asked what time the next train departed."],
+      "explanation": "A wh- question is reported with statement word order: the auxiliary 'does' disappears and the verb backshifts ('leave' becomes 'left'). There is no question mark and no comma before the reported clause."
+    },
+    {
+      "prompt": "\"You should see a doctor about that cough,\" my friend told me. (reported speech)",
+      "answer": ["My friend told me (that) I should see a doctor about that cough.", "My friend told me that I should see a doctor about that cough.", "My friend told me I should see a doctor about that cough."],
+      "explanation": "The modal 'should' has no past form and stays unchanged in reported speech; only the pronoun shifts ('you' becomes 'I'). Note that 'tell' takes a personal object ('told me'), unlike 'say'."
     }
   ]
 }

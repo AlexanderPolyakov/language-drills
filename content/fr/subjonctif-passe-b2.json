@@ -76,6 +76,20 @@
         { "cue": "offrir", "answer": ["ait offert"], "hint": "subjonctif passé after a superlative ('le plus beau'); avoir verb, object 'que' (= le cadeau, m.sg.) so no audible change" }
       ],
       "explanation": "A superlative antecedent (« le plus beau cadeau ») is a classic trigger of the subjunctive, and « jamais » places the gift-giving in the completed past, so the past subjunctive applies. « Offrir » takes « avoir »; the relative « que » refers to « le cadeau » (masculine singular) and precedes the verb, but masculine-singular agreement is silent and unwritten: « qu'on lui ait offert »."
+    },
+    {
+      "text": "Nous attendrons ici jusqu'à ce que tous les invités {1} arrivés.",
+      "blanks": [
+        { "cue": "être", "answer": ["soient"], "hint": "subjonctif passé, ils, être verb: « jusqu'à ce que » + auxiliary « être » (subj. present) + « arrivés »; the participle is already given" }
+      ],
+      "explanation": "« Jusqu'à ce que » always triggers the subjunctive, and the past subjunctive presents the arrival as a completed event we are waiting to be accomplished. « Arriver » takes « être », so the auxiliary is « être » in the present subjunctive: « qu'ils soient arrivés ». The participle « arrivés » agrees with the masculine-plural subject « tous les invités »."
+    },
+    {
+      "text": "C'est dommage que vous ne nous {1} de votre passage à Lyon ; nous serions venus vous voir.",
+      "blanks": [
+        { "cue": "prévenir", "answer": ["ayez pas prévenus", "ayez pas prévenu"], "hint": "subjonctif passé, vous, avoir verb, in the negative: « ne … pas » wraps the auxiliary « ayez »; the preceding object « nous » may trigger agreement" }
+      ],
+      "explanation": "« C'est dommage que » expresses emotion and triggers the subjunctive; the warning was supposed to happen before the visit, so the past subjunctive is used. « Prévenir » takes « avoir », and in the negative the « ne … pas » brackets the auxiliary: « que vous ne nous ayez pas prévenus ». The preceding direct object « nous » (us) normally forces agreement of the participle (« prévenus »); if « nous » is read as masculine/mixed plural this is « prévenus », though writers who leave it unagreed (« prévenu ») are also tolerated — both are accepted here."
     }
   ]
 }

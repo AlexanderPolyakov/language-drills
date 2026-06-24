@@ -111,6 +111,20 @@
         { "cue": "turn", "answer": ["would turn"], "hint": "wish + would for an annoying habit you want changed" }
       ],
       "explanation": "'Wish + would' is used to express irritation about someone's repeated behaviour and a desire for them to change it."
+    },
+    {
+      "text": "If I hadn't broken my leg in March, I {1} (run) in this weekend's marathon.",
+      "blanks": [
+        { "cue": "run", "answer": ["would be running", "would run"], "hint": "past condition, present/future result: would + base / would be -ing" }
+      ],
+      "explanation": "A past condition ('hadn't broken') with a result located in the present or near future ('this weekend') is a mixed conditional taking 'would + base verb' (or 'would be running') in the main clause."
+    },
+    {
+      "text": "I wish I {1} (listen) to your advice instead of ignoring it completely.",
+      "blanks": [
+        { "cue": "listen", "answer": ["had listened"], "hint": "wish + past perfect for a past regret" }
+      ],
+      "explanation": "To express regret about something we did or failed to do in the past, we use 'wish + past perfect' ('had listened'); the speaker is sorry they ignored the advice."
     }
   ]
 }

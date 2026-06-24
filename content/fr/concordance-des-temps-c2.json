@@ -70,6 +70,20 @@
         { "cue": "être", "answer": ["fût", "soit"], "hint": "subjunctive concordance after a conditionnel passé: literary subjonctif imparfait « fût » or modern subjonctif présent « soit » for simultaneity" }
       ],
       "explanation": "« Aimer que » triggers the subjunctive, and the main verb « aurions aimé » (conditionnel passé) belongs to the past register, so concordance applies. Her presence is simultaneous with the past wish, which in strict literary usage calls the subjonctif imparfait « qu'elle fût avec nous »; modern usage normally keeps the subjonctif présent « qu'elle soit avec nous ». Both are accepted, the literary « fût » being the strictly concordant form. (Grevisse, _Le Bon Usage_, on the survival of the subjonctif imparfait after a conditionnel.)"
+    },
+    {
+      "text": "Elle m'a demandé si j'{1} bien reçu son courriel la semaine précédente.",
+      "blanks": [
+        { "cue": "avoir", "answer": ["avais"], "hint": "indirect question in a past frame: a passé composé in direct speech (« as-tu reçu ») becomes the plus-que-parfait (anteriority)" }
+      ],
+      "explanation": "« Demander si » introduces an INDIRECT QUESTION, which follows the same concordance as reported speech. The main verb « a demandé » is past, and the receiving happened before it (« la semaine précédente »). The original direct question « As-tu bien reçu mon courriel ? » (passé composé) shifts to the plus-que-parfait to mark anteriority: « si j'avais bien reçu son courriel ». Note that the deictic « la semaine dernière » also becomes « la semaine précédente » in the past frame."
+    },
+    {
+      "text": "Le règlement de l'époque interdisait que quiconque {1} dans l'enceinte du monastère après le coucher du soleil.",
+      "blanks": [
+        { "cue": "pénétrer", "answer": ["pénétrât", "pénètre"], "hint": "subjunctive concordance: simultaneity/posteriority after a past main verb — literary « pénétrât » (subjonctif imparfait) or modern « pénètre » (subjonctif présent)" }
+      ],
+      "explanation": "« Interdire que » triggers the subjunctive, and the entering is simultaneous with or posterior to the past prohibition « interdisait ». In strict literary concordance, a past main verb governs the subjonctif imparfait: « que quiconque pénétrât ». Modern usage normally keeps the subjonctif présent « que quiconque pénètre », which is standard today; both are accepted. Note the circumflex of the 3rd-person singular subjonctif imparfait « pénétrât » (vs the passé simple « pénétra »)."
     }
   ]
 }

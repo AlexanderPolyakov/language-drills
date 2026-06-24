@@ -274,7 +274,7 @@
           "level": "B2",
           "title": "Gerunds and infinitives",
           "file": "en/gerunds-infinitives-b2.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "en-mixed-conditionals-b2",
@@ -282,7 +282,7 @@
           "level": "B2",
           "title": "Mixed conditionals, wish and if only",
           "file": "en/mixed-conditionals-b2.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "en-phrasal-verbs",
@@ -290,7 +290,7 @@
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
           "file": "en/phrasal-verbs.json",
-          "count": 16
+          "count": 17
         },
         {
           "id": "en-reported-speech-b2",
@@ -298,7 +298,7 @@
           "level": "B2",
           "title": "Reported speech",
           "file": "en/reported-speech-b2.json",
-          "count": 14
+          "count": 16
         },
         {
           "id": "en-vocabulary-b2",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 17
+          "count": 18
         },
         {
           "id": "en-inversion-c1",
@@ -330,7 +330,7 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json",
-          "count": 16
+          "count": 18
         },
         {
           "id": "en-vocabulary-c1",
@@ -616,7 +616,7 @@
           "level": "B2",
           "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
           "file": "fr/connecteurs-logiques-b2.json",
-          "count": 10
+          "count": 11
         },
         {
           "id": "fr-gerondif-participe-present-b2",
@@ -624,7 +624,7 @@
           "level": "B2",
           "title": "Le gérondif et le participe présent",
           "file": "fr/gerondif-participe-present-b2.json",
-          "count": 8
+          "count": 10
         },
         {
           "id": "fr-subjonctif-passe-b2",
@@ -632,7 +632,7 @@
           "level": "B2",
           "title": "Le subjonctif passé",
           "file": "fr/subjonctif-passe-b2.json",
-          "count": 10
+          "count": 12
         },
         {
           "id": "fr-accord-participe-passe-c1",
@@ -640,7 +640,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 10
+          "count": 11
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -648,7 +648,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 9
+          "count": 11
         },
         {
           "id": "fr-concordance-des-temps-c2",
@@ -656,7 +656,7 @@
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 9
+          "count": 11
         }
       ]
     }

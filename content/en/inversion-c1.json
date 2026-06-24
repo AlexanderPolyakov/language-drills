@@ -86,6 +86,16 @@
       "prompt": "Visitors are not permitted to enter the laboratory under any circumstances. (begin with 'Under no circumstances')",
       "answer": ["Under no circumstances are visitors permitted to enter the laboratory."],
       "explanation": "The fronted negative phrase 'Under no circumstances' demands inversion: the auxiliary 'are' precedes the subject 'visitors'. The negation sits in the adverbial, leaving the verb affirmative."
+    },
+    {
+      "prompt": "You can solve this problem only by working together. (begin with 'Only by')",
+      "answer": ["Only by working together can you solve this problem."],
+      "explanation": "A fronted 'Only by + -ing' is a restrictive adverbial that triggers inversion in the main clause: the modal 'can' moves before the subject 'you'. The gerund phrase 'working together' itself keeps normal order."
+    },
+    {
+      "prompt": "The damage was so great that the bridge had to be rebuilt. (begin with 'Such')",
+      "answer": ["Such was the damage that the bridge had to be rebuilt."],
+      "explanation": "Fronting 'Such' for emphasis triggers inversion of the verb 'be': 'was the damage'. The 'that' result clause that follows keeps normal word order. ('Such + be' parallels the 'So + adjective + be' pattern.)"
     }
   ]
 }

@@ -51,6 +51,16 @@
       "prompt": "Je me souviens surtout de nos étés en Bretagne. (mettre en relief le complément avec « ce dont… , c'est »)",
       "answer": ["Ce dont je me souviens surtout, c'est de nos étés en Bretagne.", "Ce dont je me souviens surtout, ce sont nos étés en Bretagne."],
       "explanation": "« Se souvenir » governs the preposition « de » (« se souvenir DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi). The highlighted element normally echoes the « de »: « Ce dont je me souviens surtout, c'est de nos étés en Bretagne ». Before the plural noun « nos étés », careful written French may also drop the « de » and use the agreeing presentative « ce sont »: « Ce dont je me souviens, ce sont nos étés en Bretagne »."
+    },
+    {
+      "prompt": "J'ai pris cette décision, personne d'autre. (mettre en relief le sujet « je » avec « c'est… qui »)",
+      "answer": ["C'est moi qui ai pris cette décision, personne d'autre."],
+      "explanation": "To emphasise a SUBJECT pronoun, the cleft « c'est … qui » uses the STRESSED form of the pronoun (« moi », not « je »), and — crucially — the verb in the relative clause agrees with the original person: « C'est moi qui AI pris » (first person, not « a pris »). « Qui » carries the grammatical person of the highlighted pronoun, so the conjugation follows « moi » → « j'ai » → « ai pris ». This 1st/2nd-person agreement after « c'est … qui » is a classic C1 trap (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Le bruit et la pollution me dérangent dans cette ville. (mettre en relief le sujet pluriel avec « ce qui… , ce sont »)",
+      "answer": ["Ce qui me dérange dans cette ville, ce sont le bruit et la pollution.", "Ce qui me dérange dans cette ville, c'est le bruit et la pollution."],
+      "explanation": "To foreground the SUBJECT of « déranger », use « Ce qui … , c'est / ce sont ». Although « ce qui » stays singular, the presentative agrees with the following plural element: before « le bruit et la pollution » (a coordination equivalent to a plural), careful written French prefers « ce sont »: « Ce qui me dérange…, ce sont le bruit et la pollution ». The invariable « c'est » is also tolerated in less formal usage, hence both forms are accepted."
     }
   ]
 }

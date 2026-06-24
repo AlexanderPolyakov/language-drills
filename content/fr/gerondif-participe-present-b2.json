@@ -65,6 +65,20 @@
         { "cue": "provoquer — gérondif", "answer": ["en provoquant"], "hint": "gérondif of means: « en » + present participle, keeps the « qu » → en provoquant" }
       ],
       "explanation": "« Provoquer » distinguishes its adjectif verbal from its present participle by SPELLING. The adjectif verbal « provocant » (provocative remarks) changes « qu » to « c » and agrees like an adjective — here masculine plural with « propos »: « provocants ». The verbal form keeps « qu »: in the gérondif « en provoquant le débat » (= by sparking the debate) it stays invariable and governs an object. Compare fatigant/fatiguant and négligent/négligeant."
+    },
+    {
+      "text": "{1} l'urgence de la situation, les secouristes ont aussitôt évacué le quartier.",
+      "blanks": [
+        { "cue": "mesurer", "answer": ["ayant mesuré"], "hint": "participe présent composé (« ayant » + participe passé) expressing an anterior cause = « comme ils avaient mesuré »" }
+      ],
+      "explanation": "The COMPOUND present participle (« participe présent composé »: « ayant » + past participle) marks an action ANTERIOR to the main verb and often expresses cause: « ayant mesuré l'urgence » = « comme ils avaient mesuré l'urgence » (because they had assessed it first, then they evacuated). Unlike the simple participle « mesurant » (simultaneous), the compound form clearly orders the two actions. It is a bare participle, so no « en », it stays invariable, and it shares the subject of the main verb (« les secouristes »)."
+    },
+    {
+      "text": "{1} prudemment, on évite bien des accidents sur l'autoroute.",
+      "blanks": [
+        { "cue": "conduire", "answer": ["en conduisant"], "hint": "gérondif of condition with the impersonal/general « on »; « conduire » → « conduisant »" }
+      ],
+      "explanation": "Here the gérondif expresses a general CONDITION equivalent to a « si » clause: « en conduisant prudemment » = « si l'on conduit prudemment ». The subject of the gérondif must match the subject of the main verb — both are the indefinite « on », which preserves the rule of same-subject identity. « Conduire » → « conduisant » (note the « -s- » in « conduisant », not « conduit »): by/if driving carefully, one avoids many accidents."
     }
   ]
 }
