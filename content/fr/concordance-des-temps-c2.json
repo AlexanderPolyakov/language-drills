@@ -56,6 +56,20 @@
         { "cue": "répéter", "answer": ["répétât", "répète"], "hint": "subjunctive concordance: simultaneity after a past main verb — literary « répétât » (subjonctif imparfait) or modern « répète » (subjonctif présent)" }
       ],
       "explanation": "« Exiger que » triggers the subjunctive, and the repeating is simultaneous with (or posterior to) the past demand « exigeait ». In strict literary concordance, a past main verb calls the subjonctif imparfait for simultaneity: « qu'il répétât ». Modern usage normally keeps the subjonctif présent « qu'il répète », which is the standard form today; both are accepted."
+    },
+    {
+      "text": "Le directeur annonça que les résultats {1} dès que le jury aurait délibéré.",
+      "blanks": [
+        { "cue": "être publié", "answer": ["seraient publiés"], "hint": "futur dans le passé in the passive: a futur simple after a past main verb becomes the conditionnel présent, and the passive participle agrees with « les résultats »" }
+      ],
+      "explanation": "The main verb « annonça » (passé simple) sets a past frame, and the announced action is posterior to it. The original « les résultats seront publiés dès que le jury aura délibéré » shifts to the « futur dans le passé »: the passive futur « seront publiés » becomes the conditionnel présent passif « seraient publiés », while the subordinate futur antérieur « aura délibéré » becomes « aurait délibéré », preserving anteriority. The participle « publiés » agrees with the masculine-plural subject « les résultats »."
+    },
+    {
+      "text": "Nous aurions tellement aimé qu'elle {1} avec nous ce soir-là.",
+      "blanks": [
+        { "cue": "être", "answer": ["fût", "soit"], "hint": "subjunctive concordance after a conditionnel passé: literary subjonctif imparfait « fût » or modern subjonctif présent « soit » for simultaneity" }
+      ],
+      "explanation": "« Aimer que » triggers the subjunctive, and the main verb « aurions aimé » (conditionnel passé) belongs to the past register, so concordance applies. Her presence is simultaneous with the past wish, which in strict literary usage calls the subjonctif imparfait « qu'elle fût avec nous »; modern usage normally keeps the subjonctif présent « qu'elle soit avec nous ». Both are accepted, the literary « fût » being the strictly concordant form. (Grevisse, _Le Bon Usage_, on the survival of the subjonctif imparfait after a conditionnel.)"
     }
   ]
 }

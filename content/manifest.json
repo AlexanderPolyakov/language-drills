@@ -290,7 +290,7 @@
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
           "file": "en/phrasal-verbs.json",
-          "count": 14
+          "count": 16
         },
         {
           "id": "en-reported-speech-b2",
@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 17
+          "count": 19
         }
       ]
     },
@@ -640,7 +640,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 8
+          "count": 10
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -648,7 +648,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 7
+          "count": 9
         },
         {
           "id": "fr-concordance-des-temps-c2",
@@ -656,7 +656,7 @@
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 7
+          "count": 9
         }
       ]
     }

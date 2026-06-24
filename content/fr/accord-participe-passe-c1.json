@@ -63,6 +63,20 @@
         { "cue": "falloir", "answer": ["fallu"], "hint": "impersonal verb « falloir »: its participle is ALWAYS invariable, even with a preceding object" }
       ],
       "explanation": "« Falloir » is an impersonal verb, and the past participle of impersonal verbs (« il a fallu », « il a plu », « il a neigé ») is ALWAYS invariable — the « il » is a neuter, non-referential subject. Even though « que » refers to « les efforts » (masculine plural) and precedes the verb, the participle does not agree: « les efforts qu'il a fallu »."
+    },
+    {
+      "text": "La maison qu'ils ont {1} construire l'an dernier domine toute la vallée.",
+      "blanks": [
+        { "cue": "faire", "answer": ["fait"], "hint": "« faire » + infinitive: the participle « fait » in this causative construction is ALWAYS invariable, whatever the preceding object" }
+      ],
+      "explanation": "In the causative « faire + infinitif », the past participle « fait » is ALWAYS invariable, even with a preceding direct object. Here « que » refers to « la maison » (feminine singular) and precedes the verb, yet the rule overrides the ordinary « avoir » agreement: one writes « la maison qu'ils ont fait construire », never « faite ». « Faire » forms such a tight unit with the following infinitive that no agreement occurs (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "text": "Quand elle a relu le contrat, elle s'est {1} compte de l'erreur trop tard.",
+      "blanks": [
+        { "cue": "rendre", "answer": ["rendu"], "hint": "in the locution « se rendre compte », « compte » is the direct object and « se » is indirect: the participle stays invariable" }
+      ],
+      "explanation": "In the fixed expression « se rendre compte (de) », the direct object is the noun « compte » (« rendre compte à soi-même »), so the reflexive « se » is an INDIRECT object. With pronominal verbs the participle agrees only with a direct-object reflexive pronoun; here it does not, and « compte » follows the verb anyway, so the participle stays invariable: « elle s'est rendu compte ». (Contrast « elle s'est revue », where « se » is the direct object.)"
     }
   ]
 }

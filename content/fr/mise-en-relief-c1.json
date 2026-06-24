@@ -41,6 +41,16 @@
       "prompt": "Tout a basculé pour elle en 1995. (mettre en relief le complément de temps avec « c'est… que »)",
       "answer": ["C'est en 1995 que tout a basculé pour elle."],
       "explanation": "« En 1995 » is a complement of TIME, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est en 1995 que tout a basculé pour elle ». As with complements of place or manner, any element other than the subject is clefted with « que »."
+    },
+    {
+      "prompt": "Tu as oublié son anniversaire, pas le mien. (mettre en relief le COD « son anniversaire » avec « c'est… que »)",
+      "answer": ["C'est son anniversaire que tu as oublié, pas le mien."],
+      "explanation": "« Son anniversaire » is the DIRECT OBJECT of « oublier », not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est son anniversaire que tu as oublié ». Any element other than the subject — including a direct object — is clefted with « que ». In such « c'est … que » clefts the « que » is the relative pronoun representing the clefted COD, which thus PRECEDES « avoir » in the relative clause and triggers agreement of the participle (cf. « C'est une lettre que j'ai écrite », f.sg. → « écrite »). Here the agreement is simply not visible because « anniversaire » is masculine singular, so the participle is written « oublié » (Grevisse, Le Bon Usage)."
+    },
+    {
+      "prompt": "Je me souviens surtout de nos étés en Bretagne. (mettre en relief le complément avec « ce dont… , c'est »)",
+      "answer": ["Ce dont je me souviens surtout, c'est de nos étés en Bretagne.", "Ce dont je me souviens surtout, ce sont nos étés en Bretagne."],
+      "explanation": "« Se souvenir » governs the preposition « de » (« se souvenir DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi). The highlighted element normally echoes the « de »: « Ce dont je me souviens surtout, c'est de nos étés en Bretagne ». Before the plural noun « nos étés », careful written French may also drop the « de » and use the agreeing presentative « ce sont »: « Ce dont je me souviens, ce sont nos étés en Bretagne »."
     }
   ]
 }

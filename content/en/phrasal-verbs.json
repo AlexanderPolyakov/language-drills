@@ -109,6 +109,20 @@
         { "answer": "came across", "options": ["came across", "came down with", "came up against"], "hint": "find something by chance" }
       ],
       "explanation": "'come across' means to find or meet something or someone by chance; 'come down with' = catch an illness, and 'come up against' = face a difficulty, so neither fits here."
+    },
+    {
+      "text": "I don't want to {1} the subject of money at dinner; it always starts an argument.",
+      "blanks": [
+        { "answer": "bring up", "options": ["bring up", "bring about", "bring round"], "hint": "introduce a topic into conversation" }
+      ],
+      "explanation": "'bring up' means to mention or introduce a subject in conversation. 'bring about' = cause something to happen, and 'bring round' = revive someone or persuade them, so neither fits a topic of conversation."
+    },
+    {
+      "text": "It took him months to {1} the death of his father.",
+      "blanks": [
+        { "answer": "get over", "options": ["get over", "get through", "get by"], "hint": "recover emotionally from something upsetting" }
+      ],
+      "explanation": "'get over' means to recover from an illness, shock or upsetting experience. 'get through' = finish or survive a difficult period (and needs the period itself as object), and 'get by' = manage with limited means, so neither expresses recovering from a bereavement."
     }
   ]
 }
