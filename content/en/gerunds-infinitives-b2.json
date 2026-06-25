@@ -139,6 +139,27 @@
         { "cue": "open", "answer": ["to open"], "hint": "try + to-inf = attempt something difficult" }
       ],
       "explanation": "'Try to do' means to make an effort to do something difficult; she attempted to open the window but couldn't. This contrasts with 'try doing', which means to experiment with a method as a possible solution."
+    },
+    {
+      "text": "I'm sorry I'm late — I didn't {1} to keep everyone waiting.",
+      "blanks": [
+        { "cue": "mean", "answer": ["mean"], "hint": "'mean to do' = intend to do; base form after 'didn't'" }
+      ],
+      "explanation": "After the auxiliary 'didn't' the verb takes the base form 'mean'. 'Mean to do' means to intend something, so 'mean to keep' = 'intend to keep'. This contrasts with 'mean doing', which means to entail or involve as a consequence."
+    },
+    {
+      "text": "Accepting the promotion would {1} relocating to another city.",
+      "blanks": [
+        { "cue": "mean", "answer": ["mean"], "hint": "'mean doing' = involve/entail; base form after 'would'" }
+      ],
+      "explanation": "After the modal 'would' the verb is the base form 'mean'. Here 'mean doing' has its 'entail/involve as a consequence' sense, so it is followed by the gerund 'relocating'. This contrasts with 'mean to do', which expresses intention."
+    },
+    {
+      "text": "To stay out of trouble, he carefully avoided {1} the manager's questions directly.",
+      "blanks": [
+        { "cue": "answer", "answer": ["answering"], "hint": "avoid + -ing" }
+      ],
+      "explanation": "'Avoid' is always followed by the gerund, never the to-infinitive; you cannot say 'avoid to answer'."
     }
   ]
 }

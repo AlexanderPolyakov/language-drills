@@ -112,6 +112,27 @@
         { "cue": "avoir terminé", "answer": ["aurait terminé"], "hint": "futur antérieur dans le passé: a futur antérieur in direct speech becomes the conditionnel passé after a past main verb" }
       ],
       "explanation": "The main verb « avait assuré » is past, and the original direct statement contained a futur antérieur expressing an action completed before a deadline: « j'aurai terminé le dossier avant que la semaine ne soit écoulée ». Under concordance, the futur antérieur « aurai terminé » becomes the conditionnel passé « aurait terminé » — the « futur antérieur dans le passé », the anterior counterpart of the « futur dans le passé ». (The « ne » in « avant que… ne soit écoulée » is the « ne » explétif required by « avant que ».)"
+    },
+    {
+      "text": "Le général ordonna que ses troupes {1} avant l'aube, quelles que fussent les conditions.",
+      "blanks": [
+        { "cue": "se replier", "answer": ["se repliassent", "se replient"], "hint": "subjunctive concordance: posteriority after a past main verb — literary « se repliassent » (subjonctif imparfait) or modern « se replient » (subjonctif présent)" }
+      ],
+      "explanation": "« Ordonner que » triggers the subjunctive, and the retreat is posterior to the past order « ordonna » (passé simple). In strict literary concordance, a past main verb governs the subjonctif imparfait: « qu'elles se repliassent ». Modern usage normally keeps the subjonctif présent « qu'elles se replient »; both are accepted. Note the « -assent » ending of the subjonctif imparfait of a 1st-group verb (vs the passé simple « se replièrent »)."
+    },
+    {
+      "text": "En relisant ses notes, l'historien constata que la cité {1} déjà florissante à cette époque lointaine.",
+      "blanks": [
+        { "cue": "être", "answer": ["était"], "hint": "reported perception in a past frame: a present in direct apprehension becomes the imparfait (simultaneity with the past state described)" }
+      ],
+      "explanation": "The main verb « constata » (passé simple) sets a past frame. The fact apprehended — the city's flourishing — is contemporaneous with the era described, a durable past state, so the present « est » of the direct thought « la cité est florissante » shifts to the imparfait: « la cité était déjà florissante ». The imparfait here marks both the concordance (simultaneity) and the descriptive, durative aspect of the state."
+    },
+    {
+      "text": "Tout le monde espérait qu'elle {1} enfin gain de cause après ce long procès.",
+      "blanks": [
+        { "cue": "obtenir", "answer": ["obtiendrait"], "hint": "futur dans le passé: « espérer que » + futur in direct speech becomes the conditionnel présent after a past main verb" }
+      ],
+      "explanation": "« Espérer que » is followed by the indicative (not the subjunctive), and the main verb « espérait » is in the past with a posterior subordinate action. The original « elle obtiendra enfin gain de cause » (futur simple) shifts to the conditionnel présent — the « futur dans le passé »: « elle obtiendrait ». Note the irregular future stem « obtiendr- » of « obtenir »."
     }
   ]
 }

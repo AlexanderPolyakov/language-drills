@@ -64,11 +64,11 @@
       "explanation": "The first clause is negative ('had never set foot'), so the additive echo uses 'neither' + auxiliary + subject ('neither had any of his colleagues'). 'So' echoes an affirmative, not a negative, and 'either' needs a preceding 'nor/not' and does not invert this way."
     },
     {
-      "text": "Applicants may submit a portfolio or a written essay; {1} a submission must reach us by Friday.",
+      "text": "Applicants may submit a portfolio or a written essay; {1} submission must reach us by Friday.",
       "blanks": [
         { "answer": "either", "options": ["such", "either", "the former"], "hint": "stands for 'whichever of the two' before the singular noun 'submission'" }
       ],
-      "explanation": "'Either' substitutes for 'one or the other of the two' options just listed and correctly precedes the singular 'submission'. 'Such' would substitute for a whole category rather than pick one of two, and 'the former' would single out only the portfolio, contradicting 'or' and the singular 'a submission'."
+      "explanation": "'Either' substitutes for 'one or the other of the two' options just listed and correctly precedes the singular 'submission'. 'Such' would need an article ('such a submission') and substitutes for a whole category rather than picking one of two, and 'the former' would single out only the portfolio, contradicting 'or'."
     },
     {
       "text": "The report praised both the engineers and the planners, but it was {1} who had warned of the delay months earlier.",
@@ -76,6 +76,34 @@
         { "answer": "the latter", "options": ["the former", "such", "the latter"], "hint": "refers back to the SECOND of the two groups mentioned ('the planners')" }
       ],
       "explanation": "'The latter' substitutes for the second-named of two items — here 'the planners', the group that gave the warning. 'The former' would point to the engineers (the first group), and 'such' substitutes for a category, not for one of two previously named groups."
+    },
+    {
+      "text": "The climate here is far milder than {1} of the highlands further north.",
+      "blanks": [
+        { "answer": "that", "options": ["that", "such", "one"], "hint": "substitutes for the uncountable noun 'the climate' before the post-modifier 'of...'" }
+      ],
+      "explanation": "'That of' substitutes for a singular or uncountable noun followed by a defining 'of'-phrase ('that of the highlands' = 'the climate of the highlands'). 'Such of' is not a substitution pattern here, and 'one' cannot substitute for an uncountable noun like 'climate' — 'one/ones' replaces countable nouns only."
+    },
+    {
+      "text": "Check whether the funding has been approved, and {1} release the first instalment at once.",
+      "blanks": [
+        { "answer": "if so", "options": ["if so", "so as", "so that"], "hint": "substitutes a whole condition: 'if it has (been approved)'" }
+      ],
+      "explanation": "'If so' is a pro-form condition standing for the affirmative version of the preceding clause ('if the funding has been approved'). 'So as' introduces purpose before a to-infinitive ('so as to release'), and 'so that' introduces a finite purpose/result clause; neither substitutes for an implied condition the way 'if so' does."
+    },
+    {
+      "text": "I never expected the scheme to succeed, yet succeed it {1}, against all the odds.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "did so", "so"], "hint": "a bare 'do'-auxiliary substitutes for the fronted verb 'succeed' in this emphatic inversion" }
+      ],
+      "explanation": "When a verb is fronted for emphasis ('succeed it ___'), a bare auxiliary 'did' stands in for the lexical verb 'succeed'. 'Did so' is the pro-form for a full verb phrase and is redundant once 'succeed' has already been stated and fronted; bare 'so' cannot carry the past tense or close this inverted clause."
+    },
+    {
+      "text": "Some delegates backed the amendment with genuine enthusiasm, others {1} only reluctantly.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "were", "had"], "hint": "an auxiliary substitutes for the verb phrase 'backed the amendment'; match the past simple tense" }
+      ],
+      "explanation": "The verb phrase 'backed the amendment' is past simple, so the substitute auxiliary is the 'do'-operator in the past, 'did' ('others did only reluctantly'). 'Were' would require a passive or continuous original ('were backing'), and 'had' would require a perfect form ('had backed'), neither of which matches the plain past simple 'backed'."
     }
   ]
 }

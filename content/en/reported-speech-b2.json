@@ -96,6 +96,21 @@
       "prompt": "\"Wait for me here,\" she said to him. (reported command)",
       "answer": ["She told him to wait for her there.", "She asked him to wait for her there."],
       "explanation": "Reported commands and requests use 'tell/ask someone to do' something; 'me' becomes 'her' and the place word 'here' shifts to 'there'."
+    },
+    {
+      "prompt": "\"I won't sign anything without my lawyer,\" he said. (reported speech)",
+      "answer": ["He said (that) he wouldn't sign anything without his lawyer.", "He said that he wouldn't sign anything without his lawyer.", "He said he wouldn't sign anything without his lawyer.", "He said (that) he would not sign anything without his lawyer.", "He said that he would not sign anything without his lawyer.", "He said he would not sign anything without his lawyer."],
+      "explanation": "The negative 'will not' ('won't') backshifts to 'would not' ('wouldn't'), and the possessive 'my' becomes 'his'."
+    },
+    {
+      "prompt": "\"You may leave early this afternoon,\" the manager told the staff. (reported speech)",
+      "answer": ["The manager told the staff (that) they might leave early that afternoon.", "The manager told the staff that they might leave early that afternoon.", "The manager told the staff they might leave early that afternoon."],
+      "explanation": "The permission modal 'may' backshifts to 'might', 'you' becomes 'they', and 'this afternoon' shifts to 'that afternoon'."
+    },
+    {
+      "prompt": "\"How long have you been waiting here?\" she asked us. (reported question)",
+      "answer": ["She asked us how long we had been waiting there.", "She asked how long we had been waiting there."],
+      "explanation": "The wh- question keeps statement word order with no question mark; present perfect continuous 'have been waiting' backshifts to 'had been waiting', 'you' becomes 'we', and the place word 'here' shifts to 'there'."
     }
   ]
 }
