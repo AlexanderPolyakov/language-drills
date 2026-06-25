@@ -58,7 +58,7 @@
       "explanation": "'ne… rien' = nothing, the object of 'dire'."
     },
     {
-      "text": "Au bureau le dimanche, il n'y a {1}.",
+      "text": "Au bureau le dimanche, il n'y a {1} pour répondre au téléphone.",
       "blanks": [{ "options": ["personne", "rien", "pas"], "answer": "personne" }],
       "explanation": "'ne… personne' = nobody is present."
     },

@@ -45,7 +45,7 @@
       "explanation": "'must' expresses strong obligation or a rule."
     },
     {
-      "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights, and you {3} exceed the speed limit.",
+      "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights because the law requires it, and you {3} exceed the speed limit.",
       "blanks": [
         { "answer": "should", "options": ["might", "could", "should"], "hint": "advice" },
         { "answer": "must", "options": ["should", "might", "must"], "hint": "obligation" },
