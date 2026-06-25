@@ -84,6 +84,20 @@
         { "cue": "pénétrer", "answer": ["pénétrât", "pénètre"], "hint": "subjunctive concordance: simultaneity/posteriority after a past main verb — literary « pénétrât » (subjonctif imparfait) or modern « pénètre » (subjonctif présent)" }
       ],
       "explanation": "« Interdire que » triggers the subjunctive, and the entering is simultaneous with or posterior to the past prohibition « interdisait ». In strict literary concordance, a past main verb governs the subjonctif imparfait: « que quiconque pénétrât ». Modern usage normally keeps the subjonctif présent « que quiconque pénètre », which is standard today; both are accepted. Note the circumflex of the 3rd-person singular subjonctif imparfait « pénétrât » (vs the passé simple « pénétra »)."
+    },
+    {
+      "text": "Le médecin nous a expliqué que la patiente {1} mieux et qu'elle sortirait bientôt de l'hôpital.",
+      "blanks": [
+        { "cue": "aller", "answer": ["allait"], "hint": "reported speech in a past frame: a present in direct speech becomes the imparfait (simultaneity with « a expliqué »)" }
+      ],
+      "explanation": "The main verb « a expliqué » is in the past. The original direct statement « La patiente va mieux » is simultaneous with the moment of speaking, so the present « va » shifts to the imparfait: « elle allait mieux ». (The posterior « sortira » correctly becomes the conditionnel « sortirait », the futur dans le passé.)"
+    },
+    {
+      "text": "Les enquêteurs ont conclu que le suspect {1} les lieux bien avant l'arrivée de la police.",
+      "blanks": [
+        { "cue": "quitter", "answer": ["avait quitté"], "hint": "anteriority in a past frame: a passé composé in direct speech becomes the plus-que-parfait" }
+      ],
+      "explanation": "The main verb « ont conclu » is past, and the subordinate action happened BEFORE it (« bien avant l'arrivée de la police »). A passé composé in direct speech (« le suspect a quitté les lieux ») shifts to the plus-que-parfait to mark anteriority: « avait quitté »."
     }
   ]
 }

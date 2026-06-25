@@ -125,6 +125,20 @@
         { "cue": "inform", "answer": ["to inform", "to tell"], "hint": "regret + to-infinitive for bad news you are about to give" }
       ],
       "explanation": "'Regret to do' (with verbs like inform, tell, say, announce) introduces bad news that the speaker is giving now and is sorry about. This contrasts with 'regret doing', which expresses sorrow about a past action."
+    },
+    {
+      "text": "I deeply regret {1} him those harsh words; I wish I had stayed silent.",
+      "blanks": [
+        { "cue": "say", "answer": ["saying"], "hint": "regret + -ing = sorrow about a past action" }
+      ],
+      "explanation": "'Regret doing' expresses sorrow about a past action — here the speaker is sorry about words already spoken, which contrasts with 'regret to do' (giving bad news now)."
+    },
+    {
+      "text": "The room was stuffy, so she tried {1} the window, but it wouldn't budge.",
+      "blanks": [
+        { "cue": "open", "answer": ["to open"], "hint": "try + to-inf = attempt something difficult" }
+      ],
+      "explanation": "'Try to do' means to make an effort to do something difficult; she attempted to open the window but couldn't. This contrasts with 'try doing', which means to experiment with a method as a possible solution."
     }
   ]
 }

@@ -79,6 +79,20 @@
         { "cue": "conduire", "answer": ["en conduisant"], "hint": "gérondif of condition with the impersonal/general « on »; « conduire » → « conduisant »" }
       ],
       "explanation": "Here the gérondif expresses a general CONDITION equivalent to a « si » clause: « en conduisant prudemment » = « si l'on conduit prudemment ». The subject of the gérondif must match the subject of the main verb — both are the indefinite « on », which preserves the rule of same-subject identity. « Conduire » → « conduisant » (note the « -s- » in « conduisant », not « conduit »): by/if driving carefully, one avoids many accidents."
+    },
+    {
+      "text": "Le témoin a décrit un homme {1} nerveusement les passants depuis sa voiture.",
+      "blanks": [
+        { "cue": "observer", "answer": ["observant"], "hint": "bare present participle (no « en ») replacing a relative clause = « qui observait »; it has its OWN subject (« un homme »), distinct from the main verb's subject" }
+      ],
+      "explanation": "The BARE present participle (without « en ») replaces a relative clause: « un homme observant les passants » = « un homme qui observait les passants ». Crucially this is NOT a gérondif: the participle has its OWN subject (« un homme »), which is different from the subject of the main verb (« le témoin »). A gérondif « en observant » would be impossible, since the same-subject rule would wrongly make « le témoin » the observer. The participe présent stays invariable and governs the object « les passants »."
+    },
+    {
+      "text": "{1} le buffet, les invités discutaient joyeusement de leurs projets de vacances.",
+      "blanks": [
+        { "cue": "se servir", "answer": ["tout en se servant", "en se servant"], "hint": "gérondif of a pronominal verb expressing simultaneity, same subject; « tout en » adds emphasis on the concurrency" }
+      ],
+      "explanation": "The gérondif of a pronominal verb keeps its reflexive pronoun: « se servir » → « (tout) en se servant ». It expresses an action SIMULTANEOUS with the main verb and shares its subject (« les invités »): they were chatting while helping themselves at the buffet. « Tout en se servant » emphasises the concurrency of the two actions; the plain « en se servant » is equally correct here."
     }
   ]
 }

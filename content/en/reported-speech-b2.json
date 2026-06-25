@@ -86,6 +86,16 @@
       "prompt": "\"You should see a doctor about that cough,\" my friend told me. (reported speech)",
       "answer": ["My friend told me (that) I should see a doctor about that cough.", "My friend told me that I should see a doctor about that cough.", "My friend told me I should see a doctor about that cough."],
       "explanation": "The modal 'should' has no past form and stays unchanged in reported speech; only the pronoun shifts ('you' becomes 'I'). Note that 'tell' takes a personal object ('told me'), unlike 'say'."
+    },
+    {
+      "prompt": "\"We are moving house next month,\" they told us. (reported speech)",
+      "answer": ["They told us (that) they were moving house the following month.", "They told us that they were moving house the following month.", "They told us they were moving house the following month.", "They told us (that) they were moving house the next month.", "They told us they were moving house the next month."],
+      "explanation": "Present continuous 'are moving' backshifts to past continuous 'were moving', 'we' becomes 'they', and 'next month' becomes 'the following month' / 'the next month'."
+    },
+    {
+      "prompt": "\"Wait for me here,\" she said to him. (reported command)",
+      "answer": ["She told him to wait for her there.", "She asked him to wait for her there."],
+      "explanation": "Reported commands and requests use 'tell/ask someone to do' something; 'me' becomes 'her' and the place word 'here' shifts to 'there'."
     }
   ]
 }

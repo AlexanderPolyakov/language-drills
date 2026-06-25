@@ -61,6 +61,11 @@
       "prompt": "Le bruit et la pollution me dérangent dans cette ville. (mettre en relief le sujet pluriel avec « ce qui… , ce sont »)",
       "answer": ["Ce qui me dérange dans cette ville, ce sont le bruit et la pollution.", "Ce qui me dérange dans cette ville, c'est le bruit et la pollution."],
       "explanation": "To foreground the SUBJECT of « déranger », use « Ce qui … , c'est / ce sont ». Although « ce qui » stays singular, the presentative agrees with the following plural element: before « le bruit et la pollution » (a coordination equivalent to a plural), careful written French prefers « ce sont »: « Ce qui me dérange…, ce sont le bruit et la pollution ». The invariable « c'est » is also tolerated in less formal usage, hence both forms are accepted."
+    },
+    {
+      "prompt": "Je m'attendais surtout à un peu de reconnaissance. (mettre en relief le complément avec « ce à quoi… , c'est »)",
+      "answer": ["Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance.", "Ce à quoi je m'attendais surtout, c'est à un peu de reconnaissance."],
+      "explanation": "« S'attendre à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance ». As with « tenir à », the preposition « à » may optionally be echoed in the highlighted element (« c'est à un peu de reconnaissance »). The reflexive pronoun « me » is kept inside the clefted clause (« je m'attendais »)."
     }
   ]
 }

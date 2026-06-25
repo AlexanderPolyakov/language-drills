@@ -84,6 +84,20 @@
         { "cue": "faire", "answer": ["fait"], "hint": "« se faire + infinitif »: the participle « fait » is ALWAYS invariable in this construction, like the causative « faire faire »" }
       ],
       "explanation": "In the pronominal causative « se faire + infinitif » (« se faire avoir » = to be tricked), the past participle « fait » is ALWAYS invariable, exactly like the plain causative « faire + infinitif ». Even though the subject « elles » is feminine plural and « se » could look like a direct object, the rule that « fait » before an infinitive never agrees overrides pronominal agreement: « elles se sont fait avoir », never « faites ». This invariability was officially confirmed for « se faire » + infinitive (rectifications and Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "text": "Des compliments, elle en a {1} tant ce soir-là qu'elle a fini par rougir.",
+      "blanks": [
+        { "cue": "recevoir", "answer": ["reçu"], "hint": "the pronoun « en » as direct object never triggers agreement, even with a quantity adverb: participle stays invariable" }
+      ],
+      "explanation": "With « avoir », the pronoun « en » is treated as a neuter/partitive (« of them ») and NEVER triggers agreement, even when a quantity adverb like « tant » or « beaucoup » accompanies it. So although « des compliments » is masculine plural and stands before the verb, the participle stays invariable: « elle en a reçu tant ». Contrast a true preceding object: « les compliments qu'elle a reçus »."
+    },
+    {
+      "text": "Les militantes se sont {1} de longues heures avant de trouver un compromis.",
+      "blanks": [
+        { "cue": "succéder", "answer": ["succédé"], "hint": "pronominal verb where « se » is COI (succéder À quelqu'un): no agreement, participle invariable despite the feminine plural subject" }
+      ],
+      "explanation": "« Se succéder » comes from « succéder À quelqu'un », so the reflexive « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable despite the feminine plural subject « les militantes »: « elles se sont succédé ». (Compare « se parler » and « se sourire », likewise built on « à » → no agreement.)"
     }
   ]
 }

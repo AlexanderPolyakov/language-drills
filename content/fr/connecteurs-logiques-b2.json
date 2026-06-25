@@ -83,6 +83,13 @@
         { "answer": "tellement", "options": ["tellement", "tant", "davantage", "aussi"], "hint": "intensity of an ADJECTIVE ('complexe') leading to a consequence: « si / tellement … que »" }
       ],
       "explanation": "Consequence can be expressed by intensifying an adjective with « si … que » or « tellement … que »: « tellement complexe que… » (= so complex that…). Before an ADJECTIVE only « tellement » (or « si ») works: « tant » modifies a verb or a noun (« il travaille tant que… », « tant de travail que… »), never an adjective; « davantage » means 'more' (comparative, not intensity + que); and « aussi … que » expresses a comparison of equality, not a consequence."
+    },
+    {
+      "text": "Le sentier longe un précipice ; avancez avec une corde de sécurité {1} l'un de vous ne glisse dans le ravin.",
+      "blanks": [
+        { "answer": "de peur que", "options": ["de peur que", "tandis que", "étant donné que", "de sorte que"], "hint": "feared purpose with a DIFFERENT subject + subjunctive ('ne glisse')" }
+      ],
+      "explanation": "« De peur que » expresses a feared purpose (something one acts to AVOID) and governs the subjunctive when the two clauses have different subjects: « de peur que l'un de vous ne glisse » (the « ne » is explétif, not a negation). « Tandis que » marks opposition + indicative, « étant donné que » expresses cause + indicative, and « de sorte que » here would mean a real consequence + indicative, none of which fit the avoided, hypothetical event."
     }
   ]
 }

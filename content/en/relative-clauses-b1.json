@@ -90,6 +90,27 @@
         { "answer": "when", "options": ["when", "where", "which"], "hint": "refers to a time" }
       ],
       "explanation": "Use 'when' to refer to a time, such as 'the season'."
+    },
+    {
+      "text": "My grandmother, {1} is ninety, still goes swimming every morning.",
+      "blanks": [
+        { "answer": "who", "options": ["who", "that", "which"], "hint": "non-defining clause about a person; 'that' is impossible here" }
+      ],
+      "explanation": "In a non-defining clause (set off by commas), 'that' cannot be used; for a person we must use 'who'."
+    },
+    {
+      "text": "Paris, {1} I lived for two years, is a wonderful city.",
+      "blanks": [
+        { "answer": "where", "options": ["where", "which", "that"], "hint": "non-defining clause about a place" }
+      ],
+      "explanation": "Use 'where' to refer to a place (Paris); it means 'in which'. In this non-defining clause 'that' is also impossible."
+    },
+    {
+      "text": "My neighbour, {1} dog barks all night, has finally apologised.",
+      "blanks": [
+        { "answer": "whose", "options": ["whose", "who", "which"], "hint": "shows possession in a non-defining clause" }
+      ],
+      "explanation": "Use 'whose' to show possession: the dog belongs to the neighbour. Only 'whose' fits this slot."
     }
   ]
 }

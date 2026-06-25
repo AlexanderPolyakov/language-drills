@@ -90,6 +90,20 @@
         { "cue": "prévenir", "answer": ["ayez pas prévenus", "ayez pas prévenu"], "hint": "subjonctif passé, vous, avoir verb, in the negative: « ne … pas » wraps the auxiliary « ayez »; the preceding object « nous » may trigger agreement" }
       ],
       "explanation": "« C'est dommage que » expresses emotion and triggers the subjunctive; the warning was supposed to happen before the visit, so the past subjunctive is used. « Prévenir » takes « avoir », and in the negative the « ne … pas » brackets the auxiliary: « que vous ne nous ayez pas prévenus ». The preceding direct object « nous » (us) normally forces agreement of the participle (« prévenus »); if « nous » is read as masculine/mixed plural this is « prévenus », though writers who leave it unagreed (« prévenu ») are also tolerated — both are accepted here."
+    },
+    {
+      "text": "Bien que les pompiers {1} en quelques minutes, l'incendie avait déjà ravagé l'entrepôt.",
+      "blanks": [
+        { "cue": "intervenir", "answer": ["soient intervenus"], "hint": "subjonctif passé, ils, être verb: auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject" }
+      ],
+      "explanation": "« Bien que » triggers the subjunctive, and the intervention is anterior to the main clause (the fire « had already » spread), so the past subjunctive expresses anteriority. « Intervenir » takes « être », and its participle agrees with the masculine plural subject « les pompiers »: « qu'ils soient intervenus »."
+    },
+    {
+      "text": "Je doute qu'elle {1} cette décision toute seule, sans en parler à personne.",
+      "blanks": [
+        { "cue": "prendre", "answer": ["ait pris"], "hint": "subjonctif passé, elle, avoir verb: object « cette décision » FOLLOWS the verb, so no agreement on the participle" }
+      ],
+      "explanation": "« Je doute que » triggers the subjunctive, and the deciding is seen as already completed, so the past subjunctive applies. « Prendre » takes « avoir », and since the direct object « cette décision » FOLLOWS the verb (it does not precede it), the participle stays invariable: « qu'elle ait pris »."
     }
   ]
 }
