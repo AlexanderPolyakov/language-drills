@@ -96,6 +96,21 @@
       "prompt": "The brakes failed on the icy road. (rewrite as a wh-cleft beginning 'What happened')",
       "answer": ["What happened was that the brakes failed on the icy road.", "What happened was the brakes failed on the icy road."],
       "explanation": "An event-focus wh-cleft uses 'What happened was (that) ...' to foreground a whole event rather than a single noun. The 'what' clause is the subject, 'was' is the linking verb, and the focused clause may be introduced by 'that'."
+    },
+    {
+      "prompt": "We are not selling the company; we are restructuring it. (emphasise the contrast beginning 'It is not')",
+      "answer": ["It is not that we are selling the company but that we are restructuring it.", "It is not selling but restructuring the company that we are doing."],
+      "explanation": "The 'It is not X but Y' it-cleft sets up a corrective contrast between two focused elements, denying the first ('selling') and asserting the second ('restructuring'). The conjunction 'but' joins the rejected and the intended focus."
+    },
+    {
+      "prompt": "The printer jams whenever I'm in a hurry. (rewrite as a wh-cleft beginning 'What happens')",
+      "answer": ["What happens is that the printer jams whenever I'm in a hurry.", "What happens is the printer jams whenever I'm in a hurry.", "What happens whenever I'm in a hurry is that the printer jams."],
+      "explanation": "A habitual-event wh-cleft uses the present 'What happens is (that) ...' to foreground a recurring situation. Unlike 'What happened was', the present tense signals that the event is regular rather than a single past occurrence."
+    },
+    {
+      "prompt": "I only asked for a little honesty. (rewrite as a wh-cleft beginning 'All')",
+      "answer": ["All I asked for was a little honesty.", "All that I asked for was a little honesty."],
+      "explanation": "An 'All ... is/was ...' cleft is a wh-type structure where 'all' means 'the only thing'. The linking verb 'was' matches the past 'asked', and the focus 'a little honesty' takes the emphatic end position."
     }
   ]
 }

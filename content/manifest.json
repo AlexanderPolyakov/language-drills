@@ -282,7 +282,7 @@
           "level": "B2",
           "title": "Mixed conditionals, wish and if only",
           "file": "en/mixed-conditionals-b2.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "en-phrasal-verbs",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 18
+          "count": 21
         },
         {
           "id": "en-inversion-c1",
@@ -354,7 +354,7 @@
           "level": "C2",
           "title": "Ellipsis and substitution",
           "file": "en/ellipsis-substitution-c2.json",
-          "count": 6
+          "count": 10
         },
         {
           "id": "en-formal-subjunctive-c2",
@@ -632,7 +632,7 @@
           "level": "B2",
           "title": "Le gérondif et le participe présent",
           "file": "fr/gerondif-participe-present-b2.json",
-          "count": 12
+          "count": 15
         },
         {
           "id": "fr-subjonctif-passe-b2",
@@ -664,7 +664,7 @@
           "level": "C1",
           "title": "La nominalisation",
           "file": "fr/nominalisation-c1.json",
-          "count": 7
+          "count": 10
         },
         {
           "id": "fr-concordance-des-temps-c2",
@@ -680,7 +680,7 @@
           "level": "C2",
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
-          "count": 4
+          "count": 8
         }
       ]
     }

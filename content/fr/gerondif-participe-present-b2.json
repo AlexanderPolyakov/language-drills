@@ -93,6 +93,29 @@
         { "cue": "se servir", "answer": ["tout en se servant", "en se servant"], "hint": "gérondif of a pronominal verb expressing simultaneity, same subject; « tout en » adds emphasis on the concurrency" }
       ],
       "explanation": "The gérondif of a pronominal verb keeps its reflexive pronoun: « se servir » → « (tout) en se servant ». It expresses an action SIMULTANEOUS with the main verb and shares its subject (« les invités »): they were chatting while helping themselves at the buffet. « Tout en se servant » emphasises the concurrency of the two actions; the plain « en se servant » is equally correct here."
+    },
+    {
+      "text": "C'est un employé {1}, {2} régulièrement de transmettre les rapports à temps.",
+      "blanks": [
+        { "cue": "négliger — adjectif", "answer": ["négligent"], "hint": "adjectif verbal: agrees and changes spelling « -geant » → « -gent »" },
+        { "cue": "négliger — participe", "answer": ["négligeant"], "hint": "participe présent: invariable, keeps the « e » → « négligeant »" }
+      ],
+      "explanation": "« Négliger » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « négligent » (a careless employee) changes « -geant » to « -gent » and agrees like an adjective; the participe présent « négligeant » keeps the « e » of the verb, stays invariable, and governs a complement (« négligeant de transmettre les rapports »). Compare also fatigant/fatiguant and provocant/provoquant."
+    },
+    {
+      "text": "Les deux frères ont des opinions très {1} sur la question, l'un {2} radicalement de l'autre.",
+      "blanks": [
+        { "cue": "différer — adjectif", "answer": ["différentes"], "hint": "adjectif verbal: agrees (f.pl. with « opinions ») and is spelled « différent » → « différentes »" },
+        { "cue": "différer — participe", "answer": ["différant"], "hint": "participe présent: invariable, spelled « différant » (with « -ant »)" }
+      ],
+      "explanation": "« Différer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « différent » (different opinions) agrees like an adjective — here feminine plural with « opinions »: « différentes ». The participe présent « différant » (= qui diffère) keeps the « -ant » spelling, stays invariable, and replaces a relative clause: « l'un différant radicalement de l'autre »."
+    },
+    {
+      "text": "{1} de toutes ses forces, le coureur a finalement renoncé à la dernière côte.",
+      "blanks": [
+        { "cue": "s'être épuisé", "answer": ["s'étant épuisé"], "hint": "participe présent composé of a pronominal verb (« s'étant » + participe passé) expressing an anterior cause = « comme il s'était épuisé »" }
+      ],
+      "explanation": "The COMPOUND present participle of a pronominal verb is « s'étant » + past participle, marking an action ANTERIOR to the main verb and expressing cause: « s'étant épuisé » = « comme il s'était épuisé » (he first exhausted himself, then gave up). Pronominal verbs form the compound participle with « être », so the participle « épuisé » agrees with the subject « le coureur » (masculine singular). It is a bare participle (no « en »), and it shares the subject of the main verb."
     }
   ]
 }

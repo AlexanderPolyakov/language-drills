@@ -42,6 +42,21 @@
       "prompt": "Les voyageurs sont revenus plus tôt que prévu. (nominaliser « revenir » par un déverbal SANS suffixe → groupe nominal)",
       "answer": ["Le retour anticipé des voyageurs.", "Le retour anticipé des voyageurs", "Le retour des voyageurs plus tôt que prévu.", "Le retour des voyageurs plus tôt que prévu"],
       "explanation": "« Revenir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le retour » (masculine), like « l'oubli », « le choix ». The verb's subject « les voyageurs » becomes the complement « des voyageurs », and « plus tôt que prévu » can be condensed into the adjective « anticipé »: « le retour anticipé des voyageurs »."
+    },
+    {
+      "prompt": "Le conseil municipal a décidé de piétonniser le centre-ville. (nominaliser le verbe « décider » → groupe nominal)",
+      "answer": ["La décision du conseil municipal de piétonniser le centre-ville.", "La décision du conseil municipal de piétonniser le centre-ville", "La décision de piétonniser le centre-ville par le conseil municipal.", "La décision de piétonniser le centre-ville par le conseil municipal"],
+      "explanation": "« Décider » nominalises in « -sion » → « la décision » (the « -sion » suffix is feminine, like « -tion »; it appears after « d », « s » or « r »: décider → décision, comprendre → compréhension). The subject « le conseil municipal » becomes the complement « du conseil municipal », and the verbal object « de piétonniser le centre-ville » is kept as an infinitival complement."
+    },
+    {
+      "prompt": "La population de cette région a fortement augmenté parce qu'elle a beaucoup crû. (nominaliser le verbe « croître » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["La forte croissance de la population de cette région.", "La forte croissance de la population de cette région"],
+      "explanation": "« Croître » nominalises in « -ance » → « la croissance » (the suffixes « -ance / -ence » are feminine and derive nouns of action or state, like « la croissance », « l'existence », « la persévérance »). The subject « la population » becomes the complement « de la population », and the adverb « beaucoup / fortement » is rendered by the adjective « forte » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Le ministre est parti brusquement hier soir. (nominaliser « partir » par un déverbal SANS suffixe → groupe nominal)",
+      "answer": ["Le départ brusque du ministre hier soir.", "Le départ brusque du ministre hier soir"],
+      "explanation": "« Partir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le départ » (masculine), like « l'appel », « le choix », « le retour ». The verb's subject « le ministre » becomes the complement « du ministre », and the adverb « brusquement » is rendered by the adjective « brusque »: « le départ brusque du ministre »."
     }
   ]
 }

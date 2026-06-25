@@ -125,6 +125,27 @@
         { "cue": "listen", "answer": ["had listened"], "hint": "wish + past perfect for a past regret" }
       ],
       "explanation": "To express regret about something we did or failed to do in the past, we use 'wish + past perfect' ('had listened'); the speaker is sorry they ignored the advice."
+    },
+    {
+      "text": "If she didn't have such a fear of heights, she {1} (climb) that mountain with us last summer.",
+      "blanks": [
+        { "cue": "climb", "answer": ["would have climbed"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general present condition ('didn't have such a fear') combined with a past result ('last summer') is a mixed conditional taking 'would have + past participle' in the main clause."
+    },
+    {
+      "text": "If I hadn't lent him all my savings, I {1} (be able) to buy a car this month.",
+      "blanks": [
+        { "cue": "be able", "answer": ["would be able"], "hint": "past condition, present result: would + base" }
+      ],
+      "explanation": "The past condition ('hadn't lent') leads to a present result ('this month'), so the main clause uses 'would be able' (would + base verb)."
+    },
+    {
+      "text": "I wish the builders {1} (finish) the roof before the storm hit last week.",
+      "blanks": [
+        { "cue": "finish", "answer": ["had finished"], "hint": "wish + past perfect for a regret about the past" }
+      ],
+      "explanation": "To regret that something did not happen in the past, we use 'wish + past perfect' ('had finished'); the speaker is sorry the roof was unfinished when the storm came."
     }
   ]
 }

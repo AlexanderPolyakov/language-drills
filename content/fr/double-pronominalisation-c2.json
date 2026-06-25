@@ -31,6 +31,30 @@
       "instruction": "Réécrivez en remplaçant « les touristes » par un pronom et « au sommet » par « y » (double pronominalisation).",
       "answer": ["Le guide les y a conduits.", "Le guide les y a conduits", "Le guide les y a conduit"],
       "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
+    },
+    {
+      "prompt": "Il a parlé de ses projets à moi (= il m'a parlé de ses projets).",
+      "instruction": "Réécrivez « Il m'a parlé de ses projets » en remplaçant « de ses projets » par « en » (double pronominalisation).",
+      "answer": ["Il m'en a parlé.", "Il m'en a parlé", "Il m'en a parle"],
+      "explanation": "A 1st-person pronoun « me » meets « en » (= « de ses projets »). The order « me / te / se / nous / vous » before « en » gives « m'en » (« me » elides to « m' » before the vowel). « En » always comes last in the pre-verbal sequence, and in the passé composé the pair sits before the auxiliary: « Il m'en a parlé ». The participle does not agree with « en »."
+    },
+    {
+      "prompt": "Tu me dis la vérité.",
+      "instruction": "Mettez à l'impératif NÉGATIF en remplaçant « la vérité » par un pronom (double pronominalisation).",
+      "answer": ["Ne me la dis pas.", "Ne me la dis pas", "Ne me la dis pas."],
+      "explanation": "In the NEGATIVE imperative the pronouns return to their normal PRE-verbal position and order (unlike the affirmative imperative): « me » before « la ». The negation wraps the whole group: « Ne me la dis pas ». Compare the affirmative « Dis-la-moi », where the pronouns follow the verb and « me » becomes « moi »."
+    },
+    {
+      "prompt": "J'explique la règle à mon frère.",
+      "instruction": "Réécrivez la phrase en remplaçant « la règle » ET « à mon frère » par des pronoms (double pronominalisation, au présent).",
+      "answer": ["Je la lui explique.", "Je la lui explique", "Je la lui explique."],
+      "explanation": "Two third-person pronouns: the direct object « la règle » → « la », the indirect « à mon frère » → « lui ». With two third-person pronouns the DIRECT one comes first: « la lui ». In the present tense the pair sits directly before the verb: « Je la lui explique »."
+    },
+    {
+      "prompt": "Donne des bonbons à moi !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « des bonbons » par « en » et « à moi » par un pronom (double pronominalisation).",
+      "answer": ["Donne-m'en !", "Donne-m'en", "Donne-m'en."],
+      "explanation": "In the AFFIRMATIVE imperative the pronouns follow the verb, but before « en » the tonic « moi » reverts to « m' »: « Donne-m'en ». The order is verb–indirect–« en » (« me/moi » before « en »), and « moi » elides to « m' » in front of the vowel of « en ». Compare the declarative « Tu m'en donnes »."
     }
   ]
 }

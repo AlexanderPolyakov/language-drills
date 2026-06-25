@@ -48,6 +48,34 @@
         { "answer": "just as", "options": ["just as", "so as", "much so"], "hint": "compares the seminar's tedium to the lecture's: '___ tedious'" }
       ],
       "explanation": "'Just as' before the adjective draws an equal comparison ('just as tedious' = equally tedious as the dull lecture). 'So as' introduces purpose before an infinitive, not a comparison before an adjective, and 'much so' is not a grammatical pre-modifier of 'tedious' here."
+    },
+    {
+      "text": "\"Do you think it will rain before the ceremony?\" \"I hope {1} — the marquee still isn't up.\"",
+      "blanks": [
+        { "answer": "not", "options": ["so", "not", "no"], "hint": "'hope' forms its negative substitute as 'verb + ___', not 'don't ... so'" }
+      ],
+      "explanation": "'Hope' negates a substituted clause as 'hope not' (= I hope it will not rain), the sense required since the speaker is anxious about the unfinished marquee. 'Hope so' would mean the opposite (hoping for rain), and 'no' is not a clause substitute after 'hope'."
+    },
+    {
+      "text": "He had never set foot in the building before, and {1} had any of his colleagues.",
+      "blanks": [
+        { "answer": "neither", "options": ["so", "either", "neither"], "hint": "echo a NEGATIVE statement with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is negative ('had never set foot'), so the additive echo uses 'neither' + auxiliary + subject ('neither had any of his colleagues'). 'So' echoes an affirmative, not a negative, and 'either' needs a preceding 'nor/not' and does not invert this way."
+    },
+    {
+      "text": "Applicants may submit a portfolio or a written essay; {1} a submission must reach us by Friday.",
+      "blanks": [
+        { "answer": "either", "options": ["such", "either", "the former"], "hint": "stands for 'whichever of the two' before the singular noun 'submission'" }
+      ],
+      "explanation": "'Either' substitutes for 'one or the other of the two' options just listed and correctly precedes the singular 'submission'. 'Such' would substitute for a whole category rather than pick one of two, and 'the former' would single out only the portfolio, contradicting 'or' and the singular 'a submission'."
+    },
+    {
+      "text": "The report praised both the engineers and the planners, but it was {1} who had warned of the delay months earlier.",
+      "blanks": [
+        { "answer": "the latter", "options": ["the former", "such", "the latter"], "hint": "refers back to the SECOND of the two groups mentioned ('the planners')" }
+      ],
+      "explanation": "'The latter' substitutes for the second-named of two items — here 'the planners', the group that gave the warning. 'The former' would point to the engineers (the first group), and 'such' substitutes for a category, not for one of two previously named groups."
     }
   ]
 }
