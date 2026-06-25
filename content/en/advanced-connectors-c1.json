@@ -94,6 +94,21 @@
       "text": "{1} I respect his experience, I cannot accept his conclusion on this point.",
       "blanks": [{ "answer": "Much as", "options": ["Much as", "Owing to", "So that", "Hence"], "hint": "concessive conjunction + clause = 'although very much'" }],
       "explanation": "'Much as' is a concessive conjunction introducing a clause ('Much as I respect him' = 'although I greatly respect him'). 'Owing to' takes a noun, 'so that' marks purpose/result, and 'hence' is a consequence adverb, none of which opens a concessive clause this way."
+    },
+    {
+      "text": "The scheme is worthwhile {1} it brings clean water to villages that had none.",
+      "blanks": [{ "answer": "inasmuch as", "options": ["whereas", "inasmuch as", "in order to", "despite"], "hint": "'to the extent that / in that'; gives a qualified reason" }],
+      "explanation": "'Inasmuch as' introduces a clause giving a reason or respect in which something is true ('in that / to the extent that'). 'Whereas' marks contrast, 'in order to' marks purpose before an infinitive, and 'despite' takes a noun, none of which gives a reason this way."
+    },
+    {
+      "text": "The verdict, {1} unpopular, was firmly grounded in the law.",
+      "blanks": [{ "answer": "albeit", "options": ["whereas", "hence", "albeit", "owing to"], "hint": "compressed concession before an adjective = 'though'" }],
+      "explanation": "'Albeit' introduces a concession compactly before an adjective or phrase ('albeit unpopular' = 'although it was unpopular'). 'Whereas' joins contrasting clauses, 'hence' marks a consequence, and 'owing to' takes a noun, so none fits this fronted concessive adjective."
+    },
+    {
+      "text": "The company introduced a system {1} every complaint is logged and reviewed within a day.",
+      "blanks": [{ "answer": "whereby", "options": ["whereas", "whereby", "thus", "provided that"], "hint": "relative 'by which / by means of which'" }],
+      "explanation": "'Whereby' is a formal relative meaning 'by which / by means of which', linking a noun ('a system') to the method it embodies. 'Whereas' marks contrast, 'thus' is a consequence adverb, and 'provided that' sets a condition, none of which functions as this 'by which' relative."
     }
   ]
 }

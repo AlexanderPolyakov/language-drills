@@ -1,0 +1,32 @@
+{
+  "id": "fr-nominalisation-c1",
+  "lang": "fr",
+  "topic": "nominalisation",
+  "level": "C1",
+  "type": "transform",
+  "title": "La nominalisation",
+  "lesson": "Nominalisation turns a verbal clause into a noun phrase — a hallmark of formal, journalistic and academic French (« Les prix ont augmenté » → « l'augmentation des prix »). Deverbal nouns are formed by suffixation, and the suffix usually fixes the gender. The most productive suffix is « -tion / -ation », always FEMININE (augmenter → l'augmentation, créer → la création). « -ment » is MASCULINE and tends to denote the action or its result (développer → le développement, changer → le changement). « -ure » is feminine (ouvrir → l'ouverture, fermer → la fermeture); « -age » is masculine, often a concrete process (recycler → le recyclage, démarrer → le démarrage); « -té / -ité » is feminine and built on adjectives, not verbs (pauvre → la pauvreté, fragile → la fragilité). Some nouns are formed without a suffix (« déverbal sans suffixe »): « l'oubli » (oublier), « le retour » (revenir), « le choix » (choisir), often masculine. When nominalising, the verb's subject or object reappears as a complement introduced by « de » (« on a découvert le vaccin » → « la découverte du vaccin »): the agent or the patient becomes a « complément du nom »."
+  ,
+  "items": [
+    {
+      "prompt": "Le prix de l'énergie a fortement augmenté cet hiver. (nominaliser l'idée principale : « Le prix… a augmenté » → groupe nominal)",
+      "answer": ["La forte augmentation du prix de l'énergie cet hiver.", "La forte augmentation du prix de l'énergie cet hiver"],
+      "explanation": "« Augmenter » nominalises in « -ation » → « l'augmentation » (always feminine). The verb's subject « le prix de l'énergie » becomes a complement introduced by « de » (« l'augmentation DU prix »), and the adverb « fortement » is rendered by the adjective « forte ». The « -tion/-ation » suffix is the most productive deverbal pattern in formal French."
+    },
+    {
+      "prompt": "Les chercheurs ont découvert un nouveau traitement. (nominaliser le verbe : transformer la phrase en groupe nominal centré sur « découvrir »)",
+      "answer": ["La découverte d'un nouveau traitement par les chercheurs.", "La découverte d'un nouveau traitement par les chercheurs"],
+      "explanation": "« Découvrir » gives the suffix-less feminine deverbal « la découverte ». The direct object « un nouveau traitement » becomes the complement « d'un nouveau traitement » (the patient introduced by « de »), and the subject (the agent) is introduced by « par »: « par les chercheurs ». This agent/patient split with « de » and « par » mirrors the active sentence."
+    },
+    {
+      "prompt": "On a développé ce quartier très rapidement. (nominaliser le verbe « développer » et rendre l'adverbe par un adjectif)",
+      "answer": ["Le développement très rapide de ce quartier.", "Le développement très rapide de ce quartier"],
+      "explanation": "« Développer » nominalises in « -ment » → « le développement » (suffix « -ment » is masculine and denotes the action/process). The object « ce quartier » becomes the complement « de ce quartier », and the adverb « rapidement » is rendered by the adjective « rapide » agreeing with the masculine noun: « très rapide »."
+    },
+    {
+      "prompt": "Le gouvernement a fermé plusieurs petites lignes ferroviaires. (nominaliser le verbe « fermer » → groupe nominal)",
+      "answer": ["La fermeture de plusieurs petites lignes ferroviaires par le gouvernement.", "La fermeture de plusieurs petites lignes ferroviaires par le gouvernement"],
+      "explanation": "« Fermer » nominalises in « -ure » → « la fermeture » (feminine, like « l'ouverture »). The direct object « plusieurs petites lignes ferroviaires » becomes the patient complement « de plusieurs… », while the subject (the agent) is reintroduced with « par »: « par le gouvernement ». The « -ure » suffix is a less productive but classic deverbal feminine pattern."
+    }
+  ]
+}

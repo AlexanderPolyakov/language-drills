@@ -98,6 +98,20 @@
         { "cue": "succéder", "answer": ["succédé"], "hint": "pronominal verb where « se » is COI (succéder À quelqu'un): no agreement, participle invariable despite the feminine plural subject" }
       ],
       "explanation": "« Se succéder » comes from « succéder À quelqu'un », so the reflexive « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable despite the feminine plural subject « les militantes »: « elles se sont succédé ». (Compare « se parler » and « se sourire », likewise built on « à » → no agreement.)"
+    },
+    {
+      "text": "Les robes qu'elle s'est {1} pour la cérémonie lui ont coûté une fortune.",
+      "blanks": [
+        { "cue": "acheter", "answer": ["achetées"], "hint": "pronominal verb with a PRECEDING direct object « que » (= les robes): agreement is with that object, not with « se » (which is COI here)" }
+      ],
+      "explanation": "« S'acheter quelque chose » = « acheter quelque chose À soi-même », so the reflexive « se » is an INDIRECT object and triggers no agreement by itself. But the rule of the preceding direct object still applies: « que » refers to « les robes » (feminine plural) and stands BEFORE the verb, so the participle agrees with it — « les robes qu'elle s'est achetées ». Contrast « elle s'est acheté une robe » (object following → no agreement)."
+    },
+    {
+      "text": "Cette mission était plus difficile que nous ne l'avions {1} au départ.",
+      "blanks": [
+        { "cue": "penser", "answer": ["pensé"], "hint": "the neuter pronoun « l' » stands for a whole clause/idea, not a gendered noun: the participle stays invariable" }
+      ],
+      "explanation": "Here the preceding pronoun « l' » is the NEUTER « le » that stands for an entire idea (« que la mission était difficile »), not for the feminine noun « mission ». A neuter « le/l' » representing a proposition is invariable, so the participle does NOT agree: « que nous ne l'avions pensé ». (The « ne » after the comparative « plus… que » is the « ne » explétif, not a negation.)"
     }
   ]
 }

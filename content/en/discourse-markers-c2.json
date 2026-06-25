@@ -132,6 +132,20 @@
         { "answer": "on the contrary", "options": ["on the contrary", "in the same vein", "to that end"], "hint": "marks a sharp reversal of the preceding judgement" }
       ],
       "explanation": "'On the contrary' rebuts the preceding statement and asserts its opposite ('not derivative but original'), which is exactly the reversal here. 'In the same vein' would signal continuation of the same line of thought and 'to that end' marks purpose-and-means, neither of which performs this reversal of judgement."
+    },
+    {
+      "text": "I have no interest in the sequel, or {1} in anything else the studio produces.",
+      "blanks": [
+        { "answer": "for that matter", "options": ["on the contrary", "for that matter", "by and large"], "hint": "extends the point to a broader, related case: 'and indeed also'" }
+      ],
+      "explanation": "'For that matter' broadens a statement to include a further, related case ('and indeed, while we're on the subject'). 'On the contrary' reverses a claim and 'by and large' generalises with exceptions, neither of which extends the point this way."
+    },
+    {
+      "text": "Small museums can outshine the famous ones; this little gallery is a {1}.",
+      "blanks": [
+        { "answer": "case in point", "options": ["foregone conclusion", "case in point", "moot point"], "hint": "a clear example illustrating the claim just made" }
+      ],
+      "explanation": "'A case in point' is a concrete example that illustrates the general claim just made (the gallery proves that small museums can outshine famous ones). 'A foregone conclusion' is an inevitable outcome and 'a moot point' is a debatable or irrelevant one, neither of which names an illustrative example."
     }
   ]
 }

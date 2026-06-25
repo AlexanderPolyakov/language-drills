@@ -139,6 +139,20 @@
         { "answer": "Shall I", "options": ["Shall I", "Will I", "Would I"], "hint": "first-person question offering to do something" }
       ],
       "explanation": "First-person 'Shall I/we...?' is the idiomatic way to make an offer or suggestion ('Shall I make you a cup of tea?'). 'Will I...?' in British English asks for a prediction about oneself, not an offer, and 'Would I...?' reads as a rhetorical or conditional question, not a genuine offer to act now."
+    },
+    {
+      "text": "You knew the result was confidential, so you {1} mentioned it to the press at all.",
+      "blanks": [
+        { "answer": "shouldn't have", "options": ["needn't have", "shouldn't have", "couldn't have"], "hint": "criticising a past act as wrong, not merely unnecessary" }
+      ],
+      "explanation": "'Shouldn't have + past participle' criticises a past action as wrong or ill-advised (you did mention it, and you ought not to have). 'Needn't have' would mean the act was merely unnecessary rather than improper, and 'couldn't have' would assert it was impossible."
+    },
+    {
+      "text": "The envoy {1} have signed the accord that very week, but the talks collapsed at the last moment.",
+      "blanks": [
+        { "answer": "was to", "options": ["was to", "must", "should"], "hint": "an arranged past plan that did not come off: 'was to have + p.p.'" }
+      ],
+      "explanation": "'Was/were to have + past participle' describes an arrangement or destiny that, in the event, did not happen (the signing was scheduled but fell through). 'Must have' would assert it took place, and 'should have' would express regret or expectation rather than a thwarted plan."
     }
   ]
 }

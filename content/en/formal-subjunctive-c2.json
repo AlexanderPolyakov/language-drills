@@ -125,6 +125,27 @@
         { "cue": "take", "answer": ["took"], "hint": "'it is (high) time' + past subjunctive for an overdue action" }
       ],
       "explanation": "'It is (high) time' is followed by the past subjunctive to mark something that is overdue: 'it is high time they took it seriously' (not 'take'). The past-tense form here is irrealis, signalling that the action ought already to be happening but is not."
+    },
+    {
+      "text": "It is essential that each delegate {1} a valid passport when registering at the conference desk.",
+      "blanks": [
+        { "cue": "present", "answer": ["present"], "hint": "base form after 'it is essential that'; third person, no -s" }
+      ],
+      "explanation": "'It is essential that' triggers the mandative subjunctive, so the verb keeps its uninflected base form: 'each delegate present', never 'presents'. The absent third-person -s is the only overt marker with this regular verb."
+    },
+    {
+      "text": "Every entrant, {1} they amateur or professional, must abide by exactly the same rules.",
+      "blanks": [
+        { "cue": "be", "answer": ["be"], "hint": "fronted subjunctive 'be it ... or'; here 'be they ... or'" }
+      ],
+      "explanation": "The fronted subjunctive 'be it X or Y' (here 'be they amateur or professional') is a concessive formula meaning 'whether they are X or Y'. The inverted subjunctive 'be' opens the clause and stays invariant for all subjects."
+    },
+    {
+      "text": "{1} it from me to question the board's judgement, but the figures simply do not add up.",
+      "blanks": [
+        { "cue": "far be", "answer": ["Far be"], "hint": "fossilised inverted subjunctive (= 'it would be presumptuous of me'); capitalised at the start" }
+      ],
+      "explanation": "'Far be it from me to...' is a frozen inverted subjunctive (= 'I would never presume to...'), used to disclaim an intention before doing exactly that. The subjunctive 'be' is fronted before the subject 'it'; the phrase opens the sentence, so it is capitalised."
     }
   ]
 }

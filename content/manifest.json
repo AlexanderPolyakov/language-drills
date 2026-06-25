@@ -314,7 +314,7 @@
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
           "file": "en/advanced-connectors-c1.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "en-cleft-sentences-c1",
@@ -346,7 +346,7 @@
           "level": "C2",
           "title": "Sophisticated discourse markers and register",
           "file": "en/discourse-markers-c2.json",
-          "count": 18
+          "count": 20
         },
         {
           "id": "en-formal-subjunctive-c2",
@@ -354,7 +354,7 @@
           "level": "C2",
           "title": "The formal subjunctive and irrealis 'were'",
           "file": "en/formal-subjunctive-c2.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "en-nuanced-modality-c2",
@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -616,7 +616,7 @@
           "level": "B2",
           "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
           "file": "fr/connecteurs-logiques-b2.json",
-          "count": 12
+          "count": 14
         },
         {
           "id": "fr-gerondif-participe-present-b2",
@@ -640,7 +640,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 13
+          "count": 15
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -651,12 +651,20 @@
           "count": 12
         },
         {
+          "id": "fr-nominalisation-c1",
+          "topic": "nominalisation",
+          "level": "C1",
+          "title": "La nominalisation",
+          "file": "fr/nominalisation-c1.json",
+          "count": 4
+        },
+        {
           "id": "fr-concordance-des-temps-c2",
           "topic": "concordance-des-temps",
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 13
+          "count": 15
         }
       ]
     }

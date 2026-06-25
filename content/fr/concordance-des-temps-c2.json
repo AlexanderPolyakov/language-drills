@@ -98,6 +98,20 @@
         { "cue": "quitter", "answer": ["avait quitté"], "hint": "anteriority in a past frame: a passé composé in direct speech becomes the plus-que-parfait" }
       ],
       "explanation": "The main verb « ont conclu » is past, and the subordinate action happened BEFORE it (« bien avant l'arrivée de la police »). A passé composé in direct speech (« le suspect a quitté les lieux ») shifts to the plus-que-parfait to mark anteriority: « avait quitté »."
+    },
+    {
+      "text": "Il aurait souhaité que son fils {1} la profession qu'il lui avait toujours destinée.",
+      "blanks": [
+        { "cue": "embrasser", "answer": ["embrassât", "embrasse"], "hint": "subjunctive concordance after a conditionnel passé: literary subjonctif imparfait « embrassât » or modern subjonctif présent « embrasse » for posteriority" }
+      ],
+      "explanation": "« Souhaiter que » triggers the subjunctive, and the main verb « aurait souhaité » (conditionnel passé) belongs to the past register, so concordance applies. The wished action is posterior to the wish, which in strict literary usage calls the subjonctif imparfait « qu'il embrassât la profession »; modern usage normally keeps the subjonctif présent « qu'il embrasse ». Both are accepted, « embrassât » being the strictly concordant literary form. Note the circumflex of the 3rd-person singular subjonctif imparfait « embrassât » (vs the passé simple « embrassa »)."
+    },
+    {
+      "text": "Elle nous avait assuré qu'elle {1} le dossier avant que la semaine ne soit écoulée.",
+      "blanks": [
+        { "cue": "avoir terminé", "answer": ["aurait terminé"], "hint": "futur antérieur dans le passé: a futur antérieur in direct speech becomes the conditionnel passé after a past main verb" }
+      ],
+      "explanation": "The main verb « avait assuré » is past, and the original direct statement contained a futur antérieur expressing an action completed before a deadline: « j'aurai terminé le dossier avant que la semaine ne soit écoulée ». Under concordance, the futur antérieur « aurai terminé » becomes the conditionnel passé « aurait terminé » — the « futur antérieur dans le passé », the anterior counterpart of the « futur dans le passé ». (The « ne » in « avant que… ne soit écoulée » is the « ne » explétif required by « avant que ».)"
     }
   ]
 }
