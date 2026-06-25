@@ -96,6 +96,26 @@
       "prompt": "The damage was so great that the bridge had to be rebuilt. (begin with 'Such')",
       "answer": ["Such was the damage that the bridge had to be rebuilt."],
       "explanation": "Fronting 'Such' for emphasis triggers inversion of the verb 'be': 'was the damage'. The 'that' result clause that follows keeps normal word order. ('Such + be' parallels the 'So + adjective + be' pattern.)"
+    },
+    {
+      "prompt": "If I had known about the delay, I would have rebooked the flight. (omit 'if', begin with 'Had')",
+      "answer": ["Had I known about the delay, I would have rebooked the flight."],
+      "explanation": "In a third conditional, dropping 'if' inverts the auxiliary 'had' to the front: 'Had I known ...'. The main clause ('I would have rebooked the flight') is unchanged."
+    },
+    {
+      "prompt": "If the bridge were to collapse, the whole town would be cut off. (omit 'if', begin with 'Were')",
+      "answer": ["Were the bridge to collapse, the whole town would be cut off."],
+      "explanation": "With 'were to' in a hypothetical conditional, omitting 'if' fronts 'were' before the subject: 'Were the bridge to collapse ...'. This formal inversion replaces 'if' entirely."
+    },
+    {
+      "prompt": "If you should need any assistance, please do not hesitate to ask. (omit 'if', begin with 'Should')",
+      "answer": ["Should you need any assistance, please do not hesitate to ask."],
+      "explanation": "In a conditional with 'should' (a tentative future possibility), dropping 'if' moves 'should' to the front before the subject: 'Should you need ...'. The bare infinitive 'need' follows."
+    },
+    {
+      "prompt": "She has not enjoyed a film this much since she was a child. (begin with 'Not since')",
+      "answer": ["Not since she was a child has she enjoyed a film this much."],
+      "explanation": "The fronted negative time phrase 'Not since + clause' triggers inversion in the MAIN clause: the auxiliary 'has' precedes the subject 'she'. The subordinate clause 'she was a child' keeps normal order."
     }
   ]
 }

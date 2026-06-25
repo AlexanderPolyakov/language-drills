@@ -1,0 +1,53 @@
+{
+  "id": "en-ellipsis-substitution-c2",
+  "lang": "en",
+  "topic": "ellipsis-substitution",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Ellipsis and substitution",
+  "lesson": "Advanced cohesion avoids repetition by substituting a short word for a longer chunk. 'So' substitutes for a positive 'that'-clause after verbs of thinking and saying (think, hope, suppose, be afraid, expect): 'Is she coming?' 'I think so.' To negate, the choice of pattern is verb-specific: 'hope', 'be afraid', 'guess', 'assume', 'presume', 'suspect' take a positive verb + 'not' ('I hope not'), whereas 'think', 'believe', 'expect', 'imagine' take a negative verb + 'so' ('I don't think so'). 'Do so' is a formal substitute for a previously mentioned action ('She agreed to sign and did so at once'); plain 'do' / an auxiliary alone is the everyday option. 'One/ones' replaces a countable noun ('the red one'). After a comparison or 'such', use 'such' for a whole category. To echo agreement, 'so'/'neither'/'nor' + auxiliary + subject inverts ('So do I', 'Neither can he').",
+  "items": [
+    {
+      "text": "\"Will the strike go ahead?\" \"I'm afraid {1} — talks broke down last night.\"",
+      "blanks": [
+        { "answer": "so", "options": ["so", "not", "it"], "hint": "substitute for the positive clause 'the strike will go ahead'" }
+      ],
+      "explanation": "'So' substitutes for the affirmative 'that'-clause ('the strike will go ahead'), which is what 'I'm afraid' confirms here. 'I'm afraid not' would deny it (i.e. no strike), the opposite of what the broken-down talks imply; bare 'it' cannot substitute for a clause after 'afraid'."
+    },
+    {
+      "text": "\"Has the committee reached a decision yet?\" \"I don't {1} so — they're still deliberating.\"",
+      "blanks": [
+        { "answer": "think", "options": ["think", "hope", "guess"], "hint": "which verb pairs with a NEGATIVE verb + 'so', not 'verb + not'?" }
+      ],
+      "explanation": "'Think', 'believe', 'expect' and 'imagine' negate as 'don't think so'. 'Hope' and 'guess' do not take 'don't ... so'; they form the negative the other way ('I hope not', 'I guess not'), so 'don't hope so' / 'don't guess so' are not idiomatic."
+    },
+    {
+      "text": "She promised to apologise to the team, and she {1} the moment the meeting opened.",
+      "blanks": [
+        { "answer": "did so", "options": ["did so", "made so", "did it so"], "hint": "formal substitute for the action 'apologise to the team'" }
+      ],
+      "explanation": "'Do so' is the standard pro-form substituting for a whole verb phrase ('apologise to the team'). 'Make so' is not an English substitution form, and 'did it so' is ungrammatical because 'do so' already contains the object reference — you cannot add 'it'."
+    },
+    {
+      "text": "These gloves are too thin for winter; I need to find some warmer {1}.",
+      "blanks": [
+        { "answer": "ones", "options": ["ones", "such", "so"], "hint": "substitutes for a plural countable noun ('gloves')" }
+      ],
+      "explanation": "'Ones' substitutes for a countable plural noun after an adjective ('warmer ones' = 'warmer gloves'). 'Such' would replace a category, not a counted noun after 'warmer', and 'so' substitutes for a clause, not a noun."
+    },
+    {
+      "text": "The first proposal was rejected outright, and {1} the second.",
+      "blanks": [
+        { "answer": "so was", "options": ["so was", "neither was", "so did"], "hint": "echo a POSITIVE statement with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is affirmative ('was rejected'), so the additive echo uses 'so' + the same auxiliary ('was') + subject: 'so was the second'. 'Neither' is for echoing a negative, and 'so did' would need a 'do'-auxiliary that the passive 'was rejected' does not use."
+    },
+    {
+      "text": "The lecture was so dull that several students dozed off, and the seminar afterwards was {1} tedious.",
+      "blanks": [
+        { "answer": "just as", "options": ["just as", "so as", "much so"], "hint": "compares the seminar's tedium to the lecture's: '___ tedious'" }
+      ],
+      "explanation": "'Just as' before the adjective draws an equal comparison ('just as tedious' = equally tedious as the dull lecture). 'So as' introduces purpose before an infinitive, not a comparison before an adjective, and 'much so' is not a grammatical pre-modifier of 'tedious' here."
+    }
+  ]
+}

@@ -27,6 +27,21 @@
       "prompt": "Le gouvernement a fermé plusieurs petites lignes ferroviaires. (nominaliser le verbe « fermer » → groupe nominal)",
       "answer": ["La fermeture de plusieurs petites lignes ferroviaires par le gouvernement.", "La fermeture de plusieurs petites lignes ferroviaires par le gouvernement"],
       "explanation": "« Fermer » nominalises in « -ure » → « la fermeture » (feminine, like « l'ouverture »). The direct object « plusieurs petites lignes ferroviaires » becomes the patient complement « de plusieurs… », while the subject (the agent) is reintroduced with « par »: « par le gouvernement ». The « -ure » suffix is a less productive but classic deverbal feminine pattern."
+    },
+    {
+      "prompt": "On a recyclé les déchets plastiques systématiquement. (nominaliser le verbe « recycler » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["Le recyclage systématique des déchets plastiques.", "Le recyclage systématique des déchets plastiques"],
+      "explanation": "« Recycler » nominalises in « -age » → « le recyclage » (suffix « -age » is masculine and typically names a concrete process or operation, like « le démarrage », « le nettoyage »). The direct object « les déchets plastiques » becomes the complement « des déchets plastiques » (« de » + « les » → « des »), and the adverb « systématiquement » is rendered by the adjective « systématique »."
+    },
+    {
+      "prompt": "Ce produit est très toxique, ce qui inquiète les autorités. (nominaliser l'adjectif « toxique » en « -ité » → groupe nominal sujet)",
+      "answer": ["La forte toxicité de ce produit inquiète les autorités.", "La forte toxicité de ce produit inquiète les autorités"],
+      "explanation": "Unlike the others, this nominalisation is built on an ADJECTIVE, not a verb: « toxique » → « la toxicité » (suffix « -té / -ité » is feminine and denotes an abstract quality, like « la pauvreté », « la fragilité »). The adverb of degree « très » becomes the adjective « forte » agreeing with the feminine noun, and the original subject « ce produit » becomes the complement « de ce produit »."
+    },
+    {
+      "prompt": "Les voyageurs sont revenus plus tôt que prévu. (nominaliser « revenir » par un déverbal SANS suffixe → groupe nominal)",
+      "answer": ["Le retour anticipé des voyageurs.", "Le retour anticipé des voyageurs", "Le retour des voyageurs plus tôt que prévu.", "Le retour des voyageurs plus tôt que prévu"],
+      "explanation": "« Revenir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le retour » (masculine), like « l'oubli », « le choix ». The verb's subject « les voyageurs » becomes the complement « des voyageurs », and « plus tôt que prévu » can be condensed into the adjective « anticipé »: « le retour anticipé des voyageurs »."
     }
   ]
 }

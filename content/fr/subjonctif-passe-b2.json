@@ -104,6 +104,27 @@
         { "cue": "prendre", "answer": ["ait pris"], "hint": "subjonctif passé, elle, avoir verb: object « cette décision » FOLLOWS the verb, so no agreement on the participle" }
       ],
       "explanation": "« Je doute que » triggers the subjunctive, and the deciding is seen as already completed, so the past subjunctive applies. « Prendre » takes « avoir », and since the direct object « cette décision » FOLLOWS the verb (it does not precede it), the participle stays invariable: « qu'elle ait pris »."
+    },
+    {
+      "text": "Il faut que tu {1} ton travail avant de pouvoir partir en week-end.",
+      "blanks": [
+        { "cue": "finir", "answer": ["aies fini"], "hint": "subjonctif passé, tu, avoir verb: anteriority (the work must be completed BEFORE leaving)" }
+      ],
+      "explanation": "« Il faut que » triggers the subjunctive, and here the past subjunctive marks anteriority: the finishing must be COMPLETED before the leaving (« avant de pouvoir partir »). « Finir » takes « avoir »: « que tu aies fini ». The object « ton travail » follows the verb, so the participle stays invariable."
+    },
+    {
+      "text": "Je ne crois pas qu'elle nous {1} la vérité jusqu'au bout.",
+      "blanks": [
+        { "cue": "cacher", "answer": ["ait caché"], "hint": "subjonctif passé, elle, avoir verb: the preceding object « nous » is INDIRECT (cacher qqch À qqn), so no agreement" }
+      ],
+      "explanation": "« Ne pas croire que » expresses doubt and triggers the subjunctive, and the action is viewed as already completed, so the past subjunctive applies. « Cacher » takes « avoir »; although « nous » precedes the verb, it is an INDIRECT object here (« cacher quelque chose À quelqu'un »), so it triggers no agreement, and the direct object « la vérité » follows the verb — the participle stays invariable: « qu'elle nous ait caché »."
+    },
+    {
+      "text": "Quoiqu'ils {1} tard dans la nuit, ils étaient en pleine forme le lendemain matin.",
+      "blanks": [
+        { "cue": "rentrer", "answer": ["soient rentrés"], "hint": "subjonctif passé, ils, être verb: « quoique » + auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject" }
+      ],
+      "explanation": "« Quoique » (like « bien que ») expresses concession and triggers the subjunctive, and the action is prior to the main clause, so the past subjunctive is used. « Rentrer » here takes « être » (no direct object), and its participle agrees with the masculine plural subject « ils »: « qu'ils soient rentrés »."
     }
   ]
 }
