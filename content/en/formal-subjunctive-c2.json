@@ -66,9 +66,9 @@
     {
       "text": "The deadline is unworkable; {1} that as it may, we are contractually bound to meet it.",
       "blanks": [
-        { "cue": "be", "answer": ["Be"], "hint": "fixed concessive formula; capitalised here at sentence start" }
+        { "cue": "be", "answer": ["be"], "hint": "fixed concessive formula; keeps the bare subjunctive 'be'" }
       ],
-      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb stays 'be'; capitalise it as it opens the clause after the semicolon-led sentence segment."
+      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb keeps the bare subjunctive form 'be' rather than the indicative 'is'."
     },
     {
       "text": "{1} you require any further assistance, please do not hesitate to contact our office.",

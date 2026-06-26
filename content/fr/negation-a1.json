@@ -9,7 +9,7 @@
   "items": [
     {
       "text": "Je ne mange {1} de viande, je suis végétarien.",
-      "blanks": [{ "options": ["rien", "pas", "jamais"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "personne", "jamais"], "answer": "jamais" }],
       "explanation": "'ne… jamais' means 'never', which fits a permanent habit."
     },
     {
@@ -33,7 +33,7 @@
       "explanation": "'ne… rien' means 'nothing'."
     },
     {
-      "text": "La maison est silencieuse, il n'y a {1} ici.",
+      "text": "Tout le monde est parti, il n'y a {1} ici.",
       "blanks": [{ "options": ["plus", "rien", "personne"], "answer": "personne" }],
       "explanation": "'ne… personne' means 'nobody / no one'."
     },
@@ -44,7 +44,7 @@
     },
     {
       "text": "Elle ne boit {1} d'alcool, c'est contre ses principes.",
-      "blanks": [{ "options": ["jamais", "rien", "pas"], "answer": "jamais" }],
+      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never, for an absolute rule."
     },
     {
@@ -58,7 +58,7 @@
       "explanation": "'ne… rien' = nothing, the object of 'dire'."
     },
     {
-      "text": "Au bureau le dimanche, il n'y a {1}.",
+      "text": "Au bureau le dimanche, il n'y a {1} pour répondre au téléphone.",
       "blanks": [{ "options": ["personne", "rien", "pas"], "answer": "personne" }],
       "explanation": "'ne… personne' = nobody is present."
     },

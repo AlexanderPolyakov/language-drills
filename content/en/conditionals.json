@@ -32,7 +32,7 @@
     {
       "text": "If you heat ice, it {1}.",
       "blanks": [
-        { "answer": "melts", "options": ["melts", "would melt", "will melt"], "hint": "general truth" }
+        { "answer": "melts", "options": ["melts", "would melt", "melted"], "hint": "general truth" }
       ],
       "explanation": "Zero conditional for general truths: present simple in both clauses."
     },
@@ -57,7 +57,7 @@
       "text": "If you {1} water to 100°C, it {2}.",
       "blanks": [
         { "answer": "heat", "options": ["heat", "will heat", "heated"], "hint": "zero conditional 'if' clause" },
-        { "answer": "boils", "options": ["boils", "will boil", "would boil"], "hint": "zero conditional result" }
+        { "answer": "boils", "options": ["boils", "boiled", "would boil"], "hint": "zero conditional result" }
       ],
       "explanation": "Zero conditional for scientific facts: present simple in both clauses (heat … boils)."
     },

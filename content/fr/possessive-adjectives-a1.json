@@ -138,9 +138,9 @@
       "explanation": "'équipe' is singular, so 'notre' for 'nous'."
     },
     {
-      "text": "Avez-vous reçu {1} colis ce matin ?",
+      "text": "Avez-vous reçu {1} paquet ce matin ?",
       "blanks": [{ "options": ["votre", "vos", "leur"], "answer": "votre" }],
-      "explanation": "'colis' is singular here, so 'votre' for 'vous'."
+      "explanation": "'paquet' is masculine singular, so 'votre' for 'vous'."
     },
     {
       "text": "N'oubliez pas {1} passeports à l'aéroport.",
