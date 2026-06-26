@@ -66,6 +66,56 @@
       "prompt": "At no point did she lose her composure. (rewrite without inversion, beginning 'She')",
       "answer": ["She did not lose her composure at any point.", "She didn't lose her composure at any point."],
       "explanation": "Reversing the process: the fronted negative 'At no point' caused inversion. Returning to normal order, the negation reattaches to the verb ('did not lose') and 'no point' becomes 'any point'."
+    },
+    {
+      "prompt": "We understood the gravity of the situation only then. (begin with 'Only then')",
+      "answer": ["Only then did we understand the gravity of the situation."],
+      "explanation": "A fronted 'Only then' is a restrictive adverbial that triggers inversion in the main clause. With the past simple and no auxiliary, insert 'did' + bare infinitive: 'did we understand'."
+    },
+    {
+      "prompt": "You must not open this door on any account. (begin with 'On no account')",
+      "answer": ["On no account must you open this door."],
+      "explanation": "The fronted negative adverbial 'On no account' forces subject-auxiliary inversion: the modal 'must' moves before the subject 'you'. The negation is carried by the adverbial, so the verb itself is affirmative."
+    },
+    {
+      "prompt": "The performance was so impressive that the audience rose to their feet. (begin with 'So')",
+      "answer": ["So impressive was the performance that the audience rose to their feet."],
+      "explanation": "Fronting 'So + adjective' for emphasis triggers inversion of the verb 'be': 'was the performance'. The 'that' result clause that follows keeps normal word order."
+    },
+    {
+      "prompt": "Visitors are not permitted to enter the laboratory under any circumstances. (begin with 'Under no circumstances')",
+      "answer": ["Under no circumstances are visitors permitted to enter the laboratory."],
+      "explanation": "The fronted negative phrase 'Under no circumstances' demands inversion: the auxiliary 'are' precedes the subject 'visitors'. The negation sits in the adverbial, leaving the verb affirmative."
+    },
+    {
+      "prompt": "You can solve this problem only by working together. (begin with 'Only by')",
+      "answer": ["Only by working together can you solve this problem."],
+      "explanation": "A fronted 'Only by + -ing' is a restrictive adverbial that triggers inversion in the main clause: the modal 'can' moves before the subject 'you'. The gerund phrase 'working together' itself keeps normal order."
+    },
+    {
+      "prompt": "The damage was so great that the bridge had to be rebuilt. (begin with 'Such')",
+      "answer": ["Such was the damage that the bridge had to be rebuilt."],
+      "explanation": "Fronting 'Such' for emphasis triggers inversion of the verb 'be': 'was the damage'. The 'that' result clause that follows keeps normal word order. ('Such + be' parallels the 'So + adjective + be' pattern.)"
+    },
+    {
+      "prompt": "If I had known about the delay, I would have rebooked the flight. (omit 'if', begin with 'Had')",
+      "answer": ["Had I known about the delay, I would have rebooked the flight."],
+      "explanation": "In a third conditional, dropping 'if' inverts the auxiliary 'had' to the front: 'Had I known ...'. The main clause ('I would have rebooked the flight') is unchanged."
+    },
+    {
+      "prompt": "If the bridge were to collapse, the whole town would be cut off. (omit 'if', begin with 'Were')",
+      "answer": ["Were the bridge to collapse, the whole town would be cut off."],
+      "explanation": "With 'were to' in a hypothetical conditional, omitting 'if' fronts 'were' before the subject: 'Were the bridge to collapse ...'. This formal inversion replaces 'if' entirely."
+    },
+    {
+      "prompt": "If you should need any assistance, please do not hesitate to ask. (omit 'if', begin with 'Should')",
+      "answer": ["Should you need any assistance, please do not hesitate to ask."],
+      "explanation": "In a conditional with 'should' (a tentative future possibility), dropping 'if' moves 'should' to the front before the subject: 'Should you need ...'. The bare infinitive 'need' follows."
+    },
+    {
+      "prompt": "She has not enjoyed a film this much since she was a child. (begin with 'Not since')",
+      "answer": ["Not since she was a child has she enjoyed a film this much."],
+      "explanation": "The fronted negative time phrase 'Not since + clause' triggers inversion in the MAIN clause: the auxiliary 'has' precedes the subject 'she'. The subordinate clause 'she was a child' keeps normal order."
     }
   ]
 }

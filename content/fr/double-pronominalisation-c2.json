@@ -1,0 +1,108 @@
+{
+  "id": "fr-double-pronominalisation-c2",
+  "lang": "fr",
+  "topic": "double-pronominalisation",
+  "level": "C2",
+  "type": "transform",
+  "title": "La double pronominalisation",
+  "lesson": "When a verb has two pronoun complements at once, French imposes a strict order. BEFORE the verb (declarative, negative, and negative imperative), the sequence is: « me / te / se / nous / vous » → « le / la / les » → « lui / leur » → « y » → « en ». So a 1st/2nd-person indirect pronoun comes BEFORE a 3rd-person direct one (« Il me le donne »), but with two third-person pronouns the DIRECT one comes first (« Je le lui donne », « Je les leur montre »). « y » and « en » always come last (« Il m'en parle », « Elle l'y conduit »). In the AFFIRMATIVE imperative only, the pronouns follow the verb, joined by hyphens, in the order verb–direct–indirect, and « me / te » become the tonic « moi / toi »: « Donne-le-moi », « Dis-le-lui », « Adresse-la-leur », « Donnez-les-leur ». In compound tenses the pair sits before the auxiliary (« Il me l'a dit »), and the past participle agrees with a preceding direct-object pronoun (« Ces lettres, il me les a montrées »).",
+  "items": [
+    {
+      "prompt": "Il a donné le dossier à ses collègues.",
+      "instruction": "Réécrivez la phrase en remplaçant « le dossier » ET « à ses collègues » par des pronoms (double pronominalisation).",
+      "answer": ["Il le leur a donné.", "Il le leur a donné", "Il le leur a donne"],
+      "explanation": "Two third-person pronouns: the direct object « le dossier » → « le », the indirect « à ses collègues » → « leur ». With two third-person pronouns the DIRECT one comes first: « le leur ». In the passé composé the pair sits before the auxiliary: « Il le leur a donné ». The participle « donné » does not agree because the preceding pronoun « le » is masculine singular.",
+      "placeholder": "Il … a donné."
+    },
+    {
+      "prompt": "Tu prêtes ta voiture à moi (= tu me prêtes ta voiture).",
+      "instruction": "Réécrivez « Tu me prêtes ta voiture » en remplaçant aussi « ta voiture » par un pronom.",
+      "answer": ["Tu me la prêtes.", "Tu me la prêtes", "Tu me la pretes"],
+      "explanation": "Here a 1st-person indirect pronoun « me » meets a 3rd-person direct pronoun « la » (= « ta voiture », feminine). The rule « me / te / se / nous / vous » before « le / la / les » puts the person pronoun FIRST: « me la ». Hence « Tu me la prêtes » — note the order is the opposite of the two-third-person case (« le lui »)."
+    },
+    {
+      "prompt": "Apporte les documents à moi !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « les documents » et « à moi » par des pronoms (double pronominalisation).",
+      "answer": ["Apporte-les-moi !", "Apporte-les-moi", "Apporte les moi"],
+      "explanation": "In the AFFIRMATIVE imperative the pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect, and « me » becomes the tonic « moi »: « Apporte-les-moi ». Compare the declarative order, which would be the reverse and pre-verbal (« Tu me les apportes »)."
+    },
+    {
+      "prompt": "Le guide a conduit les touristes au sommet.",
+      "instruction": "Réécrivez en remplaçant « les touristes » par un pronom et « au sommet » par « y » (double pronominalisation).",
+      "answer": ["Le guide les y a conduits.", "Le guide les y a conduits", "Le guide les y a conduit"],
+      "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
+    },
+    {
+      "prompt": "Il a parlé de ses projets à moi (= il m'a parlé de ses projets).",
+      "instruction": "Réécrivez « Il m'a parlé de ses projets » en remplaçant « de ses projets » par « en » (double pronominalisation).",
+      "answer": ["Il m'en a parlé.", "Il m'en a parlé", "Il m'en a parle"],
+      "explanation": "A 1st-person pronoun « me » meets « en » (= « de ses projets »). The order « me / te / se / nous / vous » before « en » gives « m'en » (« me » elides to « m' » before the vowel). « En » always comes last in the pre-verbal sequence, and in the passé composé the pair sits before the auxiliary: « Il m'en a parlé ». The participle does not agree with « en »."
+    },
+    {
+      "prompt": "Tu me dis la vérité.",
+      "instruction": "Mettez à l'impératif NÉGATIF en remplaçant « la vérité » par un pronom (double pronominalisation).",
+      "answer": ["Ne me la dis pas.", "Ne me la dis pas", "Ne me la dis pas."],
+      "explanation": "In the NEGATIVE imperative the pronouns return to their normal PRE-verbal position and order (unlike the affirmative imperative): « me » before « la ». The negation wraps the whole group: « Ne me la dis pas ». Compare the affirmative « Dis-la-moi », where the pronouns follow the verb and « me » becomes « moi »."
+    },
+    {
+      "prompt": "J'explique la règle à mon frère.",
+      "instruction": "Réécrivez la phrase en remplaçant « la règle » ET « à mon frère » par des pronoms (double pronominalisation, au présent).",
+      "answer": ["Je la lui explique.", "Je la lui explique", "Je la lui explique."],
+      "explanation": "Two third-person pronouns: the direct object « la règle » → « la », the indirect « à mon frère » → « lui ». With two third-person pronouns the DIRECT one comes first: « la lui ». In the present tense the pair sits directly before the verb: « Je la lui explique »."
+    },
+    {
+      "prompt": "Donne des bonbons à moi !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « des bonbons » par « en » et « à moi » par un pronom (double pronominalisation).",
+      "answer": ["Donne-m'en !", "Donne-m'en", "Donne-m'en."],
+      "explanation": "In the AFFIRMATIVE imperative the pronouns follow the verb, but before « en » the tonic « moi » reverts to « m' »: « Donne-m'en ». The order is verb–indirect–« en » (« me/moi » before « en »), and « moi » elides to « m' » in front of the vowel of « en ». Compare the declarative « Tu m'en donnes »."
+    },
+    {
+      "prompt": "La directrice nous a communiqué les résultats.",
+      "instruction": "Réécrivez la phrase en remplaçant « les résultats » par un pronom (double pronominalisation, au passé composé).",
+      "answer": ["La directrice nous les a communiqués.", "La directrice nous les a communiqués", "La directrice nous les a communiques"],
+      "explanation": "A 1st-person plural indirect pronoun « nous » meets a 3rd-person direct pronoun « les » (= « les résultats »). The rule « me / te / se / nous / vous » before « le / la / les » puts the person pronoun FIRST: « nous les ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « La directrice nous les a communiqués »."
+    },
+    {
+      "prompt": "Le libraire a envoyé des romans à vous (= il vous a envoyé des romans).",
+      "instruction": "Réécrivez « Il vous a envoyé des romans » en remplaçant « des romans » par « en » (double pronominalisation).",
+      "answer": ["Il vous en a envoyé.", "Il vous en a envoyé", "Il vous en a envoye"],
+      "explanation": "A 2nd-person plural pronoun « vous » meets « en » (= « des romans »). The order « me / te / se / nous / vous » before « en » gives « vous en ». « En » always comes last in the pre-verbal sequence, and in the passé composé the pair sits before the auxiliary: « Il vous en a envoyé ». The participle does NOT agree with the preceding « en », so « envoyé » stays invariable."
+    },
+    {
+      "prompt": "Dis la vérité à ton père !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « la vérité » ET « à ton père » par des pronoms (double pronominalisation).",
+      "answer": ["Dis-la-lui !", "Dis-la-lui", "Dis la lui"],
+      "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative: « la vérité » → « la », « à ton père » → « lui ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Dis-la-lui ». Here « lui » keeps its form (no « moi/toi » switch, since that affects only « me/te »). Compare the declarative « Tu la lui dis »."
+    },
+    {
+      "prompt": "Le moniteur conduit les enfants à la piscine.",
+      "instruction": "Réécrivez en remplaçant « les enfants » par un pronom et « à la piscine » par « y » (double pronominalisation, au présent).",
+      "answer": ["Le moniteur les y conduit.", "Le moniteur les y conduit", "Le moniteur les y conduit."],
+      "explanation": "The direct object « les enfants » → « les »; the place complement « à la piscine » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the present tense the pair sits directly before the verb: « Le moniteur les y conduit ». No participle agreement here since it is not a compound tense."
+    },
+    {
+      "prompt": "Le notaire a remis la clé à ma sœur.",
+      "instruction": "Réécrivez au passé composé en remplaçant « la clé » ET « à ma sœur » par des pronoms (double pronominalisation, attention à l'accord du participe).",
+      "answer": ["Le notaire la lui a remise.", "Le notaire la lui a remise", "Le notaire la lui a remise."],
+      "explanation": "Two third-person pronouns: the direct object « la clé » (feminine) → « la », the indirect « à ma sœur » → « lui ». With two third-person pronouns the DIRECT one comes first: « la lui ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « la » (feminine singular): « remise ». Hence « Le notaire la lui a remise »."
+    },
+    {
+      "prompt": "Le professeur a offert des livres à ses élèves (= il a offert des livres à eux).",
+      "instruction": "Réécrivez en remplaçant « des livres » par « en » et « à ses élèves » par un pronom (double pronominalisation, au passé composé).",
+      "answer": ["Le professeur leur en a offert.", "Le professeur leur en a offert", "Le professeur leur en a offert."],
+      "explanation": "Here the indirect object « à ses élèves » → « leur » meets « en » (= « des livres »). The pre-verbal sequence puts « lui / leur » before « en », giving « leur en ». In the passé composé the pair sits before the auxiliary: « Le professeur leur en a offert ». The participle does NOT agree with « en », so « offert » stays invariable."
+    },
+    {
+      "prompt": "Tu parles de tes vacances à moi (= tu me parles de tes vacances).",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « de tes vacances » par « en » (double pronominalisation).",
+      "answer": ["Parle-m'en !", "Parle-m'en", "Parle-m'en."],
+      "explanation": "In the AFFIRMATIVE imperative the pronouns follow the verb, but before « en » the tonic « moi » reverts to « m' »: « Parle-m'en ». The order is verb–« me/moi »–« en », and « moi » elides to « m' » in front of the vowel of « en ». Compare the declarative « Tu m'en parles »."
+    },
+    {
+      "prompt": "Apporte les fleurs à tes grands-parents !",
+      "instruction": "Mettez à l'impératif affirmatif (vous) en remplaçant « les fleurs » ET « à tes grands-parents » par des pronoms (double pronominalisation).",
+      "answer": ["Apportez-les-leur !", "Apportez-les-leur", "Apportez les leur"],
+      "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative (« vous » form): « les fleurs » → « les », « à tes grands-parents » → « leur ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Apportez-les-leur ». « leur » keeps its form (the « moi/toi » switch affects only « me/te »). Compare the declarative « Vous les leur apportez »."
+    }
+  ]
+}

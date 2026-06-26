@@ -1,0 +1,92 @@
+{
+  "id": "fr-nominalisation-c1",
+  "lang": "fr",
+  "topic": "nominalisation",
+  "level": "C1",
+  "type": "transform",
+  "title": "La nominalisation",
+  "lesson": "Nominalisation turns a verbal clause into a noun phrase — a hallmark of formal, journalistic and academic French (« Les prix ont augmenté » → « l'augmentation des prix »). Deverbal nouns are formed by suffixation, and the suffix usually fixes the gender. The most productive suffix is « -tion / -ation », always FEMININE (augmenter → l'augmentation, créer → la création). « -ment » is MASCULINE and tends to denote the action or its result (développer → le développement, changer → le changement). « -ure » is feminine (ouvrir → l'ouverture, fermer → la fermeture); « -age » is masculine, often a concrete process (recycler → le recyclage, démarrer → le démarrage); « -té / -ité » is feminine and built on adjectives, not verbs (pauvre → la pauvreté, fragile → la fragilité). Some nouns are formed without a suffix (« déverbal sans suffixe »): « l'oubli » (oublier), « le retour » (revenir), « le choix » (choisir), often masculine. When nominalising, the verb's subject or object reappears as a complement introduced by « de » (« on a découvert le vaccin » → « la découverte du vaccin »): the agent or the patient becomes a « complément du nom »."
+  ,
+  "items": [
+    {
+      "prompt": "Le prix de l'énergie a fortement augmenté cet hiver. (nominaliser l'idée principale : « Le prix… a augmenté » → groupe nominal)",
+      "answer": ["La forte augmentation du prix de l'énergie cet hiver.", "La forte augmentation du prix de l'énergie cet hiver"],
+      "explanation": "« Augmenter » nominalises in « -ation » → « l'augmentation » (always feminine). The verb's subject « le prix de l'énergie » becomes a complement introduced by « de » (« l'augmentation DU prix »), and the adverb « fortement » is rendered by the adjective « forte ». The « -tion/-ation » suffix is the most productive deverbal pattern in formal French."
+    },
+    {
+      "prompt": "Les chercheurs ont découvert un nouveau traitement. (nominaliser le verbe : transformer la phrase en groupe nominal centré sur « découvrir »)",
+      "answer": ["La découverte d'un nouveau traitement par les chercheurs.", "La découverte d'un nouveau traitement par les chercheurs"],
+      "explanation": "« Découvrir » gives the suffix-less feminine deverbal « la découverte ». The direct object « un nouveau traitement » becomes the complement « d'un nouveau traitement » (the patient introduced by « de »), and the subject (the agent) is introduced by « par »: « par les chercheurs ». This agent/patient split with « de » and « par » mirrors the active sentence."
+    },
+    {
+      "prompt": "On a développé ce quartier très rapidement. (nominaliser le verbe « développer » et rendre l'adverbe par un adjectif)",
+      "answer": ["Le développement très rapide de ce quartier.", "Le développement très rapide de ce quartier"],
+      "explanation": "« Développer » nominalises in « -ment » → « le développement » (suffix « -ment » is masculine and denotes the action/process). The object « ce quartier » becomes the complement « de ce quartier », and the adverb « rapidement » is rendered by the adjective « rapide » agreeing with the masculine noun: « très rapide »."
+    },
+    {
+      "prompt": "Le gouvernement a fermé plusieurs petites lignes ferroviaires. (nominaliser le verbe « fermer » → groupe nominal)",
+      "answer": ["La fermeture de plusieurs petites lignes ferroviaires par le gouvernement.", "La fermeture de plusieurs petites lignes ferroviaires par le gouvernement"],
+      "explanation": "« Fermer » nominalises in « -ure » → « la fermeture » (feminine, like « l'ouverture »). The direct object « plusieurs petites lignes ferroviaires » becomes the patient complement « de plusieurs… », while the subject (the agent) is reintroduced with « par »: « par le gouvernement ». The « -ure » suffix is a less productive but classic deverbal feminine pattern."
+    },
+    {
+      "prompt": "On a recyclé les déchets plastiques systématiquement. (nominaliser le verbe « recycler » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["Le recyclage systématique des déchets plastiques.", "Le recyclage systématique des déchets plastiques"],
+      "explanation": "« Recycler » nominalises in « -age » → « le recyclage » (suffix « -age » is masculine and typically names a concrete process or operation, like « le démarrage », « le nettoyage »). The direct object « les déchets plastiques » becomes the complement « des déchets plastiques » (« de » + « les » → « des »), and the adverb « systématiquement » is rendered by the adjective « systématique »."
+    },
+    {
+      "prompt": "Ce produit est très toxique, ce qui inquiète les autorités. (nominaliser l'adjectif « toxique » en « -ité » → groupe nominal sujet)",
+      "answer": ["La forte toxicité de ce produit inquiète les autorités.", "La forte toxicité de ce produit inquiète les autorités"],
+      "explanation": "Unlike the others, this nominalisation is built on an ADJECTIVE, not a verb: « toxique » → « la toxicité » (suffix « -té / -ité » is feminine and denotes an abstract quality, like « la pauvreté », « la fragilité »). The adverb of degree « très » becomes the adjective « forte » agreeing with the feminine noun, and the original subject « ce produit » becomes the complement « de ce produit »."
+    },
+    {
+      "prompt": "Les voyageurs sont revenus plus tôt que prévu. (nominaliser « revenir » par un déverbal SANS suffixe → groupe nominal)",
+      "answer": ["Le retour anticipé des voyageurs.", "Le retour anticipé des voyageurs", "Le retour des voyageurs plus tôt que prévu.", "Le retour des voyageurs plus tôt que prévu"],
+      "explanation": "« Revenir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le retour » (masculine), like « l'oubli », « le choix ». The verb's subject « les voyageurs » becomes the complement « des voyageurs », and « plus tôt que prévu » can be condensed into the adjective « anticipé »: « le retour anticipé des voyageurs »."
+    },
+    {
+      "prompt": "Le conseil municipal a décidé de piétonniser le centre-ville. (nominaliser le verbe « décider » → groupe nominal)",
+      "answer": ["La décision du conseil municipal de piétonniser le centre-ville.", "La décision du conseil municipal de piétonniser le centre-ville", "La décision de piétonniser le centre-ville par le conseil municipal.", "La décision de piétonniser le centre-ville par le conseil municipal"],
+      "explanation": "« Décider » nominalises in « -sion » → « la décision » (the « -sion » suffix is feminine, like « -tion »; it appears after « d », « s » or « r »: décider → décision, comprendre → compréhension). The subject « le conseil municipal » becomes the complement « du conseil municipal », and the verbal object « de piétonniser le centre-ville » is kept as an infinitival complement."
+    },
+    {
+      "prompt": "La population de cette région a fortement augmenté parce qu'elle a beaucoup crû. (nominaliser le verbe « croître » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["La forte croissance de la population de cette région.", "La forte croissance de la population de cette région"],
+      "explanation": "« Croître » nominalises in « -ance » → « la croissance » (the suffixes « -ance / -ence » are feminine and derive nouns of action or state, like « la croissance », « l'existence », « la persévérance »). The subject « la population » becomes the complement « de la population », and the adverb « beaucoup / fortement » is rendered by the adjective « forte » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Le ministre est parti brusquement hier soir. (nominaliser « partir » par un déverbal SANS suffixe → groupe nominal)",
+      "answer": ["Le départ brusque du ministre hier soir.", "Le départ brusque du ministre hier soir"],
+      "explanation": "« Partir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le départ » (masculine), like « l'appel », « le choix », « le retour ». The verb's subject « le ministre » becomes the complement « du ministre », and the adverb « brusquement » is rendered by the adjective « brusque »: « le départ brusque du ministre »."
+    },
+    {
+      "prompt": "On a construit illégalement plusieurs immeubles sur le littoral. (nominaliser le verbe « construire » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["La construction illégale de plusieurs immeubles sur le littoral.", "La construction illégale de plusieurs immeubles sur le littoral", "La construction illegale de plusieurs immeubles sur le littoral"],
+      "explanation": "« Construire » nominalises in « -tion » → « la construction » (always feminine, like « l'augmentation », « la création »). The direct object « plusieurs immeubles » becomes the patient complement « de plusieurs immeubles », and the adverb « illégalement » is rendered by the adjective « illégale » agreeing with the feminine noun. The « -tion » suffix is the most productive deverbal pattern, here on a verb in « -uire »."
+    },
+    {
+      "prompt": "Le Parlement a supprimé progressivement cette taxe impopulaire. (nominaliser le verbe « supprimer » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["La suppression progressive de cette taxe impopulaire par le Parlement.", "La suppression progressive de cette taxe impopulaire par le Parlement"],
+      "explanation": "« Supprimer » nominalises in « -ssion » → « la suppression » (the « -ssion » suffix is feminine, like « la discussion », « la transmission »). The direct object « cette taxe impopulaire » becomes the patient complement « de cette taxe », the subject (agent) is reintroduced with « par »: « par le Parlement », and the adverb « progressivement » is rendered by the adjective « progressive »."
+    },
+    {
+      "prompt": "Les deux pays ont rompu brutalement leurs relations diplomatiques. (nominaliser « rompre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["La rupture brutale des relations diplomatiques entre les deux pays.", "La rupture brutale des relations diplomatiques entre les deux pays", "La rupture brutale des relations diplomatiques des deux pays.", "La rupture brutale des relations diplomatiques des deux pays"],
+      "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les deux partis ont longuement adhéré à cet accord. (nominaliser le verbe « adhérer » en « -ence/-ion » → groupe nominal)",
+      "answer": ["La longue adhésion des deux partis à cet accord.", "La longue adhésion des deux partis à cet accord"],
+      "explanation": "« Adhérer » nominalises in « -sion » → « l'adhésion » (feminine, like « la décision »). Note the contrast with the FEMININE suffix « -ence » seen in verbs like « différer → la différence » or « exister → l'existence »: « -ance / -ence » are both feminine and derive nouns of state or action. The subject « les deux partis » becomes the complement « des deux partis », the verbal complement « à cet accord » is kept, and the adverb « longuement » is rendered by the adjective « longue » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Le témoin a oublié totalement ce détail. (nominaliser « oublier » par un déverbal SANS suffixe → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["L'oubli total de ce détail par le témoin.", "L'oubli total de ce détail par le témoin", "L'oubli total de ce detail par le temoin"],
+      "explanation": "« Oublier » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « l'oubli » (masculine), like « le choix », « le retour », « l'appel ». The direct object « ce détail » becomes the patient complement « de ce détail », the subject (agent) is reintroduced with « par »: « par le témoin », and the adverb « totalement » is rendered by the masculine adjective « total »: « l'oubli total »."
+    },
+    {
+      "prompt": "Le maire a accueilli chaleureusement les réfugiés. (nominaliser « accueillir » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["L'accueil chaleureux des réfugiés par le maire.", "L'accueil chaleureux des réfugiés par le maire", "L'accueil chaleureux des refugies par le maire"],
+      "explanation": "« Accueillir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « l'accueil » (masculine), like « l'appel » (appeler), « l'oubli », « le choix ». The direct object « les réfugiés » becomes the patient complement « des réfugiés », the subject (agent) is reintroduced with « par »: « par le maire », and the adverb « chaleureusement » is rendered by the masculine adjective « chaleureux »: « l'accueil chaleureux »."
+    }
+  ]
+}

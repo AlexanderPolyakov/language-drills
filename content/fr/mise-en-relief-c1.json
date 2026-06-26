@@ -1,0 +1,86 @@
+{
+  "id": "fr-mise-en-relief-c1",
+  "lang": "fr",
+  "topic": "mise-en-relief",
+  "level": "C1",
+  "type": "transform",
+  "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
+  "lesson": "Clefting (« la mise en relief ») highlights one element of a sentence. Use « c'est … qui » to emphasise the SUBJECT (« C'est Marie qui a téléphoné ») and « c'est … que » to emphasise any other element — direct object, complement of time, place, manner (« C'est à Paris qu'il habite »). To foreground a whole idea, frame it with « Ce qui … , c'est » (when the highlighted element is a subject) or « Ce que … , c'est » (when it is a direct object). When the verb of the clause governs the preposition « de » (e.g. « avoir besoin de », « parler de », « rêver de »), use « Ce dont … , c'est ». The presentative « c'est » stays invariable in careful written French, though « ce sont » is preferred before a plural noun.",
+  "items": [
+    {
+      "prompt": "Le manque de financement a fait échouer le projet. (mettre en relief le sujet avec « c'est… qui »)",
+      "answer": ["C'est le manque de financement qui a fait échouer le projet."],
+      "explanation": "To emphasise the SUBJECT « le manque de financement », it is framed with « c'est … qui »: the verb keeps its third-person form (« a fait ») because « qui » carries the original subject."
+    },
+    {
+      "prompt": "Nous avons signé le contrat à Bruxelles. (mettre en relief le lieu avec « c'est… que »)",
+      "answer": ["C'est à Bruxelles que nous avons signé le contrat."],
+      "explanation": "« À Bruxelles » is a complement of place, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est à Bruxelles que nous avons signé le contrat »."
+    },
+    {
+      "prompt": "Nous avons besoin de temps, pas d'argent. (mettre en relief « de temps » avec « ce dont… c'est »)",
+      "answer": ["Ce dont nous avons besoin, c'est de temps, pas d'argent.", "Ce dont nous avons besoin, c'est du temps, pas d'argent."],
+      "explanation": "« Avoir besoin » governs the preposition « de », so the clefting pronoun is « ce dont » (= de quoi). The structure « Ce dont … , c'est de … » repeats the « de » in the highlighted element: « Ce dont nous avons besoin, c'est de temps »."
+    },
+    {
+      "prompt": "Son honnêteté me plaît le plus chez elle. (mettre en relief le sujet/l'idée avec « ce qui… , c'est »)",
+      "answer": ["Ce qui me plaît le plus chez elle, c'est son honnêteté."],
+      "explanation": "To foreground an element that is the SUBJECT of the verb (« son honnêteté » is the subject of « plaît »), use « Ce qui … , c'est »: « Ce qui me plaît le plus chez elle, c'est son honnêteté ». « Ce qui » stands for the subject, and « c'est » presents the highlighted noun."
+    },
+    {
+      "prompt": "Je redoute son indifférence. (mettre en relief le COD avec « ce que… , c'est »)",
+      "answer": ["Ce que je redoute, c'est son indifférence."],
+      "explanation": "« Son indifférence » is the DIRECT OBJECT of « redouter », so the clefting pronoun is « ce que »: « Ce que je redoute, c'est son indifférence ». « Ce que » replaces the direct object, and « c'est » introduces the foregrounded element."
+    },
+    {
+      "prompt": "Je tiens surtout à ta sincérité. (mettre en relief le complément avec « ce à quoi… , c'est »)",
+      "answer": ["Ce à quoi je tiens surtout, c'est ta sincérité.", "Ce à quoi je tiens surtout, c'est à ta sincérité."],
+      "explanation": "« Tenir à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je tiens surtout, c'est ta sincérité ». The preposition « à » may optionally be echoed in the highlighted element (« c'est à ta sincérité »)."
+    },
+    {
+      "prompt": "Tout a basculé pour elle en 1995. (mettre en relief le complément de temps avec « c'est… que »)",
+      "answer": ["C'est en 1995 que tout a basculé pour elle."],
+      "explanation": "« En 1995 » is a complement of TIME, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est en 1995 que tout a basculé pour elle ». As with complements of place or manner, any element other than the subject is clefted with « que »."
+    },
+    {
+      "prompt": "Tu as oublié son anniversaire, pas le mien. (mettre en relief le COD « son anniversaire » avec « c'est… que »)",
+      "answer": ["C'est son anniversaire que tu as oublié, pas le mien."],
+      "explanation": "« Son anniversaire » is the DIRECT OBJECT of « oublier », not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est son anniversaire que tu as oublié ». Any element other than the subject — including a direct object — is clefted with « que ». In such « c'est … que » clefts the « que » is the relative pronoun representing the clefted COD, which thus PRECEDES « avoir » in the relative clause and triggers agreement of the participle (cf. « C'est une lettre que j'ai écrite », f.sg. → « écrite »). Here the agreement is simply not visible because « anniversaire » is masculine singular, so the participle is written « oublié » (Grevisse, Le Bon Usage)."
+    },
+    {
+      "prompt": "Je me souviens surtout de nos étés en Bretagne. (mettre en relief le complément avec « ce dont… , c'est »)",
+      "answer": ["Ce dont je me souviens surtout, c'est de nos étés en Bretagne.", "Ce dont je me souviens surtout, ce sont nos étés en Bretagne."],
+      "explanation": "« Se souvenir » governs the preposition « de » (« se souvenir DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi). The highlighted element normally echoes the « de »: « Ce dont je me souviens surtout, c'est de nos étés en Bretagne ». Before the plural noun « nos étés », careful written French may also drop the « de » and use the agreeing presentative « ce sont »: « Ce dont je me souviens, ce sont nos étés en Bretagne »."
+    },
+    {
+      "prompt": "J'ai pris cette décision, personne d'autre. (mettre en relief le sujet « je » avec « c'est… qui »)",
+      "answer": ["C'est moi qui ai pris cette décision, personne d'autre."],
+      "explanation": "To emphasise a SUBJECT pronoun, the cleft « c'est … qui » uses the STRESSED form of the pronoun (« moi », not « je »), and — crucially — the verb in the relative clause agrees with the original person: « C'est moi qui AI pris » (first person, not « a pris »). « Qui » carries the grammatical person of the highlighted pronoun, so the conjugation follows « moi » → « j'ai » → « ai pris ». This 1st/2nd-person agreement after « c'est … qui » is a classic C1 trap (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Le bruit et la pollution me dérangent dans cette ville. (mettre en relief le sujet pluriel avec « ce qui… , ce sont »)",
+      "answer": ["Ce qui me dérange dans cette ville, ce sont le bruit et la pollution.", "Ce qui me dérange dans cette ville, c'est le bruit et la pollution."],
+      "explanation": "To foreground the SUBJECT of « déranger », use « Ce qui … , c'est / ce sont ». Although « ce qui » stays singular, the presentative agrees with the following plural element: before « le bruit et la pollution » (a coordination equivalent to a plural), careful written French prefers « ce sont »: « Ce qui me dérange…, ce sont le bruit et la pollution ». The invariable « c'est » is also tolerated in less formal usage, hence both forms are accepted."
+    },
+    {
+      "prompt": "Je m'attendais surtout à un peu de reconnaissance. (mettre en relief le complément avec « ce à quoi… , c'est »)",
+      "answer": ["Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance.", "Ce à quoi je m'attendais surtout, c'est à un peu de reconnaissance."],
+      "explanation": "« S'attendre à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance ». As with « tenir à », the preposition « à » may optionally be echoed in the highlighted element (« c'est à un peu de reconnaissance »). The reflexive pronoun « me » is kept inside the clefted clause (« je m'attendais »)."
+    },
+    {
+      "prompt": "Nous avons pris cette décision ensemble. (mettre en relief le sujet « nous » avec « c'est… qui »)",
+      "answer": ["C'est nous qui avons pris cette décision ensemble."],
+      "explanation": "To emphasise a SUBJECT pronoun, the cleft « c'est … qui » uses the STRESSED form (« nous »), and the verb in the relative clause agrees with the original person: « C'est nous qui AVONS pris » (1st person plural, not « a pris »). « Qui » carries the grammatical person of the highlighted pronoun, so the conjugation follows « nous » → « nous avons » → « avons pris ». Note that « c'est » itself stays invariable even before « nous ». This 1st/2nd-person agreement after « c'est … qui » is a classic C1 trap (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "J'ai relu plusieurs fois cette lettre. (mettre en relief le COD « cette lettre » avec « c'est… que »)",
+      "answer": ["C'est cette lettre que j'ai relue plusieurs fois."],
+      "explanation": "« Cette lettre » is the DIRECT OBJECT of « relire », not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est cette lettre que j'ai relue ». In a « c'est … que » cleft on a COD, the « que » is the relative pronoun representing the clefted direct object, which thus PRECEDES the auxiliary « avoir » and triggers agreement of the past participle. Since « lettre » is feminine singular, the agreement is VISIBLE here: « relue » (cf. Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Les retards et les annulations exaspèrent les usagers. (mettre en relief le sujet pluriel avec « ce sont »)",
+      "answer": ["Ce sont les retards et les annulations qui exaspèrent les usagers."],
+      "explanation": "To emphasise a PLURAL subject (« les retards et les annulations »), careful written French uses the agreeing presentative « ce sont » (not « c'est ») directly before the plural noun phrase, followed by « qui »: « Ce sont les retards et les annulations QUI exaspèrent les usagers ». « Ce sont » agrees in number with the following plural, and the verb of the relative clause keeps its plural form because « qui » carries the original plural subject."
+    }
+  ]
+}

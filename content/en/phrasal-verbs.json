@@ -95,6 +95,41 @@
         { "answer": "sort out", "options": ["sort after", "sort out", "sort through"], "hint": "fix or deal with a problem" }
       ],
       "explanation": "'sort out' means to resolve or deal with a problem; 'sort out the heater' or 'sort the heater out' are both correct."
+    },
+    {
+      "text": "I don't know how she {1} her noisy upstairs neighbours for so many years.",
+      "blanks": [
+        { "answer": "put up with", "options": ["put up with", "put down to", "put off"], "hint": "tolerate something unpleasant" }
+      ],
+      "explanation": "'put up with' means to tolerate or endure something unpleasant without complaining."
+    },
+    {
+      "text": "While clearing out the attic, I {1} a box of old photographs from my childhood.",
+      "blanks": [
+        { "answer": "came across", "options": ["came across", "came down with", "came up against"], "hint": "find something by chance" }
+      ],
+      "explanation": "'come across' means to find or meet something or someone by chance; 'come down with' = catch an illness, and 'come up against' = face a difficulty, so neither fits here."
+    },
+    {
+      "text": "I don't want to {1} the subject of money at dinner; it always starts an argument.",
+      "blanks": [
+        { "answer": "bring up", "options": ["bring up", "bring about", "bring round"], "hint": "introduce a topic into conversation" }
+      ],
+      "explanation": "'bring up' means to mention or introduce a subject in conversation. 'bring about' = cause something to happen, and 'bring round' = revive someone or persuade them, so neither fits a topic of conversation."
+    },
+    {
+      "text": "It took him months to {1} the death of his father.",
+      "blanks": [
+        { "answer": "get over", "options": ["get over", "get through", "get by"], "hint": "recover emotionally from something upsetting" }
+      ],
+      "explanation": "'get over' means to recover from an illness, shock or upsetting experience. 'get through' = finish or survive a difficult period (and needs the period itself as object), and 'get by' = manage with limited means, so neither expresses recovering from a bereavement."
+    },
+    {
+      "text": "The police promised to {1} the complaint and report back within a week.",
+      "blanks": [
+        { "answer": "look into", "options": ["look into", "look up", "look on"], "hint": "investigate something" }
+      ],
+      "explanation": "'look into' means to investigate or examine a matter. 'look up' = find information in a reference source, and 'look on' = watch something happen without taking part, so neither fits investigating a complaint."
     }
   ]
 }

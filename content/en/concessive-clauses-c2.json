@@ -1,0 +1,171 @@
+{
+  "id": "en-concessive-clauses-c2",
+  "lang": "en",
+  "topic": "concessive-clauses",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Advanced concessive and contrast structures",
+  "lesson": "Formal English offers a rich set of concessive structures that go well beyond 'although'. 'Much as I admire her' fronts the verb of feeling for emphasis ('Much as + subject + verb'). 'However much/hard + subject + verb' concedes that no degree of effort changes the outcome. 'For all + noun phrase' means 'in spite of' ('For all his talent, he failed'). 'Granted (that) + clause' concedes a point before countering it. 'Albeit' introduces a concessive phrase, typically an adjective or adverbial, not a full finite clause. 'Notwithstanding' functions as a preposition ('notwithstanding the objections') or, more formally, follows its noun. These patterns differ chiefly in what must follow them, which is what tells the right connector apart from its near-synonyms.",
+  "items": [
+    {
+      "text": "{1} I admire her courage, I simply cannot support such a reckless decision.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "As much",
+            "Despite",
+            "However"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as I admire her courage' is the fixed concessive pattern 'Much as + subject + verb' meaning 'although I greatly admire'. 'As much' inverts the words and is ungrammatical here; 'Despite' must be followed by a noun or -ing, not a finite clause; 'However' would need an adjective/adverb ('However much')."
+    },
+    {
+      "text": "{1} hard she tried, she could never quite master the pronunciation.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "Much as",
+            "However",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + adverb + subject + verb = no degree of effort helped"
+        }
+      ],
+      "explanation": "'However + adverb (hard) + subject + verb' concedes that no degree of trying changed the result. 'Much as' takes a verb directly, not an adverb; 'Whatever' takes a noun/clause, not the adverb 'hard'; 'Albeit' cannot introduce a finite clause like 'she tried'."
+    },
+    {
+      "text": "{1} his undeniable talent, he never achieved the recognition he deserved.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "Much as",
+            "However",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of' / 'despite': 'For all his talent' = 'despite his talent'. 'Much as' and 'However' require a following clause/adjective, not a bare noun phrase; 'Albeit' introduces a concessive phrase that qualifies something already stated, not a fronted 'in spite of' phrase."
+    },
+    {
+      "text": "{1} that the proposal has merit, we still lack the funds to implement it this year.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Albeit",
+            "Despite",
+            "Much as",
+            "Granted"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point you are about to argue against: 'Granted that the proposal has merit, we still...'. 'Albeit' cannot take a 'that'-clause; 'Despite' takes a noun phrase or -ing, never a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the proposal has merit'), not by 'that'."
+    },
+    {
+      "text": "The committee approved the revised budget, {1} with considerable reluctance.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "much as",
+            "albeit",
+            "however",
+            "granted"
+          ],
+          "hint": "introduces a concessive phrase (no finite verb), here 'with reluctance'"
+        }
+      ],
+      "explanation": "'Albeit' introduces a concessive phrase qualifying what precedes it: 'approved..., albeit with considerable reluctance'. The other options all require a following clause or different structure ('much as'/'granted' need a subject and verb; 'however' would need an adjective/adverb), so none fits a bare prepositional phrase."
+    },
+    {
+      "text": "{1} the strenuous objections of the board, the merger went ahead as planned.",
+      "blanks": [
+        {
+          "answer": "Notwithstanding",
+          "options": [
+            "Much as",
+            "However",
+            "Notwithstanding",
+            "Even though"
+          ],
+          "hint": "a formal preposition: ___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'Notwithstanding' is a formal preposition meaning 'in spite of', so it is followed directly by the noun phrase 'the strenuous objections'. 'Much as' requires a subject + verb ('Much as the board objected'); 'However' needs a following adjective/adverb; 'Even though' introduces a finite clause, not a bare noun phrase."
+    },
+    {
+      "text": "Hard {1} he tried, he never managed to win her approval.",
+      "blanks": [
+        {
+          "answer": "though",
+          "options": [
+            "despite",
+            "however",
+            "much",
+            "though"
+          ],
+          "hint": "fronted adjective/adverb + ___ + subject + verb"
+        }
+      ],
+      "explanation": "The fronted concessive pattern 'Adjective/Adverb + though + subject + verb' ('Hard though he tried') is an emphatic equivalent of 'although he tried hard'. 'Despite' takes a noun/-ing, not a clause; 'however' would itself stand at the front ('However hard he tried'), not after the fronted word; 'much' does not link a fronted adverb to a clause in this slot."
+    },
+    {
+      "text": "Exhausted {1} she was, she insisted on finishing the marathon.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though as",
+            "as",
+            "however",
+            "despite"
+          ],
+          "hint": "fronted adjective + ___ + subject + be = concessive 'as ... as'"
+        }
+      ],
+      "explanation": "'Adjective + as + subject + be' ('Exhausted as she was') is a concessive inversion meaning 'although she was exhausted', common in formal and literary English. 'Though as' doubles the connector and is ungrammatical; 'however' would precede the adjective ('However exhausted she was'); 'despite' cannot govern the finite clause 'she was'."
+    },
+    {
+      "text": "The plan is undeniably bold. {1}, I remain convinced it can be made to work.",
+      "blanks": [
+        {
+          "answer": "Even so",
+          "options": [
+            "Even so",
+            "Even though",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a conjunct linking back to the previous sentence: 'in spite of that'"
+        }
+      ],
+      "explanation": "'Even so' is a sentence conjunct meaning 'in spite of that', linking back to the preceding sentence and standing alone before a comma. 'Even though' must introduce a subordinate clause within the same sentence; 'Much as' needs a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} the figures may look discouraging, they conceal a genuine improvement in efficiency.",
+      "blanks": [
+        {
+          "answer": "While",
+          "options": [
+            "For all",
+            "Albeit",
+            "While",
+            "Notwithstanding"
+          ],
+          "hint": "subordinator used concessively: ___ + finite clause = although"
+        }
+      ],
+      "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    }
+  ]
+}

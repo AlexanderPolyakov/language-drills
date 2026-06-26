@@ -1,0 +1,158 @@
+{
+  "id": "en-ellipsis-substitution-c2",
+  "lang": "en",
+  "topic": "ellipsis-substitution",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Ellipsis and substitution",
+  "lesson": "Advanced cohesion avoids repetition by substituting a short word for a longer chunk. 'So' substitutes for a positive 'that'-clause after verbs of thinking and saying (think, hope, suppose, be afraid, expect): 'Is she coming?' 'I think so.' To negate, the choice of pattern is verb-specific: 'hope', 'be afraid', 'guess', 'assume', 'presume', 'suspect' take a positive verb + 'not' ('I hope not'), whereas 'think', 'believe', 'expect', 'imagine' take a negative verb + 'so' ('I don't think so'). 'Do so' is a formal substitute for a previously mentioned action ('She agreed to sign and did so at once'); plain 'do' / an auxiliary alone is the everyday option. 'One/ones' replaces a countable noun ('the red one'). After a comparison or 'such', use 'such' for a whole category. To echo agreement, 'so'/'neither'/'nor' + auxiliary + subject inverts ('So do I', 'Neither can he').",
+  "items": [
+    {
+      "text": "\"Will the strike go ahead?\" \"I'm afraid {1} — talks broke down last night.\"",
+      "blanks": [
+        { "answer": "so", "options": ["so", "not", "it"], "hint": "substitute for the positive clause 'the strike will go ahead'" }
+      ],
+      "explanation": "'So' substitutes for the affirmative 'that'-clause ('the strike will go ahead'), which is what 'I'm afraid' confirms here. 'I'm afraid not' would deny it (i.e. no strike), the opposite of what the broken-down talks imply; bare 'it' cannot substitute for a clause after 'afraid'."
+    },
+    {
+      "text": "\"Has the committee reached a decision yet?\" \"I don't {1} so — they're still deliberating.\"",
+      "blanks": [
+        { "answer": "think", "options": ["think", "hope", "guess"], "hint": "which verb pairs with a NEGATIVE verb + 'so', not 'verb + not'?" }
+      ],
+      "explanation": "'Think', 'believe', 'expect' and 'imagine' negate as 'don't think so'. 'Hope' and 'guess' do not take 'don't ... so'; they form the negative the other way ('I hope not', 'I guess not'), so 'don't hope so' / 'don't guess so' are not idiomatic."
+    },
+    {
+      "text": "She promised to apologise to the team, and she {1} the moment the meeting opened.",
+      "blanks": [
+        { "answer": "did so", "options": ["did so", "made so", "did it so"], "hint": "formal substitute for the action 'apologise to the team'" }
+      ],
+      "explanation": "'Do so' is the standard pro-form substituting for a whole verb phrase ('apologise to the team'). 'Make so' is not an English substitution form, and 'did it so' is ungrammatical because 'do so' already contains the object reference — you cannot add 'it'."
+    },
+    {
+      "text": "These gloves are too thin for winter; I need to find some warmer {1}.",
+      "blanks": [
+        { "answer": "ones", "options": ["ones", "such", "so"], "hint": "substitutes for a plural countable noun ('gloves')" }
+      ],
+      "explanation": "'Ones' substitutes for a countable plural noun after an adjective ('warmer ones' = 'warmer gloves'). 'Such' would replace a category, not a counted noun after 'warmer', and 'so' substitutes for a clause, not a noun."
+    },
+    {
+      "text": "The first proposal was rejected outright, and {1} the second.",
+      "blanks": [
+        { "answer": "so was", "options": ["so was", "neither was", "so did"], "hint": "echo a POSITIVE statement with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is affirmative ('was rejected'), so the additive echo uses 'so' + the same auxiliary ('was') + subject: 'so was the second'. 'Neither' is for echoing a negative, and 'so did' would need a 'do'-auxiliary that the passive 'was rejected' does not use."
+    },
+    {
+      "text": "The lecture was so dull that several students dozed off, and the seminar afterwards was {1} tedious.",
+      "blanks": [
+        { "answer": "just as", "options": ["just as", "so as", "much so"], "hint": "compares the seminar's tedium to the lecture's: '___ tedious'" }
+      ],
+      "explanation": "'Just as' before the adjective draws an equal comparison ('just as tedious' = equally tedious as the dull lecture). 'So as' introduces purpose before an infinitive, not a comparison before an adjective, and 'much so' is not a grammatical pre-modifier of 'tedious' here."
+    },
+    {
+      "text": "\"Do you think it will rain before the ceremony?\" \"I hope {1} — the marquee still isn't up.\"",
+      "blanks": [
+        { "answer": "not", "options": ["so", "not", "no"], "hint": "'hope' forms its negative substitute as 'verb + ___', not 'don't ... so'" }
+      ],
+      "explanation": "'Hope' negates a substituted clause as 'hope not' (= I hope it will not rain), the sense required since the speaker is anxious about the unfinished marquee. 'Hope so' would mean the opposite (hoping for rain), and 'no' is not a clause substitute after 'hope'."
+    },
+    {
+      "text": "He had never set foot in the building before, and {1} had any of his colleagues.",
+      "blanks": [
+        { "answer": "neither", "options": ["so", "either", "neither"], "hint": "echo a NEGATIVE statement with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is negative ('had never set foot'), so the additive echo uses 'neither' + auxiliary + subject ('neither had any of his colleagues'). 'So' echoes an affirmative, not a negative, and 'either' needs a preceding 'nor/not' and does not invert this way."
+    },
+    {
+      "text": "Applicants may submit a portfolio or a written essay; {1} submission must reach us by Friday.",
+      "blanks": [
+        { "answer": "either", "options": ["such", "either", "the former"], "hint": "stands for 'whichever of the two' before the singular noun 'submission'" }
+      ],
+      "explanation": "'Either' substitutes for 'one or the other of the two' options just listed and correctly precedes the singular 'submission'. 'Such' would need an article ('such a submission') and substitutes for a whole category rather than picking one of two, and 'the former' would single out only the portfolio, contradicting 'or'."
+    },
+    {
+      "text": "The report praised both the engineers and the planners, but it was {1} who had warned of the delay months earlier.",
+      "blanks": [
+        { "answer": "the latter", "options": ["the former", "such", "the latter"], "hint": "refers back to the SECOND of the two groups mentioned ('the planners')" }
+      ],
+      "explanation": "'The latter' substitutes for the second-named of two items — here 'the planners', the group that gave the warning. 'The former' would point to the engineers (the first group), and 'such' substitutes for a category, not for one of two previously named groups."
+    },
+    {
+      "text": "The climate here is far milder than {1} of the highlands further north.",
+      "blanks": [
+        { "answer": "that", "options": ["that", "such", "one"], "hint": "substitutes for the uncountable noun 'the climate' before the post-modifier 'of...'" }
+      ],
+      "explanation": "'That of' substitutes for a singular or uncountable noun followed by a defining 'of'-phrase ('that of the highlands' = 'the climate of the highlands'). 'Such of' is not a substitution pattern here, and 'one' cannot substitute for an uncountable noun like 'climate' — 'one/ones' replaces countable nouns only."
+    },
+    {
+      "text": "Check whether the funding has been approved, and {1} release the first instalment at once.",
+      "blanks": [
+        { "answer": "if so", "options": ["if so", "so as", "so that"], "hint": "substitutes a whole condition: 'if it has (been approved)'" }
+      ],
+      "explanation": "'If so' is a pro-form condition standing for the affirmative version of the preceding clause ('if the funding has been approved'). 'So as' introduces purpose before a to-infinitive ('so as to release'), and 'so that' introduces a finite purpose/result clause; neither substitutes for an implied condition the way 'if so' does."
+    },
+    {
+      "text": "I never expected the scheme to succeed, yet succeed it {1}, against all the odds.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "did so", "so"], "hint": "a bare 'do'-auxiliary substitutes for the fronted verb 'succeed' in this emphatic inversion" }
+      ],
+      "explanation": "When a verb is fronted for emphasis ('succeed it ___'), a bare auxiliary 'did' stands in for the lexical verb 'succeed'. 'Did so' is the pro-form for a full verb phrase and is redundant once 'succeed' has already been stated and fronted; bare 'so' cannot carry the past tense or close this inverted clause."
+    },
+    {
+      "text": "Some delegates backed the amendment with genuine enthusiasm, others {1} only reluctantly.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "were", "had"], "hint": "an auxiliary substitutes for the verb phrase 'backed the amendment'; match the past simple tense" }
+      ],
+      "explanation": "The verb phrase 'backed the amendment' is past simple, so the substitute auxiliary is the 'do'-operator in the past, 'did' ('others did only reluctantly'). 'Were' would require a passive or continuous original ('were backing'), and 'had' would require a perfect form ('had backed'), neither of which matches the plain past simple 'backed'."
+    },
+    {
+      "text": "\"Could you photocopy these and circulate them?\" \"I'll {1} right away.\"",
+      "blanks": [
+        { "answer": "do that", "options": ["do that", "make so", "make it"], "hint": "everyday spoken pro-form pointing to the just-mentioned request" }
+      ],
+      "explanation": "In ordinary conversation 'do that' (or just 'do it') is the natural pro-form pointing back to the requested action. 'Make so' is not an English substitution form at all, and 'make it' is not a substitution for a verb phrase either — 'make' cannot stand in for 'photocopy and circulate'."
+    },
+    {
+      "text": "The shoes in the window were lovely, but I wanted {1} in black rather than brown.",
+      "blanks": [
+        { "answer": "the same", "options": ["the same", "the one", "such"], "hint": "substitutes for 'shoes of the identical kind'" }
+      ],
+      "explanation": "'The same' substitutes for a noun phrase denoting an identical item just mentioned ('the same shoes, but in black'). 'The one' is singular and clashes with the plural 'shoes', and 'such' would mean 'shoes of that general type', not the very same model in another colour."
+    },
+    {
+      "text": "Modern bridges can carry far heavier loads than {1} built a century ago.",
+      "blanks": [
+        { "answer": "those", "options": ["those", "that", "such"], "hint": "plural counterpart of 'that of', substituting for the countable plural 'bridges'" }
+      ],
+      "explanation": "'Those' is the plural substitute for a countable noun before a post-modifier ('those built a century ago' = 'the bridges built a century ago'). Singular 'that' cannot stand for the plural 'bridges', and 'such' would replace a category rather than pick out the earlier-built ones."
+    },
+    {
+      "text": "Sales rose faster this quarter than they {1} in the whole of last year.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "had", "were"], "hint": "auxiliary substituting for 'rose'; match the past simple in the comparative clause" }
+      ],
+      "explanation": "After 'than', the repeated verb phrase 'rose' is replaced by the do-operator matching its past simple tense: 'than they did'. 'Had' would demand a perfect original ('had risen') and 'were' a passive or continuous one ('were rising'), neither of which matches the plain past simple 'rose'."
+    },
+    {
+      "text": "\"I really enjoy these long mountain walks.\" \"{1} I — there's nothing better for clearing the head.\"",
+      "blanks": [
+        { "answer": "So do", "options": ["So do", "Neither do", "So am"], "hint": "additive agreement with a POSITIVE statement using the do-operator + inversion" }
+      ],
+      "explanation": "The first speaker's clause 'I enjoy' is affirmative and uses a lexical verb, so the additive echo is 'So' + the matching do-operator + subject: 'So do I'. 'Neither do' echoes a negative statement, not a positive one, and 'So am I' would require the original to contain 'be' ('I am...'), whereas the verb here is 'enjoy', which needs 'do'."
+    },
+    {
+      "text": "\"I can't stand being kept waiting.\" \"{1} can I, to be honest — it drives me mad.\"",
+      "blanks": [
+        { "answer": "Nor", "options": ["Nor", "So", "Either"], "hint": "full negative-agreement response with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is negative ('I can't stand'), so the matching agreement is the full inverted form 'Nor can I' (equivalent to 'Neither can I'). 'So' echoes an affirmative, not a negative, and 'Either' cannot front an inverted clause this way — it only attaches to a following negative ('I can't either')."
+    },
+    {
+      "text": "\"Are the roadworks going to delay the deliveries?\" \"I suppose {1}, though I haven't heard anything definite yet.\"",
+      "blanks": [
+        { "answer": "so", "options": ["so", "not", "it"], "hint": "'suppose' substitutes for the positive clause as 'suppose ___'" }
+      ],
+      "explanation": "'Suppose' takes the positive substitute 'suppose so', standing for the affirmative clause 'the roadworks are going to delay the deliveries', which fits the tentative agreement here. 'I suppose not' would deny the delay (the opposite sense), and 'it' cannot substitute for a whole clause after 'suppose'."
+    }
+  ]
+}

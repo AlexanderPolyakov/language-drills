@@ -90,6 +90,76 @@
         { "cue": "feel", "answer": ["feeling"], "hint": "can't help + -ing" }
       ],
       "explanation": "'Can't help doing' is a fixed expression meaning to be unable to stop yourself; it is always followed by the gerund."
+    },
+    {
+      "text": "If the door is stuck, try {1} a little oil on the hinges.",
+      "blanks": [
+        { "cue": "put", "answer": ["putting"], "hint": "try = experiment with a possible solution" }
+      ],
+      "explanation": "'Try doing' means to experiment with something as a possible solution; here, putting oil on the hinges is one method that might solve the problem."
+    },
+    {
+      "text": "Taking on this new role will {1} working much longer hours than before.",
+      "blanks": [
+        { "cue": "involve", "answer": ["involve"], "hint": "base form after 'will'; 'involve' + -ing" }
+      ],
+      "explanation": "After the modal 'will' the verb takes the base form 'involve'; 'involve' (meaning 'entail' or 'have as a consequence') is then followed by the gerund, which is why 'working' is in the -ing form."
+    },
+    {
+      "text": "After a few weeks she got used to {1} on the left side of the road.",
+      "blanks": [
+        { "cue": "drive", "answer": ["driving"], "hint": "'to' in 'be/get used to' is a preposition" }
+      ],
+      "explanation": "In 'be/get used to' (meaning to become accustomed to), 'to' is a preposition, so it must be followed by the gerund, not the bare infinitive."
+    },
+    {
+      "text": "After a brief pause for questions, the lecturer went on {1} the second half of her argument.",
+      "blanks": [
+        { "cue": "explain", "answer": ["to explain"], "hint": "go on + to-infinitive = move to the next thing" }
+      ],
+      "explanation": "'Go on to do' means to do something next, after finishing something else; here the lecturer moved on to a new stage of her talk. (Compare 'go on doing', which means to continue the same activity.)"
+    },
+    {
+      "text": "I regret {1} you that your application has not been successful.",
+      "blanks": [
+        { "cue": "inform", "answer": ["to inform", "to tell"], "hint": "regret + to-infinitive for bad news you are about to give" }
+      ],
+      "explanation": "'Regret to do' (with verbs like inform, tell, say, announce) introduces bad news that the speaker is giving now and is sorry about. This contrasts with 'regret doing', which expresses sorrow about a past action."
+    },
+    {
+      "text": "I deeply regret {1} him those harsh words; I wish I had stayed silent.",
+      "blanks": [
+        { "cue": "say", "answer": ["saying"], "hint": "regret + -ing = sorrow about a past action" }
+      ],
+      "explanation": "'Regret doing' expresses sorrow about a past action — here the speaker is sorry about words already spoken, which contrasts with 'regret to do' (giving bad news now)."
+    },
+    {
+      "text": "The room was stuffy, so she tried {1} the window, but it wouldn't budge.",
+      "blanks": [
+        { "cue": "open", "answer": ["to open"], "hint": "try + to-inf = attempt something difficult" }
+      ],
+      "explanation": "'Try to do' means to make an effort to do something difficult; she attempted to open the window but couldn't. This contrasts with 'try doing', which means to experiment with a method as a possible solution."
+    },
+    {
+      "text": "I'm sorry I'm late — I didn't {1} to keep everyone waiting.",
+      "blanks": [
+        { "cue": "mean", "answer": ["mean"], "hint": "'mean to do' = intend to do; base form after 'didn't'" }
+      ],
+      "explanation": "After the auxiliary 'didn't' the verb takes the base form 'mean'. 'Mean to do' means to intend something, so 'mean to keep' = 'intend to keep'. This contrasts with 'mean doing', which means to entail or involve as a consequence."
+    },
+    {
+      "text": "Accepting the promotion would {1} relocating to another city.",
+      "blanks": [
+        { "cue": "mean", "answer": ["mean"], "hint": "'mean doing' = involve/entail; base form after 'would'" }
+      ],
+      "explanation": "After the modal 'would' the verb is the base form 'mean'. Here 'mean doing' has its 'entail/involve as a consequence' sense, so it is followed by the gerund 'relocating'. This contrasts with 'mean to do', which expresses intention."
+    },
+    {
+      "text": "To stay out of trouble, he carefully avoided {1} the manager's questions directly.",
+      "blanks": [
+        { "cue": "answer", "answer": ["answering"], "hint": "avoid + -ing" }
+      ],
+      "explanation": "'Avoid' is always followed by the gerund, never the to-infinitive; you cannot say 'avoid to answer'."
     }
   ]
 }

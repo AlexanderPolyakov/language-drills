@@ -90,6 +90,83 @@
         { "answer": "albeit", "options": ["albeit", "nonetheless", "to all intents and purposes"], "hint": "concessive 'although it was', fronting an adjective" }
       ],
       "explanation": "'Albeit' fits neatly before a single adjective ('albeit brief' = 'although it was brief'). 'Nonetheless' is a sentence adverb that cannot bridge directly into the adjective this way, and the summative phrase does not concede."
+    },
+    {
+      "text": "The charity wants to eradicate illiteracy in the region. {1}, it is opening a network of free evening schools.",
+      "blanks": [
+        { "answer": "To that end", "options": ["To that end", "If anything", "By the same token"], "hint": "introduces the means adopted to achieve a stated aim" }
+      ],
+      "explanation": "'To that end' means 'in order to achieve that purpose', linking a stated goal to the action taken to reach it. 'If anything' adjusts a previous statement and 'by the same token' draws a parallel inference, neither of which marks purpose-and-means."
+    },
+    {
+      "text": "A witness can misremember a face after only minutes; {1}, we should distrust testimony recalled years later.",
+      "blanks": [
+        { "answer": "by the same token", "options": ["by the same token", "if anything", "much less"], "hint": "'by the same reasoning'; extends one logic to a parallel case" }
+      ],
+      "explanation": "'By the same token' applies the same line of reasoning to an analogous case ('for the same reason'). 'If anything' would correct or strengthen the prior claim and 'much less' adds a stronger negative item, neither of which extends a parallel inference."
+    },
+    {
+      "text": "The reforms have not weakened the institution; {1}, they have made it more resilient than before.",
+      "blanks": [
+        { "answer": "if anything", "options": ["if anything", "to that end", "much less"], "hint": "corrects toward the opposite: 'rather the reverse'" }
+      ],
+      "explanation": "'If anything' signals that, far from the negated claim, the opposite is closer to the truth ('rather the reverse'). 'To that end' marks purpose and 'much less' adds a stronger negative element after a negative, neither of which performs this corrective reversal."
+    },
+    {
+      "text": "He can barely keep a houseplant alive, {1} manage a working farm single-handed.",
+      "blanks": [
+        { "answer": "much less", "options": ["much less", "if anything", "for all that"], "hint": "after a negative, adds a yet more unlikely case" }
+      ],
+      "explanation": "'Much less' follows a negative statement to add an even more improbable possibility ('let alone'); the prior negative licenses it ('can barely... much less manage a farm'). 'If anything' corrects a claim and 'for all that' concedes, so neither fits this escalation after a negative."
+    },
+    {
+      "text": "{1} his undoubted brilliance, he never managed to finish a single project.",
+      "blanks": [
+        { "answer": "For all", "options": ["For all", "Insofar as", "By and large"], "hint": "concessive preposition + noun phrase = 'despite'" }
+      ],
+      "explanation": "'For all' is a concessive preposition taking a noun phrase ('for all his brilliance' = 'despite all his brilliance'), conceding a quality before noting it counted for nothing. 'Insofar as' restricts scope and 'by and large' generalises; neither governs a noun phrase concessively."
+    },
+    {
+      "text": "Earlier critics dismissed the work as derivative; {1}, more recent scholarship treats it as quietly original.",
+      "blanks": [
+        { "answer": "on the contrary", "options": ["on the contrary", "in the same vein", "to that end"], "hint": "marks a sharp reversal of the preceding judgement" }
+      ],
+      "explanation": "'On the contrary' rebuts the preceding statement and asserts its opposite ('not derivative but original'), which is exactly the reversal here. 'In the same vein' would signal continuation of the same line of thought and 'to that end' marks purpose-and-means, neither of which performs this reversal of judgement."
+    },
+    {
+      "text": "I have no interest in the sequel, or {1} in anything else the studio produces.",
+      "blanks": [
+        { "answer": "for that matter", "options": ["on the contrary", "for that matter", "by and large"], "hint": "extends the point to a broader, related case: 'and indeed also'" }
+      ],
+      "explanation": "'For that matter' broadens a statement to include a further, related case ('and indeed, while we're on the subject'). 'On the contrary' reverses a claim and 'by and large' generalises with exceptions, neither of which extends the point this way."
+    },
+    {
+      "text": "Small museums can outshine the famous ones; this little gallery is a {1}.",
+      "blanks": [
+        { "answer": "case in point", "options": ["foregone conclusion", "case in point", "moot point"], "hint": "a clear example illustrating the claim just made" }
+      ],
+      "explanation": "'A case in point' is a concrete example that illustrates the general claim just made (the gallery proves that small museums can outshine famous ones). 'A foregone conclusion' is an inevitable outcome and 'a moot point' is a debatable or irrelevant one, neither of which names an illustrative example."
+    },
+    {
+      "text": "The figures are provisional and {1} should be treated with caution by anyone citing them.",
+      "blanks": [
+        { "answer": "as such", "options": ["as such", "conversely", "albeit"], "hint": "'being of that nature, therefore'; draws a consequence from the description just given" }
+      ],
+      "explanation": "'As such' means 'being of that kind, and therefore', drawing a consequence from the quality just stated (provisional, so treat with caution). 'Conversely' would signal an opposite case and 'albeit' a concession, neither of which infers a consequence from the preceding description."
+    },
+    {
+      "text": "The negotiations succeeded {1} both sides were willing to abandon their preconditions.",
+      "blanks": [
+        { "answer": "inasmuch as", "options": ["inasmuch as", "notwithstanding", "albeit"], "hint": "very formal 'to the extent that / seeing that'; gives the qualifying reason" }
+      ],
+      "explanation": "'Inasmuch as' is a formal connector meaning 'to the extent that' or 'seeing that', supplying the reason that qualifies the claim of success. 'Notwithstanding' would concede an obstacle and 'albeit' introduce a clipped concession, neither of which gives a grounding reason."
+    },
+    {
+      "text": "He could not even afford the bus fare, {1} a flight to the conference abroad.",
+      "blanks": [
+        { "answer": "let alone", "options": ["let alone", "much as", "even so"], "hint": "after a negative, adds a yet more extreme case = 'still less'" }
+      ],
+      "explanation": "'Let alone' follows a negative to add an even more improbable case ('still less'), and the prior negative ('could not even afford the bus fare') licenses it. 'Much as' introduces a concessive clause ('much as I admire him') and 'even so' concedes-then-overrides, so neither performs this escalation after a negative."
     }
   ]
 }

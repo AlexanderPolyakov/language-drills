@@ -1,0 +1,121 @@
+{
+  "id": "fr-gerondif-participe-present-b2",
+  "lang": "fr",
+  "topic": "gerondif-participe-present",
+  "level": "B2",
+  "type": "fill",
+  "title": "Le gérondif et le participe présent",
+  "lesson": "The « gérondif » is « en » + the present participle (-ant) and always refers to the SUBJECT of the main verb. It expresses simultaneity (« Il chante en travaillant » = while working), manner/means (« Il a réussi en travaillant dur » = by working hard), or condition (« En partant tôt, tu éviteras les bouchons » = if you leave early). « Tout en + gérondif » reinforces simultaneity and, very often, adds a nuance of CONCESSION: « Tout en reconnaissant ses torts, il refuse de s'excuser » (= even though he admits his faults). The bare present participle (without « en ») is an invariable verbal form replacing a relative clause (« une foule manifestant dans la rue » = qui manifeste). Do not confuse it with the « adjectif verbal », which agrees and is sometimes spelled differently (provoquant → provocante, fatiguant → fatigant)."
+  ,
+  "items": [
+    {
+      "text": "Il aime écouter de la musique {1} ses devoirs.",
+      "blanks": [
+        { "cue": "faire", "answer": ["en faisant"], "hint": "gérondif of simultaneity: « en » + present participle, same subject as the main verb" }
+      ],
+      "explanation": "The gérondif « en + -ant » expresses an action simultaneous with the main verb and shares its subject (« il »). « Faire » → « en faisant »: he listens to music WHILE doing his homework."
+    },
+    {
+      "text": "C'est {1} avec acharnement qu'elle a fini par décrocher le poste.",
+      "blanks": [
+        { "cue": "travailler", "answer": ["en travaillant"], "hint": "gérondif of means/manner: 'by doing X', « en » + present participle" }
+      ],
+      "explanation": "Here the gérondif expresses the MEANS by which the result was achieved (« by working relentlessly »). The cleft « c'est … que » highlights it and forces the gérondif (a bare participle « travaillant » would not fit). « Travailler » → « en travaillant »: it answers 'how did she get the job?'."
+    },
+    {
+      "text": "{1} les difficultés de la tâche, il a néanmoins refusé toute aide.",
+      "blanks": [
+        { "cue": "reconnaître", "answer": ["tout en reconnaissant"], "hint": "concession: « tout en » + present participle = 'while/even though admitting'" }
+      ],
+      "explanation": "« Tout en + gérondif » reinforces simultaneity and here carries a clear nuance of CONCESSION (= bien qu'il reconnaisse). « Reconnaître » → « tout en reconnaissant »: even though he acknowledges the difficulty, he refuses help."
+    },
+    {
+      "text": "{1} davantage, tu obtiendrais facilement la bourse.",
+      "blanks": [
+        { "cue": "travailler", "answer": ["en travaillant"], "hint": "gérondif of condition: « en » + present participle = 'if you did X'; note the conditionnel in the main clause" }
+      ],
+      "explanation": "Here the gérondif expresses a CONDITION, equivalent to a « si » clause: « en travaillant davantage » = « si tu travaillais davantage ». The conditionnel présent « obtiendrais » in the main clause signals this hypothetical value. « Travailler » → « en travaillant »: by/if working more, you would easily get the scholarship."
+    },
+    {
+      "text": "{1} quoi répondre, elle est restée silencieuse un long moment.",
+      "blanks": [
+        { "cue": "ne pas savoir", "answer": ["ne sachant pas"], "hint": "bare present participle (no « en ») used as a cause clause = « comme elle ne savait pas »" }
+      ],
+      "explanation": "The BARE present participle (without « en ») can open a clause expressing CAUSE, replacing « comme/parce qu'elle ne savait pas ». This is the participe présent, not the gérondif, so no « en » is used. « Savoir » → « sachant »; the negation wraps the participle: « ne sachant pas quoi répondre »."
+    },
+    {
+      "text": "C'est un livre très {1}, mais l'enfant, {2} ses parents par ses questions, n'a pas voulu le poser.",
+      "blanks": [
+        { "cue": "fatiguer — adjectif", "answer": ["fatigant"], "hint": "adjectif verbal: agrees and drops the « u » of « fatiguer » → fatigant(e)" },
+        { "cue": "fatiguer — participe", "answer": ["fatiguant"], "hint": "participe présent: invariable and keeps the « u » of the verb → fatiguant" }
+      ],
+      "explanation": "« Fatiguer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « fatigant » (a tiring book) loses the « u » and agrees like an adjective; the participe présent « fatiguant » keeps the « u » of the verb, stays invariable, and governs an object (« fatiguant ses parents par ses questions » = tiring his parents). Compare also fatigant/fatiguant with provocant/provoquant and négligent/négligeant."
+    },
+    {
+      "text": "Les candidats {1} le concours recevront leur convocation par courriel.",
+      "blanks": [
+        { "cue": "passer", "answer": ["passant"], "hint": "bare present participle (no « en ») replacing a relative clause = « qui passent »; invariable" }
+      ],
+      "explanation": "The BARE present participle (without « en ») replaces a relative clause: « les candidats passant le concours » = « les candidats qui passent le concours ». This is the participe présent, so it takes no « en », stays invariable, and governs a direct object (« le concours »). A gérondif « en passant » would be impossible here, since the form qualifies « les candidats », not the main verb."
+    },
+    {
+      "text": "Ses propos {1} ont choqué l'assemblée, alors qu'il pensait simplement {2} le débat par une question audacieuse.",
+      "blanks": [
+        { "cue": "provoquer — adjectif", "answer": ["provocants"], "hint": "adjectif verbal: agrees (m.pl. with 'propos') and changes spelling → provocant(s)" },
+        { "cue": "provoquer — gérondif", "answer": ["en provoquant"], "hint": "gérondif of means: « en » + present participle, keeps the « qu » → en provoquant" }
+      ],
+      "explanation": "« Provoquer » distinguishes its adjectif verbal from its present participle by SPELLING. The adjectif verbal « provocant » (provocative remarks) changes « qu » to « c » and agrees like an adjective — here masculine plural with « propos »: « provocants ». The verbal form keeps « qu »: in the gérondif « en provoquant le débat » (= by sparking the debate) it stays invariable and governs an object. Compare fatigant/fatiguant and négligent/négligeant."
+    },
+    {
+      "text": "{1} l'urgence de la situation, les secouristes ont aussitôt évacué le quartier.",
+      "blanks": [
+        { "cue": "mesurer", "answer": ["ayant mesuré"], "hint": "participe présent composé (« ayant » + participe passé) expressing an anterior cause = « comme ils avaient mesuré »" }
+      ],
+      "explanation": "The COMPOUND present participle (« participe présent composé »: « ayant » + past participle) marks an action ANTERIOR to the main verb and often expresses cause: « ayant mesuré l'urgence » = « comme ils avaient mesuré l'urgence » (because they had assessed it first, then they evacuated). Unlike the simple participle « mesurant » (simultaneous), the compound form clearly orders the two actions. It is a bare participle, so no « en », it stays invariable, and it shares the subject of the main verb (« les secouristes »)."
+    },
+    {
+      "text": "{1} prudemment, on évite bien des accidents sur l'autoroute.",
+      "blanks": [
+        { "cue": "conduire", "answer": ["en conduisant"], "hint": "gérondif of condition with the impersonal/general « on »; « conduire » → « conduisant »" }
+      ],
+      "explanation": "Here the gérondif expresses a general CONDITION equivalent to a « si » clause: « en conduisant prudemment » = « si l'on conduit prudemment ». The subject of the gérondif must match the subject of the main verb — both are the indefinite « on », which preserves the rule of same-subject identity. « Conduire » → « conduisant » (note the « -s- » in « conduisant », not « conduit »): by/if driving carefully, one avoids many accidents."
+    },
+    {
+      "text": "Le témoin a décrit un homme {1} nerveusement les passants depuis sa voiture.",
+      "blanks": [
+        { "cue": "observer", "answer": ["observant"], "hint": "bare present participle (no « en ») replacing a relative clause = « qui observait »; it has its OWN subject (« un homme »), distinct from the main verb's subject" }
+      ],
+      "explanation": "The BARE present participle (without « en ») replaces a relative clause: « un homme observant les passants » = « un homme qui observait les passants ». Crucially this is NOT a gérondif: the participle has its OWN subject (« un homme »), which is different from the subject of the main verb (« le témoin »). A gérondif « en observant » would be impossible, since the same-subject rule would wrongly make « le témoin » the observer. The participe présent stays invariable and governs the object « les passants »."
+    },
+    {
+      "text": "{1} le buffet, les invités discutaient joyeusement de leurs projets de vacances.",
+      "blanks": [
+        { "cue": "se servir", "answer": ["tout en se servant", "en se servant"], "hint": "gérondif of a pronominal verb expressing simultaneity, same subject; « tout en » adds emphasis on the concurrency" }
+      ],
+      "explanation": "The gérondif of a pronominal verb keeps its reflexive pronoun: « se servir » → « (tout) en se servant ». It expresses an action SIMULTANEOUS with the main verb and shares its subject (« les invités »): they were chatting while helping themselves at the buffet. « Tout en se servant » emphasises the concurrency of the two actions; the plain « en se servant » is equally correct here."
+    },
+    {
+      "text": "C'est un employé {1}, {2} régulièrement de transmettre les rapports à temps.",
+      "blanks": [
+        { "cue": "négliger — adjectif", "answer": ["négligent"], "hint": "adjectif verbal: agrees and changes spelling « -geant » → « -gent »" },
+        { "cue": "négliger — participe", "answer": ["négligeant"], "hint": "participe présent: invariable, keeps the « e » → « négligeant »" }
+      ],
+      "explanation": "« Négliger » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « négligent » (a careless employee) changes « -geant » to « -gent » and agrees like an adjective; the participe présent « négligeant » keeps the « e » of the verb, stays invariable, and governs a complement (« négligeant de transmettre les rapports »). Compare also fatigant/fatiguant and provocant/provoquant."
+    },
+    {
+      "text": "Les deux frères ont des opinions très {1} sur la question, l'un {2} radicalement de l'autre.",
+      "blanks": [
+        { "cue": "différer — adjectif", "answer": ["différentes"], "hint": "adjectif verbal: agrees (f.pl. with « opinions ») and is spelled « différent » → « différentes »" },
+        { "cue": "différer — participe", "answer": ["différant"], "hint": "participe présent: invariable, spelled « différant » (with « -ant »)" }
+      ],
+      "explanation": "« Différer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « différent » (different opinions) agrees like an adjective — here feminine plural with « opinions »: « différentes ». The participe présent « différant » (= qui diffère) keeps the « -ant » spelling, stays invariable, and replaces a relative clause: « l'un différant radicalement de l'autre »."
+    },
+    {
+      "text": "{1} de toutes ses forces, le coureur a finalement renoncé à la dernière côte.",
+      "blanks": [
+        { "cue": "s'être épuisé", "answer": ["s'étant épuisé"], "hint": "participe présent composé of a pronominal verb (« s'étant » + participe passé) expressing an anterior cause = « comme il s'était épuisé »" }
+      ],
+      "explanation": "The COMPOUND present participle of a pronominal verb is « s'étant » + past participle, marking an action ANTERIOR to the main verb and expressing cause: « s'étant épuisé » = « comme il s'était épuisé » (he first exhausted himself, then gave up). Pronominal verbs form the compound participle with « être », so the participle « épuisé » agrees with the subject « le coureur » (masculine singular). It is a bare participle (no « en »), and it shares the subject of the main verb."
+    }
+  ]
+}

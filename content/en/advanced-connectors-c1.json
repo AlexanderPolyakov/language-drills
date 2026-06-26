@@ -66,6 +66,59 @@
       "text": "{1} hard she tried, she couldn't open the jar.",
       "blanks": [{ "answer": "No matter how", "options": ["Despite", "Provided that", "Owing to", "No matter how"], "hint": "concedes the degree of effort" }],
       "explanation": "'No matter how + adjective/adverb' concedes regardless of degree ('however hard'). It is followed by a clause; 'despite' and 'owing to' take nouns, and 'provided that' is conditional."
+    },
+    {
+      "text": "{1} much I admire her talent, I cannot overlook the missed deadlines.",
+      "blanks": [{ "answer": "However", "options": ["Even though", "However", "Given that", "No sooner"], "hint": "concessive 'no matter how' + much + clause" }],
+      "explanation": "'However much I admire her talent' uses the concessive pattern 'however + much/many + clause' (= 'no matter how much'). The other options cannot take the following 'much' ('Even though much I admire', 'Given that much I admire' are ungrammatical); 'no sooner' begins a time correlative."
+    },
+    {
+      "text": "{1} the new evidence has come to light, the case will have to be reopened.",
+      "blanks": [{ "answer": "Given that", "options": ["So as to", "Much as", "Given that", "Hence"], "hint": "states an accepted reason + clause" }],
+      "explanation": "'Given that' introduces an accepted premise as a cause ('since/because it is a fact that'), taking a full clause. 'So as to' marks purpose before an infinitive; 'much as' is concessive; 'hence' is a consequence adverb, not a clause-opening conjunction here."
+    },
+    {
+      "text": "{1} had the meeting begun {2} the fire alarm went off.",
+      "blanks": [
+        { "answer": "No sooner", "options": ["No sooner", "Given that", "Much as", "Hardly"], "hint": "correlative of immediacy; inverts the auxiliary, pairs with 'than'" },
+        { "answer": "than", "options": ["than", "when", "that", "as"], "hint": "the second half of the 'no sooner ... ___' correlative" }
+      ],
+      "explanation": "'No sooner ... than' is a correlative marking one event immediately following another, triggering subject-auxiliary inversion ('No sooner had the meeting begun'). The matching word is 'than', not 'when'; 'hardly' would pair with 'when' instead, so only 'No sooner' fits the 'than' in the second blank."
+    },
+    {
+      "text": "The supplier doubled its prices overnight; we {1} switched to a cheaper competitor.",
+      "blanks": [{ "answer": "thus", "options": ["whereas", "thus", "although", "provided that"], "hint": "introduces a consequence ('and so')" }],
+      "explanation": "'Thus' introduces a consequence ('and so / as a result'), linking the price rise to the decision that followed. 'Although' and 'whereas' mark concession or contrast, and 'provided that' sets a condition, none of which signals a result."
+    },
+    {
+      "text": "{1} I respect his experience, I cannot accept his conclusion on this point.",
+      "blanks": [{ "answer": "Much as", "options": ["Much as", "Owing to", "So that", "Hence"], "hint": "concessive conjunction + clause = 'although very much'" }],
+      "explanation": "'Much as' is a concessive conjunction introducing a clause ('Much as I respect him' = 'although I greatly respect him'). 'Owing to' takes a noun, 'so that' marks purpose/result, and 'hence' is a consequence adverb, none of which opens a concessive clause this way."
+    },
+    {
+      "text": "The scheme is worthwhile {1} it brings clean water to villages that had none.",
+      "blanks": [{ "answer": "inasmuch as", "options": ["whereas", "inasmuch as", "in order to", "despite"], "hint": "'to the extent that / in that'; gives a qualified reason" }],
+      "explanation": "'Inasmuch as' introduces a clause giving a reason or respect in which something is true ('in that / to the extent that'). 'Whereas' marks contrast, 'in order to' marks purpose before an infinitive, and 'despite' takes a noun, none of which gives a reason this way."
+    },
+    {
+      "text": "The verdict, {1} unpopular, was firmly grounded in the law.",
+      "blanks": [{ "answer": "albeit", "options": ["whereas", "hence", "albeit", "owing to"], "hint": "compressed concession before an adjective = 'though'" }],
+      "explanation": "'Albeit' introduces a concession compactly before an adjective or phrase ('albeit unpopular' = 'although it was unpopular'). 'Whereas' joins contrasting clauses, 'hence' marks a consequence, and 'owing to' takes a noun, so none fits this fronted concessive adjective."
+    },
+    {
+      "text": "The company introduced a system {1} every complaint is logged and reviewed within a day.",
+      "blanks": [{ "answer": "whereby", "options": ["whereas", "whereby", "thus", "provided that"], "hint": "relative 'by which / by means of which'" }],
+      "explanation": "'Whereby' is a formal relative meaning 'by which / by means of which', linking a noun ('a system') to the method it embodies. 'Whereas' marks contrast, 'thus' is a consequence adverb, and 'provided that' sets a condition, none of which functions as this 'by which' relative."
+    },
+    {
+      "text": "{1} his enormous wealth, he was one of the most miserable people I have ever met.",
+      "blanks": [{ "answer": "For all", "options": ["For all", "Owing to", "Seeing that"], "hint": "concessive phrase + noun = 'despite'" }],
+      "explanation": "'For all' is a concessive prepositional phrase meaning 'despite / in spite of', taking a noun phrase ('his enormous wealth') and setting up a contrast with the unhappiness. 'Owing to' takes a noun but signals cause, not concession, which would reverse the logic; 'seeing that' is a causal conjunction requiring a full clause, not a bare noun phrase."
+    },
+    {
+      "text": "She wrote the dates down carefully {1} she should forget the appointment.",
+      "blanks": [{ "answer": "lest", "options": ["lest", "provided that", "so as to"], "hint": "formal negative-purpose conjunction + subjunctive/'should' = 'in order that ... not'" }],
+      "explanation": "'Lest' is a formal conjunction of negative purpose ('in order that ... not / for fear that'), naturally followed by 'should' or the subjunctive ('lest she should forget'). 'Provided that' introduces a condition, not a purpose of avoidance, and 'so as to' marks positive purpose before a bare infinitive ('so as to forget') and cannot take the finite clause 'she should forget'."
     }
   ]
 }

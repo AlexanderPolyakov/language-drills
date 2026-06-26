@@ -90,6 +90,69 @@
         { "answer": "could", "options": ["could", "must", "needn't"], "hint": "reproach for something easily done but left undone" }
       ],
       "explanation": "Reproachful 'could have + past participle' chides someone for failing to do something that was within their power ('you could have told me'). It is close to 'should have' but foregrounds the missed opportunity rather than duty."
+    },
+    {
+      "text": "In the end the talk was cancelled, so I {1} prepared my slides — but at least the work wasn't wasted.",
+      "blanks": [
+        { "answer": "needn't have", "options": ["needn't have", "didn't need to", "shouldn't have"], "hint": "I DID prepare them, and only afterwards learned it was unnecessary" }
+      ],
+      "explanation": "'Needn't have + past participle' states that an action WAS carried out and later proved unnecessary (I did prepare the slides). 'Didn't need to' merely reports that no necessity existed and leaves open whether the action happened; 'shouldn't have' would imply the act was wrong."
+    },
+    {
+      "text": "Luckily I checked the timetable in advance, so I {1} rush in the morning — the train left an hour later than I'd thought.",
+      "blanks": [
+        { "answer": "didn't need to", "options": ["didn't need to", "needn't have", "mustn't have" ], "hint": "no necessity existed, so the action was never performed" }
+      ],
+      "explanation": "'Didn't need to + bare infinitive' reports that there was no obligation, and (because I checked first) I did NOT do the action. This contrasts with 'needn't have rushed', which would mean I rushed pointlessly."
+    },
+    {
+      "text": "I really wish you'd consulted me first; I'd rather you {1} acted without asking.",
+      "blanks": [
+        { "answer": "hadn't", "options": ["hadn't", "didn't", "wouldn't have"], "hint": "'would rather' + past perfect to regret a completed past action" }
+      ],
+      "explanation": "To express a preference about a past event that cannot now be changed, 'would rather' takes the past perfect: 'I'd rather you hadn't acted'. The past simple 'didn't' is used for preferences about the present/future, not for regretting a finished action."
+    },
+    {
+      "text": "I can see the appeal of the city, but I {1} live somewhere quieter, if I'm honest.",
+      "blanks": [
+        { "answer": "would rather", "options": ["would rather", "had rather", "would sooner have"], "hint": "stating a present/general preference of one's own + bare infinitive" }
+      ],
+      "explanation": "When the preference is the speaker's own and concerns the present or future, 'would rather' is followed by the bare infinitive ('would rather live'). 'Would sooner have' would force a perfect infinitive (past reference), and 'had rather' is archaic and out of place in this neutral, modern register."
+    },
+    {
+      "text": "Under the terms of the treaty, each signatory {1} not deploy such weapons within the demilitarised zone.",
+      "blanks": [
+        { "answer": "shall", "options": ["shall", "shalt", "shan't"], "hint": "legalistic 'shall' imposing a binding obligation in a formal document" }
+      ],
+      "explanation": "In legal and contractual prose, 'shall' imposes a binding duty on the subject ('the signatory shall not deploy'). The archaic second-person 'shalt' is wrong both in person and register, and 'shan't' (= 'shall not') would create an ungrammatical double negative before 'not deploy'."
+    },
+    {
+      "text": "We {1} have a piano in the front room when I was small, though we sold it years ago.",
+      "blanks": [
+        { "answer": "used to", "options": ["used to", "would", "might"], "hint": "a discontinued past STATE, not a repeated action" }
+      ],
+      "explanation": "A past state that no longer holds takes 'used to' ('we used to have a piano'). Crucially, 'would' narrates only repeated past ACTIONS, never states, so 'would have a piano' is ungrammatical here; 'might' expresses possibility, not past habit."
+    },
+    {
+      "text": "You look exhausted after that drive. {1} make you a cup of tea while you sit down?",
+      "blanks": [
+        { "answer": "Shall I", "options": ["Shall I", "Will I", "Would I"], "hint": "first-person question offering to do something" }
+      ],
+      "explanation": "First-person 'Shall I/we...?' is the idiomatic way to make an offer or suggestion ('Shall I make you a cup of tea?'). 'Will I...?' in British English asks for a prediction about oneself, not an offer, and 'Would I...?' reads as a rhetorical or conditional question, not a genuine offer to act now."
+    },
+    {
+      "text": "You knew the result was confidential, so you {1} mentioned it to the press at all.",
+      "blanks": [
+        { "answer": "shouldn't have", "options": ["needn't have", "shouldn't have", "couldn't have"], "hint": "criticising a past act as wrong, not merely unnecessary" }
+      ],
+      "explanation": "'Shouldn't have + past participle' criticises a past action as wrong or ill-advised (you did mention it, and you ought not to have). 'Needn't have' would mean the act was merely unnecessary rather than improper, and 'couldn't have' would assert it was impossible."
+    },
+    {
+      "text": "The envoy {1} have signed the accord that very week, but the talks collapsed at the last moment.",
+      "blanks": [
+        { "answer": "was to", "options": ["was to", "must", "should"], "hint": "an arranged past plan that did not come off: 'was to have + p.p.'" }
+      ],
+      "explanation": "'Was/were to have + past participle' describes an arrangement or destiny that, in the event, did not happen (the signing was scheduled but fell through). 'Must have' would assert it took place, and 'should have' would express regret or expectation rather than a thwarted plan."
     }
   ]
 }

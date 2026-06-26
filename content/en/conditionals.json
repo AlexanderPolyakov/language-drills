@@ -92,6 +92,29 @@
         { "answer": "wouldn't have got", "options": ["wouldn't have got", "won't get", "wouldn't get"], "hint": "third conditional negative result" }
       ],
       "explanation": "Third conditional for an unreal past: if + past perfect (had brought), would(n't) have + past participle (wouldn't have got)."
+    },
+    {
+      "text": "Unless you {1} now, you will miss your bus.",
+      "blanks": [
+        { "answer": "hurry", "options": ["hurry", "will hurry", "hurried"], "hint": "'unless' = 'if … not'; first conditional 'if' clause" }
+      ],
+      "explanation": "First conditional: 'unless' means 'if … not', so it still takes the present simple ('hurry') in the condition clause, with 'will' in the result."
+    },
+    {
+      "text": "As long as you {1} quiet, the baby {2} asleep.",
+      "blanks": [
+        { "answer": "stay", "options": ["stay", "will stay", "stayed"], "hint": "'as long as' + present simple (first conditional)" },
+        { "answer": "will stay", "options": ["will stay", "would stay", "would have stayed"], "hint": "first conditional result" }
+      ],
+      "explanation": "First conditional with 'as long as' (a condition): present simple in the condition clause (stay), will + base verb in the result (will stay)."
+    },
+    {
+      "text": "If I {1} about the meeting, I {2} you, but nobody told me.",
+      "blanks": [
+        { "answer": "had known", "options": ["had known", "knew", "have known"], "hint": "third conditional 'if' clause" },
+        { "answer": "would have called", "options": ["would have called", "would call", "will call"], "hint": "third conditional result" }
+      ],
+      "explanation": "Third conditional for an unreal past: if + past perfect (had known), would have + past participle (would have called) — the speaker didn't know, so didn't call."
     }
   ]
 }

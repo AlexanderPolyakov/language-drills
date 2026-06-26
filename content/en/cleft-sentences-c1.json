@@ -66,6 +66,51 @@
       "prompt": "I most appreciate your patience. (rewrite as a wh-cleft beginning 'What')",
       "answer": ["What I most appreciate is your patience.", "What I appreciate most is your patience."],
       "explanation": "The wh-cleft 'What I most appreciate is ...' places 'your patience' in the emphatic end position after the linking verb 'is'."
+    },
+    {
+      "prompt": "I only want a fair hearing. (rewrite as a wh-cleft beginning 'All')",
+      "answer": ["All I want is a fair hearing.", "All I want is a fair hearing, nothing more."],
+      "explanation": "An 'All ... is ...' cleft is a wh-type structure where 'all' means 'the only thing'. It downplays the demand and gives end-focus to 'a fair hearing': 'All I want is a fair hearing.'"
+    },
+    {
+      "prompt": "Her constant encouragement helped me pass. (emphasise 'her constant encouragement' with an it-cleft)",
+      "answer": ["It was her constant encouragement that helped me pass.", "It was her constant encouragement that helped me to pass."],
+      "explanation": "The it-cleft foregrounds the cause: 'It was her constant encouragement that helped me pass.' For a non-human subject, the relative pronoun is 'that' (or 'which'), and 'was' matches the original past tense."
+    },
+    {
+      "prompt": "I'm going to do nothing but rest this weekend. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I'm going to do this weekend is rest.", "What I'm going to do this weekend is just rest."],
+      "explanation": "An action-focus wh-cleft uses 'do': 'What I'm going to do this weekend is rest.' As with other action clefts, the focused verb may follow 'is' as a bare infinitive."
+    },
+    {
+      "prompt": "We spent our honeymoon in this village. (rewrite beginning 'The place where')",
+      "answer": ["The place where we spent our honeymoon is this village.", "This village is the place where we spent our honeymoon."],
+      "explanation": "The 'The place where ... is ...' frame foregrounds a location, parallel to a wh-cleft. The relative adverb 'where' introduces the clause, and 'is' links it to the emphasised place 'this village'."
+    },
+    {
+      "prompt": "Your support has made all the difference, not your money. (emphasise 'your support' with an it-cleft beginning 'It is')",
+      "answer": ["It is your support that has made all the difference, not your money.", "It is your support, not your money, that has made all the difference."],
+      "explanation": "The it-cleft sets up a corrective contrast: 'It is your support that has made all the difference, not your money.' The verb agrees with the original ('has made'), and 'that' is used for the non-human focus 'your support'."
+    },
+    {
+      "prompt": "The brakes failed on the icy road. (rewrite as a wh-cleft beginning 'What happened')",
+      "answer": ["What happened was that the brakes failed on the icy road.", "What happened was the brakes failed on the icy road."],
+      "explanation": "An event-focus wh-cleft uses 'What happened was (that) ...' to foreground a whole event rather than a single noun. The 'what' clause is the subject, 'was' is the linking verb, and the focused clause may be introduced by 'that'."
+    },
+    {
+      "prompt": "We are not selling the company; we are restructuring it. (emphasise the contrast beginning 'It is not')",
+      "answer": ["It is not that we are selling the company but that we are restructuring it.", "It is not selling but restructuring the company that we are doing."],
+      "explanation": "The 'It is not X but Y' it-cleft sets up a corrective contrast between two focused elements, denying the first ('selling') and asserting the second ('restructuring'). The conjunction 'but' joins the rejected and the intended focus."
+    },
+    {
+      "prompt": "The printer jams whenever I'm in a hurry. (rewrite as a wh-cleft beginning 'What happens')",
+      "answer": ["What happens is that the printer jams whenever I'm in a hurry.", "What happens is the printer jams whenever I'm in a hurry.", "What happens whenever I'm in a hurry is that the printer jams."],
+      "explanation": "A habitual-event wh-cleft uses the present 'What happens is (that) ...' to foreground a recurring situation. Unlike 'What happened was', the present tense signals that the event is regular rather than a single past occurrence."
+    },
+    {
+      "prompt": "I only asked for a little honesty. (rewrite as a wh-cleft beginning 'All')",
+      "answer": ["All I asked for was a little honesty.", "All that I asked for was a little honesty."],
+      "explanation": "An 'All ... is/was ...' cleft is a wh-type structure where 'all' means 'the only thing'. The linking verb 'was' matches the past 'asked', and the focus 'a little honesty' takes the emphatic end position."
     }
   ]
 }

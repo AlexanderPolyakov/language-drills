@@ -1,0 +1,154 @@
+{
+  "id": "fr-hypothese-irreel-passe-b2",
+  "lang": "fr",
+  "topic": "hypothese-irreel-passe",
+  "level": "B2",
+  "type": "fill",
+  "title": "L'irréel du passé : si + plus-que-parfait → conditionnel passé",
+  "lesson": "To express a hypothesis about the past that did NOT happen (« l'irréel du passé »), French uses a fixed pairing: the « si » clause takes the PLUS-QUE-PARFAIT (auxiliary avoir/être in the imparfait + past participle), and the main (result) clause takes the CONDITIONNEL PASSÉ (auxiliary avoir/être in the conditionnel présent + past participle). For example: « Si tu m'avais prévenu, je serais venu. » The meaning is a regret or reproach: the condition was not met, so the result never occurred. Watch the auxiliary: most verbs use AVOIR, but verbs of movement/state-change (venir, partir, arriver, rester, etc.) and all pronominal verbs use ÊTRE, and with être the past participle AGREES in gender and number with the subject (elle serait venue, ils seraient partis). The order of the two clauses can be reversed without changing the verb forms.",
+  "items": [
+    {
+      "text": "Si tu m'{1} (prévenir), je {2} (venir) tout de suite.",
+      "blanks": [
+        {
+          "cue": "prévenir",
+          "answer": [
+            "avais prévenu",
+            "avais prévenue"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., auxiliaire avoir"
+        },
+        {
+          "cue": "venir",
+          "answer": [
+            "serais venu",
+            "serais venue"
+          ],
+          "hint": "conditionnel passé, je, verbe de mouvement → auxiliaire être"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause uses the plus-que-parfait of « prévenir » (auxiliaire avoir). « prévenir quelqu'un » is directly transitive, so the preceding direct-object pronoun « m' » (= « je ») triggers agreement: « avais prévenu » if « je » is masculine, « avais prévenue » if feminine. The result clause uses the conditionnel passé with être because « venir » is a verb of movement: « serais venu » (or « serais venue » if « je » is feminine, the participle agreeing with the subject)."
+    },
+    {
+      "text": "Elle {1} (réussir) son examen si elle {2} (travailler) davantage.",
+      "blanks": [
+        {
+          "cue": "réussir",
+          "answer": [
+            "aurait réussi"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing., auxiliaire avoir"
+        },
+        {
+          "cue": "travailler",
+          "answer": [
+            "avait travaillé"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Here the result clause comes first but the forms are unchanged. « réussir » takes avoir, so the conditionnel passé is « aurait réussi » (no agreement, no preceding direct object). The « si » clause takes the plus-que-parfait « avait travaillé ». Both verbs use avoir, hence no participle agreement with the subject."
+    },
+    {
+      "text": "Si nous {1} (partir) plus tôt, nous {2} (ne pas manquer) le début du spectacle.",
+      "blanks": [
+        {
+          "cue": "partir",
+          "answer": [
+            "étions partis",
+            "étions parties"
+          ],
+          "hint": "plus-que-parfait, nous, verbe de mouvement → être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas manquer",
+          "answer": [
+            "n'aurions pas manqué"
+          ],
+          "hint": "conditionnel passé négatif, nous, auxiliaire avoir"
+        }
+      ],
+      "explanation": "« partir » is a movement verb conjugated with être, so the plus-que-parfait is « étions partis », the participle agreeing with « nous » (masculine/plural « partis », or « parties » if all-feminine). The result clause uses « manquer » with avoir; the negation wraps the auxiliary: « nous n'aurions pas manqué » — conditionnel passé, no agreement."
+    },
+    {
+      "text": "Ils se {1} (rendre compte) de leur erreur s'ils {2} (relire) le contrat attentivement.",
+      "blanks": [
+        {
+          "cue": "se rendre compte",
+          "answer": [
+            "seraient rendu compte"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, mais « compte » bloque l'accord"
+        },
+        {
+          "cue": "relire",
+          "answer": [
+            "avaient relu"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Pronominal verbs take être, so « se rendre compte » in the conditionnel passé is « se seraient rendu compte ». Crucially the participle does NOT agree here: in « se rendre compte », « se » is an indirect object (« rendre compte à soi-même »), so « rendu » stays invariable. The « si » clause uses « relire » with avoir: plus-que-parfait « avaient relu »."
+    },
+    {
+      "text": "Si elle {1} (partir) à l'heure, elle {2} (arriver) avant la fermeture des portes.",
+      "blanks": [
+        {
+          "cue": "partir",
+          "answer": [
+            "était partie"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. fém., verbe de mouvement → être, accord avec le sujet"
+        },
+        {
+          "cue": "arriver",
+          "answer": [
+            "serait arrivée"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing. fém., auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé. Both « partir » and « arriver » are movement verbs conjugated with être, so the past participle AGREES with the feminine singular subject « elle ». The « si » clause takes the plus-que-parfait « était partie » and the result clause the conditionnel passé « serait arrivée » — both participles carry the feminine -e."
+    },
+    {
+      "text": "Tu {1} (éviter) bien des fautes que tu {2} (commettre) si tu m'avais écouté.",
+      "blanks": [
+        {
+          "cue": "éviter",
+          "answer": [
+            "aurais évité"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « bien des fautes » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "commettre",
+          "answer": [
+            "avais commises"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les fautes)"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les fautes que tu avais commises », the relative pronoun « que » = « les fautes » (feminine plural) precedes « commettre », so the participle MUST agree: « commises » (« commis » without agreement is wrong here). For « éviter », the object « bien des fautes » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurais évité » (an agreeing « évitées » would be incorrect, since the object is not antéposed)."
+    },
+    {
+      "text": "Elle {1} (se blesser) gravement si les secours n'{2} (intervenir) pas si vite.",
+      "blanks": [
+        {
+          "cue": "se blesser",
+          "answer": [
+            "se serait blessée"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « elle » (féminin)"
+        },
+        {
+          "cue": "intervenir",
+          "answer": [
+            "étaient intervenus"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe de mouvement → être, accord avec « les secours » (masculin), négation autour de l'auxiliaire"
+        }
+      ],
+      "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    }
+  ]
+}

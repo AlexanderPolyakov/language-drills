@@ -90,6 +90,62 @@
         { "cue": "not pay", "answer": ["wouldn't be paying", "would not be paying", "wouldn't pay", "would not pay"], "hint": "past condition, present result" }
       ],
       "explanation": "The past condition ('had bought') leads to a present result ('now'), so the main clause uses 'wouldn't pay' / 'wouldn't be paying'."
+    },
+    {
+      "text": "If I were more organised, I {1} (not miss) that important deadline yesterday.",
+      "blanks": [
+        { "cue": "not miss", "answer": ["wouldn't have missed", "would not have missed"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general present characteristic ('were more organised') with a past result ('yesterday') uses 'would have + past participle'."
+    },
+    {
+      "text": "If she had learnt to drive years ago, she {1} (not depend) on buses now.",
+      "blanks": [
+        { "cue": "not depend", "answer": ["wouldn't depend", "would not depend", "wouldn't be depending", "would not be depending"], "hint": "past condition, present result: would + base" }
+      ],
+      "explanation": "The past condition ('had learnt') produces a present result ('now'), so the main clause uses 'wouldn't depend' / 'wouldn't be depending'."
+    },
+    {
+      "text": "I wish my neighbour {1} (turn) his music down; I can't sleep with all that noise.",
+      "blanks": [
+        { "cue": "turn", "answer": ["would turn"], "hint": "wish + would for an annoying habit you want changed" }
+      ],
+      "explanation": "'Wish + would' is used to express irritation about someone's repeated behaviour and a desire for them to change it."
+    },
+    {
+      "text": "If I hadn't broken my leg in March, I {1} (run) in this weekend's marathon.",
+      "blanks": [
+        { "cue": "run", "answer": ["would be running", "would run"], "hint": "past condition, present/future result: would + base / would be -ing" }
+      ],
+      "explanation": "A past condition ('hadn't broken') with a result located in the present or near future ('this weekend') is a mixed conditional taking 'would + base verb' (or 'would be running') in the main clause."
+    },
+    {
+      "text": "I wish I {1} (listen) to your advice instead of ignoring it completely.",
+      "blanks": [
+        { "cue": "listen", "answer": ["had listened"], "hint": "wish + past perfect for a past regret" }
+      ],
+      "explanation": "To express regret about something we did or failed to do in the past, we use 'wish + past perfect' ('had listened'); the speaker is sorry they ignored the advice."
+    },
+    {
+      "text": "If she didn't have such a fear of heights, she {1} (climb) that mountain with us last summer.",
+      "blanks": [
+        { "cue": "climb", "answer": ["would have climbed"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general present condition ('didn't have such a fear') combined with a past result ('last summer') is a mixed conditional taking 'would have + past participle' in the main clause."
+    },
+    {
+      "text": "If I hadn't lent him all my savings, I {1} (be able) to buy a car this month.",
+      "blanks": [
+        { "cue": "be able", "answer": ["would be able"], "hint": "past condition, present result: would + base" }
+      ],
+      "explanation": "The past condition ('hadn't lent') leads to a present result ('this month'), so the main clause uses 'would be able' (would + base verb)."
+    },
+    {
+      "text": "I wish the builders {1} (finish) the roof before the storm hit last week.",
+      "blanks": [
+        { "cue": "finish", "answer": ["had finished"], "hint": "wish + past perfect for a regret about the past" }
+      ],
+      "explanation": "To regret that something did not happen in the past, we use 'wish + past perfect' ('had finished'); the speaker is sorry the roof was unfinished when the storm came."
     }
   ]
 }
