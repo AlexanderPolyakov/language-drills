@@ -66,9 +66,9 @@
     {
       "text": "The deadline is unworkable; {1} that as it may, we are contractually bound to meet it.",
       "blanks": [
-        { "cue": "be", "answer": ["be"], "hint": "fixed concessive formula; stays lower-case after the semicolon" }
+        { "cue": "be", "answer": ["be"], "hint": "fixed concessive formula; keeps the bare subjunctive 'be'" }
       ],
-      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb stays 'be'; it is lower-case here because it follows a semicolon, not a full stop."
+      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb keeps the bare subjunctive form 'be' rather than the indicative 'is'."
     },
     {
       "text": "{1} you require any further assistance, please do not hesitate to contact our office.",
