@@ -109,6 +109,16 @@
       "text": "The company introduced a system {1} every complaint is logged and reviewed within a day.",
       "blanks": [{ "answer": "whereby", "options": ["whereas", "whereby", "thus", "provided that"], "hint": "relative 'by which / by means of which'" }],
       "explanation": "'Whereby' is a formal relative meaning 'by which / by means of which', linking a noun ('a system') to the method it embodies. 'Whereas' marks contrast, 'thus' is a consequence adverb, and 'provided that' sets a condition, none of which functions as this 'by which' relative."
+    },
+    {
+      "text": "{1} his enormous wealth, he was one of the most miserable people I have ever met.",
+      "blanks": [{ "answer": "For all", "options": ["For all", "Owing to", "Seeing that"], "hint": "concessive phrase + noun = 'despite'" }],
+      "explanation": "'For all' is a concessive prepositional phrase meaning 'despite / in spite of', taking a noun phrase ('his enormous wealth') and setting up a contrast with the unhappiness. 'Owing to' takes a noun but signals cause, not concession, which would reverse the logic; 'seeing that' is a causal conjunction requiring a full clause, not a bare noun phrase."
+    },
+    {
+      "text": "She wrote the dates down carefully {1} she should forget the appointment.",
+      "blanks": [{ "answer": "lest", "options": ["lest", "provided that", "so as to"], "hint": "formal negative-purpose conjunction + subjunctive/'should' = 'in order that ... not'" }],
+      "explanation": "'Lest' is a formal conjunction of negative purpose ('in order that ... not / for fear that'), naturally followed by 'should' or the subjunctive ('lest she should forget'). 'Provided that' introduces a condition, not a purpose of avoidance, and 'so as to' marks positive purpose before a bare infinitive ('so as to forget') and cannot take the finite clause 'she should forget'."
     }
   ]
 }

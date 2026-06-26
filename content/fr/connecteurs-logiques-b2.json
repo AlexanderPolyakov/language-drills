@@ -104,6 +104,27 @@
         { "answer": "pour que", "options": ["pour", "pour que", "grâce à", "afin de"], "hint": "purpose with a DIFFERENT subject + subjunctive ('se déplacent'): the goal aimed at" }
       ],
       "explanation": "« Pour que » expresses purpose and requires the subjunctive (« se déplacent »); it is used because the two clauses have different subjects (la municipalité / les habitants). « Pour » and « afin de » + infinitive would require the same subject in both clauses (here they cannot govern the conjugated clause « les habitants se déplacent »), and « grâce à » takes a noun."
+    },
+    {
+      "text": "{1} les nombreuses heures de répétition, l'orchestre a manqué de précision le soir du concert.",
+      "blanks": [
+        { "answer": "Malgré", "options": ["Malgré", "Quoique", "Alors que", "Au cas où"], "hint": "concession introducing a NOUN ('les heures'), not a clause" }
+      ],
+      "explanation": "« Malgré » expresses concession and is followed directly by a noun group: « Malgré les nombreuses heures de répétition ». The distractors are all conjunctions that require a CONJUGATED verb, not a noun: « quoique » introduces a clause in the subjunctive, « alors que » introduces a clause of contrast in the indicative, and « au cas où » introduces a clause in the conditional. None of them can govern the bare noun phrase in this slot, so only « Malgré » is structurally possible."
+    },
+    {
+      "text": "Nous partirons en randonnée demain matin, {1} le temps ne se gâte d'ici là.",
+      "blanks": [
+        { "answer": "à moins que", "options": ["à moins que", "par conséquent", "comme", "sous prétexte que"], "hint": "restrictive condition + SUBJUNCTIVE ('ne se gâte'): 'unless'" }
+      ],
+      "explanation": "« À moins que » expresses a restrictive condition ('unless') and governs the SUBJUNCTIVE: « à moins que le temps ne se gâte » (the « ne » is explétif, not a negation). The distractors are impossible here: « par conséquent » is a consequence ADVERB and cannot introduce a subordinate clause at all; « comme » expresses cause and takes the indicative (« comme le temps se gâte »), never the subjunctive « se gâte »; « sous prétexte que » introduces an alleged cause in the indicative, not a subjunctive restriction. Only « à moins que » fits a subjunctive 'unless' clause."
+    },
+    {
+      "text": "Prends un parapluie et des vêtements chauds {1} le temps changerait brusquement en montagne.",
+      "blanks": [
+        { "answer": "au cas où", "options": ["au cas où", "bien que", "à condition que", "afin que"], "hint": "eventuality / precaution + CONDITIONAL ('changerait'): 'in case'" }
+      ],
+      "explanation": "« Au cas où » introduces an eventuality one wants to be prepared for ('in case') and is the one connector here that governs the CONDITIONAL: « au cas où le temps changerait ». The distractors all require the SUBJUNCTIVE and are therefore incompatible with the conditional « changerait »: « bien que » (concession), « à condition que » (condition), and « afin que » (purpose) would each demand a subjunctive form (changeât / change). Only « au cas où » takes the conditional, so it is the sole valid answer."
     }
   ]
 }

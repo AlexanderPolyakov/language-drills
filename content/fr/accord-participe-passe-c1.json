@@ -112,6 +112,20 @@
         { "cue": "penser", "answer": ["pensé"], "hint": "the neuter pronoun « l' » stands for a whole clause/idea, not a gendered noun: the participle stays invariable" }
       ],
       "explanation": "Here the preceding pronoun « l' » is the NEUTER « le » that stands for an entire idea (« que la mission était difficile »), not for the feminine noun « mission ». A neuter « le/l' » representing a proposition is invariable, so the participle does NOT agree: « que nous ne l'avions pensé ». (The « ne » after the comparative « plus… que » is the « ne » explétif, not a negation.)"
+    },
+    {
+      "text": "Les trois heures que le concert a {1} ont passé comme un éclair tant la musique était envoûtante.",
+      "blanks": [
+        { "cue": "durer", "answer": ["duré"], "hint": "verb of duration: « que » is an adverbial complement of measure, NOT a direct object, so no agreement" }
+      ],
+      "explanation": "« Durer » here is intransitive: « le concert a duré trois heures ». The preceding « que » does not represent a DIRECT object but an adverbial complement of MEASURE / duration (it answers 'how long?', not 'what?'). Past participles of such verbs of duration, distance, price or weight (durer, coûter, valoir, peser, marcher, vivre, dormir, régner...) stay INVARIABLE when the preceding « que » expresses a quantity: « les trois heures que le concert a duré ». They would agree only in the rare figurative transitive use (« les efforts que ce projet m'a coûtés »). Grevisse, _Le Bon Usage_, treats this as a complément circonstanciel, hence no agreement."
+    },
+    {
+      "text": "Au fil de leur correspondance, les deux romancières se sont beaucoup {1} l'une à l'autre.",
+      "blanks": [
+        { "cue": "plaire", "answer": ["plu"], "hint": "« se plaire » (plaire À quelqu'un): « se » is COI, so the participle is ALWAYS invariable" }
+      ],
+      "explanation": "« Se plaire » derives from « plaire À quelqu'un », so the reflexive « se » is an INDIRECT object, never a direct one. The participle of « se plaire » — and likewise « se complaire », « se déplaire », « se rire », « se mentir », « se nuire », « se sourire », « se succéder » — is therefore ALWAYS INVARIABLE, whatever the gender and number of the subject: « les deux romancières se sont plu ». The adverbial « l'une à l'autre » confirms the indirect (à) construction. Grevisse, _Le Bon Usage_, lists these verbs among those whose reflexive pronoun is an indirect object, hence no agreement."
     }
   ]
 }

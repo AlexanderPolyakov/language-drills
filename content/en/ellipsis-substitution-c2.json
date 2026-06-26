@@ -132,6 +132,27 @@
         { "answer": "did", "options": ["did", "had", "were"], "hint": "auxiliary substituting for 'rose'; match the past simple in the comparative clause" }
       ],
       "explanation": "After 'than', the repeated verb phrase 'rose' is replaced by the do-operator matching its past simple tense: 'than they did'. 'Had' would demand a perfect original ('had risen') and 'were' a passive or continuous one ('were rising'), neither of which matches the plain past simple 'rose'."
+    },
+    {
+      "text": "\"I really enjoy these long mountain walks.\" \"{1} I — there's nothing better for clearing the head.\"",
+      "blanks": [
+        { "answer": "So do", "options": ["So do", "Neither do", "So am"], "hint": "additive agreement with a POSITIVE statement using the do-operator + inversion" }
+      ],
+      "explanation": "The first speaker's clause 'I enjoy' is affirmative and uses a lexical verb, so the additive echo is 'So' + the matching do-operator + subject: 'So do I'. 'Neither do' echoes a negative statement, not a positive one, and 'So am I' would require the original to contain 'be' ('I am...'), whereas the verb here is 'enjoy', which needs 'do'."
+    },
+    {
+      "text": "\"I can't stand being kept waiting.\" \"{1} can I, to be honest — it drives me mad.\"",
+      "blanks": [
+        { "answer": "Nor", "options": ["Nor", "So", "Either"], "hint": "full negative-agreement response with inversion: '___ + aux + subject'" }
+      ],
+      "explanation": "The first clause is negative ('I can't stand'), so the matching agreement is the full inverted form 'Nor can I' (equivalent to 'Neither can I'). 'So' echoes an affirmative, not a negative, and 'Either' cannot front an inverted clause this way — it only attaches to a following negative ('I can't either')."
+    },
+    {
+      "text": "\"Are the roadworks going to delay the deliveries?\" \"I suppose {1}, though I haven't heard anything definite yet.\"",
+      "blanks": [
+        { "answer": "so", "options": ["so", "not", "it"], "hint": "'suppose' substitutes for the positive clause as 'suppose ___'" }
+      ],
+      "explanation": "'Suppose' takes the positive substitute 'suppose so', standing for the affirmative clause 'the roadworks are going to delay the deliveries', which fits the tentative agreement here. 'I suppose not' would deny the delay (the opposite sense), and 'it' cannot substitute for a whole clause after 'suppose'."
     }
   ]
 }
