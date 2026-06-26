@@ -10,23 +10,92 @@
     {
       "text": "Le souverain ordonna que chaque vassal lui {1} fidélité avant la tombée de la nuit.",
       "blanks": [
-        { "answer": "jurât", "options": ["jurait", "jurât", "jura"], "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un verbe principal au passé simple" }
+        {
+          "answer": "jurât",
+          "options": [
+            "jurait",
+            "jurât",
+            "jura"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un verbe principal au passé simple"
+        }
       ],
       "explanation": "« ordonner que » triggers the subjunctive, so any indicatif is excluded: « jurait » (imparfait de l'indicatif) and « jura » (passé simple de l'indicatif) are ungrammatical after this verb. The main verb « ordonna » is in the past and the oath is posterior to the order, so literary concordance requires the subjonctif imparfait « jurât »."
     },
     {
       "text": "Elle eût aimé que ses enfants {1} déjà rentrés lorsque l'orage éclata.",
       "blanks": [
-        { "answer": "fussent", "options": ["étaient", "furent", "fussent"], "hint": "subjonctif plus-que-parfait (fussent + participe), antériorité, 3e pers. plur." }
+        {
+          "answer": "fussent",
+          "options": [
+            "étaient",
+            "furent",
+            "fussent"
+          ],
+          "hint": "subjonctif plus-que-parfait (fussent + participe), antériorité, 3e pers. plur."
+        }
       ],
       "explanation": "« aimer que » takes the subjunctive, so the indicatif forms are excluded: « étaient » (imparfait de l'indicatif) and « furent » (passé simple de l'indicatif) cannot follow this trigger. The action (being home) is ANTERIOR to the past reference (« lorsque l'orage éclata »), so strict concordance after the conditionnel passé « eût aimé » calls for the subjonctif plus-que-parfait « qu'ils fussent rentrés »."
     },
     {
       "text": "Il fallait qu'il {1} d'un courage extraordinaire pour affronter une telle épreuve.",
       "blanks": [
-        { "answer": "fît preuve", "options": ["faisait preuve", "fît preuve", "fit preuve"], "hint": "subjonctif imparfait de « faire » (fît), 3e pers. sing., après « il fallait »" }
+        {
+          "answer": "fît preuve",
+          "options": [
+            "faisait preuve",
+            "fît preuve",
+            "fit preuve"
+          ],
+          "hint": "subjonctif imparfait de « faire » (fît), 3e pers. sing., après « il fallait »"
+        }
       ],
       "explanation": "« il fallait que » imposes the subjunctive, so the indicatif forms are impossible: « faisait » (imparfait de l'indicatif) and « fit » (passé simple de l'indicatif, sans accent circonflexe) are both excluded by the trigger. The main verb is the past « fallait » and the action is simultaneous, so literary concordance gives the subjonctif imparfait of faire: « qu'il fît preuve » — note the circumflex on « fît »."
+    },
+    {
+      "text": "Bien qu'il {1} fort affaibli, le vieux capitaine refusa de quitter le navire.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif imparfait de « être » (fût, avec circonflexe), après « bien que », principal au passé simple"
+        }
+      ],
+      "explanation": "« bien que » always governs the subjunctive, so the indicatif forms are excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « refusa » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of être: « qu'il fût » — note the distinguishing circumflex on « fût »."
+    },
+    {
+      "text": "Le général disposa ses troupes avant que l'ennemi ne {1} le fleuve à l'aube.",
+      "blanks": [
+        {
+          "answer": "franchît",
+          "options": [
+            "franchissait",
+            "franchit",
+            "franchît"
+          ],
+          "hint": "subjonctif imparfait (-ît), après « avant que », postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« avant que » triggers the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « franchissait » (imparfait de l'indicatif) and « franchit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « disposa » is in the past and the crossing is posterior, so strict concordance calls for the subjonctif imparfait « qu'il franchît » — the circumflex distinguishes it from the indicative « franchit »."
+    },
+    {
+      "text": "Ce fut le discours le plus émouvant que l'assemblée {1} jamais entendu.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), superlatif « le plus … que », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
     }
   ]
 }

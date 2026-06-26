@@ -10,37 +10,102 @@
     {
       "prompt": "She was walking home. She met an old friend.",
       "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Walking'.",
-      "answer": ["Walking home, she met an old friend.", "Walking home she met an old friend"],
+      "answer": [
+        "Walking home, she met an old friend.",
+        "Walking home she met an old friend"
+      ],
       "placeholder": "Walking…",
       "explanation": "Two actions by the same subject happening at the same time are joined by an -ing clause: 'Walking home' replaces 'While she was walking home'. The subject 'she' is shared, so no second subject is needed."
     },
     {
       "prompt": "He finished the report. Then he went home.",
       "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
-      "answer": ["Having finished the report, he went home.", "Having finished the report he went home"],
+      "answer": [
+        "Having finished the report, he went home.",
+        "Having finished the report he went home"
+      ],
       "placeholder": "Having…",
       "explanation": "The perfect participle 'Having finished' signals that the report was completed before he left, making the sequence explicit in a way a plain -ing clause ('Finishing the report') could not."
     },
     {
       "prompt": "The bridge was built in 1890. It still carries traffic today.",
       "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Built'.",
-      "answer": ["Built in 1890, the bridge still carries traffic today.", "Built in 1890 the bridge still carries traffic today"],
+      "answer": [
+        "Built in 1890, the bridge still carries traffic today.",
+        "Built in 1890 the bridge still carries traffic today"
+      ],
       "placeholder": "Built…",
       "explanation": "A passive clause ('which was built in 1890') reduces to the past participle alone: 'Built in 1890'. The understood subject is 'the bridge', the subject of the main clause, so the modifier does not dangle."
     },
     {
       "prompt": "The man who is sitting over there is my old history teacher.",
       "instruction": "Rewrite using a reduced relative clause (an -ing participle) instead of 'who is sitting'.",
-      "answer": ["The man sitting over there is my old history teacher.", "The man sitting over there is my old history teacher"],
+      "answer": [
+        "The man sitting over there is my old history teacher.",
+        "The man sitting over there is my old history teacher"
+      ],
       "placeholder": "The man sitting…",
       "explanation": "A defining relative clause with 'who/which + be + -ing' can be reduced to the bare participle: 'who is sitting' becomes 'sitting'. This is a reduced relative clause, not an adverbial one."
     },
     {
       "prompt": "Because she did not know the password, she could not log in.",
       "instruction": "Rewrite the reason clause as a negative present participle clause, beginning with 'Not'.",
-      "answer": ["Not knowing the password, she could not log in.", "Not knowing the password she could not log in"],
+      "answer": [
+        "Not knowing the password, she could not log in.",
+        "Not knowing the password she could not log in"
+      ],
       "placeholder": "Not knowing…",
       "explanation": "A causal clause ('Because she did not know') reduces to a participle clause expressing reason; the negative is formed by placing 'not' before the participle: 'Not knowing the password'."
+    },
+    {
+      "prompt": "The fire spread to the upper floors. It forced hundreds of residents onto the street.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause to express the result/consequence, ending with a clause beginning '…, forcing…'.",
+      "answer": [
+        "The fire spread to the upper floors, forcing hundreds of residents onto the street.",
+        "The fire spread to the upper floors forcing hundreds of residents onto the street"
+      ],
+      "placeholder": "The fire spread…, forcing…",
+      "explanation": "An -ing clause placed after the main clause can express a result or consequence of it: 'forcing hundreds of residents onto the street' = 'and this forced…'. Unlike a simultaneous -ing clause, the participle here describes the outcome that the main event brings about, with 'the fire' (the main subject) understood as its subject."
+    },
+    {
+      "prompt": "He had been warned about the risks. He nevertheless chose to invest everything.",
+      "instruction": "Combine using a perfect passive participle clause for the completed prior event, beginning with 'Having been'.",
+      "answer": [
+        "Having been warned about the risks, he nevertheless chose to invest everything.",
+        "Having been warned about the risks he nevertheless chose to invest everything"
+      ],
+      "placeholder": "Having been warned…",
+      "explanation": "A passive clause that is also prior in time reduces to the perfect passive participle 'Having been + past participle': 'Having been warned' = 'Although he had been warned'. The 'Having been' form simultaneously marks the action as both passive (he was the recipient of the warning) and completed before the main verb."
+    },
+    {
+      "prompt": "The report, which had been commissioned at great expense, was quietly shelved.",
+      "instruction": "Rewrite using a reduced relative clause built on a perfect/passive participle (drop 'which had been').",
+      "answer": [
+        "The report, commissioned at great expense, was quietly shelved.",
+        "The report commissioned at great expense was quietly shelved"
+      ],
+      "placeholder": "The report, commissioned…",
+      "explanation": "A non-defining relative clause with 'which had been + past participle' reduces to the bare past participle: 'which had been commissioned' becomes 'commissioned'. This is a reduced relative clause modifying 'the report', not an adverbial one, so the commas of the original relative clause are retained."
+    },
+    {
+      "prompt": "When he was questioned by reporters, the minister denied any wrongdoing.",
+      "instruction": "Rewrite keeping the conjunction 'When' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "When questioned by reporters, the minister denied any wrongdoing.",
+        "When questioned by reporters the minister denied any wrongdoing"
+      ],
+      "placeholder": "When questioned…",
+      "explanation": "A subordinating conjunction (when, while, once, if, until) can be kept in front of a participle clause for precision: 'When he was questioned' reduces to 'When questioned', dropping the subject and the form of 'be'. The understood subject remains 'the minister', the subject of the main clause."
+    },
+    {
+      "prompt": "The negotiations finally collapsed. The two sides remained far apart on every key issue.",
+      "instruction": "Combine using a 'with + noun + participle' absolute construction to give the attendant circumstances, placed after the main clause (', with the two sides…').",
+      "answer": [
+        "The negotiations finally collapsed, with the two sides remaining far apart on every key issue.",
+        "The negotiations finally collapsed with the two sides remaining far apart on every key issue"
+      ],
+      "placeholder": "…, with the two sides remaining…",
+      "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
     }
   ]
 }
