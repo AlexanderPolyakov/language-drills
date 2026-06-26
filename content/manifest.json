@@ -333,12 +333,28 @@
           "count": 22
         },
         {
+          "id": "en-participle-clauses-c1",
+          "topic": "participle-clauses",
+          "level": "C1",
+          "title": "Participle clauses: -ing, perfect and -ed",
+          "file": "en/participle-clauses-c1.json",
+          "count": 5
+        },
+        {
           "id": "en-vocabulary-c1",
           "topic": "vocabulary",
           "level": "C1",
           "title": "Vocabulary in context (C1)",
           "file": "en/vocabulary-c1.json",
           "count": 34
+        },
+        {
+          "id": "en-concessive-clauses-c2",
+          "topic": "concessive-clauses",
+          "level": "C2",
+          "title": "Advanced concessive and contrast structures",
+          "file": "en/concessive-clauses-c2.json",
+          "count": 5
         },
         {
           "id": "en-discourse-markers-c2",
@@ -635,6 +651,14 @@
           "count": 15
         },
         {
+          "id": "fr-hypothese-irreel-passe-b2",
+          "topic": "hypothese-irreel-passe",
+          "level": "B2",
+          "title": "L'irréel du passé : si + plus-que-parfait → conditionnel passé",
+          "file": "fr/hypothese-irreel-passe-b2.json",
+          "count": 4
+        },
+        {
           "id": "fr-subjonctif-passe-b2",
           "topic": "subjonctif-passe",
           "level": "B2",
@@ -667,6 +691,14 @@
           "count": 16
         },
         {
+          "id": "fr-passe-simple-c1",
+          "topic": "passe-simple",
+          "level": "C1",
+          "title": "Le passé simple : le temps du récit littéraire",
+          "file": "fr/passe-simple-c1.json",
+          "count": 3
+        },
+        {
           "id": "fr-concordance-des-temps-c2",
           "topic": "concordance-des-temps",
           "level": "C2",
@@ -681,6 +713,14 @@
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
           "count": 16
+        },
+        {
+          "id": "fr-subjonctif-imparfait-c2",
+          "topic": "subjonctif-imparfait",
+          "level": "C2",
+          "title": "Le subjonctif imparfait et la concordance littéraire",
+          "file": "fr/subjonctif-imparfait-c2.json",
+          "count": 3
         }
       ]
     }

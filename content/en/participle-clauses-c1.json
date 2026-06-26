@@ -1,0 +1,46 @@
+{
+  "id": "en-participle-clauses-c1",
+  "lang": "en",
+  "topic": "participle-clauses",
+  "level": "C1",
+  "type": "transform",
+  "title": "Participle clauses: -ing, perfect and -ed",
+  "lesson": "Participle clauses let us combine two ideas economically by reducing one of them to a participle, with no separate subject of its own. A present (-ing) participle expresses an action happening at the same time as the main verb ('Walking home, she met an old friend') or, more loosely, a result or reason. A perfect participle ('Having finished the report, he went home') makes clear that one action was completed before the next began. A past (-ed) or passive participle reduces a passive clause ('Built in 1890, the bridge still stands'). The same mechanism reduces a relative clause: 'The man who is sitting over there' becomes 'The man sitting over there', and 'a letter that was written in haste' becomes 'a letter written in haste'. Crucially, the understood subject of the participle must be the subject of the main clause, or a dangling modifier results.",
+  "items": [
+    {
+      "prompt": "She was walking home. She met an old friend.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Walking'.",
+      "answer": ["Walking home, she met an old friend.", "Walking home she met an old friend"],
+      "placeholder": "Walking…",
+      "explanation": "Two actions by the same subject happening at the same time are joined by an -ing clause: 'Walking home' replaces 'While she was walking home'. The subject 'she' is shared, so no second subject is needed."
+    },
+    {
+      "prompt": "He finished the report. Then he went home.",
+      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
+      "answer": ["Having finished the report, he went home.", "Having finished the report he went home"],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having finished' signals that the report was completed before he left, making the sequence explicit in a way a plain -ing clause ('Finishing the report') could not."
+    },
+    {
+      "prompt": "The bridge was built in 1890. It still carries traffic today.",
+      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Built'.",
+      "answer": ["Built in 1890, the bridge still carries traffic today.", "Built in 1890 the bridge still carries traffic today"],
+      "placeholder": "Built…",
+      "explanation": "A passive clause ('which was built in 1890') reduces to the past participle alone: 'Built in 1890'. The understood subject is 'the bridge', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The man who is sitting over there is my old history teacher.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) instead of 'who is sitting'.",
+      "answer": ["The man sitting over there is my old history teacher.", "The man sitting over there is my old history teacher"],
+      "placeholder": "The man sitting…",
+      "explanation": "A defining relative clause with 'who/which + be + -ing' can be reduced to the bare participle: 'who is sitting' becomes 'sitting'. This is a reduced relative clause, not an adverbial one."
+    },
+    {
+      "prompt": "Because she did not know the password, she could not log in.",
+      "instruction": "Rewrite the reason clause as a negative present participle clause, beginning with 'Not'.",
+      "answer": ["Not knowing the password, she could not log in.", "Not knowing the password she could not log in"],
+      "placeholder": "Not knowing…",
+      "explanation": "A causal clause ('Because she did not know') reduces to a participle clause expressing reason; the negative is formed by placing 'not' before the participle: 'Not knowing the password'."
+    }
+  ]
+}

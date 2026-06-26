@@ -1,0 +1,32 @@
+{
+  "id": "fr-subjonctif-imparfait-c2",
+  "lang": "fr",
+  "topic": "subjonctif-imparfait",
+  "level": "C2",
+  "type": "cloze",
+  "title": "Le subjonctif imparfait et la concordance littéraire",
+  "lesson": "In sustained literary French (« registre soutenu »), the « concordance des temps » with the subjunctive is strict: when the main verb is in a PAST tense (passé simple, imparfait, plus-que-parfait) or in the conditionnel, a subordinate subjunctive that is SIMULTANEOUS or POSTERIOR takes the SUBJONCTIF IMPARFAIT, and one that is ANTERIOR takes the SUBJONCTIF PLUS-QUE-PARFAIT. The subjonctif imparfait is built on the passé simple stem: 3rd singular ends in -ât / -ît / -ût (qu'il parlât, qu'il finît, qu'il fût/eût), and 3rd plural in -assent / -issent / -ussent (qu'ils parlassent, qu'ils fissent, qu'ils fussent/eussent). The subjonctif plus-que-parfait is « eût/fût + past participle » (qu'il eût compris, qu'elle fût partie). In everyday modern French these forms are replaced by the subjonctif présent and passé, but they remain the correct, expected choice in literary and very formal writing — and the indicatif is never an option after a subjunctive trigger.",
+  "items": [
+    {
+      "text": "Le souverain ordonna que chaque vassal lui {1} fidélité avant la tombée de la nuit.",
+      "blanks": [
+        { "answer": "jurât", "options": ["jurait", "jurât", "jura"], "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un verbe principal au passé simple" }
+      ],
+      "explanation": "« ordonner que » triggers the subjunctive, so any indicatif is excluded: « jurait » (imparfait de l'indicatif) and « jura » (passé simple de l'indicatif) are ungrammatical after this verb. The main verb « ordonna » is in the past and the oath is posterior to the order, so literary concordance requires the subjonctif imparfait « jurât »."
+    },
+    {
+      "text": "Elle eût aimé que ses enfants {1} déjà rentrés lorsque l'orage éclata.",
+      "blanks": [
+        { "answer": "fussent", "options": ["étaient", "furent", "fussent"], "hint": "subjonctif plus-que-parfait (fussent + participe), antériorité, 3e pers. plur." }
+      ],
+      "explanation": "« aimer que » takes the subjunctive, so the indicatif forms are excluded: « étaient » (imparfait de l'indicatif) and « furent » (passé simple de l'indicatif) cannot follow this trigger. The action (being home) is ANTERIOR to the past reference (« lorsque l'orage éclata »), so strict concordance after the conditionnel passé « eût aimé » calls for the subjonctif plus-que-parfait « qu'ils fussent rentrés »."
+    },
+    {
+      "text": "Il fallait qu'il {1} d'un courage extraordinaire pour affronter une telle épreuve.",
+      "blanks": [
+        { "answer": "fît preuve", "options": ["faisait preuve", "fît preuve", "fit preuve"], "hint": "subjonctif imparfait de « faire » (fît), 3e pers. sing., après « il fallait »" }
+      ],
+      "explanation": "« il fallait que » imposes the subjunctive, so the indicatif forms are impossible: « faisait » (imparfait de l'indicatif) and « fit » (passé simple de l'indicatif, sans accent circonflexe) are both excluded by the trigger. The main verb is the past « fallait » and the action is simultaneous, so literary concordance gives the subjonctif imparfait of faire: « qu'il fît preuve » — note the circumflex on « fît »."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fr-passe-simple-c1",
+  "lang": "fr",
+  "topic": "passe-simple",
+  "level": "C1",
+  "type": "fill",
+  "title": "Le passé simple : le temps du récit littéraire",
+  "lesson": "The « passé simple » is the tense of written narration — novels, fairy tales, history, formal accounts. It expresses a single, completed action viewed as a whole, the way the passé composé does in speech, but it belongs almost exclusively to the WRITTEN, literary register and survives mainly in the 3rd person (singular « il/elle/on » and plural « ils/elles »). Endings by group: -ER verbs → -a / -èrent (il parla, ils parlèrent); regular -IR/-RE verbs → -it / -irent (il finit, ils finirent; il rendit, ils rendirent). Many high-frequency verbs are irregular and fall into an « -u » family (avoir → il eut, ils eurent; être → il fut, ils furent; pouvoir → il put; vouloir → il voulut; devoir → il dut; vivre → il vécut) or keep a special stem (faire → il fit, ils firent; venir → il vint, ils vinrent; tenir → il tint; prendre → il prit, ils prirent; voir → il vit; mettre → il mit; naître → il naquit). Note the circumflex never appears in the 3rd person of the passé simple (it marks only nous/vous forms).",
+  "items": [
+    {
+      "text": "Le héros {1} (prendre) son épée et {2} (faire) face à l'ennemi.",
+      "blanks": [
+        { "cue": "prendre", "answer": ["prit"], "hint": "passé simple, 3e pers. sing. — radical irrégulier en pri-" },
+        { "cue": "faire", "answer": ["fit"], "hint": "passé simple, 3e pers. sing. — radical irrégulier en fi-" }
+      ],
+      "explanation": "« prendre » has the irregular passé simple stem « pri- » → 3rd singular « il prit ». « faire » has the stem « fi- » → « il fit ». Both are single completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "Quand la nuit {1} (tomber), les voyageurs {2} (venir) frapper à la porte de l'auberge.",
+      "blanks": [
+        { "cue": "tomber", "answer": ["tomba"], "hint": "passé simple, 3e pers. sing., verbe en -ER → terminaison -a" },
+        { "cue": "venir", "answer": ["vinrent"], "hint": "passé simple, 3e pers. plur. — radical nasal vin- → -inrent" }
+      ],
+      "explanation": "« tomber » is a regular -ER verb: 3rd singular passé simple ends in -a → « tomba ». « venir » belongs to the irregular « vin- » family whose 3rd plural is « vinrent » (like « tinrent » for tenir). Both narrate punctual events in the past."
+    },
+    {
+      "text": "La reine {1} (être) bouleversée, mais elle n'{2} (avoir) pas le temps de réagir.",
+      "blanks": [
+        { "cue": "être", "answer": ["fut"], "hint": "passé simple, 3e pers. sing. — radical fu-" },
+        { "cue": "avoir", "answer": ["eut"], "hint": "passé simple, 3e pers. sing. — radical eu-, prononcé [y]" }
+      ],
+      "explanation": "Two cornerstone irregulars of the « -u » family: « être » → « elle fut », « avoir » → « elle eut ». Note « eut » carries no circumflex in the 3rd person singular (the circumflex distinguishes « eût », which is the subjonctif plus-que-parfait). These mark completed states in the narrative past."
+    }
+  ]
+}
