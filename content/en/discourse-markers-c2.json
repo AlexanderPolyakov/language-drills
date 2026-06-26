@@ -146,6 +146,27 @@
         { "answer": "case in point", "options": ["foregone conclusion", "case in point", "moot point"], "hint": "a clear example illustrating the claim just made" }
       ],
       "explanation": "'A case in point' is a concrete example that illustrates the general claim just made (the gallery proves that small museums can outshine famous ones). 'A foregone conclusion' is an inevitable outcome and 'a moot point' is a debatable or irrelevant one, neither of which names an illustrative example."
+    },
+    {
+      "text": "The figures are provisional and {1} should be treated with caution by anyone citing them.",
+      "blanks": [
+        { "answer": "as such", "options": ["as such", "conversely", "albeit"], "hint": "'being of that nature, therefore'; draws a consequence from the description just given" }
+      ],
+      "explanation": "'As such' means 'being of that kind, and therefore', drawing a consequence from the quality just stated (provisional, so treat with caution). 'Conversely' would signal an opposite case and 'albeit' a concession, neither of which infers a consequence from the preceding description."
+    },
+    {
+      "text": "The negotiations succeeded {1} both sides were willing to abandon their preconditions.",
+      "blanks": [
+        { "answer": "inasmuch as", "options": ["inasmuch as", "notwithstanding", "albeit"], "hint": "very formal 'to the extent that / seeing that'; gives the qualifying reason" }
+      ],
+      "explanation": "'Inasmuch as' is a formal connector meaning 'to the extent that' or 'seeing that', supplying the reason that qualifies the claim of success. 'Notwithstanding' would concede an obstacle and 'albeit' introduce a clipped concession, neither of which gives a grounding reason."
+    },
+    {
+      "text": "He could not even afford the bus fare, {1} a flight to the conference abroad.",
+      "blanks": [
+        { "answer": "let alone", "options": ["let alone", "much as", "even so"], "hint": "after a negative, adds a yet more extreme case = 'still less'" }
+      ],
+      "explanation": "'Let alone' follows a negative to add an even more improbable case ('still less'), and the prior negative ('could not even afford the bus fare') licenses it. 'Much as' introduces a concessive clause ('much as I admire him') and 'even so' concedes-then-overrides, so neither performs this escalation after a negative."
     }
   ]
 }

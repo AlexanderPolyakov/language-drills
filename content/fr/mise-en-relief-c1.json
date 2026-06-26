@@ -66,6 +66,21 @@
       "prompt": "Je m'attendais surtout à un peu de reconnaissance. (mettre en relief le complément avec « ce à quoi… , c'est »)",
       "answer": ["Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance.", "Ce à quoi je m'attendais surtout, c'est à un peu de reconnaissance."],
       "explanation": "« S'attendre à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je m'attendais surtout, c'est un peu de reconnaissance ». As with « tenir à », the preposition « à » may optionally be echoed in the highlighted element (« c'est à un peu de reconnaissance »). The reflexive pronoun « me » is kept inside the clefted clause (« je m'attendais »)."
+    },
+    {
+      "prompt": "Nous avons pris cette décision ensemble. (mettre en relief le sujet « nous » avec « c'est… qui »)",
+      "answer": ["C'est nous qui avons pris cette décision ensemble."],
+      "explanation": "To emphasise a SUBJECT pronoun, the cleft « c'est … qui » uses the STRESSED form (« nous »), and the verb in the relative clause agrees with the original person: « C'est nous qui AVONS pris » (1st person plural, not « a pris »). « Qui » carries the grammatical person of the highlighted pronoun, so the conjugation follows « nous » → « nous avons » → « avons pris ». Note that « c'est » itself stays invariable even before « nous ». This 1st/2nd-person agreement after « c'est … qui » is a classic C1 trap (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "J'ai relu plusieurs fois cette lettre. (mettre en relief le COD « cette lettre » avec « c'est… que »)",
+      "answer": ["C'est cette lettre que j'ai relue plusieurs fois."],
+      "explanation": "« Cette lettre » is the DIRECT OBJECT of « relire », not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est cette lettre que j'ai relue ». In a « c'est … que » cleft on a COD, the « que » is the relative pronoun representing the clefted direct object, which thus PRECEDES the auxiliary « avoir » and triggers agreement of the past participle. Since « lettre » is feminine singular, the agreement is VISIBLE here: « relue » (cf. Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Les retards et les annulations exaspèrent les usagers. (mettre en relief le sujet pluriel avec « ce sont »)",
+      "answer": ["Ce sont les retards et les annulations qui exaspèrent les usagers."],
+      "explanation": "To emphasise a PLURAL subject (« les retards et les annulations »), careful written French uses the agreeing presentative « ce sont » (not « c'est ») directly before the plural noun phrase, followed by « qui »: « Ce sont les retards et les annulations QUI exaspèrent les usagers ». « Ce sont » agrees in number with the following plural, and the verb of the relative clause keeps its plural form because « qui » carries the original plural subject."
     }
   ]
 }

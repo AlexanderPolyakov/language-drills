@@ -146,6 +146,27 @@
         { "cue": "far be", "answer": ["Far be"], "hint": "fossilised inverted subjunctive (= 'it would be presumptuous of me'); capitalised at the start" }
       ],
       "explanation": "'Far be it from me to...' is a frozen inverted subjunctive (= 'I would never presume to...'), used to disclaim an intention before doing exactly that. The subjunctive 'be' is fronted before the subject 'it'; the phrase opens the sentence, so it is capitalised."
+    },
+    {
+      "text": "The loan was granted on condition that the company {1} its full accounts to the bank each quarter.",
+      "blanks": [
+        { "cue": "submit", "answer": ["submit"], "hint": "mandative subjunctive after the conjunction 'on condition that'; no -s" }
+      ],
+      "explanation": "Conditional conjunctions of stipulation — 'on condition that', 'provided that', 'lest', 'so that' (purpose) — can govern the mandative subjunctive, so the verb stays in the bare base form: 'the company submit', never 'submits'. The missing third-person -s is the only overt marker with this regular verb."
+    },
+    {
+      "text": "The shareholders rejected the proposal that the chairman {1} given a seat on the new board.",
+      "blanks": [
+        { "cue": "be", "answer": ["be"], "hint": "subjunctive in a noun complement clause after 'the proposal that...'" }
+      ],
+      "explanation": "Abstract nouns of demand or recommendation ('proposal', 'recommendation', 'request', 'requirement') take the mandative subjunctive in their that-complement, exactly like the related verbs: 'the proposal that the chairman be given...', a passive base form rather than 'is given' or 'was given'."
+    },
+    {
+      "text": "{1} I known how steep the path would be, I would never have agreed to lead the group.",
+      "blanks": [
+        { "cue": "have", "answer": ["Had"], "hint": "inverted third conditional dropping 'if': 'Had I known' = 'If I had known'; capitalised at the start" }
+      ],
+      "explanation": "Formal counterfactual conditionals can drop 'if' and invert the auxiliary to the front: 'Had I known' = 'If I had known'. The past-perfect 'had' moves before the subject 'I', signalling an unreal past condition; the clause opens the sentence, so it is capitalised."
     }
   ]
 }

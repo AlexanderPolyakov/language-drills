@@ -104,6 +104,34 @@
         { "answer": "did", "options": ["did", "were", "had"], "hint": "an auxiliary substitutes for the verb phrase 'backed the amendment'; match the past simple tense" }
       ],
       "explanation": "The verb phrase 'backed the amendment' is past simple, so the substitute auxiliary is the 'do'-operator in the past, 'did' ('others did only reluctantly'). 'Were' would require a passive or continuous original ('were backing'), and 'had' would require a perfect form ('had backed'), neither of which matches the plain past simple 'backed'."
+    },
+    {
+      "text": "\"Could you photocopy these and circulate them?\" \"I'll {1} right away.\"",
+      "blanks": [
+        { "answer": "do that", "options": ["do that", "make so", "make it"], "hint": "everyday spoken pro-form pointing to the just-mentioned request" }
+      ],
+      "explanation": "In ordinary conversation 'do that' (or just 'do it') is the natural pro-form pointing back to the requested action. 'Make so' is not an English substitution form at all, and 'make it' is not a substitution for a verb phrase either — 'make' cannot stand in for 'photocopy and circulate'."
+    },
+    {
+      "text": "The shoes in the window were lovely, but I wanted {1} in black rather than brown.",
+      "blanks": [
+        { "answer": "the same", "options": ["the same", "the one", "such"], "hint": "substitutes for 'shoes of the identical kind'" }
+      ],
+      "explanation": "'The same' substitutes for a noun phrase denoting an identical item just mentioned ('the same shoes, but in black'). 'The one' is singular and clashes with the plural 'shoes', and 'such' would mean 'shoes of that general type', not the very same model in another colour."
+    },
+    {
+      "text": "Modern bridges can carry far heavier loads than {1} built a century ago.",
+      "blanks": [
+        { "answer": "those", "options": ["those", "that", "such"], "hint": "plural counterpart of 'that of', substituting for the countable plural 'bridges'" }
+      ],
+      "explanation": "'Those' is the plural substitute for a countable noun before a post-modifier ('those built a century ago' = 'the bridges built a century ago'). Singular 'that' cannot stand for the plural 'bridges', and 'such' would replace a category rather than pick out the earlier-built ones."
+    },
+    {
+      "text": "Sales rose faster this quarter than they {1} in the whole of last year.",
+      "blanks": [
+        { "answer": "did", "options": ["did", "had", "were"], "hint": "auxiliary substituting for 'rose'; match the past simple in the comparative clause" }
+      ],
+      "explanation": "After 'than', the repeated verb phrase 'rose' is replaced by the do-operator matching its past simple tense: 'than they did'. 'Had' would demand a perfect original ('had risen') and 'were' a passive or continuous one ('were rising'), neither of which matches the plain past simple 'rose'."
     }
   ]
 }

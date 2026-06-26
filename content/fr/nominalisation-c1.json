@@ -72,6 +72,21 @@
       "prompt": "Les deux pays ont rompu brutalement leurs relations diplomatiques. (nominaliser « rompre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
       "answer": ["La rupture brutale des relations diplomatiques entre les deux pays.", "La rupture brutale des relations diplomatiques entre les deux pays", "La rupture brutale des relations diplomatiques des deux pays.", "La rupture brutale des relations diplomatiques des deux pays"],
       "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les deux partis ont longuement adhéré à cet accord. (nominaliser le verbe « adhérer » en « -ence/-ion » → groupe nominal)",
+      "answer": ["La longue adhésion des deux partis à cet accord.", "La longue adhésion des deux partis à cet accord"],
+      "explanation": "« Adhérer » nominalises in « -sion » → « l'adhésion » (feminine, like « la décision »). Note the contrast with the FEMININE suffix « -ence » seen in verbs like « différer → la différence » or « exister → l'existence »: « -ance / -ence » are both feminine and derive nouns of state or action. The subject « les deux partis » becomes the complement « des deux partis », the verbal complement « à cet accord » is kept, and the adverb « longuement » is rendered by the adjective « longue » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Le témoin a oublié totalement ce détail. (nominaliser « oublier » par un déverbal SANS suffixe → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["L'oubli total de ce détail par le témoin.", "L'oubli total de ce détail par le témoin", "L'oubli total de ce detail par le temoin"],
+      "explanation": "« Oublier » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « l'oubli » (masculine), like « le choix », « le retour », « l'appel ». The direct object « ce détail » becomes the patient complement « de ce détail », the subject (agent) is reintroduced with « par »: « par le témoin », and the adverb « totalement » is rendered by the masculine adjective « total »: « l'oubli total »."
+    },
+    {
+      "prompt": "Le maire a accueilli chaleureusement les réfugiés. (nominaliser « accueillir » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["L'accueil chaleureux des réfugiés par le maire.", "L'accueil chaleureux des réfugiés par le maire", "L'accueil chaleureux des refugies par le maire"],
+      "explanation": "« Accueillir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « l'accueil » (masculine), like « l'appel » (appeler), « l'oubli », « le choix ». The direct object « les réfugiés » becomes the patient complement « des réfugiés », the subject (agent) is reintroduced with « par »: « par le maire », and the adverb « chaleureusement » is rendered by the masculine adjective « chaleureux »: « l'accueil chaleureux »."
     }
   ]
 }
