@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (courir) vers la rivière, mais il ne {2} (croire) pas ce qu'il y découvrit.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family with the stem « cour- » → 3rd singular « il courut » (double r in the stem). « croire » likewise takes the « -u » family → « il crut » (not to be confused with « crût », the subjonctif imparfait, which alone carries the circumflex). Both report single, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "La marquise {1} (recevoir) la lettre à l'aube et la {2} (lire) sans dire un mot.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille → reçut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family with the stem « reç- » → « elle reçut » (the cédille keeps the [s] sound before u). « lire » also belongs to the « -u » family → « elle lut » (a very short, irregular stem). Both express completed punctual actions in the narrative past, the typical use of the passé simple."
+    },
+    {
+      "text": "Le vieux peintre {1} (peindre) une dernière toile, puis {2} (mourir) au printemps suivant.",
+      "blanks": [
+        {
+          "cue": "peindre",
+          "answer": [
+            "peignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical en -gn → peignit"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "« peindre » (like « craindre », « éteindre ») builds its passé simple on the « -gn » stem → 3rd singular « il peignit », ending in -it. « mourir » belongs to the « -u » family → « il mourut ». Both narrate single, completed events that frame the close of a life in this literary récit."
     }
   ]
 }
