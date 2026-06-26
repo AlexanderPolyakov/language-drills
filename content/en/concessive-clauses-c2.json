@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the underlying problem will not disappear.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "However",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "___ + much + subject + verb = no amount of it helps"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no quantity of something (here, spending) changes the outcome: 'However much the government spends' = 'no matter how much it spends'. 'For all' and 'Notwithstanding' must be followed by a noun phrase, not by 'much + clause'; 'Much as' takes a verb of feeling directly ('Much as I dislike it'), not the quantifier 'much' plus another clause."
+    },
+    {
+      "text": "The treatment proved effective, {1} slower to take hold than the doctors had hoped.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "even so",
+            "much as",
+            "albeit",
+            "while"
+          ],
+          "hint": "introduces a concessive phrase (here an adjective), not a finite clause"
+        }
+      ],
+      "explanation": "'Albeit' qualifies a preceding statement with a concessive adjective or adverbial phrase: 'effective, albeit slower to take hold'. 'Even so' is a free-standing conjunct that links whole sentences and would need its own main clause; 'Much as' and 'While' both require a following finite clause with a subject and verb, not the bare adjective phrase 'slower to take hold'."
+    },
+    {
+      "text": "{1} as he might, he could not persuade the committee to reconsider.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "However",
+            "Despite",
+            "Try",
+            "Much"
+          ],
+          "hint": "fixed pattern: bare verb + as + subject + verb = 'although he tried'"
+        }
+      ],
+      "explanation": "'Try as + subject + verb' is a fixed concessive idiom ('Try as he might/did') meaning 'however hard he tried'. It fronts the bare verb 'Try' before 'as'. 'However' would itself front the clause and take an adverb ('However hard he tried'); 'Despite' governs a noun or -ing, not a finite clause; 'Much' does not begin this fronted 'as'-pattern, which requires the verb in the gap."
     }
   ]
 }

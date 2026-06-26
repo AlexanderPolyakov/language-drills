@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si elles {1} (rester) chez elles, elles {2} (devenir) folles d'ennui.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étaient restées"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur. fém., verbe d'état → être, accord avec le sujet"
+        },
+        {
+          "cue": "devenir",
+          "answer": [
+            "seraient devenues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe de la famille « venir » → être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » (verbe d'état) and « devenir » (famille de « venir ») both conjugate with être, so the past participle AGREES in gender and number with the feminine-plural subject « elles ». The « si » clause takes the plus-que-parfait « étaient restées » and the result clause the conditionnel passé « seraient devenues » — both participles carry the feminine-plural « -es »."
+    },
+    {
+      "text": "Il {1} (recevoir) la médaille qu'il {2} (mériter) s'il avait persévéré.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "aurait reçu"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing., auxiliaire avoir — COD « la médaille » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "mériter",
+          "answer": [
+            "avait méritée"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= la médaille, fém. sing.)"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. For « recevoir », its object « la médaille » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurait reçu » (an agreeing « reçue » would be wrong, the object being postposé). In the relative « la médaille qu'il avait méritée », the pronoun « que » = « la médaille » (feminine singular) precedes « mériter », so the participle MUST agree: « méritée » (plain « mérité » is incorrect here). Both verbs use avoir; agreement depends solely on the position of the direct object."
+    },
+    {
+      "text": "Si le capitaine {1} (descendre) à terre, l'équipage {2} (se révolter) aussitôt.",
+      "blanks": [
+        {
+          "cue": "descendre",
+          "answer": [
+            "était descendu"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. masc., verbe de mouvement (intransitif) → être, accord avec le sujet"
+        },
+        {
+          "cue": "se révolter",
+          "answer": [
+            "se serait révolté"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « l'équipage » (masc. sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « descendre » used intransitively (no direct object) is a movement verb taking être, so the plus-que-parfait « était descendu » agrees with the masculine-singular subject « le capitaine ». « se révolter » is an essentially pronominal verb where « se » is the direct object, so it takes être and the participle AGREES with the masculine-singular subject « l'équipage »: « se serait révolté »."
     }
   ]
 }

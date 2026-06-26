@@ -130,6 +130,27 @@
         { "answer": "look into", "options": ["look into", "look up", "look on"], "hint": "investigate something" }
       ],
       "explanation": "'look into' means to investigate or examine a matter. 'look up' = find information in a reference source, and 'look on' = watch something happen without taking part, so neither fits investigating a complaint."
+    },
+    {
+      "text": "Our car {1} on the motorway, so we had to wait two hours for a mechanic.",
+      "blanks": [
+        { "answer": "broke down", "options": ["broke up", "broke down", "broke off"], "hint": "stop working (of a machine)" }
+      ],
+      "explanation": "'break down' means (of a vehicle or machine) to stop working. 'break up' = end a relationship or split into pieces, and 'break off' = stop suddenly or detach a part, so neither describes a car failing mechanically."
+    },
+    {
+      "text": "Despite the criticism, the team {1} with the project exactly as they had planned.",
+      "blanks": [
+        { "answer": "carried on", "options": ["carried out", "carried on", "carried off"], "hint": "continue doing something" }
+      ],
+      "explanation": "'carry on (with something)' means to continue doing it. 'carry out' = perform or complete a task (and would take the project as a direct object, not 'with'), and 'carry off' = succeed in doing something difficult, so neither fits 'continued as planned'."
+    },
+    {
+      "text": "She {1} a bit of Italian while she was living in Rome, just by talking to people.",
+      "blanks": [
+        { "answer": "picked up", "options": ["picked on", "picked out", "picked up"], "hint": "learn informally without studying" }
+      ],
+      "explanation": "'pick up' a language or skill means to learn it informally, without deliberate study. 'pick on' = treat someone unfairly or bully them, and 'pick out' = select or distinguish one thing from others, so neither fits acquiring a language casually."
     }
   ]
 }

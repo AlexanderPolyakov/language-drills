@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut que son fidèle messager {1} sur-le-champ pour porter la nouvelle.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît, avec circonflexe), après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so the indicatif forms are excluded: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « voulut » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of partir: « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "On doutait fort qu'un simple apprenti {1} mener à bien une œuvre aussi délicate.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « douter que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are ungrammatical after this verb. The main verb « doutait » is a past tense and the ability is simultaneous, so literary concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which sets it apart from the indicative « put »."
+    },
+    {
+      "text": "Il céda enfin, à moins qu'il ne {1} la lassitude de prolonger une lutte inutile.",
+      "blanks": [
+        {
+          "answer": "craignît",
+          "options": [
+            "craignait",
+            "craignit",
+            "craignît"
+          ],
+          "hint": "subjonctif imparfait de « craindre » (-ît), après « à moins que », principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « craignait » (imparfait de l'indicatif) and « craignit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « céda » is in the past and the fear is simultaneous, so strict concordance requires the subjonctif imparfait of craindre: « qu'il craignît » — the circumflex distinguishes it from the indicative « craignit »."
+    },
+    {
+      "text": "C'était le seul guide qui {1} jamais affronté ce col avant la fonte des neiges.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The crossing is anterior to the past reference « c'était », so literary concordance requires the subjonctif plus-que-parfait « qui eût affronté » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
     }
   ]
 }
