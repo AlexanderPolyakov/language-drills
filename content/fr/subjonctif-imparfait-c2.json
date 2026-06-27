@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que son disciple {1} sur-le-champ pour porter le message.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, without circumflex) are both ungrammatical after this verb. The main verb « exigea » is in the past (passé simple) and the departure is posterior to the demand, so literary concordance requires the subjonctif imparfait of partir: « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "Elle souhaitait ardemment que son fils {1} achever ses études malgré la guerre.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (-ût, avec circonflexe), 3e pers. sing., après « souhaiter que »"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « souhaitait » is a past tense (imparfait) and the wish is simultaneous, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le vieillard cacha la lettre de peur qu'on ne {1} d'en révéler le secret.",
+      "blanks": [
+        {
+          "answer": "craignît",
+          "options": [
+            "craignait",
+            "craignit",
+            "craignît"
+          ],
+          "hint": "subjonctif imparfait de « craindre » (-ît), 3e pers. sing., après « de peur que »"
+        }
+      ],
+      "explanation": "« de peur que » always governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « craignait » (imparfait de l'indicatif) and « craignit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « cacha » is in the past (passé simple) and the feared action is simultaneous/posterior, so literary concordance requires the subjonctif imparfait of craindre: « qu'on craignît » — built on the passé simple stem « craigni- » with the distinguishing circumflex."
+    },
+    {
+      "text": "Le capitaine donna l'ordre du départ sans qu'aucune sentinelle {1} de son poste.",
+      "blanks": [
+        {
+          "answer": "se fût éloignée",
+          "options": [
+            "s'était éloignée",
+            "se fut éloignée",
+            "se fût éloignée"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, accord du participe pronominal au féminin"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif forms are excluded: « s'était éloignée » (plus-que-parfait de l'indicatif) and « se fut éloignée » (passé antérieur de l'indicatif, no circumflex) are both wrong after this trigger. The leaving would be ANTERIOR to the past reference « donna l'ordre », so strict concordance requires the subjonctif plus-que-parfait of the pronominal « s'éloigner »: « qu'elle se fût éloignée » — note the circumflex on the auxiliary « fût » (vs indicatif « fut »), and the participle « éloignée » agrees with the reflexive direct object « se » (= « sentinelle », feminine)."
     }
   ]
 }
