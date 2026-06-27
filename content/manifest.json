@@ -226,7 +226,7 @@
           "level": "B1",
           "title": "Passive voice: present and past simple",
           "file": "en/passive-voice-b1.json",
-          "count": 12
+          "count": 17
         },
         {
           "id": "en-past-continuous-b1",
@@ -250,7 +250,7 @@
           "level": "B1",
           "title": "Relative clauses: who, which, that, whose, where, when",
           "file": "en/relative-clauses-b1.json",
-          "count": 15
+          "count": 20
         },
         {
           "id": "en-used-to-b1",
@@ -688,7 +688,7 @@
           "level": "C1",
           "title": "La nominalisation",
           "file": "fr/nominalisation-c1.json",
-          "count": 16
+          "count": 21
         },
         {
           "id": "fr-passe-simple-c1",
@@ -712,7 +712,7 @@
           "level": "C2",
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
-          "count": 16
+          "count": 21
         },
         {
           "id": "fr-subjonctif-imparfait-c2",

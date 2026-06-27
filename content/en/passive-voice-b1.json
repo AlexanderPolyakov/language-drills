@@ -66,6 +66,31 @@
       "text": "The results {1} to the students last week.",
       "blanks": [{ "cue": "explain", "answer": ["were explained"], "hint": "past simple passive, plural subject" }],
       "explanation": "Past simple passive with a plural subject 'results': 'were' + explained (regular -ed participle)."
+    },
+    {
+      "text": "This form {1} in black ink.",
+      "blanks": [{ "cue": "complete", "answer": ["must be completed"], "hint": "modal passive: must + be + participle" }],
+      "explanation": "Modal passive: modal + 'be' + past participle. 'must be completed' expresses obligation (complete → completed)."
+    },
+    {
+      "text": "From the top of the hill, the whole city {1}.",
+      "blanks": [{ "cue": "see", "answer": ["can be seen"], "hint": "modal passive: can + be + participle" }],
+      "explanation": "Modal passive: 'can' + 'be' + past participle expresses possibility. see → seen."
+    },
+    {
+      "text": "The road is closed because it {1} at the moment.",
+      "blanks": [{ "cue": "repair", "answer": ["is being repaired"], "hint": "present continuous passive: is/are + being + participle" }],
+      "explanation": "Present continuous passive: 'is/are' + 'being' + past participle for an action happening now. repair → repaired."
+    },
+    {
+      "text": "Don't worry, the work {1} already.",
+      "blanks": [{ "cue": "finish", "answer": ["has been finished"], "hint": "present perfect passive: has/have + been + participle" }],
+      "explanation": "Present perfect passive: 'has/have' + 'been' + past participle. Singular subject 'work' takes 'has'; finish → finished."
+    },
+    {
+      "text": "All the tickets {1} by the fans within minutes.",
+      "blanks": [{ "cue": "sell", "answer": ["have been sold"], "hint": "present perfect passive with an agent" }],
+      "explanation": "Present perfect passive: 'have' + 'been' + past participle with the plural subject 'tickets'. The agent follows 'by'; sell → sold."
     }
   ]
 }

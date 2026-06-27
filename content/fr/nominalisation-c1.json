@@ -87,6 +87,31 @@
       "prompt": "Le maire a accueilli chaleureusement les réfugiés. (nominaliser « accueillir » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
       "answer": ["L'accueil chaleureux des réfugiés par le maire.", "L'accueil chaleureux des réfugiés par le maire", "L'accueil chaleureux des refugies par le maire"],
       "explanation": "« Accueillir » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « l'accueil » (masculine), like « l'appel » (appeler), « l'oubli », « le choix ». The direct object « les réfugiés » becomes the patient complement « des réfugiés », the subject (agent) is reintroduced with « par »: « par le maire », and the adverb « chaleureusement » is rendered by the masculine adjective « chaleureux »: « l'accueil chaleureux »."
+    },
+    {
+      "prompt": "La population de ce village a beaucoup vieilli en vingt ans. (nominaliser le verbe « vieillir » en « -issement » → groupe nominal sujet)",
+      "answer": ["Le fort vieillissement de la population de ce village en vingt ans.", "Le fort vieillissement de la population de ce village en vingt ans"],
+      "explanation": "« Vieillir » nominalises in « -issement » → « le vieillissement » (the « -issement » suffix is MASCULINE and derives from second-group verbs in « -ir », like « grandir → le grandissement », « investir → l'investissement »). The subject « la population » becomes the complement « de la population », and the adverb « beaucoup » is rendered by the masculine adjective « fort »: « le fort vieillissement »."
+    },
+    {
+      "prompt": "Le transporteur a livré les marchandises avec beaucoup de retard. (nominaliser le verbe « livrer » en « -aison » → groupe nominal)",
+      "answer": ["La livraison très tardive des marchandises par le transporteur.", "La livraison très tardive des marchandises par le transporteur", "La livraison des marchandises avec beaucoup de retard par le transporteur.", "La livraison des marchandises avec beaucoup de retard par le transporteur"],
+      "explanation": "« Livrer » nominalises in « -aison » → « la livraison » (the « -aison » suffix is FEMININE, like « comparer → la comparaison », « terminer → la terminaison »). The direct object « les marchandises » becomes the patient complement « des marchandises », the subject (agent) is reintroduced with « par »: « par le transporteur », and « avec beaucoup de retard » is condensed into the adjective « très tardive » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Cette équipe est étonnamment faible cette saison. (nominaliser l'adjectif « faible » en « -esse » → groupe nominal sujet)",
+      "answer": ["L'étonnante faiblesse de cette équipe cette saison.", "L'étonnante faiblesse de cette équipe cette saison"],
+      "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « faible » → « la faiblesse » (the « -esse » suffix is FEMININE and denotes an abstract quality, like « riche → la richesse », « tendre → la tendresse », « politesse »). The original subject « cette équipe » becomes the complement « de cette équipe », and the adverb « étonnamment » is rendered by the adjective « étonnante » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les enfants ont glissé sur la pente verglacée. (nominaliser le verbe « glisser » en « -ade » → groupe nominal)",
+      "answer": ["La glissade des enfants sur la pente verglacée.", "La glissade des enfants sur la pente verglacée", "La glissade des enfants sur la pente verglacee"],
+      "explanation": "« Glisser » nominalises in « -ade » → « la glissade » (the « -ade » suffix is FEMININE and often names a concrete action or its result, like « baigner → la baignade », « promener → la promenade », « noyer → la noyade »). Here « glisser » keeps its physical sense (to slide/skid), which « la glissade » renders exactly. The verb's subject « les enfants » becomes the complement « des enfants », and the place complement « sur la pente verglacée » is kept as is."
+    },
+    {
+      "prompt": "Le documentaliste a soigneusement trié ces archives. (nominaliser le verbe « trier » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["Le tri soigneux de ces archives par le documentaliste.", "Le tri soigneux de ces archives par le documentaliste"],
+      "explanation": "« Trier » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe »): « le tri » (masculine), like « l'envoi » (envoyer), « le choix », « l'oubli ». The direct object « ces archives » becomes the patient complement « de ces archives », the subject (agent) is reintroduced with « par »: « par le documentaliste », and the adverb « soigneusement » is rendered by the masculine adjective « soigneux »: « le tri soigneux »."
     }
   ]
 }

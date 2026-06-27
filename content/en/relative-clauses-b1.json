@@ -111,6 +111,41 @@
         { "answer": "whose", "options": ["whose", "who", "which"], "hint": "shows possession in a non-defining clause" }
       ],
       "explanation": "Use 'whose' to show possession: the dog belongs to the neighbour. Only 'whose' fits this slot."
+    },
+    {
+      "text": "Nobody knows the reason {1} he left so suddenly.",
+      "blanks": [
+        { "answer": "why", "options": ["where", "which", "why"], "hint": "relative after 'the reason'" }
+      ],
+      "explanation": "Use 'why' as the relative after 'the reason'; it means 'for which'. 'Which' and 'where' don't fit this slot."
+    },
+    {
+      "text": "She works for a small company {1} office is in the city centre.",
+      "blanks": [
+        { "answer": "whose", "options": ["which", "whose", "where"], "hint": "possession with a thing" }
+      ],
+      "explanation": "'Whose' can refer to things as well as people: the office belongs to the company."
+    },
+    {
+      "text": "This is the company {1} which she works.",
+      "blanks": [
+        { "answer": "for", "options": ["on", "for", "to"], "hint": "preposition that goes with the verb 'work'" }
+      ],
+      "explanation": "With preposition + 'which', the preposition is the one the verb requires: we 'work for' a company, so 'for which'."
+    },
+    {
+      "text": "He passed his driving test, {1} delighted his parents.",
+      "blanks": [
+        { "answer": "which", "options": ["that", "which", "what"], "hint": "non-defining; refers to the whole previous clause" }
+      ],
+      "explanation": "Use 'which' (not 'that' or 'what') to refer back to a whole clause; here it means 'and this fact delighted his parents'."
+    },
+    {
+      "text": "The shop {1} I bought this jacket has closed down.",
+      "blanks": [
+        { "answer": "where", "options": ["where", "which", "who"], "hint": "refers to a place" }
+      ],
+      "explanation": "Use 'where' for a place (the shop); it means 'at which'. 'Which' alone can't follow without a preposition here."
     }
   ]
 }
