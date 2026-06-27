@@ -81,6 +81,31 @@
       "prompt": "Les retards et les annulations exaspèrent les usagers. (mettre en relief le sujet pluriel avec « ce sont »)",
       "answer": ["Ce sont les retards et les annulations qui exaspèrent les usagers."],
       "explanation": "To emphasise a PLURAL subject (« les retards et les annulations »), careful written French uses the agreeing presentative « ce sont » (not « c'est ») directly before the plural noun phrase, followed by « qui »: « Ce sont les retards et les annulations QUI exaspèrent les usagers ». « Ce sont » agrees in number with the following plural, and the verb of the relative clause keeps its plural form because « qui » carries the original plural subject."
+    },
+    {
+      "prompt": "Je rêve d'un peu de calme. (mettre en relief le complément avec « ce dont… , c'est »)",
+      "answer": ["Ce dont je rêve, c'est d'un peu de calme.", "Ce dont je rêve, c'est un peu de calme."],
+      "explanation": "« Rêver » governs the preposition « de » (« rêver DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi): « Ce dont je rêve, c'est d'un peu de calme ». The highlighted element normally echoes the « de » (« c'est d'un peu de calme »); in less formal usage the « de » may be dropped (« c'est un peu de calme »), hence both forms are accepted."
+    },
+    {
+      "prompt": "Je pense surtout à mon avenir. (mettre en relief le complément avec « ce à quoi… , c'est »)",
+      "answer": ["Ce à quoi je pense surtout, c'est à mon avenir.", "Ce à quoi je pense surtout, c'est mon avenir."],
+      "explanation": "« Penser à » governs the preposition « à » with a thing, so the clefting pronoun is « ce à quoi » (= à quoi): « Ce à quoi je pense surtout, c'est à mon avenir ». The preposition « à » is normally echoed in the highlighted element (« c'est à mon avenir »); it may optionally be dropped (« c'est mon avenir »). Note « ce à quoi », not « ce dont », because the verb takes « à », not « de »."
+    },
+    {
+      "prompt": "Tu as trouvé la solution, pas moi. (mettre en relief le sujet « tu » avec « c'est… qui »)",
+      "answer": ["C'est toi qui as trouvé la solution, pas moi."],
+      "explanation": "To emphasise a SUBJECT pronoun, the cleft « c'est … qui » uses the STRESSED form (« toi », not « tu »), and — crucially — the verb in the relative clause agrees with the original 2nd person: « C'est toi qui AS trouvé » (« tu as » → « as »), NOT « a trouvé ». « Qui » carries the grammatical person of the highlighted pronoun. This 2nd-person agreement after « c'est … qui » is a classic C1 trap (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Elle a réussi grâce à sa ténacité. (mettre en relief le moyen avec « c'est… que »)",
+      "answer": ["C'est grâce à sa ténacité qu'elle a réussi."],
+      "explanation": "« Grâce à sa ténacité » is a complement of MEANS/manner, not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est grâce à sa ténacité qu'elle a réussi ». Any element other than the subject — including a complement of manner or means — is clefted with « que »."
+    },
+    {
+      "prompt": "Tu as repeint cette vieille porte toi-même. (mettre en relief le COD « cette vieille porte » avec « c'est… que »)",
+      "answer": ["C'est cette vieille porte que tu as repeinte toi-même."],
+      "explanation": "« Cette vieille porte » is the DIRECT OBJECT of « repeindre », not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est cette vieille porte que tu as repeinte ». In a « c'est … que » cleft on a COD, the « que » is the relative pronoun representing the clefted direct object, which thus PRECEDES the auxiliary « avoir » and triggers agreement of the past participle. Since « porte » is feminine singular, the agreement is VISIBLE: « repeinte » (cf. Grevisse, _Le Bon Usage_)."
     }
   ]
 }
