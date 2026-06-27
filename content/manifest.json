@@ -202,7 +202,7 @@
           "level": "B1",
           "title": "Articles in fixed expressions",
           "file": "en/articles-expressions.json",
-          "count": 5
+          "count": 10
         },
         {
           "id": "en-articles-geography",
@@ -210,7 +210,7 @@
           "level": "B1",
           "title": "Articles with place names",
           "file": "en/articles-geography.json",
-          "count": 5
+          "count": 10
         },
         {
           "id": "en-conditionals",
@@ -648,7 +648,7 @@
           "level": "B2",
           "title": "Le gérondif et le participe présent",
           "file": "fr/gerondif-participe-present-b2.json",
-          "count": 15
+          "count": 20
         },
         {
           "id": "fr-hypothese-irreel-passe-b2",
@@ -680,7 +680,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 15
+          "count": 20
         },
         {
           "id": "fr-nominalisation-c1",
