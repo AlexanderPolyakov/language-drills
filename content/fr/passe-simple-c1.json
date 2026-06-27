@@ -8,7 +8,7 @@
   "lesson": "The « passé simple » is the tense of written narration — novels, fairy tales, history, formal accounts. It expresses a single, completed action viewed as a whole, the way the passé composé does in speech, but it belongs almost exclusively to the WRITTEN, literary register and survives mainly in the 3rd person (singular « il/elle/on » and plural « ils/elles »). Endings by group: -ER verbs → -a / -èrent (il parla, ils parlèrent); regular -IR/-RE verbs → -it / -irent (il finit, ils finirent; il rendit, ils rendirent). Many high-frequency verbs are irregular and fall into an « -u » family (avoir → il eut, ils eurent; être → il fut, ils furent; pouvoir → il put; vouloir → il voulut; devoir → il dut; vivre → il vécut) or keep a special stem (faire → il fit, ils firent; venir → il vint, ils vinrent; tenir → il tint; prendre → il prit, ils prirent; voir → il vit; mettre → il mit; naître → il naquit). Note the circumflex never appears in the 3rd person of the passé simple (it marks only nous/vous forms).",
   "items": [
     {
-      "text": "Le héros {1} (prendre) son épée et {2} (faire) face à l'ennemi.",
+      "text": "Le héros {1} son épée et {2} face à l'ennemi.",
       "blanks": [
         {
           "cue": "prendre",
@@ -28,7 +28,7 @@
       "explanation": "« prendre » has the irregular passé simple stem « pri- » → 3rd singular « il prit ». « faire » has the stem « fi- » → « il fit ». Both are single completed narrative actions, hence the passé simple in this literary récit."
     },
     {
-      "text": "Quand la nuit {1} (tomber), les voyageurs {2} (venir) frapper à la porte de l'auberge.",
+      "text": "Quand la nuit {1}, les voyageurs {2} frapper à la porte de l'auberge.",
       "blanks": [
         {
           "cue": "tomber",
@@ -48,7 +48,7 @@
       "explanation": "« tomber » is a regular -ER verb: 3rd singular passé simple ends in -a → « tomba ». « venir » belongs to the irregular « vin- » family whose 3rd plural is « vinrent » (like « tinrent » for tenir). Both narrate punctual events in the past."
     },
     {
-      "text": "La reine {1} (être) bouleversée, mais elle n'{2} (avoir) pas le temps de réagir.",
+      "text": "La reine {1} bouleversée, mais elle n'{2} pas le temps de réagir.",
       "blanks": [
         {
           "cue": "être",
@@ -68,7 +68,7 @@
       "explanation": "Two cornerstone irregulars of the « -u » family: « être » → « elle fut », « avoir » → « elle eut ». Note « eut » carries no circumflex in the 3rd person singular (the circumflex distinguishes « eût », which is the subjonctif plus-que-parfait). These mark completed states in the narrative past."
     },
     {
-      "text": "L'astronome {1} (voir) enfin la comète et {2} (vouloir) en noter aussitôt la trajectoire.",
+      "text": "L'astronome {1} enfin la comète et {2} en noter aussitôt la trajectoire.",
       "blanks": [
         {
           "cue": "voir",
@@ -88,7 +88,7 @@
       "explanation": "« voir » has the irregular passé simple stem « vi- » → 3rd singular « il vit » (not to be confused with the present « il voit »). « vouloir » belongs to the « -u » family → « il voulut ». Both report single, completed narrative actions, hence the passé simple in this literary récit."
     },
     {
-      "text": "Le vieux savant {1} (naître) dans un hameau perdu et y {2} (vivre) jusqu'à la fin de ses jours.",
+      "text": "Le vieux savant {1} dans un hameau perdu et y {2} jusqu'à la fin de ses jours.",
       "blanks": [
         {
           "cue": "naître",
@@ -108,7 +108,7 @@
       "explanation": "« naître » has the special passé simple stem « naqu- » → « il naquit ». « vivre » follows the « -u » family with the stem « véc- » → « il vécut ». Note that the circumflex of the infinitive « naître » disappears in the passé simple « naquit ». Both verbs frame the whole span of a life as completed events in the narrative past."
     },
     {
-      "text": "Les soldats {1} (devoir) battre en retraite, mais leur chef {2} (tenir) bon jusqu'à l'aube.",
+      "text": "Les soldats {1} battre en retraite, mais leur chef {2} bon jusqu'à l'aube.",
       "blanks": [
         {
           "cue": "devoir",
@@ -128,7 +128,7 @@
       "explanation": "« devoir » belongs to the « -u » family: 3rd plural « ils durent » (no circumflex in the 3rd person — the circumflex appears only in « dû », masculine singular past participle). « tenir » follows the irregular nasal « tin- » family → « il tint » (like « il vint » for venir). Both express completed actions in this literary récit."
     },
     {
-      "text": "Le messager {1} (dire) la vérité, puis {2} (mettre) un genou à terre devant le roi.",
+      "text": "Le messager {1} la vérité, puis {2} un genou à terre devant le roi.",
       "blanks": [
         {
           "cue": "dire",
