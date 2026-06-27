@@ -169,7 +169,7 @@
     },
     {
       "text": "Tu connais {1} histoire, je te l'ai racontée.",
-      "blanks": [{ "options": ["ton", "ta", "mon"], "answer": "mon" }],
+      "blanks": [{ "options": ["ma", "ta", "mon"], "answer": "mon" }],
       "explanation": "'histoire' is feminine with a vowel; the speaker's own story takes 'mon'."
     },
     {
