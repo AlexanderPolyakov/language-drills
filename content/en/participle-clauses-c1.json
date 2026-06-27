@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She had spent a decade working in Tokyo. She found the move back to London surprisingly difficult.",
+      "instruction": "Combine using a perfect active participle clause to give the completed background reason, beginning with 'Having spent'.",
+      "answer": [
+        "Having spent a decade working in Tokyo, she found the move back to London surprisingly difficult.",
+        "Having spent a decade working in Tokyo she found the move back to London surprisingly difficult"
+      ],
+      "placeholder": "Having spent…",
+      "explanation": "The perfect active participle 'Having spent' reduces a completed prior clause ('Because she had spent a decade…') and here conveys both anteriority and reason: the years in Tokyo were over before, and account for, the difficulty of the move. Unlike a plain -ing clause ('Spending a decade…'), the perfect form makes the action explicitly finished before the main verb. The understood subject is 'she', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The novel was translated into more than forty languages. It made its author a global celebrity.",
+      "instruction": "Combine using a non-defining reduced relative clause built on an -ed participle, placed mid-sentence after the subject (', translated into…,').",
+      "answer": [
+        "The novel, translated into more than forty languages, made its author a global celebrity.",
+        "The novel translated into more than forty languages made its author a global celebrity"
+      ],
+      "placeholder": "The novel, translated…,",
+      "explanation": "A non-defining relative clause ('which was translated into more than forty languages') reduces to the bare past participle 'translated', set off by paired commas because it adds non-essential information about 'the novel'. Embedded between the subject and its verb, the participle phrase modifies the noun it follows; the commas signal that it is a reduced relative clause, not an adverbial one."
+    },
+    {
+      "prompt": "As soon as it is switched on, the device begins recording automatically.",
+      "instruction": "Rewrite keeping a subordinating conjunction but reducing the clause to a past (passive) participle, beginning with 'Once switched on'.",
+      "answer": [
+        "Once switched on, the device begins recording automatically.",
+        "Once switched on the device begins recording automatically"
+      ],
+      "placeholder": "Once switched on…",
+      "explanation": "A subordinator such as 'once', 'when', 'until' or 'if' can be retained in front of a reduced passive clause for precision: 'As soon as it is switched on' becomes 'Once switched on', dropping the subject 'it' and the form of 'be'. The retained conjunction keeps the temporal meaning explicit, while the understood subject stays 'the device', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "Because it is situated on a steep hillside, the village is almost inaccessible by car.",
+      "instruction": "Rewrite the reason clause as a present participle clause of an underlying passive, beginning with 'Being'.",
+      "answer": [
+        "Being situated on a steep hillside, the village is almost inaccessible by car.",
+        "Being situated on a steep hillside the village is almost inaccessible by car"
+      ],
+      "placeholder": "Being situated…",
+      "explanation": "A causal clause whose verb is stative-passive ('Because it is situated…') reduces to 'Being + past participle', which expresses reason: 'Being situated on a steep hillside' = 'Because it is situated…'. 'Being' carries the present, ongoing state, and 'situated' supplies the passive meaning. The understood subject is 'the village', the subject of the main clause, so there is no dangling modifier."
+    },
+    {
+      "prompt": "The hikers pressed on towards the summit. Their boots were caked with mud.",
+      "instruction": "Combine using a 'with + noun + -ed (past) participle' absolute construction giving the attendant circumstances, placed after the main clause (', with their boots…').",
+      "answer": [
+        "The hikers pressed on towards the summit, with their boots caked with mud.",
+        "The hikers pressed on towards the summit with their boots caked with mud"
+      ],
+      "placeholder": "…, with their boots caked…",
+      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances using a passive (-ed) participle: 'with their boots caked with mud' = 'and their boots were caked with mud'. Like its -ing counterpart, it carries its own subject ('their boots'), so it need not share the subject of the main clause ('the hikers') and therefore does not dangle, even though the two subjects differ."
     }
   ]
 }

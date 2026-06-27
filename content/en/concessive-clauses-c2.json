@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} much we cut costs, the project will still run well over budget.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "Albeit",
+            "However",
+            "Much as"
+          ],
+          "hint": "___ + 'much' + subject + verb = no degree of it changes the outcome"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no amount of the action alters the result: 'However much we cut costs' = 'No matter how much we cut costs'. 'For all' is a preposition taking a noun phrase ('For all our cost-cutting'), not 'much' + a clause; 'Albeit' cannot introduce a finite clause with its own subject and verb; 'Much as' is followed directly by the verb ('Much as we cut costs'), so adding 'much' after it is ungrammatical."
+    },
+    {
+      "text": "The results were encouraging, {1} preliminary and based on a small sample.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "even so",
+            "much as",
+            "albeit",
+            "despite"
+          ],
+          "hint": "introduces a bare concessive adjective phrase qualifying what precedes"
+        }
+      ],
+      "explanation": "'Albeit' introduces a reduced concessive phrase — here the bare adjectives 'preliminary and based on a small sample' — qualifying the preceding clause; it is equivalent to 'although they were'. 'Even so' is a free-standing conjunct that begins a new main clause, not a phrase tagged on after a comma; 'much as' requires a following subject and verb ('much as they were preliminary'); 'despite' is a preposition that must govern a noun or -ing form ('despite their preliminary nature'), not a bare predicative adjective."
+    },
+    {
+      "text": "{1} as he might, he could not budge the rusted bolt a single millimetre.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Much",
+            "Albeit"
+          ],
+          "hint": "fronted bare verb + 'as' + subject + 'might' = an emphatic 'no matter how hard he tried'"
+        }
+      ],
+      "explanation": "The fixed idiom 'Try as he might' fronts the bare verb before 'as + subject + might', meaning 'however hard he tried'. The slot requires a verb, so only 'Try' fits the pattern '[verb] as he might'. 'However' would be followed by an adjective/adverb, not stand before 'as he might'; 'Much as' takes a verb of feeling directly ('Much as he tried') without the modal 'might' construction; 'Albeit' cannot govern a finite clause at all."
+    },
+    {
+      "text": "The forecast points to a sharp downturn. {1}, the board has approved an ambitious expansion.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as it is",
+            "Be that as it may",
+            "However it be",
+            "Granted that"
+          ],
+          "hint": "a fixed formal conjunct: 'even if that is true / in spite of that'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, formal sentence conjunct meaning 'even if that is so / in spite of that'; it stands alone before a comma and concedes the previous sentence while introducing a contrasting one. 'Much as it is' is not an idiomatic concessive opener and leaves the verb dangling; 'However it be' is archaic and ungrammatical in modern usage; 'Granted that' must be followed by a clause it concedes ('Granted that the forecast is grim'), not used as a free-standing reference back to the previous sentence."
+    },
+    {
+      "text": "{1} the obstacles, the expedition was determined to reach the pole.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Much as",
+            "However",
+            "While",
+            "Whatever"
+          ],
+          "hint": "___ + noun phrase = 'no matter what'; concedes any/every member of a set"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive determiner meaning 'no matter what': 'Whatever the obstacles' = 'No matter what the obstacles were'. It licenses a bare noun phrase with the verb 'be' understood. 'Much as' and 'While' require a finite clause with subject and verb ('Much as obstacles arose'); 'However' would need a following adjective/adverb ('However many obstacles'), not the bare noun 'the obstacles'."
     }
   ]
 }

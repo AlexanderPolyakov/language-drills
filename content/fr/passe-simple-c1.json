@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (courir) vers la rivière, car il {2} (croire) y avoir aperçu un trésor.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family of the passé simple → 3rd singular « il courut » (built on the stem « cour- », not the infinitive « couri- »). « croire » likewise follows the « -u » family → « il crut ». Both report single, completed narrative actions, hence the passé simple in this literary récit. Note neither carries a circumflex in the 3rd person singular."
+    },
+    {
+      "text": "Le notaire {1} (recevoir) les héritiers, puis leur {2} (lire) solennellement le testament.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant -u → reçut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family → « il reçut »; the cédille on the « ç » keeps the soft [s] sound before « u ». « lire » also belongs to the « -u » family, with the short stem « l- » → « il lut » (not to be confused with the participle « lu »). Both express punctual, completed actions in the narrative past, with no circumflex in the 3rd person singular."
+    },
+    {
+      "text": "L'artiste {1} (peindre) son dernier chef-d'œuvre, puis {2} (mourir) quelques mois plus tard.",
+      "blanks": [
+        {
+          "cue": "peindre",
+          "answer": [
+            "peignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical en peign-, terminaison -it"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "« peindre » (like all verbs in -eindre) takes the stem « peign- » and the -it endings of the regular -ir/-re type → 3rd singular « il peignit ». « mourir » belongs to the « -u » family → « il mourut » (note the single « r », unlike the future « il mourra »). Both narrate completed events in this literary récit, with no circumflex in the 3rd person singular."
     }
   ]
 }

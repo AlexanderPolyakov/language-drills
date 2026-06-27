@@ -149,6 +149,71 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Nous nous {1} en montagne si le guide ne nous {2}.",
+      "blanks": [
+        {
+          "cue": "se perdre",
+          "answer": [
+            "serions perdus",
+            "serions perdues"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « nous »"
+        },
+        {
+          "cue": "ne pas accompagner",
+          "answer": [
+            "avait pas accompagnés",
+            "avait pas accompagnées"
+          ],
+          "hint": "plus-que-parfait négatif, auxiliaire avoir, accord avec le COD antéposé « nous »"
+        }
+      ],
+      "explanation": "Irréel du passé. « se perdre » is a reflexive pronominal verb where « se » is the DIRECT object (« perdre soi-même »), so it takes être in the conditionnel passé and the participle AGREES with the subject « nous »: « nous serions perdus » (or « perdues » if all-feminine). In the « si » clause, « accompagner » uses avoir; here the direct-object pronoun « nous » PRECEDES the verb, so the participle agrees with it: « ne nous avait pas accompagnés » (or « accompagnées » if the « nous » group is feminine) — an invariable « accompagné » would be wrong because of the preceding direct object. Note the negation wraps the auxiliary: « ne … avait pas accompagnés »."
+    },
+    {
+      "text": "Si vous m'aviez écouté, vous {1} (éviter) ce piège où vous {2} (tomber).",
+      "blanks": [
+        {
+          "cue": "éviter",
+          "answer": [
+            "auriez évité"
+          ],
+          "hint": "conditionnel passé, 2e pers. plur., auxiliaire avoir — COD « ce piège » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "tomber",
+          "answer": [
+            "étiez tombé",
+            "étiez tombée",
+            "étiez tombés",
+            "étiez tombées"
+          ],
+          "hint": "plus-que-parfait, vous, verbe de mouvement → être, accord avec le sujet (genre et nombre du « vous »)"
+        }
+      ],
+      "explanation": "Irréel du passé with the order reversed (« si » clause first). « éviter » takes avoir and its object « ce piège » FOLLOWS the verb, so there is no agreement: conditionnel passé « auriez évité ». « tomber » is a movement verb conjugated with être, so the plus-que-parfait « étiez tombé » agrees with the subject « vous »; since « vous » can be a single man, a single woman (polite), or a group, all four forms « tombé / tombée / tombés / tombées » are acceptable depending on who is addressed."
+    },
+    {
+      "text": "Si je l'avais rencontrée plus tôt, je l'{1} (épouser) et nous {2} (être) heureux.",
+      "blanks": [
+        {
+          "cue": "épouser",
+          "answer": [
+            "aurais épousée"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « l' » (= elle, féminin)"
+        },
+        {
+          "cue": "être",
+          "answer": [
+            "aurions été"
+          ],
+          "hint": "conditionnel passé de « être », auxiliaire avoir, pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. « épouser » takes avoir; the direct-object pronoun « l' » (= « elle », feminine) PRECEDES the verb, so the participle agrees: « je l'aurais épousée » (the feminine -e is required here). « être » forms its compound tenses with avoir, and as a non-transitive verb its participle « été » is always invariable, so the conditionnel passé is « nous aurions été » — no agreement despite the plural subject."
     }
   ]
 }
