@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi exigea que son ministre lui {1} toute la vérité sans rien dissimuler.",
+      "blanks": [
+        {
+          "answer": "dît",
+          "options": [
+            "disait",
+            "dit",
+            "dît"
+          ],
+          "hint": "subjonctif imparfait de « dire » (dît, avec circonflexe), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « disait » (imparfait de l'indicatif) and « dit » (passé simple / présent de l'indicatif, no circumflex) are ungrammatical after this verb. The main verb « exigea » is in the passé simple and the telling is posterior to the demand, so literary concordance requires the subjonctif imparfait of dire: « qu'il dît » — note the circumflex on « dît », which distinguishes it from the indicative « dit »."
+    },
+    {
+      "text": "Il était impensable qu'un homme de son rang {1} se conduire de la sorte en public.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « il était impensable que »"
+        }
+      ],
+      "explanation": "« il était impensable que » expresses doubt/impossibility and governs the subjunctive, so the indicatif is excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both wrong after this trigger. The main clause is in the past (« était ») and the action is simultaneous, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Elle aurait voulu que ses élèves {1} déjà par cœur toute la leçon avant l'examen.",
+      "blanks": [
+        {
+          "answer": "sussent",
+          "options": [
+            "savaient",
+            "surent",
+            "sussent"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (-ussent), 3e pers. plur., après « vouloir que », état simultané"
+        }
+      ],
+      "explanation": "« vouloir que » takes the subjunctive, so the indicatif forms are impossible: « savaient » (imparfait de l'indicatif) and « surent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « aurait voulu » is a conditionnel passé; here « savoir » expresses a continuing STATE of knowing, viewed as simultaneous with the desired situation, so literary concordance uses the subjonctif imparfait, 3rd plural: « qu'ils sussent » (built on the passé simple stem su- → -ussent)."
+    },
+    {
+      "text": "Le sage conseilla qu'ils {1} consulter l'oracle avant d'entreprendre un si long voyage.",
+      "blanks": [
+        {
+          "answer": "allassent",
+          "options": [
+            "allaient",
+            "allèrent",
+            "allassent"
+          ],
+          "hint": "subjonctif imparfait de « aller » (-assent), 3e pers. plur., après « conseiller que », postériorité"
+        }
+      ],
+      "explanation": "« conseiller que » triggers the subjunctive, so the indicatif is excluded: « allaient » (imparfait de l'indicatif) and « allèrent » (passé simple de l'indicatif) are both ungrammatical after this verb. The main verb « conseilla » is in the passé simple and the consulting is posterior to the advice, so literary concordance requires the subjonctif imparfait of aller, 3rd plural: « qu'ils allassent » (an -ER verb, hence the -assent ending)."
     }
   ]
 }

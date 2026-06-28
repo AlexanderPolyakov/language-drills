@@ -149,6 +149,67 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les pompiers {1} plus tôt, le blessé {2} dans l'incendie.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "étaient arrivés"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe de mouvement → être, accord avec « les pompiers » (masculin)"
+        },
+        {
+          "cue": "ne pas mourir",
+          "answer": [
+            "ne serait pas mort",
+            "ne serait pas morte"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. sing., « mourir » → auxiliaire être, accord avec le sujet, négation autour de l'auxiliaire"
+        }
+      ],
+      "explanation": "Irréel du passé. The « si » clause uses the plus-que-parfait of « arriver », a movement verb that takes être: « étaient arrivés », the participle agreeing with the masculine plural « les pompiers ». The result clause uses « mourir », which is also conjugated with être, so the conditionnel passé is « serait mort » (masculine « le blessé ») — or « serait morte » if the casualty is feminine. The negation wraps the auxiliary: « ne serait pas mort »."
+    },
+    {
+      "text": "Tu {1} le train que tu {2} cinq minutes plus tard si tu n'avais pas couru.",
+      "blanks": [
+        {
+          "cue": "manquer",
+          "answer": [
+            "aurais manqué"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « le train » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "prendre",
+          "answer": [
+            "avais pris"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= le train, masculin)"
+        }
+      ],
+      "explanation": "Both verbs use avoir. For « manquer », the object « le train » FOLLOWS the verb, so there is no agreement: the conditionnel passé is simply « aurais manqué ». For « prendre », the relative pronoun « que » = « le train » (masculine singular) precedes the verb, so the past participle agrees with this antéposed direct object — but masculine singular agreement is silent and invisible, giving « avais pris » (« prise/prises » would be wrong here, since the object is masculine). The « si » clause « si tu n'avais pas couru » fixes the irréel du passé."
+    },
+    {
+      "text": "Si elle {1} de son erreur, elle {2} t'avertir aussitôt.",
+      "blanks": [
+        {
+          "cue": "se souvenir",
+          "answer": [
+            "s'était souvenue"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. fém., verbe pronominal → être, accord avec le sujet « elle »"
+        },
+        {
+          "cue": "venir",
+          "answer": [
+            "serait venue"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing. fém., verbe de mouvement → être, accord avec le sujet"
+        }
+      ],
+      "explanation": "« se souvenir » is an essentially pronominal verb conjugated with être; its participle agrees with the subject, so for « elle » the plus-que-parfait is « s'était souvenue » (feminine -e). The result clause uses « venir », a movement verb with être, so the conditionnel passé is « serait venue », again agreeing with the feminine subject « elle ». Together they form the irréel du passé: si + plus-que-parfait → conditionnel passé."
     }
   ]
 }

@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Despite",
+            "Albeit"
+          ],
+          "hint": "fixed pattern: bare verb + as + subject + 'might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive inversion 'verb + as + subject + might/may', meaning 'however hard he tried'. The slot needs the bare verb 'Try'. 'However' would have to front the whole clause and take an adverb ('However hard he tried'); 'Despite' governs a noun or -ing, not 'as he might'; 'Albeit' introduces a phrase, not a finite 'as'-clause with a modal."
+    },
+    {
+      "text": "Your reservations are understandable. {1}, the board has decided that the project must proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However that is",
+            "Albeit so"
+          ],
+          "hint": "a fixed conjunct meaning 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / that may be true, but', standing alone before a comma and linking back to the previous sentence. 'Much as it may' is incomplete (it needs a following verb of feeling, e.g. 'Much as it may pain me'); 'However that is' is not an idiomatic connector; 'Albeit so' is not standard English, as 'albeit' introduces a phrase, not a free-standing sentence opener."
+    },
+    {
+      "text": "{1} though I respect his experience, I cannot accept his conclusion on this point.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "However",
+            "Despite",
+            "As"
+          ],
+          "hint": "intensifier + 'though' + subject + verb of feeling"
+        }
+      ],
+      "explanation": "'Much though + subject + verb' is an emphatic concessive equivalent of 'Much as I respect his experience' / 'although I greatly respect'. The slot needs the intensifier 'Much' before 'though'. 'However' would replace 'though' and take an adjective/adverb, not precede it; 'Despite' takes a noun or -ing, not 'though + clause'; 'As' would produce 'As though', which means 'as if', not concession."
+    },
+    {
+      "text": "{1} you decide, you can be sure the team will stand behind you completely.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "Despite",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + subject + verb (object understood) = 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + subject + verb' is the concessive 'no matter what (thing)': 'Whatever you decide' = 'no matter what you decide'. The verb 'decide' here lacks an object, so the pronoun 'Whatever' supplies it and functions as its object. 'Despite' is a preposition taking a noun or -ing, so it cannot head the finite clause 'you decide'; 'Much as' takes a verb of feeling directly and adds no 'no matter what' sense; 'Albeit' cannot head a finite clause with its own subject. (Note 'However' is avoided as a distractor here: 'However you decide' = 'in whatever manner you decide' would also be acceptable, so it is not clearly wrong.)"
+    },
+    {
+      "text": "{1} the fact that costs had tripled, the council refused to cancel the festival.",
+      "blanks": [
+        {
+          "answer": "In spite of",
+          "options": [
+            "In spite of",
+            "Even though",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "preposition phrase + 'the fact that' + clause = despite"
+        }
+      ],
+      "explanation": "'In spite of' is a prepositional phrase, so to govern a finite clause it must take the noun 'the fact' followed by a 'that'-clause: 'In spite of the fact that costs had tripled'. 'Even though' introduces a finite clause directly and cannot stand before 'the fact that' here ('Even though the fact that...' is ungrammatical); 'Much as' takes subject + verb, not 'the fact that'; 'Albeit' introduces a phrase, not 'the fact that' + clause."
     }
   ]
 }
