@@ -69,7 +69,7 @@
       "explanation": "« Supprimer » nominalises in « -ssion » → « la suppression » (the « -ssion » suffix is feminine, like « la discussion », « la transmission »). The direct object « cette taxe impopulaire » becomes the patient complement « de cette taxe », the subject (agent) is reintroduced with « par »: « par le Parlement », and the adverb « progressivement » is rendered by the adjective « progressive »."
     },
     {
-      "prompt": "Les deux pays ont rompu brutalement leurs relations diplomatiques. (nominaliser « rompre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "prompt": "Les deux pays ont rompu brutalement leurs relations diplomatiques. (nominaliser « rompre » en « -ure » → groupe nominal, rendre l'adverbe par un adjectif)",
       "answer": ["La rupture brutale des relations diplomatiques entre les deux pays.", "La rupture brutale des relations diplomatiques entre les deux pays", "La rupture brutale des relations diplomatiques des deux pays.", "La rupture brutale des relations diplomatiques des deux pays"],
       "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
     },
