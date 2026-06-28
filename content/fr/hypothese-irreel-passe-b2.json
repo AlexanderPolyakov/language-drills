@@ -149,6 +149,68 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les deux sœurs ne s'{1} (ne pas s'écrire) pendant tant d'années, elles ne se {2} (se retrouver) jamais avec une telle émotion.",
+      "blanks": [
+        {
+          "cue": "ne pas s'écrire",
+          "answer": [
+            "étaient pas écrit"
+          ],
+          "hint": "plus-que-parfait pronominal négatif, « se » = COI (écrire à) → pas d'accord"
+        },
+        {
+          "cue": "se retrouver",
+          "answer": [
+            "seraient retrouvées"
+          ],
+          "hint": "conditionnel passé pronominal réciproque, « se » = COD → accord avec le sujet féminin pluriel"
+        }
+      ],
+      "explanation": "Both verbs are pronominal, so both take être, but the agreement differs by the role of « se ». In « s'écrire » the sense is « écrire À l'une l'autre », so « se » is an INDIRECT object (COI) and the participle does NOT agree: « ne s'étaient pas écrit » (invariable « écrit »), with the negation wrapping the auxiliary. In « se retrouver » the sense is « retrouver l'une l'autre », so « se » is a DIRECT object (COD) and the participle AGREES with the feminine plural subject « les deux sœurs »: « se seraient retrouvées »."
+    },
+    {
+      "text": "La lettre que tu m'{1} (envoyer) hier, je l'{2} (lire) sur-le-champ si je l'avais trouvée dans ma boîte.",
+      "blanks": [
+        {
+          "cue": "envoyer",
+          "answer": [
+            "avais envoyée"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= la lettre, féminin)"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "aurais lue"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « l' » (= la lettre, féminin)"
+        }
+      ],
+      "explanation": "With the auxiliary avoir, the past participle agrees with a DIRECT object placed BEFORE the verb. In the « si »-style clause « la lettre que tu m'avais envoyée », the relative « que » = « la lettre » (féminin singulier) precedes the verb, so the participle agrees: « envoyée » (« envoyé » would be wrong here). In the result clause « je l'aurais lue », the pronoun « l' » = « la lettre » also precedes the verb, forcing agreement: « lue » (not « lu »). Both verbs use avoir; the agreement is triggered solely by the antéposed feminine object, not by the subject « je »."
+    },
+    {
+      "text": "Si nous nous {1} (se lever) à l'aube, nous {2} (monter) au sommet avant que l'orage n'éclate.",
+      "blanks": [
+        {
+          "cue": "se lever",
+          "answer": [
+            "étions levés",
+            "étions levées"
+          ],
+          "hint": "plus-que-parfait pronominal réfléchi, « se » = COD → accord avec le sujet « nous »"
+        },
+        {
+          "cue": "monter",
+          "answer": [
+            "serions montés",
+            "serions montées"
+          ],
+          "hint": "conditionnel passé, verbe de mouvement (ici intransitif) → être, accord avec le sujet « nous »"
+        }
+      ],
+      "explanation": "« se lever » is a reflexive pronominal verb where « se » is the DIRECT object (« lever soi-même »), so it takes être and the participle AGREES with the subject « nous »: « nous étions levés » (or « levées » if the group is all-feminine). « monter » here is intransitive (« monter au sommet »), a movement verb conjugated with être, so its participle also agrees with « nous »: « nous serions montés » (or « montées »). Note that « monter » can take avoir when transitive (« monter l'escalier »), but with the bare destination it stays an être verb with subject agreement."
     }
   ]
 }

@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could not prise the rusted lid from the jar.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Trying",
+            "However",
+            "Much"
+          ],
+          "hint": "bare verb + 'as he might' = no matter how hard he tried"
+        }
+      ],
+      "explanation": "The fixed emphatic concessive 'Try as he might' uses a bare verb + 'as + subject + might/may' to mean 'however hard he tried'. 'Trying as he might' is ungrammatical because the pattern demands the bare infinitive form, not the -ing participle; 'However' would need a following adverb ('However hard he tried') and no 'as'; 'Much' fits the different frame 'Much as he tried' (verb of feeling/effort) but not before the 'as he might' already supplied here."
+    },
+    {
+      "text": "The route is longer and the tolls are higher. {1}, I would still rather drive than face the airport.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Such as it is",
+            "As it were",
+            "Come what may"
+          ],
+          "hint": "fixed conjunct conceding the previous point: 'even if all that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is so', standing alone before a comma and conceding the whole preceding statement. 'Such as it is' qualifies a noun ('the food, such as it is'), not a previous sentence; 'As it were' softens a figurative expression ('a digital nomad, as it were') and is not concessive; 'Come what may' means 'whatever happens' and looks to the future rather than conceding an established fact."
+    },
+    {
+      "text": "{1} how persuasively they argue, the committee is unlikely to reverse its decision.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "Whatever",
+            "Much as"
+          ],
+          "hint": "___ + how + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter + how + adverb + subject + verb' ('No matter how persuasively they argue') concedes that the degree of an action changes nothing. 'However' carries the same meaning but takes the adverb directly without 'how' ('However persuasively they argue'), so it clashes with the 'how' already in the sentence; 'Whatever' precedes a noun or clause, not 'how'; 'Much as' is followed straight by subject + verb, not by 'how'."
+    },
+    {
+      "text": "{1} as it may seem, the quietest applicant turned out to be the most demanding negotiator.",
+      "blanks": [
+        {
+          "answer": "Strange",
+          "options": [
+            "Strange",
+            "Strangely",
+            "However",
+            "Albeit"
+          ],
+          "hint": "bare adjective + 'as it may seem' = though it seems strange"
+        }
+      ],
+      "explanation": "'Strange as it may seem' is a concessive inversion of the form 'adjective + as + subject + may + seem', meaning 'although it may seem strange'. The slot requires the bare adjective 'Strange' because 'seem' is a copular verb that takes an adjective complement, so the adverb 'Strangely' is wrong; 'However' would need to precede the adjective and drop 'as' ('However strange it may seem'); 'Albeit' introduces a phrase, not this inverted clause with its own subject and modal."
+    },
+    {
+      "text": "The northern branch posted record profits this quarter, {1} the southern branch barely broke even.",
+      "blanks": [
+        {
+          "answer": "whereas",
+          "options": [
+            "whereas",
+            "albeit",
+            "notwithstanding",
+            "much as"
+          ],
+          "hint": "subordinator of direct contrast between two clauses: 'while by contrast'"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinator of direct contrast, introducing a finite clause that is set against the main clause: '..., whereas the southern branch barely broke even'. 'Albeit' introduces a concessive phrase, not a full clause with its own subject and verb; 'Notwithstanding' is a preposition taking a noun phrase ('notwithstanding the figures'); 'Much as' is followed by a verb of feeling and means 'although', not the balanced 'by contrast' relationship needed here."
     }
   ]
 }

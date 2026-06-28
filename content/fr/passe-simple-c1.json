@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le moine {1} (écrire) la chronique de sa main et {2} (craindre) longtemps qu'on ne la brûlât.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écrivi-"
+        },
+        {
+          "cue": "craindre",
+          "answer": [
+            "craignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical craigni- → -it"
+        }
+      ],
+      "explanation": "« écrire » has the passé simple stem « écrivi- » → « il écrivit » (3rd singular -it). « craindre » (and the whole -indre family: craindre, plaindre, peindre, joindre) builds the passé simple on the stem « craigni- » → « il craignit », a regular -it / -irent type. Both narrate single completed actions in the literary récit; note there is no circumflex in the 3rd person singular."
+    },
+    {
+      "text": "Le navigateur {1} (connaître) bien des tempêtes, mais ses hommes n'en {2} (savoir) jamais l'ampleur.",
+      "blanks": [
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → surent"
+        }
+      ],
+      "explanation": "« connaître » belongs to the « -u » family with the stem « conn- » → 3rd singular « il connut » (note the circumflex of the infinitive « connaître » disappears in the passé simple). « savoir » also follows the « -u » family with the irregular stem « s- » → 3rd plural « ils surent ». Both express completed actions in the narrative past; no circumflex appears in the 3rd person."
+    },
+    {
+      "text": "Le château {1} (paraître) désert, et nul ne {2} (pouvoir) en franchir le seuil cette nuit-là.",
+      "blanks": [
+        {
+          "cue": "paraître",
+          "answer": [
+            "parut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → parut"
+        },
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        }
+      ],
+      "explanation": "« paraître » follows the « -u » family like « connaître », with the stem « par- » → « il parut » (the infinitive's circumflex disappears in the passé simple). « pouvoir » also belongs to the « -u » family → « il put » — note « put » carries no circumflex in the 3rd person singular (the circumflex marks « pût », which is the subjonctif imparfait). Both report completed events in this literary narration."
     }
   ]
 }

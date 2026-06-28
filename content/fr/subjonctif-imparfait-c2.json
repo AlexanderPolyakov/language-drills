@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine marcher, le pèlerin poursuivit sa route vers le sanctuaire.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive (like « bien que »), so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this concessive trigger. The main verb « poursuivit » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le juge doutait que l'accusé {1} la portée exacte de ses propres aveux.",
+      "blanks": [
+        {
+          "answer": "eût compris",
+          "options": [
+            "avait compris",
+            "eut compris",
+            "eût compris"
+          ],
+          "hint": "subjonctif plus-que-parfait de « comprendre » (eût + participe), antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« douter que » expresses doubt and triggers the subjunctive, so the indicatif is excluded: « avait compris » (plus-que-parfait de l'indicatif) and « eut compris » (passé antérieur de l'indicatif, with « eut » sans circonflexe) are both ungrammatical after this trigger. The understanding is ANTERIOR to the past reference « doutait », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût compris » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Il tint la lanterne allumée toute la nuit, à moins que quelqu'un ne {1} le relayer avant l'aube.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, terminaison rare en -înt), après « à moins que »"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « tint » is in the past and the relieving is posterior, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — note that venir takes the rare ending « -înt » (not « -ît »), and the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Ce fut la seule lettre qu'elle {1} jamais de son père exilé.",
+      "blanks": [
+        {
+          "answer": "eût reçue",
+          "options": [
+            "avait reçue",
+            "eut reçue",
+            "eût reçue"
+          ],
+          "hint": "subjonctif plus-que-parfait de « recevoir » (eût + participe accordé), après « le seul/la seule … que », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul / la seule … que » takes the subjunctive, so the indicatif is excluded: « avait reçue » (plus-que-parfait de l'indicatif) and « eut reçue » (passé antérieur de l'indicatif, « eut » sans circonflexe) are both wrong after this trigger. The receiving is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qu'elle eût reçue ». With the auxiliary avoir, the participle agrees with the preceding direct object « que » (= « la lettre », féminin singulier), hence « reçue »; the circumflex on « eût » marks the subjunctive against the indicative « eut »."
     }
   ]
 }

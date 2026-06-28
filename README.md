@@ -5,8 +5,8 @@ one item at a time. It runs entirely in the browser — vanilla HTML, CSS and
 JavaScript with exercise content in JSON — and deploys as static files (e.g. to
 GitHub Pages).
 
-Currently ships **82 exercises / ~1,900 items** across **English (A1–C2)** and
-**French (A1–B1)**: grammar, vocabulary (nouns, verbs, adjectives) and
+Currently ships **82 exercises / ~2,200 items** across **English (A1–C2)** and
+**French (A1–C2)**: grammar, vocabulary (nouns, verbs, adjectives) and
 per-verb French conjugation drills.
 
 ## How it works
