@@ -19,7 +19,7 @@
     { "text": "This puzzle is {1} of them all.", "blanks": [ { "cue": "difficult", "answer": ["the most difficult"] } ], "explanation": "Long adjective: use 'the most'." },
     { "text": "He is {1} runner on the team.", "blanks": [ { "cue": "fast", "answer": ["the fastest"] } ], "explanation": "Short adjective: add 'the' + -est." },
     { "text": "That's {1} cake on the menu.", "blanks": [ { "cue": "delicious", "answer": ["the most delicious"] } ], "explanation": "Long adjective: use 'the most'." },
-    { "text": "Pluto is {1} planet from the sun.", "blanks": [ { "cue": "far", "answer": ["the furthest", "the farthest"] } ], "explanation": "'far' is irregular: the furthest/farthest." },
+    { "text": "Neptune is {1} planet from the sun.", "blanks": [ { "cue": "far", "answer": ["the furthest", "the farthest"] } ], "explanation": "'far' is irregular: the furthest/farthest." },
     { "text": "This is {1} chair in the office.", "blanks": [ { "cue": "comfortable", "answer": ["the most comfortable"] } ], "explanation": "Long adjective: use 'the most'." },
     { "text": "January is often {1} month here.", "blanks": [ { "cue": "cold", "answer": ["the coldest"] } ], "explanation": "Short adjective: add 'the' + -est." },
     { "text": "She gave {1} answer in the group.", "blanks": [ { "cue": "good", "answer": ["the best"] } ], "explanation": "'good' is irregular: the best." },
