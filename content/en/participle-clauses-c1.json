@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because she was short of time, she decided to skip the introduction entirely.",
+      "instruction": "Rewrite the reason clause as a fronted present (-ing) participle clause expressing cause, beginning with 'Being'.",
+      "answer": [
+        "Being short of time, she decided to skip the introduction entirely.",
+        "Being short of time she decided to skip the introduction entirely"
+      ],
+      "placeholder": "Being short of time…",
+      "explanation": "A causal clause ('Because she was short of time') reduces to an -ing participle clause expressing reason, with the participle 'being' standing in for 'was': 'Being short of time' = 'As/Since she was short of time'. This fronted -ing clause states the cause of the main action, and its understood subject is 'she', the subject of the main clause."
+    },
+    {
+      "prompt": "She arrived at the station. She immediately realised she had left her ticket at home.",
+      "instruction": "Combine using a perfect participle of the verb of motion to mark the completed first action, beginning with 'Having'.",
+      "answer": [
+        "Having arrived at the station, she immediately realised she had left her ticket at home.",
+        "Having arrived at the station she immediately realised she had left her ticket at home"
+      ],
+      "placeholder": "Having arrived…",
+      "explanation": "With verbs of motion such as 'arrive', the perfect participle 'Having arrived' shows that the movement was fully completed before the next event, making the sequence unambiguous. A plain -ing participle ('Arriving at the station') would suggest the two events happened at the same moment, which is not the intended meaning here."
+    },
+    {
+      "prompt": "The stadium that is currently being renovated will reopen to the public next spring.",
+      "instruction": "Rewrite using a reduced relative clause based on 'being + past participle' (drop 'that is currently').",
+      "answer": [
+        "The stadium being renovated will reopen to the public next spring.",
+        "The stadium being renovated will reopen to the public next spring"
+      ],
+      "placeholder": "The stadium being renovated…",
+      "explanation": "A relative clause in the continuous passive ('that is being renovated') reduces to 'being + past participle': 'being renovated'. Unlike a bare past participle ('the stadium renovated', which reads as already finished), the 'being' form preserves the sense that the action is still in progress."
+    },
+    {
+      "prompt": "The harvest was safely gathered in. The villagers began their week-long celebration.",
+      "instruction": "Combine using an absolute construction of the form 'noun + past participle' at the front, beginning with 'The harvest'.",
+      "answer": [
+        "The harvest safely gathered in, the villagers began their week-long celebration.",
+        "The harvest safely gathered in the villagers began their week-long celebration"
+      ],
+      "placeholder": "The harvest safely gathered in…",
+      "explanation": "An absolute construction of the form 'noun + past participle' ('The harvest safely gathered in') has its own subject ('the harvest') and so does not share the subject of the main clause. It supplies the background circumstance — here, the completed condition — against which the main event takes place, and is largely confined to formal or literary writing."
+    },
+    {
+      "prompt": "Reading the email, he sensed at once that something was badly wrong.",
+      "instruction": "Make the participle clause more precise by inserting the conjunction 'On' before an -ing form to mean 'at the moment of', beginning with 'On reading'.",
+      "answer": [
+        "On reading the email, he sensed at once that something was badly wrong.",
+        "On reading the email he sensed at once that something was badly wrong"
+      ],
+      "placeholder": "On reading the email…",
+      "explanation": "The pattern 'On + -ing' means 'at the moment of doing / as soon as one does': 'On reading the email' = 'As soon as he read the email'. Keeping the preposition 'On' in front of the participle pins the action to the precise instant, which a bare -ing clause leaves vaguer; the understood subject remains 'he', the subject of the main clause."
     }
   ]
 }
