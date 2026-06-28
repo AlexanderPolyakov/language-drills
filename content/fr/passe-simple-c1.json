@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le moine {1} la lettre à la hâte, puis la {2} au courrier qui partait à l'aube.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv-"
+        },
+        {
+          "cue": "remettre",
+          "answer": [
+            "remit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — composé de « mettre », radical mi- → remit"
+        }
+      ],
+      "explanation": "« écrire » has the irregular passé simple stem « écriv- » → 3rd singular « il écrivit ». « remettre », like its base verb « mettre », follows the stem « mi- » → « il remit ». Both narrate single, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Lorsque la nouvelle parvint au village, nul n'y {1} d'abord, mais bientôt chacun {2} vers la place.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family of the passé simple → 3rd singular « il crut » (here with « nul ne… » as subject). « courir » likewise follows the « -u » family → « il courut » (note: a single -r-, unlike the future/conditionnel « courra/courrait »). Both report punctual, completed events in the narrative past."
+    },
+    {
+      "text": "Les ambassadeurs {1} les voyageurs jusqu'au palais, où le prince les {2} avec faste.",
+      "blanks": [
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical conduis- → conduisirent"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille → reçut"
+        }
+      ],
+      "explanation": "« conduire » takes the passé simple stem « conduis- », giving the 3rd plural « ils conduisirent » (an -it/-irent pattern, like dire → dirent). « recevoir » belongs to the « -u » family → 3rd singular « il reçut »; the cédille on the « ç » is required to keep the soft [s] sound before « u ». Both express completed actions in this literary récit."
     }
   ]
 }

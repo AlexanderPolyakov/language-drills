@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because she had lived in Tokyo for a decade, she spoke the language like a native.",
+      "instruction": "Rewrite the reason clause as a perfect participle clause to show the prior, completed situation, beginning with 'Having'.",
+      "answer": [
+        "Having lived in Tokyo for a decade, she spoke the language like a native.",
+        "Having lived in Tokyo for a decade she spoke the language like a native"
+      ],
+      "placeholder": "Having lived…",
+      "explanation": "A causal clause referring to a completed prior stretch of time reduces to the perfect participle 'Having + past participle': 'Because she had lived' becomes 'Having lived'. The perfect form (rather than plain 'Living') makes clear the decade of residence preceded and explains the present skill. The understood subject is 'she', the subject of the main clause."
+    },
+    {
+      "prompt": "The weather was fine, so the whole family decided to eat lunch in the garden.",
+      "instruction": "Combine using an absolute construction (a participle clause that keeps its own subject) for the reason, beginning with 'The weather'.",
+      "answer": [
+        "The weather being fine, the whole family decided to eat lunch in the garden.",
+        "The weather being fine the whole family decided to eat lunch in the garden"
+      ],
+      "placeholder": "The weather being fine,…",
+      "explanation": "An absolute construction keeps its own subject ('the weather') and attaches a participle ('being') to it, modifying the whole main clause as a reason. Because it has a subject of its own, it does not need to share the subject of the main clause ('the whole family') and so does not dangle. This is the present-participle absolute, distinct from a 'with + noun + participle' phrase."
+    },
+    {
+      "prompt": "I picked up the parcel that was waiting for me at the front desk.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) modifying the object 'the parcel', dropping 'that was'.",
+      "answer": [
+        "I picked up the parcel waiting for me at the front desk.",
+        "I picked up the parcel waiting for me at the front desk"
+      ],
+      "placeholder": "…the parcel waiting…",
+      "explanation": "A defining relative clause with 'that/which + be + -ing' reduces to the bare present participle even when the noun it modifies is the object of the main verb: 'the parcel that was waiting' becomes 'the parcel waiting'. The participle attaches directly to 'parcel', not to the subject 'I', so no dangling occurs. This is a reduced relative clause, not an adverbial one."
+    },
+    {
+      "prompt": "As soon as it is completed, the new terminal will double the airport's capacity.",
+      "instruction": "Rewrite keeping a conjunction but reducing the time clause to a past (passive) participle, beginning with 'Once'.",
+      "answer": [
+        "Once completed, the new terminal will double the airport's capacity.",
+        "Once completed the new terminal will double the airport's capacity"
+      ],
+      "placeholder": "Once completed,…",
+      "explanation": "A subordinating conjunction of time can be kept before a participle clause for precision: 'As soon as it is completed' reduces to 'Once completed', dropping the subject and the form of 'be'. The understood subject of the participle is 'the new terminal', the subject of the main clause, so the modifier does not dangle. 'Once' here means 'as soon as / when'."
+    },
+    {
+      "prompt": "If it is handled with care, this antique clock will outlast its owner.",
+      "instruction": "Rewrite the conditional clause as a past (passive) participle clause of condition, beginning with 'Handled'.",
+      "answer": [
+        "Handled with care, this antique clock will outlast its owner.",
+        "Handled with care this antique clock will outlast its owner"
+      ],
+      "placeholder": "Handled with care,…",
+      "explanation": "A conditional 'if'-clause in the passive can reduce to a bare past participle expressing condition: 'If it is handled with care' becomes 'Handled with care' = 'If/Provided it is handled with care'. The understood subject is 'this antique clock', the main-clause subject, so the participle does not dangle. Context (the modal 'will') signals that the meaning is conditional rather than purely temporal."
     }
   ]
 }
