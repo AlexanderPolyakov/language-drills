@@ -218,7 +218,7 @@
           "level": "B1",
           "title": "Conditionals: choose the correct verb form",
           "file": "en/conditionals.json",
-          "count": 14
+          "count": 19
         },
         {
           "id": "en-passive-voice-b1",
@@ -282,7 +282,7 @@
           "level": "B2",
           "title": "Mixed conditionals, wish and if only",
           "file": "en/mixed-conditionals-b2.json",
-          "count": 20
+          "count": 25
         },
         {
           "id": "en-phrasal-verbs",
@@ -616,7 +616,7 @@
           "level": "B1",
           "title": "Les pronoms relatifs",
           "file": "fr/relative-pronouns-b1.json",
-          "count": 12
+          "count": 17
         },
         {
           "id": "fr-subjunctive-present-b1",
@@ -624,7 +624,7 @@
           "level": "B1",
           "title": "Le subjonctif présent",
           "file": "fr/subjunctive-present-b1.json",
-          "count": 12
+          "count": 17
         },
         {
           "id": "fr-vocabulary-b1",

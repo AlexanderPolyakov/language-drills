@@ -66,6 +66,31 @@
       "text": "C'est exactement {1} j'avais besoin.",
       "blanks": [{ "answer": "ce dont", "options": ["ce dont", "ce que", "ce qui"], "hint": "avoir besoin de quelque chose" }],
       "explanation": "You say « avoir besoin de quelque chose »; with a neutral antecedent, the « de » complement gives ce dont."
+    },
+    {
+      "text": "Voici la table sur {1} j'ai posé mes clés.",
+      "blanks": [{ "answer": "laquelle", "options": ["laquelle", "lequel", "lesquelles"], "hint": "preposition sur + feminine singular référent (la table)" }],
+      "explanation": "After a preposition, an inanimate antecedent takes a compound relative pronoun agreeing in gender and number. « la table » is feminine singular, so sur laquelle."
+    },
+    {
+      "text": "C'est un problème {1} je pense souvent.",
+      "blanks": [{ "answer": "auquel", "options": ["à laquelle", "auquel", "duquel"], "hint": "penser à quelque chose, masculine singular référent" }],
+      "explanation": "« penser à quelque chose »; à + lequel contracts to auquel. « un problème » is masculine singular, so auquel."
+    },
+    {
+      "text": "Le parc près {1} nous habitons est très calme.",
+      "blanks": [{ "answer": "duquel", "options": ["de laquelle", "desquels", "duquel"], "hint": "près de + masculine singular référent (le parc)" }],
+      "explanation": "The complex preposition « près de » requires a compound form: de + lequel contracts to duquel. « le parc » is masculine singular, so près duquel."
+    },
+    {
+      "text": "Ce sont les outils sans {1} je ne peux pas travailler.",
+      "blanks": [{ "answer": "lesquels", "options": ["lesquelles", "lesquels", "qui"], "hint": "preposition sans + masculine plural things (les outils)" }],
+      "explanation": "After a preposition, inanimate antecedents take lequel/lesquels (not « qui », reserved for people). « les outils » is masculine plural, so sans lesquels."
+    },
+    {
+      "text": "Je ne sais pas {1} tu fais allusion.",
+      "blanks": [{ "answer": "ce à quoi", "options": ["ce dont", "ce que", "ce à quoi"], "hint": "faire allusion à quelque chose, neutral antecedent" }],
+      "explanation": "« faire allusion à quelque chose »; with a neutral antecedent and the preposition « à », use ce à quoi."
     }
   ]
 }

@@ -146,6 +146,41 @@
         { "cue": "finish", "answer": ["had finished"], "hint": "wish + past perfect for a regret about the past" }
       ],
       "explanation": "To regret that something did not happen in the past, we use 'wish + past perfect' ('had finished'); the speaker is sorry the roof was unfinished when the storm came."
+    },
+    {
+      "text": "If only I {1} (book) the tickets earlier; now they are all sold out.",
+      "blanks": [
+        { "cue": "book", "answer": ["had booked"], "hint": "if only + past perfect for a past regret" }
+      ],
+      "explanation": "'If only + past perfect' expresses a regret about a past action or omission ('had booked'); the speaker is sorry the tickets were not booked in time."
+    },
+    {
+      "text": "I'd rather you {1} (not tell) anyone about this for the moment.",
+      "blanks": [
+        { "cue": "not tell", "answer": ["didn't tell", "did not tell"], "hint": "would rather + past simple to talk about someone else's present/future action" }
+      ],
+      "explanation": "When 'would rather' refers to another person's action, it is followed by the past simple with present or future meaning: 'I'd rather you didn't tell anyone' expresses a present preference about what someone else does."
+    },
+    {
+      "text": "It's getting late; it's time we {1} (leave) for the airport.",
+      "blanks": [
+        { "cue": "leave", "answer": ["left"], "hint": "it's time + past subjunctive (past simple form) for something that should happen now" }
+      ],
+      "explanation": "'It's time + subject + past simple' (the past subjunctive) means something is due to happen now, often with a hint that it is overdue: 'it's time we left' = we should leave now."
+    },
+    {
+      "text": "I wish my flat {1} (be) closer to the office; the daily commute exhausts me.",
+      "blanks": [
+        { "cue": "be", "answer": ["were", "was"], "hint": "wish + were for an unreal present situation; 'were' is preferred" }
+      ],
+      "explanation": "'Wish + past simple' describes a present situation we would like to be different; 'were' is the preferred subjunctive form for all persons, though 'was' is common informally."
+    },
+    {
+      "text": "If it hadn't been for your support, I {1} (give) up long ago.",
+      "blanks": [
+        { "cue": "give", "answer": ["would have given"], "hint": "if it hadn't been for + would have + past participle (past result)" }
+      ],
+      "explanation": "'If it hadn't been for + noun' means 'without' and introduces an unreal past cause; with a past result it takes 'would have + past participle': the support is the reason the speaker did not give up."
     }
   ]
 }

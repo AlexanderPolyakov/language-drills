@@ -66,6 +66,31 @@
       "text": "Il est important que vous {1} vos devoirs ce soir.",
       "blanks": [{ "cue": "finir", "answer": ["finissiez"], "hint": "il est important que + subjunctive, finir, vous" }],
       "explanation": "« il est important que » expresses necessity and triggers the subjunctive. Finir in the subjunctive (vous): finissiez."
+    },
+    {
+      "text": "Je te prête ma voiture à condition que tu me la {1} demain.",
+      "blanks": [{ "cue": "rendre", "answer": ["rendes"], "hint": "à condition que + subjunctive, rendre, tu" }],
+      "explanation": "« à condition que » expresses a condition and triggers the subjunctive. Rendre in the subjunctive (tu): rendes."
+    },
+    {
+      "text": "Attends ici jusqu'à ce que je {1}.",
+      "blanks": [{ "cue": "revenir", "answer": ["revienne"], "hint": "jusqu'à ce que + subjunctive, revenir, je" }],
+      "explanation": "« jusqu'à ce que » marks a limit in time and requires the subjunctive. Revenir in the subjunctive (je): revienne."
+    },
+    {
+      "text": "Il vaut mieux que vous {1} le métro pour éviter les embouteillages.",
+      "blanks": [{ "cue": "prendre", "answer": ["preniez"], "hint": "il vaut mieux que + subjunctive, prendre, vous" }],
+      "explanation": "« il vaut mieux que » expresses preference or advice and triggers the subjunctive. Prendre in the subjunctive (vous): preniez."
+    },
+    {
+      "text": "Je doute qu'elle {1} venir avant la fin de la réunion.",
+      "blanks": [{ "cue": "vouloir", "answer": ["veuille"], "hint": "douter que + subjunctive, vouloir, elle" }],
+      "explanation": "« douter que » expresses doubt and requires the subjunctive. Vouloir in the subjunctive (elle): veuille."
+    },
+    {
+      "text": "C'est le seul collègue qui {1} vraiment nous aider.",
+      "blanks": [{ "cue": "pouvoir", "answer": ["puisse"], "hint": "le seul... qui + subjunctive, pouvoir, il" }],
+      "explanation": "After « le seul... qui », the subjunctive marks restriction. Pouvoir in the subjunctive (il): puisse."
     }
   ]
 }

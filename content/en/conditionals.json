@@ -115,6 +115,41 @@
         { "answer": "would have called", "options": ["would have called", "would call", "will call"], "hint": "third conditional result" }
       ],
       "explanation": "Third conditional for an unreal past: if + past perfect (had known), would have + past participle (would have called) — the speaker didn't know, so didn't call."
+    },
+    {
+      "text": "If I {1} to lose my job, I would have to sell the house.",
+      "blanks": [
+        { "answer": "were", "options": ["am", "were", "will be"], "hint": "formal hypothesis: 'if I were to + base verb'" }
+      ],
+      "explanation": "'If + subject + were to + base verb' presents a hypothetical future as a remote or formal possibility: 'If I were to lose my job…', with 'would' in the result."
+    },
+    {
+      "text": "{1} I known you were ill, I would have visited you.",
+      "blanks": [
+        { "answer": "Had", "options": ["If", "Had", "Have"], "hint": "inversion replacing 'if' in the third conditional — no 'if'" }
+      ],
+      "explanation": "In formal English, 'if' can be dropped and the auxiliary moved before the subject: 'Had I known…' = 'If I had known…' (third conditional, unreal past)."
+    },
+    {
+      "text": "You can borrow my car {1} that you return it by Friday.",
+      "blanks": [
+        { "answer": "provided", "options": ["unless", "provided", "otherwise"], "hint": "conditional conjunction meaning 'on condition that'" }
+      ],
+      "explanation": "'Provided (that)' (also 'providing') introduces a condition meaning 'only if / on condition that': permission is given on the single condition stated."
+    },
+    {
+      "text": "I'll write the address down now {1} I forget it later.",
+      "blanks": [
+        { "answer": "in case", "options": ["if", "unless", "in case"], "hint": "precaution taken in advance against a future possibility" }
+      ],
+      "explanation": "'In case' expresses a precaution taken beforehand: you write the address down now to be safe. 'If I forget it' would illogically mean writing it down only at the moment of forgetting, so only 'in case' fits here."
+    },
+    {
+      "text": "{1} you need any help, please call this number.",
+      "blanks": [
+        { "answer": "Should", "options": ["Were", "Should", "Would"], "hint": "formal first-conditional inversion replacing 'if you should'" }
+      ],
+      "explanation": "'Should you + base verb' is a formal inversion of 'If you should need…', used for an open future possibility: 'Should you need any help…' = 'If you (should) need any help…'."
     }
   ]
 }
