@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le juge exigea que l'accusé {1} les faits sans plus tarder.",
+      "blanks": [
+        {
+          "answer": "reconnût",
+          "options": [
+            "reconnaissait",
+            "reconnut",
+            "reconnût"
+          ],
+          "hint": "subjonctif imparfait de « reconnaître » (-ût), 3e pers. sing., après « exiger que », principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « reconnaissait » (imparfait de l'indicatif) and « reconnut » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this verb. The main verb « exigea » is in the past and the admission is posterior to the demand, so literary concordance requires the subjonctif imparfait « reconnût » — note the circumflex on « reconnût », which distinguishes it from the indicative « reconnut »."
+    },
+    {
+      "text": "Je doutais fort qu'il {1} mener seul une entreprise aussi périlleuse.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « douter que »"
+        }
+      ],
+      "explanation": "« douter que » governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « doutais » is the imparfait, a past tense, and the ability is simultaneous, so literary concordance gives the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Elle aurait voulu que ses amis ne l'{1} jamais abandonnée en ces heures sombres.",
+      "blanks": [
+        {
+          "answer": "eussent",
+          "options": [
+            "avaient",
+            "eurent",
+            "eussent"
+          ],
+          "hint": "subjonctif plus-que-parfait (eussent + participe), antériorité, 3e pers. plur., après le conditionnel passé"
+        }
+      ],
+      "explanation": "« vouloir que » takes the subjunctive, so the indicatif forms are excluded: « avaient » (imparfait de l'indicatif) and « eurent » (passé simple de l'indicatif) cannot follow this trigger. The abandonment is ANTERIOR to the past reference point, so strict concordance after the conditionnel passé « aurait voulu » calls for the subjonctif plus-que-parfait « qu'ils l'eussent abandonnée » — at the 3rd plural the subjunctive « eussent » is distinguished from the indicative « eurent » by its ending (-ssent vs -rent), not by a circumflex (the circumflex marks only the singular, e.g. « eût »)."
+    },
+    {
+      "text": "Quoiqu'elle {1} la nouvelle depuis longtemps, elle feignit la surprise devant la cour.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this concessive trigger. The main verb « feignit » is in the past and the concessive knowledge is simultaneous (« depuis longtemps »), so literary concordance requires the subjonctif imparfait of savoir: « qu'elle sût » — note the distinguishing circumflex on « sût »."
     }
   ]
 }

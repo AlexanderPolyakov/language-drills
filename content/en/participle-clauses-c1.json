@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Walking down the street, the trees were a beautiful sight. (The intended subject is 'I', not 'the trees'.)",
+      "instruction": "Correct the dangling modifier by rewriting so that the understood subject of 'Walking' is also the subject of the main clause, beginning with 'Walking down the street, I'.",
+      "answer": [
+        "Walking down the street, I thought the trees were a beautiful sight.",
+        "Walking down the street I thought the trees were a beautiful sight"
+      ],
+      "placeholder": "Walking down the street, I…",
+      "explanation": "The original dangles because 'Walking' has no logical subject in the main clause: as written, the trees are doing the walking. A participle clause must share its subject with the main clause, so the fix is to make 'I' the subject of the main verb ('I thought…'). Adding a separate subject to the main clause, rather than the participle, is what removes the dangle."
+    },
+    {
+      "prompt": "Because we know how strongly you feel about this, we have decided to postpone the vote.",
+      "instruction": "Rewrite the reason clause as a participle clause introduced by 'Given', beginning with 'Given'.",
+      "answer": [
+        "Given how strongly you feel about this, we have decided to postpone the vote.",
+        "Given how strongly you feel about this we have decided to postpone the vote"
+      ],
+      "placeholder": "Given…",
+      "explanation": "The past participle 'Given' has become a fixed conjunction-like marker meaning 'considering' or 'in view of'; it introduces the grounds for the main statement and can be followed by a noun phrase, a 'that'-clause, or a 'wh-' clause ('Given how strongly…'). Unlike an ordinary participle, this idiomatic 'Given' is not felt to dangle, because it no longer requires its subject to match the main clause."
+    },
+    {
+      "prompt": "The weather was extremely cold. We decided to abandon the climb.",
+      "instruction": "Combine using an absolute construction (noun + participle, with its own subject and no conjunction), beginning with 'The weather'.",
+      "answer": [
+        "The weather being extremely cold, we decided to abandon the climb.",
+        "The weather being extremely cold we decided to abandon the climb"
+      ],
+      "placeholder": "The weather being…",
+      "explanation": "An absolute construction has its own overt subject ('The weather') followed by a participle ('being'), and stands grammatically apart from the main clause, supplying a reason or attendant circumstance. Because it carries its own subject, it does not need to share the subject of the main clause and therefore cannot dangle, unlike a bare '-ing' clause."
+    },
+    {
+      "prompt": "After the contract had been signed, there was no way for either party to withdraw.",
+      "instruction": "Rewrite the time clause as a participle clause keeping the conjunction 'Once' and a past participle, beginning with 'Once'.",
+      "answer": [
+        "Once signed, the contract left neither party any way to withdraw.",
+        "Once signed the contract left neither party any way to withdraw"
+      ],
+      "placeholder": "Once signed…",
+      "explanation": "The conjunction 'Once' can be kept in front of a reduced passive clause: 'Once it had been signed' becomes 'Once signed', dropping the subject and the form of 'be'. The understood subject of the participle must be the subject of the main clause, so the main clause is recast around 'the contract' ('the contract left…') to avoid a dangling modifier."
+    },
+    {
+      "prompt": "Anyone who is found cheating in the examination will be disqualified.",
+      "instruction": "Rewrite using a reduced relative clause with a past (passive) participle in place of 'who is found'.",
+      "answer": [
+        "Anyone found cheating in the examination will be disqualified.",
+        "Anyone found cheating in the examination will be disqualified"
+      ],
+      "placeholder": "Anyone found…",
+      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare past participle: 'who is found' becomes 'found'. This is a reduced relative clause modifying the pronoun 'anyone', not an adverbial participle clause, so no comma is used and the word order of the noun phrase is preserved."
     }
   ]
 }
