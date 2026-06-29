@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Once it has been translated into English, the manual will reach a far wider audience.",
+      "instruction": "Reduce the time clause to a participle clause, keeping the conjunction 'Once' and beginning 'Once translated'.",
+      "answer": [
+        "Once translated into English, the manual will reach a far wider audience.",
+        "Once translated into English the manual will reach a far wider audience"
+      ],
+      "placeholder": "Once translated…",
+      "explanation": "As with 'when', 'while' and 'until', the conjunction 'once' can be kept directly in front of a reduced passive participle: 'Once it has been translated' becomes 'Once translated', dropping the subject and the auxiliary 'has been'. The understood subject is still 'the manual', the subject of the main clause, so the participle does not dangle."
+    },
+    {
+      "prompt": "She spoke quietly. She did not want to wake the baby.",
+      "instruction": "Combine using a negative perfect-less present participle clause of reason placed after the main clause, ending '…, not wanting to…'.",
+      "answer": [
+        "She spoke quietly, not wanting to wake the baby.",
+        "She spoke quietly not wanting to wake the baby"
+      ],
+      "placeholder": "She spoke quietly, not wanting…",
+      "explanation": "An -ing clause after the main clause can give the reason or motive behind it: 'not wanting to wake the baby' explains why she spoke quietly. The negative is formed by placing 'not' before the participle, and the shared subject 'she' is understood as the subject of 'wanting'."
+    },
+    {
+      "prompt": "The candidate gave a polished speech. As a result, she impressed the entire panel.",
+      "instruction": "Combine using a present participle clause introduced by 'thereby' to express the deliberate result, ending '…, thereby impressing…'.",
+      "answer": [
+        "The candidate gave a polished speech, thereby impressing the entire panel.",
+        "The candidate gave a polished speech thereby impressing the entire panel"
+      ],
+      "placeholder": "…, thereby impressing…",
+      "explanation": "A result -ing clause can be reinforced with the formal adverb 'thereby' ('by that means / as a result of that'): 'thereby impressing the entire panel' = 'and by doing so impressed them'. The participle's understood subject is 'the candidate', the main subject, and 'thereby' makes the cause-and-effect link explicit."
+    },
+    {
+      "prompt": "The samples were stored at the wrong temperature. They were therefore useless for analysis.",
+      "instruction": "Combine using a perfect passive participle clause of reason, beginning 'Having been stored'.",
+      "answer": [
+        "Having been stored at the wrong temperature, the samples were useless for analysis.",
+        "Having been stored at the wrong temperature the samples were useless for analysis"
+      ],
+      "placeholder": "Having been stored…",
+      "explanation": "When the reason is both passive and prior in time, it reduces to the perfect passive participle 'Having been + past participle': 'Having been stored at the wrong temperature' = 'Because they had been stored…'. The understood subject is 'the samples', the subject of the main clause."
+    },
+    {
+      "prompt": "Anyone who is wishing to apply must submit references by Friday.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'who is wishing', beginning 'Anyone wishing'.",
+      "answer": [
+        "Anyone wishing to apply must submit references by Friday.",
+        "Anyone wishing to apply must submit references by Friday"
+      ],
+      "placeholder": "Anyone wishing…",
+      "explanation": "A defining relative clause of the form 'who/that + be + -ing' reduces to the bare present participle: 'who is wishing' becomes 'wishing'. This postmodifying participle ('Anyone wishing to apply') is a reduced relative clause, not an adverbial one, and is standard in formal and official register."
     }
   ]
 }

@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (croire) entendre un bruit et {2} (courir) se réfugier dans sa chambre.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family with the stem « cr- » → « il crut » (not to be confused with « il crût », subjonctif imparfait of « croître »). « courir » likewise follows the « -u » family → « il courut ». Both report single, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "La marquise {1} (recevoir) la lettre au matin et la {2} (lire) sans tarder.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family → « elle reçut »; the cédille keeps the soft [s] sound of the « c » before « u ». « lire » also belongs to the « -u » family with the stem « l- » → « elle lut ». Both are punctual, completed events in the narrative past, the typical use of the passé simple."
+    },
+    {
+      "text": "Le moine {1} (écrire) la chronique avec soin, mais une difficulté nouvelle {2} (paraître) bientôt.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        },
+        {
+          "cue": "paraître",
+          "answer": [
+            "parut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → parut (sans circonflexe)"
+        }
+      ],
+      "explanation": "« écrire » takes the stem « écriv- » in the passé simple → « il écrivit » (like « il conduisit » for conduire). « paraître » belongs to the « -u » family → « il parut »; note that the circumflex of the infinitive « paraître » disappears in the 3rd-person passé simple « parut ». Both narrate completed actions in this literary récit."
     }
   ]
 }
