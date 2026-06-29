@@ -149,6 +149,68 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si le médecin {1} (intervenir) plus tôt, le patient {2} (se rétablir) sans séquelles.",
+      "blanks": [
+        {
+          "cue": "intervenir",
+          "answer": [
+            "était intervenu"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. masc., verbe de la famille de « venir » → auxiliaire être"
+        },
+        {
+          "cue": "se rétablir",
+          "answer": [
+            "se serait rétabli"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « le patient » (masc. sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « intervenir » follows the « venir » family and uses être, so the « si » clause takes the plus-que-parfait « était intervenu », the participle agreeing with the masculine singular subject « le médecin ». « se rétablir » is a reflexive pronominal verb where « se » is the DIRECT object, so the participle agrees with the subject: conditionnel passé « se serait rétabli » (masculine singular « le patient »)."
+    },
+    {
+      "text": "Je n'{1} (commettre) jamais cette imprudence si on m'{2} (avertir) du danger.",
+      "blanks": [
+        {
+          "cue": "commettre",
+          "answer": [
+            "aurais jamais commis"
+          ],
+          "hint": "conditionnel passé négatif (ne… jamais), 1re pers. sing., auxiliaire avoir — COD « cette imprudence » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "avertir",
+          "answer": [
+            "avait averti",
+            "avait avertie"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. (on), auxiliaire avoir — COD antéposé « m' » possible"
+        }
+      ],
+      "explanation": "Result clause first, with the negation « ne… jamais » wrapping the auxiliary: conditionnel passé « je n'aurais jamais commis ». No agreement, since the direct object « cette imprudence » FOLLOWS the verb. The « si » clause uses « avertir » with avoir in the plus-que-parfait « avait averti »; « avertir quelqu'un » is directly transitive, so the preceding direct-object pronoun « m' » (= « je ») allows agreement: « averti » if « je » is masculine, « avertie » if feminine."
+    },
+    {
+      "text": "Les randonneurs {1} (se perdre) en montagne si le guide {2} (ne pas montrer) le sentier.",
+      "blanks": [
+        {
+          "cue": "se perdre",
+          "answer": [
+            "se seraient perdus",
+            "se seraient perdues"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « les randonneurs » (masc. plur.)"
+        },
+        {
+          "cue": "ne pas montrer",
+          "answer": [
+            "n'avait pas montré"
+          ],
+          "hint": "plus-que-parfait négatif, 3e pers. sing., auxiliaire avoir — COD « le sentier » postposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. « se perdre » is a reflexive pronominal verb where « se » is the DIRECT object, so it uses être and the participle AGREES with the subject « les randonneurs »: conditionnel passé « se seraient perdus » (or « perdues » if all-feminine). The « si » clause uses « montrer » with avoir, the negation « ne… pas » wrapping the auxiliary: plus-que-parfait « n'avait pas montré ». The direct object « le sentier » FOLLOWS the verb, so there is no participle agreement."
     }
   ]
 }

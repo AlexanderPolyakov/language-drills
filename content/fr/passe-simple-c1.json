@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (croire) entendre un bruit, puis il {2} (courir) se réfugier dans sa chambre.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« croire » follows the « -u » family with the stem « cr- » → 3rd singular « il crut » (note no circumflex in the 3rd person; « crût » with circumflex would be the subjonctif imparfait). « courir » also belongs to the « -u » family → « il courut ». Both narrate single, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le savant {1} (lire) le manuscrit jusqu'à l'aube, puis {2} (écrire) une longue lettre à son maître.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv- → écrivit"
+        }
+      ],
+      "explanation": "« lire » belongs to the « -u » family with the stem « l- » → 3rd singular « il lut ». « écrire » keeps the special stem « écriv- » → « il écrivit » (a regular -RE-type ending -it grafted onto the irregular stem). Both report punctual, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "Le vieil ermite {1} (mourir) au cœur de l'hiver, et nul ne {2} (savoir) jamais son véritable nom.",
+      "blanks": [
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "« mourir » follows the « -u » family with the stem « mour- » → 3rd singular « il mourut ». « savoir » likewise belongs to the « -u » family → « il sut » (note no circumflex in the 3rd person; « sût » with circumflex is the subjonctif imparfait). Both express completed events in this literary récit; « nul ne sut » uses « ne » alone with the negative pronoun « nul »."
     }
   ]
 }
