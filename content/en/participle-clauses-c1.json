@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "His task was finally completed. He allowed himself to relax for the first time in weeks.",
+      "instruction": "Combine using a nominative absolute construction with its own noun subject + past participle (no 'with'), beginning with 'His task'.",
+      "answer": [
+        "His task completed, he allowed himself to relax for the first time in weeks.",
+        "His task completed he allowed himself to relax for the first time in weeks"
+      ],
+      "placeholder": "His task completed,…",
+      "explanation": "The nominative absolute 'His task completed' carries its own subject ('His task') followed by a past participle, equivalent to 'Now that his task was completed'. Because the absolute supplies its own subject, it need not share the subject of the main clause ('he'), and unlike the 'with'-absolute it takes no introductory preposition."
+    },
+    {
+      "prompt": "She had never studied the local dialect. She struggled to follow the villagers' conversations.",
+      "instruction": "Combine using a negative perfect participle clause to express the cause/reason for the main clause, beginning with 'Never'.",
+      "answer": [
+        "Never having studied the local dialect, she struggled to follow the villagers' conversations.",
+        "Never having studied the local dialect she struggled to follow the villagers' conversations"
+      ],
+      "placeholder": "Never having studied…",
+      "explanation": "A negative perfect participle places the negator before the perfect participle: 'Never having studied' (= 'Because she had never studied'). It marks the cause as prior to and completed before the main clause, with the understood subject 'she' matching the main subject, so it does not dangle."
     }
   ]
 }

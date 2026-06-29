@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le père voulait que ses fils {1} le rejoindre dès le lever du jour.",
+      "blanks": [
+        {
+          "answer": "vinssent",
+          "options": [
+            "venaient",
+            "vinrent",
+            "vinssent"
+          ],
+          "hint": "subjonctif imparfait de « venir », 3e pers. plur. (-inssent), après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » impose le subjonctif : les formes de l'indicatif sont donc exclues : « venaient » (imparfait de l'indicatif) et « vinrent » (passé simple de l'indicatif) ne peuvent suivre ce déclencheur. Le verbe principal « voulait » est au passé et l'action est postérieure, d'où le subjonctif imparfait « qu'ils vinssent ». Attention : la 3e pers. plur. (-inssent) ne porte jamais d'accent circonflexe, contrairement à la 3e sing. « vînt »."
+    },
+    {
+      "text": "La gouvernante craignait que l'enfant ne {1} froid au cours de cette nuit glaciale.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prît",
+            "prit",
+            "prenait"
+          ],
+          "hint": "subjonctif imparfait de « prendre », 3e pers. sing. (-ît), après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » (avec le « ne » explétif) gouverne le subjonctif : l'indicatif est donc impossible : « prit » (passé simple de l'indicatif, sans circonflexe) et « prenait » (imparfait de l'indicatif) sont exclus par le déclencheur. Le principal « craignait » est au passé et l'action redoutée est postérieure, d'où le subjonctif imparfait « qu'il prît » — le circonflexe le distingue du passé simple « prit »."
+    },
+    {
+      "text": "Elle parla longuement afin que chacun {1} enfin la vérité tout entière.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir », 3e pers. sing. (sût, avec circonflexe), après « afin que »"
+        }
+      ],
+      "explanation": "« afin que » exige toujours le subjonctif : les formes de l'indicatif sont donc exclues : « savait » (imparfait de l'indicatif) et « sut » (passé simple de l'indicatif, sans circonflexe) ne conviennent pas après ce déclencheur de but. Le principal « parla » est au passé et le savoir visé est postérieur, d'où le subjonctif imparfait de savoir « qu'il sût » — le circonflexe distingue « sût » du passé simple « sut »."
     }
   ]
 }
