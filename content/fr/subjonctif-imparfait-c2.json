@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut que ses ambassadeurs {1} avant l'aube pour porter sa réponse.",
+      "blanks": [
+        {
+          "answer": "partissent",
+          "options": [
+            "partaient",
+            "partirent",
+            "partissent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-issent), après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » always governs the subjunctive, so the indicatif forms are excluded: « partaient » (imparfait de l'indicatif) and « partirent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulut » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of « partir », 3rd plural « qu'ils partissent »."
+    },
+    {
+      "text": "Je doutais fort qu'il {1} jamais la vérité sur cette sombre affaire.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « douter que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the indicatif is impossible: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical here. The main verb « doutais » is a past tense and the knowing is simultaneous, so strict concordance calls for the subjonctif imparfait of « savoir »: « qu'il sût » — the circumflex distinguishes it from the indicative « sut »."
+    },
+    {
+      "text": "Elle resta calme, à moins que la peur ne l'{1} déjà gagnée à son insu.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « à moins que », antériorité"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The fear's grip is anterior to the past reference « elle resta », so literary concordance requires the subjonctif plus-que-parfait « que la peur l'eût gagnée » — note the circumflex on « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "C'était le seul témoin qui {1} décrire la scène avec une telle précision.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « le seul … qui », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « était » is in the past and the ability is simultaneous, so literary concordance requires the subjonctif imparfait of « pouvoir »: « qui pût » — the circumflex distinguishes it from the indicative « put »."
     }
   ]
 }

@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "The costs are admittedly high. {1}, the long-term benefits more than justify the investment.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct conceding the previous point: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', standing alone before a comma and conceding the preceding sentence before countering it. 'Much as it may' and 'However it may' are incomplete fragments that demand a following verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} as he might, he could not prise the lid off the jar.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Trying",
+            "Tried",
+            "However"
+          ],
+          "hint": "fixed pattern: bare verb + 'as he might' = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('Bare verb + as + subject + might') meaning 'however hard he tried'. The verb must be the bare infinitive form 'Try'; the participles 'Trying'/'Tried' break the fixed pattern, and 'However' would require an adverb and a different structure ('However hard he tried')."
+    },
+    {
+      "text": "I see no reason to change course now. {1}, I am willing to review the decision in six months.",
+      "blanks": [
+        {
+          "answer": "That said",
+          "options": [
+            "That said",
+            "Said that",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a conjunct qualifying one's own previous statement: 'having said that'"
+        }
+      ],
+      "explanation": "'That said' is a fixed conjunct ('having said that') used to introduce a qualification or partial concession to one's own preceding statement, standing alone before a comma. 'Said that' reverses the fixed order and is ungrammatical here; 'Much as' needs a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a main clause."
+    },
+    {
+      "text": "{1} though I respect his judgement, I cannot agree on this occasion.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "However",
+            "Despite",
+            "As"
+          ],
+          "hint": "fronted intensifier + 'though' + subject + verb"
+        }
+      ],
+      "explanation": "'Much though I respect his judgement' uses the pattern 'Much + though + subject + verb', an emphatic equivalent of 'although I greatly respect'. 'However' would itself head the clause ('However much I respect'), not sit before 'though'; 'Despite' takes a noun/-ing, not a finite clause; 'As' would require the intensifier to precede it ('Much as I respect'), not follow with 'though'."
+    },
+    {
+      "text": "The evidence against him was overwhelming. {1}, the jury chose to acquit.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all that",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct meaning 'in spite of that / nevertheless'"
+        }
+      ],
+      "explanation": "'For all that' is a fixed concessive conjunct meaning 'in spite of that / nevertheless', linking back to the preceding sentence and standing alone before a comma. It differs from 'For all + noun phrase' ('For all his talent'): 'For all' alone cannot stand before a comma without a following noun; 'Much as' demands a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
     }
   ]
 }

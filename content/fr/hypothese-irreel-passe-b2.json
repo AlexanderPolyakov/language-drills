@@ -149,6 +149,69 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si j'{1} (savoir) la nouvelle plus tôt, je {2} (réagir) tout autrement.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "avais su"
+          ],
+          "hint": "plus-que-parfait, 1re pers. sing., auxiliaire avoir — COD « la nouvelle » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "réagir",
+          "answer": [
+            "aurais réagi"
+          ],
+          "hint": "conditionnel passé, 1re pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Irréel du passé. The « si » clause takes the plus-que-parfait of « savoir » with avoir: « avais su »; the direct object « la nouvelle » follows the verb, so there is no participle agreement. The result clause uses the conditionnel passé of « réagir » with avoir: « aurais réagi » (intransitive, no agreement). The unfulfilled past condition explains the regret."
+    },
+    {
+      "text": "Vous {1} (rester) en bonne santé si vous {2} (suivre) les conseils du médecin.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "seriez restés",
+            "seriez restées",
+            "seriez resté",
+            "seriez restée"
+          ],
+          "hint": "conditionnel passé, vous, verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "suivre",
+          "answer": [
+            "aviez suivi"
+          ],
+          "hint": "plus-que-parfait, vous, auxiliaire avoir — COD « les conseils » postposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Here the result clause comes first. « rester » is a verb of state conjugated with être, so the conditionnel passé is « seriez restés », the participle agreeing with the subject « vous » (plural « restés/restées », or singular « resté/restée » for a polite « vous »). The « si » clause uses « suivre » with avoir: « aviez suivi »; the object « les conseils » follows the verb, so the participle stays invariable."
+    },
+    {
+      "text": "Elles ne se {1} (disputer) si chacune {2} (faire) un effort.",
+      "blanks": [
+        {
+          "cue": "se disputer",
+          "answer": [
+            "seraient jamais disputées"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réciproque → être, accord avec « elles » (féminin plur.) ; « ne … jamais » autour de l'auxiliaire"
+        },
+        {
+          "cue": "faire",
+          "answer": [
+            "avait fait"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. (« chacune »), auxiliaire avoir"
+        }
+      ],
+      "explanation": "« se disputer » is a reciprocal pronominal verb where « se » is the direct object (« se disputer l'une l'autre »), so it takes être and the participle AGREES with the feminine plural subject « elles »: « ne se seraient jamais disputées » — the negation « ne … jamais » wraps the auxiliary. The « si » clause uses « faire » with avoir; the subject « chacune » is grammatically singular, so the plus-que-parfait is « avait fait »."
     }
   ]
 }
