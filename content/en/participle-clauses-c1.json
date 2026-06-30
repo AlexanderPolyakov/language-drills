@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "If it is treated promptly, the infection rarely causes lasting damage.",
+      "instruction": "Rewrite keeping the conjunction 'If' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "If treated promptly, the infection rarely causes lasting damage.",
+        "If treated promptly the infection rarely causes lasting damage"
+      ],
+      "placeholder": "If treated…",
+      "explanation": "A conditional clause can be reduced to a participle while the conjunction is kept for clarity: 'If it is treated promptly' becomes 'If treated promptly', dropping the subject and 'is'. The understood subject is 'the infection', the subject of the main clause, so the reduced conditional does not dangle."
+    },
+    {
+      "prompt": "As soon as he arrived at the station, he realised he had forgotten his ticket.",
+      "instruction": "Rewrite the time clause using 'On + -ing', beginning with 'On arriving'.",
+      "answer": [
+        "On arriving at the station, he realised he had forgotten his ticket.",
+        "On arriving at the station he realised he had forgotten his ticket"
+      ],
+      "placeholder": "On arriving…",
+      "explanation": "'On + -ing' expresses an action immediately followed by another: 'On arriving at the station' = 'As soon as he arrived'. The understood subject of the gerund is 'he', the subject of the main clause, so the construction is well formed."
+    },
+    {
+      "prompt": "Because she had missed the last train, she was forced to take a taxi home.",
+      "instruction": "Rewrite the reason clause as a perfect participle clause of reason, beginning with 'Having'.",
+      "answer": [
+        "Having missed the last train, she was forced to take a taxi home.",
+        "Having missed the last train she was forced to take a taxi home"
+      ],
+      "placeholder": "Having missed…",
+      "explanation": "A causal clause referring to an earlier completed action reduces to a perfect participle: 'Because she had missed' becomes 'Having missed', which conveys both the reason and the fact that the action was finished before the main event. The shared subject 'she' is the subject of the main clause."
+    },
+    {
+      "prompt": "The old factory stood at the edge of town. Its windows were boarded up against intruders.",
+      "instruction": "Combine using a 'with + noun + -ed participle' absolute construction for the attendant state, placed after the main clause (', with its windows…').",
+      "answer": [
+        "The old factory stood at the edge of town, with its windows boarded up against intruders.",
+        "The old factory stood at the edge of town with its windows boarded up against intruders"
+      ],
+      "placeholder": "…, with its windows boarded up…",
+      "explanation": "The absolute construction 'With + noun + -ed (passive) participle' describes an attendant state and has its own subject ('its windows'). Because the windows were acted upon (they were boarded up), the past participle is used rather than the -ing form, and the separate subject means the clause does not dangle."
+    },
+    {
+      "prompt": "Hoping to find a bargain, the shelves were searched thoroughly by the customer.",
+      "instruction": "Correct the dangling modifier so that the -ing clause attaches to its true subject; keep the opening 'Hoping to find a bargain,'.",
+      "answer": [
+        "Hoping to find a bargain, the customer searched the shelves thoroughly.",
+        "Hoping to find a bargain the customer searched the shelves thoroughly"
+      ],
+      "placeholder": "Hoping to find a bargain, the customer…",
+      "explanation": "In the original, the participle 'Hoping' dangles because its understood subject (the one hoping) is not 'the shelves', the grammatical subject of the passive main clause. The fix makes the human agent 'the customer' the subject of an active main clause, so the participle now correctly attaches to the person who is hoping."
     }
   ]
 }

@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si vous m'{1} (rendre) les documents à temps, nous {2} (conclure) l'accord hier.",
+      "blanks": [
+        {
+          "cue": "rendre",
+          "answer": [
+            "aviez rendu"
+          ],
+          "hint": "plus-que-parfait, vous, auxiliaire avoir — COD « les documents » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "conclure",
+          "answer": [
+            "aurions conclu"
+          ],
+          "hint": "conditionnel passé, nous, auxiliaire avoir"
+        }
+      ],
+      "explanation": "Irréel du passé. The « si » clause uses the plus-que-parfait of « rendre » with avoir: « aviez rendu ». There is no participle agreement here because the direct object « les documents » FOLLOWS the verb (the pronoun « m' » is an indirect object, « rendre quelque chose à quelqu'un », and never triggers agreement). The result clause uses « conclure » with avoir in the conditionnel passé: « nous aurions conclu » — note the participle « conclu » (no -t), with no agreement."
+    },
+    {
+      "text": "Ces lettres, elle ne les {1} (jamais écrire) si elle {2} (se douter) de leur publication.",
+      "blanks": [
+        {
+          "cue": "jamais écrire",
+          "answer": [
+            "aurait jamais écrites"
+          ],
+          "hint": "conditionnel passé négatif (ne… jamais), auxiliaire avoir, accord avec le COD antéposé « les » (= les lettres, fém. plur.)"
+        },
+        {
+          "cue": "se douter",
+          "answer": [
+            "s'était doutée"
+          ],
+          "hint": "plus-que-parfait, verbe essentiellement pronominal → être, accord avec le sujet « elle » (féminin)"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb: here the pronoun « les » = « ces lettres » (feminine plural) precedes « écrire », so the participle MUST agree: « écrites ». The conditionnel passé negative wraps the auxiliary: « elle ne les aurait jamais écrites ». « se douter » is an essentially pronominal verb conjugated with être, and its participle agrees with the feminine subject « elle »: « elle s'était doutée » (plus-que-parfait)."
+    },
+    {
+      "text": "Si le pont {1} (ne pas s'effondrer), les villageois {2} (pouvoir) fuir l'inondation.",
+      "blanks": [
+        {
+          "cue": "ne pas s'effondrer",
+          "answer": [
+            "ne s'était pas effondré"
+          ],
+          "hint": "plus-que-parfait négatif, verbe essentiellement pronominal → être, accord avec « le pont » (masc. sing.) ; le « ne … pas » encadre l'auxiliaire"
+        },
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "auraient pu"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., auxiliaire avoir"
+        }
+      ],
+      "explanation": "« s'effondrer » is an essentially pronominal verb (it exists only with the pronoun), so it takes être and its participle agrees with the masculine singular subject « le pont »: « effondré ». The negation in the plus-que-parfait wraps the auxiliary: « le pont ne s'était pas effondré ». The result clause uses « pouvoir » with avoir in the conditionnel passé: « les villageois auraient pu fuir » — the participle « pu » is invariable (avoir, no preceding direct object)."
     }
   ]
 }

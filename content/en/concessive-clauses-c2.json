@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "Try {1} he might, he could not persuade the panel to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "as",
+            "though",
+            "however",
+            "much"
+          ],
+          "hint": "fixed emphatic pattern: 'Try ___ + subject + might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('verb + as + subject + might/may') meaning 'however hard he tried'. 'Though' does not occur in this frozen pattern after the bare verb 'Try'; 'however' would have to stand at the front of the clause ('However hard he tried'); 'much' does not link the fronted verb to the modal here."
+    },
+    {
+      "text": "The forecast is gloomy. {1}, the board has decided to press ahead with the expansion.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "However much",
+            "Granted that",
+            "Much as"
+          ],
+          "hint": "a fixed subjunctive conjunct meaning 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic concession (a fossilised subjunctive) meaning 'even if that is so', standing alone before a comma and a full main clause. 'However much' and 'Much as' require a following clause within the same sentence; 'Granted that' must be followed by the conceded clause itself, not used as a free-standing link back to the previous sentence."
+    },
+    {
+      "text": "{1} I am to criticise a colleague, I cannot let this error pass unremarked.",
+      "blanks": [
+        {
+          "answer": "Loath as",
+          "options": [
+            "Loath as",
+            "Loath that",
+            "However loath",
+            "Much as"
+          ],
+          "hint": "fronted adjective + ___ + subject + be = 'although I am reluctant'"
+        }
+      ],
+      "explanation": "The pattern 'Adjective + as + subject + be' ('Loath as I am') fronts the adjective for an emphatic concession meaning 'although I am reluctant'. 'Loath that' is ungrammatical, as 'that' cannot link a fronted predicative adjective to its clause; 'However loath' would require no second connector and a different word order ('However loath I am'); 'Much as' takes a verb of feeling, not the predicative adjective 'loath'."
+    },
+    {
+      "text": "{1} how eloquently he argues, the facts are simply not on his side.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "For all",
+            "Albeit",
+            "Notwithstanding"
+          ],
+          "hint": "___ + how/what/who + clause = it makes no difference that"
+        }
+      ],
+      "explanation": "'No matter how + adverb + clause' concedes that the degree of eloquence is irrelevant to the outcome: 'No matter how eloquently he argues'. 'For all' and 'Notwithstanding' take a noun phrase, not 'how + clause'; 'Albeit' introduces a concessive phrase, not a 'how'-clause with its own finite verb."
+    },
+    {
+      "text": "{1} though I value your loyalty, I must ask you to report the matter honestly.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "As",
+            "However",
+            "For all"
+          ],
+          "hint": "___ + though + subject + verb (of feeling) = 'although I greatly...'"
+        }
+      ],
+      "explanation": "'Much though + subject + verb' ('Much though I value your loyalty') is a variant of 'Much as', fronting the degree word before 'though' to mean 'although I greatly value'. 'As though' would mean 'as if', changing the sense entirely; 'However' needs an adjective/adverb directly after it, not 'though'; 'For all' must govern a noun phrase, not a finite clause introduced by 'though'."
     }
   ]
 }
