@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le voyageur {1} (recevoir) une lettre étrange, mais il ne {2} (savoir) qu'en penser.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant u → reçut"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "« recevoir » belongs to the « -u » family: 3rd singular « il reçut » — note the cédille on the « ç », needed to keep the soft [s] sound before « u ». « savoir » also follows the « -u » family → « il sut » (not to be confused with the present « il sait »). Both report single completed narrative actions, hence the passé simple. No circumflex appears in the 3rd person singular."
+    },
+    {
+      "text": "L'enfant {1} (lire) le grimoire à voix basse, puis {2} (croire) entendre un murmure.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "Despite their -RE / -OIRE infinitives, « lire » and « croire » both belong to the irregular « -u » family of the passé simple: « il lut », « il crut ». Beware: « crut » (croire) is distinct from « crût » (croître), which keeps a circumflex precisely to avoid the confusion. Both verbs mark punctual, completed events in this literary récit."
+    },
+    {
+      "text": "Le peintre {1} (peindre) la fresque en une nuit, et la cour entière {2} (paraître) émerveillée.",
+      "blanks": [
+        {
+          "cue": "peindre",
+          "answer": [
+            "peignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — verbe en -indre, radical peign- → -it"
+        },
+        {
+          "cue": "paraître",
+          "answer": [
+            "parut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → parut"
+        }
+      ],
+      "explanation": "Verbs in « -eindre » like « peindre » form their passé simple on the stem « peign- » with the regular -it ending → « il peignit » (like « craignit » for craindre). « paraître » follows the « -u » family → « elle parut » (compare « connut » for connaître); note that the circumflex of « paraître » disappears in « parut ». Both narrate completed actions in the past."
     }
   ]
 }

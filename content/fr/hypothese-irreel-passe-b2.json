@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (suivre) les conseils que je t'{2} (donner), tu n'aurais pas échoué.",
+      "blanks": [
+        {
+          "cue": "suivre",
+          "answer": [
+            "avais suivi"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., auxiliaire avoir — COD « les conseils » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "donner",
+          "answer": [
+            "avais donnés"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les conseils, masc. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé. With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les conseils que je t'avais donnés », the relative « que » = « les conseils » (masculine plural) precedes « donner », so the participle MUST agree: « donnés ». For « suivre », the object « les conseils » FOLLOWS the verb, so there is no agreement: the plus-que-parfait stays « avais suivi »."
+    },
+    {
+      "text": "Elle {1} (devenir) une grande artiste si elle {2} (naître) dans un autre milieu.",
+      "blanks": [
+        {
+          "cue": "devenir",
+          "answer": [
+            "serait devenue"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing. fém., verbe de mouvement/état → être, accord avec le sujet"
+        },
+        {
+          "cue": "naître",
+          "answer": [
+            "était née"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. fém., auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé. Both « devenir » (a verb of state-change of the « venir » family) and « naître » are conjugated with être, so the past participle AGREES with the feminine singular subject « elle ». The result clause takes the conditionnel passé « serait devenue » and the « si » clause the plus-que-parfait « était née » — both participles carry the feminine -e."
+    },
+    {
+      "text": "Jamais ils ne se {1} (mentir) s'ils {2} (se parler) plus franchement.",
+      "blanks": [
+        {
+          "cue": "se mentir",
+          "answer": [
+            "seraient menti"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, mais « se » est COI → pas d'accord"
+        },
+        {
+          "cue": "se parler",
+          "answer": [
+            "s'étaient parlé"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal → être, mais « se » est COI → pas d'accord"
+        }
+      ],
+      "explanation": "Pronominal verbs take être, but the participle agrees only when « se » is the DIRECT object. Here « se » is INDIRECT: one says « mentir À quelqu'un » and « parler À quelqu'un », so « se » = « l'un à l'autre » is a COI. The participle therefore stays INVARIABLE: « Jamais ils ne se seraient menti », « s'ils s'étaient parlé » — no agreement despite the plural subject. Here the fronted « Jamais » carries the negation with « ne », which still wraps the auxiliary (« ne se seraient menti »)."
     }
   ]
 }

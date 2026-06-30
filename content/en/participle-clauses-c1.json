@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The villa had been abandoned for decades. It was finally restored to its original splendour.",
+      "instruction": "Combine into one sentence using a perfect passive participle clause for the completed prior state, beginning with 'Having been'.",
+      "answer": [
+        "Having been abandoned for decades, the villa was finally restored to its original splendour.",
+        "Having been abandoned for decades the villa was finally restored to its original splendour"
+      ],
+      "placeholder": "Having been abandoned…",
+      "explanation": "A passive clause that is also prior in time reduces to the perfect passive participle 'Having been + past participle': 'Having been abandoned for decades' marks the state as both passive (the villa was acted upon) and completed before the restoration. The understood subject is 'the villa', the subject of the main clause, so the participle does not dangle."
+    },
+    {
+      "prompt": "The documents were stored in a damp cellar. They had deteriorated beyond repair.",
+      "instruction": "Combine using a past (-ed passive) participle clause for the cause, beginning with 'Stored'.",
+      "answer": [
+        "Stored in a damp cellar, the documents had deteriorated beyond repair.",
+        "Stored in a damp cellar the documents had deteriorated beyond repair"
+      ],
+      "placeholder": "Stored…",
+      "explanation": "A passive clause ('Because they had been stored in a damp cellar') reduces to the bare past participle 'Stored', which here carries a causal sense as well as describing the documents. The understood subject is 'the documents', the subject of the main clause, so the modifier attaches correctly and does not dangle."
+    },
+    {
+      "prompt": "The candidates who are shortlisted for the post will be contacted next week.",
+      "instruction": "Rewrite using a reduced relative clause (a past participle) instead of 'who are shortlisted'.",
+      "answer": [
+        "The candidates shortlisted for the post will be contacted next week.",
+        "The candidates shortlisted for the post will be contacted next week"
+      ],
+      "placeholder": "The candidates shortlisted…",
+      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare participle: 'who are shortlisted' becomes 'shortlisted'. This is a reduced relative clause modifying 'the candidates', not an adverbial one, so no commas are added."
+    },
+    {
+      "prompt": "Having reviewed all the evidence. The jury reached a unanimous verdict.",
+      "instruction": "Combine into one sentence using a perfect participle clause for the completed first action, beginning with 'Having'.",
+      "answer": [
+        "Having reviewed all the evidence, the jury reached a unanimous verdict.",
+        "Having reviewed all the evidence the jury reached a unanimous verdict"
+      ],
+      "placeholder": "Having reviewed…",
+      "explanation": "The perfect participle 'Having reviewed' signals that the reviewing was completed before the verdict was reached, making the sequence explicit. The understood subject of the participle must match the subject of the main clause: it is 'the jury' that did the reviewing, so the shared subject keeps the clause from dangling."
+    },
+    {
+      "prompt": "While he was recovering from surgery, the author dictated his final novel.",
+      "instruction": "Rewrite keeping the conjunction 'While' but reducing the clause to a present (-ing) participle.",
+      "answer": [
+        "While recovering from surgery, the author dictated his final novel.",
+        "While recovering from surgery the author dictated his final novel"
+      ],
+      "placeholder": "While recovering…",
+      "explanation": "A subordinating conjunction (while, when, once, before, after) may be kept in front of a participle clause for precision: 'While he was recovering' reduces to 'While recovering', dropping the subject and the form of 'be'. The understood subject remains 'the author', the subject of the main clause, so the reduced clause does not dangle."
     }
   ]
 }
