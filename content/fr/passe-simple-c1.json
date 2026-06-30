@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (courir) jusqu'à la rivière et {2} (lire) le message gravé sur la pierre.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family with the stem « cour- » → 3rd singular « il courut » (not to be confused with the future « il courra »). « lire » likewise follows the « -u » family with the stem « lu- » → « il lut ». Both report single, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "Les anciens {1} (croire) au présage, mais le jeune prince n'en {2} (recevoir) aucune crainte.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → crurent"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille)"
+        }
+      ],
+      "explanation": "« croire » follows the « -u » family with the stem « cru- » → 3rd plural « ils crurent ». « recevoir » also belongs to the « -u » family → « il reçut »; the cédille on the « ç » keeps the soft [s] sound before « u ». Note that neither form carries a circumflex in the 3rd person. Both narrate completed events in the past."
+    },
+    {
+      "text": "Le moine {1} (écrire) la chronique de son temps, puis {2} (mourir) avant de l'achever.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "« écrire » has the irregular passé simple stem « écriv- » → 3rd singular « il écrivit » (a -it ending, like « il conduisit »). « mourir » belongs to the « -u » family with the stem « mour- » → « il mourut » (distinct from the future « il mourra »). Both express single, completed actions framing the narrative, the characteristic use of the passé simple."
     }
   ]
 }

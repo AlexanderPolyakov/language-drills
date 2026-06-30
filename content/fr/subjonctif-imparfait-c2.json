@@ -96,6 +96,75 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que chaque élève {1} le poème à voix haute avant midi.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past (passé simple) and the recitation is posterior to the demand, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât » — note the circumflex on the -ât ending."
+    },
+    {
+      "text": "Le jury doutait que le candidat {1} véritablement la portée de sa découverte.",
+      "blanks": [
+        {
+          "answer": "saisît",
+          "options": [
+            "saisissait",
+            "saisît",
+            "saisit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « saisir », 3e pers. sing., après « douter que » au passé"
+        }
+      ],
+      "explanation": "« douter que » governs the subjunctive, so the indicatif is impossible: « saisissait » (imparfait de l'indicatif) and « saisit » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « doutait » is in the imparfait (a past tense) and the grasping is simultaneous, so concordance calls for the subjonctif imparfait of the -IR verb « saisir »: « qu'il saisît » — the circumflex on « saisît » distinguishes it from the indicative « saisit »."
+    },
+    {
+      "text": "Il aurait souhaité que ses adversaires {1} déjà {2} leurs torts avant l'audience.",
+      "blanks": [
+        {
+          "answer": "eussent",
+          "options": [
+            "avaient",
+            "eurent",
+            "eussent"
+          ],
+          "hint": "auxiliaire du subjonctif plus-que-parfait (eussent + participe), antériorité, 3e pers. plur."
+        },
+        {
+          "answer": "reconnu",
+          "options": [
+            "reconnu",
+            "reconnaissaient",
+            "reconnurent"
+          ],
+          "hint": "participe passé de « reconnaître », invariable ici (COD postposé)"
+        }
+      ],
+      "explanation": "« souhaiter que » takes the subjunctive, so the indicatif auxiliaries are excluded: « avaient » (imparfait de l'indicatif) and « eurent » (passé simple de l'indicatif) cannot follow this trigger, and only the past participle « reconnu » fits the compound tense (« reconnaissaient » / « reconnurent » are finite indicatif forms). The admission is ANTERIOR to the past reference, so after the conditionnel passé « aurait souhaité » strict concordance requires the subjonctif plus-que-parfait: « qu'ils eussent reconnu » — the auxiliary « eussent » bears the subjunctive, and « reconnu » stays invariable because its direct object « leurs torts » follows the verb."
+    },
+    {
+      "text": "Quoiqu'il {1} la tempête menaçante, le pêcheur poussa sa barque vers le large.",
+      "blanks": [
+        {
+          "answer": "prévît",
+          "options": [
+            "prévoyait",
+            "prévit",
+            "prévît"
+          ],
+          "hint": "subjonctif imparfait de « prévoir » (prévît, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are ungrammatical: « prévoyait » (imparfait de l'indicatif) and « prévit » (passé simple de l'indicatif, no circumflex) are both excluded by this concessive conjunction. The main verb « poussa » is in the passé simple and the foreseeing is simultaneous, so literary concordance requires the subjonctif imparfait of « prévoir », built on the passé simple stem « prévi- »: « qu'il prévît » — the circumflex on « prévît » marks the subjunctive against the indicative « prévit »."
     }
   ]
 }
