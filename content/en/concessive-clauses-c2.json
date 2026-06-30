@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could not persuade them to reconsider the verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Try though",
+            "As try",
+            "Much as"
+          ],
+          "hint": "fronts a bare verb: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive pattern in which a bare verb is fronted and followed by 'as', the subject, and the modal 'might'/'may' ('Try as he might' = 'However hard he tried'). 'Try though' is impossible because 'though' does not take a fronted bare verb plus a modal in this slot; 'As try' simply reverses the words and is ungrammatical; 'Much as' must be followed directly by a finite verb of feeling ('Much as he tries'), not by a fronted infinitive plus 'might'."
+    },
+    {
+      "text": "The road ahead will be difficult. {1}, the government intends to press ahead with the reforms.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "However that may be it",
+            "As that may be",
+            "Be as it may that",
+            "Be that as it may"
+          ],
+          "hint": "fixed subjunctive conjunct = 'even granting all that'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive idiom using the subjunctive 'be'; it stands alone as a conjunct meaning 'even granting that' and links back to the preceding sentence. The distractors all scramble the fixed word order: 'However that may be it' adds a stray 'it'; 'As that may be' drops the obligatory subjunctive 'be' opening; and 'Be as it may that' mislinearises the components, since the idiom is frozen in exactly the order 'Be that as it may'."
+    },
+    {
+      "text": "{1} how forcefully they argue their case, the outcome has already been decided.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "No matter",
+            "Whatever",
+            "Despite"
+          ],
+          "hint": "___ + how/what/who + clause = 'it makes no difference'"
+        }
+      ],
+      "explanation": "'No matter + how/what/who + clause' concedes that the circumstance is irrelevant to the result, and here 'No matter how forcefully they argue' fits because 'how' supplies the adverb. 'However' cannot precede 'how' ('However how' is ungrammatical, as 'however' would itself replace 'how forcefully'); 'Whatever' takes a noun or noun-clause, not the adverbial 'how forcefully'; 'Despite' is a preposition requiring a noun phrase or -ing, not the finite clause 'how forcefully they argue'."
+    },
+    {
+      "text": "{1} reservations the panel may harbour, they are obliged to publish their findings in full.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "No matter",
+            "Much as",
+            "Whatever"
+          ],
+          "hint": "___ + noun + subject + may + verb = 'any ... that'"
+        }
+      ],
+      "explanation": "'Whatever' here functions as a concessive determiner before the noun 'reservations' ('Whatever reservations the panel may harbour' = 'any reservations that they may have, it makes no difference'). 'However' modifies an adjective or adverb, not a bare noun like 'reservations'; 'No matter' would require a following 'what' ('No matter what reservations'), so it cannot stand directly before the noun; 'Much as' must be followed by a subject and a finite verb, not by a noun phrase."
+    },
+    {
+      "text": "{1} as it may seem, the quietest applicant turned out to be the most persuasive of all.",
+      "blanks": [
+        {
+          "answer": "Strange",
+          "options": [
+            "Strangely",
+            "Though strange",
+            "Strange",
+            "However strange"
+          ],
+          "hint": "bare adjective + as + it + may seem = concessive comment"
+        }
+      ],
+      "explanation": "The frozen concessive comment 'Strange as it may seem' fronts the bare adjective 'Strange' before 'as it may seem', meaning 'although it may seem strange'. The adverb 'Strangely' cannot fill an adjective slot governed by the linking 'seem'; 'Though strange' doubles the concessive marker, since 'as' already carries the concessive force; 'However strange' belongs to a different pattern ('However strange it may seem') that has no room for the following 'as'."
     }
   ]
 }
