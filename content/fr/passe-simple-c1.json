@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'érudit {1} (lire) la lettre à voix basse, puis {2} (écrire) aussitôt sa réponse.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écrivi- → écrivit"
+        }
+      ],
+      "explanation": "« lire » belongs to the « -u » family with the stem « lu- » → 3rd singular « il lut » (not to be confused with « il lit » in the present). « écrire » takes the stem « écrivi- » → « il écrivit » (like the regular -it ending). Both report single, completed narrative actions, hence the passé simple in this literary récit; no circumflex appears in the 3rd person singular."
+    },
+    {
+      "text": "L'envoyé {1} (recevoir) la missive du prince et {2} (croire) d'abord à une ruse.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family with the stem « reçu- » → « il reçut »; note the cédille on the « ç », required before « u » to keep the soft [s] sound. « croire » likewise belongs to the « -u » family → « il crut » (not to be confused with « il crût », the subjonctif imparfait or the passé simple of « croître », which carries a circumflex). Both narrate completed punctual actions in the past."
+    },
+    {
+      "text": "Le vieux soldat {1} (mourir) au combat, tandis que son fils {2} (courir) prévenir le village.",
+      "blanks": [
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "Both « mourir » and « courir » belong to the « -u » family in the passé simple: « il mourut » (stem « mouru- ») and « il courut » (stem « couru- »). Despite the doubled « r » of their futurs (mourra, courra), the passé simple has a single « r » and no circumflex in the 3rd person singular. Each marks a single completed event in the narrative past."
     }
   ]
 }

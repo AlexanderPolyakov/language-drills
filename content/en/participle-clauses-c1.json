@@ -106,6 +106,60 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because she lived only a short walk from the office, she rarely took the bus.",
+      "instruction": "Rewrite the reason clause as a positive present (-ing) participle clause of cause at the front, beginning with 'Living'.",
+      "answer": [
+        "Living only a short walk from the office, she rarely took the bus.",
+        "Living only a short walk from the office she rarely took the bus"
+      ],
+      "placeholder": "Living…",
+      "explanation": "A 'because'-clause of reason reduces to a fronted -ing participle clause expressing cause: 'Because she lived…' becomes 'Living…'. The participle here does not describe a simultaneous physical action but states the reason for the main clause, a recognised use of the -ing clause (Swan, Practical English Usage, 'participle clauses'). The understood subject is 'she', the subject of the main clause, so the modifier is correctly attached and does not dangle."
+    },
+    {
+      "prompt": "Driving to work this morning, the traffic was the worst I had seen in years.",
+      "instruction": "The fronted participle clause dangles because its subject is not the main-clause subject. Rewrite to correct it, keeping 'Driving to work this morning,' and supplying a proper subject ('I').",
+      "answer": [
+        "Driving to work this morning, I saw the worst traffic in years.",
+        "Driving to work this morning I saw the worst traffic in years.",
+        "Driving to work this morning, I found the traffic the worst I had seen in years.",
+        "Driving to work this morning I found the traffic the worst I had seen in years"
+      ],
+      "placeholder": "Driving to work this morning, I…",
+      "explanation": "The original is a classic dangling (or 'unattached') participle: 'Driving to work' has no stated subject, so by rule it attaches to the main-clause subject 'the traffic' — yet traffic does not drive. The correction makes the human agent 'I' the subject of the main clause, so the understood subject of 'Driving' matches it (Swan, Practical English Usage, 'misrelated/dangling participles'). Any rewrite is acceptable provided the person who was driving is the grammatical subject of the main clause."
+    },
+    {
+      "prompt": "The decision had been taken. The board turned to the question of how to announce it.",
+      "instruction": "Combine using an absolute construction of the form 'noun + past participle' at the front (no conjunction, no 'with'), beginning with 'The decision'.",
+      "answer": [
+        "The decision taken, the board turned to the question of how to announce it.",
+        "The decision taken the board turned to the question of how to announce it"
+      ],
+      "placeholder": "The decision taken,…",
+      "explanation": "An absolute construction may consist of a noun plus a past (passive) participle with no introductory word: 'The decision taken' = 'Once/After the decision had been taken'. Unlike an ordinary participle clause, the absolute has its own overt subject ('the decision'), distinct from the main-clause subject ('the board'), so it cannot dangle (Cambridge Grammar of English, 'absolute clauses'). It compresses a completed, passive prior event into a noun + -ed phrase."
+    },
+    {
+      "prompt": "After the software had been installed, the technician restarted the machine.",
+      "instruction": "Rewrite reducing the time clause to a past (passive) participle but keeping the conjunction 'Once'.",
+      "answer": [
+        "Once installed, the software prompted the technician to restart the machine.",
+        "Once installed the software prompted the technician to restart the machine",
+        "Once installed, the software let the technician restart the machine.",
+        "Once installed the software let the technician restart the machine"
+      ],
+      "placeholder": "Once installed,…",
+      "explanation": "A conjunction of time (once, when, until, after) can be kept before a reduced passive participle: 'Once the software had been installed' becomes 'Once installed'. Because the participle has no subject of its own, the noun it modifies must become the subject of the main clause — here 'the software' — otherwise the clause would dangle (the original main subject 'the technician' was not installed). The rewrite therefore promotes 'the software' to subject. 'Once + past participle' is a common reduced temporal clause (Swan, Practical English Usage)."
+    },
+    {
+      "prompt": "The path that leads down to the harbour is steep and badly lit.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in subject position, replacing 'that leads'.",
+      "answer": [
+        "The path leading down to the harbour is steep and badly lit.",
+        "The path leading down to the harbour is steep and badly lit"
+      ],
+      "placeholder": "The path leading…",
+      "explanation": "A defining relative clause with an active verb can be reduced to an -ing participle even when the head noun is the subject of the whole sentence: 'The path that leads down to the harbour' becomes 'The path leading down to the harbour'. The reduction works because 'the path' is the subject of the relative verb 'leads'; the participle 'leading' then post-modifies the subject noun phrase. This is a reduced relative (adjectival) clause, distinct from an adverbial participle clause (Swan, Practical English Usage, 'relative clauses: leaving out the relative pronoun')."
     }
   ]
 }

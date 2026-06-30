@@ -149,6 +149,69 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les deux sœurs {1} (se parler) plus tôt, elles {2} (éviter) ce long malentendu.",
+      "blanks": [
+        {
+          "cue": "se parler",
+          "answer": [
+            "s'étaient parlé"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal → être, mais « se » est COI (parler À qqn) → pas d'accord"
+        },
+        {
+          "cue": "éviter",
+          "answer": [
+            "auraient évité"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., auxiliaire avoir, COD « ce malentendu » postposé → pas d'accord"
+        }
+      ],
+      "explanation": "Pronominal verbs take être, so « se parler » in the plus-que-parfait is « s'étaient parlé ». Crucially the participle does NOT agree: in « se parler », « se » is an INDIRECT object (on parle À quelqu'un), so « parlé » stays invariable despite the feminine plural subject « les deux sœurs ». The result clause uses « éviter » with avoir; the direct object « ce long malentendu » FOLLOWS the verb, so there is no agreement either: conditionnel passé « auraient évité »."
+    },
+    {
+      "text": "Tu {1} (tomber) de l'échelle si je ne t'{2} (retenir) à temps.",
+      "blanks": [
+        {
+          "cue": "tomber",
+          "answer": [
+            "serais tombé",
+            "serais tombée"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., verbe de mouvement → être, accord avec le sujet « tu »"
+        },
+        {
+          "cue": "retenir",
+          "answer": [
+            "avais retenu",
+            "avais retenue"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, COD antéposé « t' » → accord avec le sexe du « tu »"
+        }
+      ],
+      "explanation": "Irréel du passé. « tomber » is a movement verb conjugated with être, so the conditionnel passé is « serais tombé », the participle agreeing with the subject « tu »: « tombé » if « tu » is masculine, « tombée » if feminine. The « si » clause uses « retenir » with avoir; the direct-object pronoun « t' » (= « tu ») PRECEDES the verb, so the participle agrees with it: « avais retenu » (masc.) or « avais retenue » (fem.), according to the sex of the addressee."
+    },
+    {
+      "text": "Si l'alpiniste {1} (monter) trop vite, il {2} (ne pas atteindre) le sommet sain et sauf.",
+      "blanks": [
+        {
+          "cue": "monter",
+          "answer": [
+            "était monté",
+            "était montée"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., emploi intransitif → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas atteindre",
+          "answer": [
+            "n'aurait pas atteint"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. sing., auxiliaire avoir, COD « le sommet » postposé → pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. Used INTRANSITIVELY (here, no direct object — « monter » = se déplacer vers le haut), « monter » takes être, so the plus-que-parfait is « était monté », the participle agreeing with the subject « l'alpiniste » (masculine « monté » by default, or « montée » if the climber is a woman). The result clause uses « atteindre » with avoir; its direct object « le sommet » FOLLOWS the verb, so no agreement: the negation wraps the auxiliary → « n'aurait pas atteint »."
     }
   ]
 }
