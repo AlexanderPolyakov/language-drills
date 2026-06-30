@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "Try {1} he might, he could not push the boulder even an inch.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though",
+            "as",
+            "however",
+            "much"
+          ],
+          "hint": "fixed pattern: Try ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom built on the inverted pattern 'verb + as + subject + may/might', meaning 'however hard he tried'. The slot requires 'as': 'though' does not occur in this fronted-verb formula ('Try though he might' is not idiomatic standard English); 'however' would itself begin the clause and take an adverb ('However hard he tried'); 'much' cannot link the fronted bare verb 'Try' to the subject. The pattern is noted in the Cambridge Grammar of English as a literary/emphatic concessive (compare 'Search as they would')."
+    },
+    {
+      "text": "The scheme is expensive and the timing is poor. {1}, the council voted to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as that",
+            "However that",
+            "Be that as it may",
+            "Albeit so"
+          ],
+          "hint": "a fixed clause-conjunct meaning 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct (a subjunctive formula) meaning 'even if that is so / in spite of that', standing alone before a comma and linking back to the previous sentence. The distractors are all non-existent or ill-formed: 'Much as that' lacks the required following subject + verb; 'However that' is not a standard connector and needs an adjective/adverb; 'Albeit so' is not idiomatic and 'albeit' cannot stand as a free sentence-opener before a full main clause. The formula is listed in Swan, Practical English Usage, among fixed subjunctive expressions."
+    },
+    {
+      "text": "{1} I respect the tradition, I believe the rule has outlived its usefulness.",
+      "blanks": [
+        {
+          "answer": "Much though",
+          "options": [
+            "As much",
+            "For all",
+            "Albeit",
+            "Much though"
+          ],
+          "hint": "'___ + subject + verb', an emphatic variant of 'much as'"
+        }
+      ],
+      "explanation": "'Much though I respect the tradition' is the emphatic concessive pattern 'Much though + subject + verb', a near-synonym of the more familiar 'Much as I respect…', both meaning 'although I greatly respect'. The fronted 'much' carries the degree and 'though' is the concessive linker. 'As much' simply inverts the words of 'much as' and is ungrammatical in this fronted position; 'For all' requires a bare noun phrase ('For all my respect for the tradition'), not the finite clause 'I respect the tradition'; 'Albeit' cannot head a full finite clause with its own subject and verb. The 'Adverb + though + subject + verb' inversion is described in the Cambridge Grammar of English."
+    },
+    {
+      "text": "The new policy is controversial; many staff dislike it. {1}, it has measurably cut waiting times.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all",
+            "For all that",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a conjunct meaning 'in spite of that', standing before a comma"
+        }
+      ],
+      "explanation": "'For all that' is a sentence conjunct meaning 'in spite of all that / nevertheless', referring back to the previous statement and standing alone before a comma. Plain 'For all' is a preposition needing a following noun phrase ('For all its faults'), so it cannot stand alone before a comma here; 'Much as' must be followed directly by a subject + verb in the same sentence; 'Albeit' introduces a concessive phrase qualifying a preceding element, not a free-standing connector before a new main clause. The conjunct use of 'for all that' is recorded in the Cambridge Grammar of English."
+    },
+    {
+      "text": "{1} how carefully we plan, some unforeseen problem always arises on the day.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "Whatever",
+            "No matter",
+            "Much as"
+          ],
+          "hint": "___ + how + adverb + subject + verb = 'it makes no difference how…'"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' ('No matter how carefully we plan') is a concessive of indifference meaning 'it makes no difference how carefully we plan'. The slot is followed by the existing word 'how', and only 'No matter' combines with 'how' in this frame. 'However' already contains the sense of 'how' and so cannot precede a second 'how' ('However how carefully' is ungrammatical — one says 'However carefully we plan'); 'Whatever' pairs with a noun, not with 'how + adverb'; 'Much as' is followed directly by subject + verb, not by 'how'. The 'No matter + wh-word' construction is treated as a universal concessive conditional in the Cambridge Grammar of English."
     }
   ]
 }

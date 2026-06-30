@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi souhaita que son fils {1} bien régner avant de monter sur le trône.",
+      "blanks": [
+        {
+          "answer": "voulût",
+          "options": [
+            "voulait",
+            "voulut",
+            "voulût"
+          ],
+          "hint": "subjonctif imparfait de « vouloir » (voulût, avec circonflexe), après « souhaiter que », principal au passé simple"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so both indicatif forms are excluded: « voulait » (imparfait de l'indicatif) and « voulut » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « souhaita » is in the past and the wish bears on a simultaneous/posterior state, so literary concordance gives the subjonctif imparfait of vouloir: « qu'il voulût » — the circumflex on the -ût ending distinguishes it from the passé simple « voulut »."
+    },
+    {
+      "text": "Le vieux maître expliqua la règle lentement, sans qu'aucun élève ne l'{1} vraiment comprise.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe accordé), après « sans que », antériorité"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif is impossible: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both excluded. The non-comprehension is anterior to the past narration « expliqua », so literary concordance requires the subjonctif plus-que-parfait of comprendre: « qu'il l'eût comprise ». Note the circumflex on the auxiliary « eût » (subjunctive vs. indicative « eut »), and that the past participle « comprise » agrees with the preceding direct object « l' » (= la règle, feminine singular)."
+    },
+    {
+      "text": "Le capitaine fit creuser une tranchée pour que la troupe {1} se mettre à l'abri.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « pour que », postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » triggers the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « fit » is in the past and the purpose is posterior, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'elle pût » — the circumflex on « pût » distinguishes the subjunctive from the passé simple « put »."
+    },
+    {
+      "text": "Quoiqu'il {1} le danger, le jeune lieutenant s'élança le premier vers la brèche.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connut",
+            "connût"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (connût), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (concessive) always governs the subjunctive, so the indicatif is excluded: « connaissait » (imparfait de l'indicatif) and « connut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « s'élança » is in the past and the concessive knowledge is simultaneous, so literary concordance requires the subjonctif imparfait of connaître: « qu'il connût » — built on the passé simple stem « connu- », with the circumflex of the -ût ending (the infinitive circumflex of « connaître » belongs only to forms before -t, not here)."
     }
   ]
 }
