@@ -149,6 +149,68 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Les randonneuses {1} (redescendre) avant la nuit si le brouillard ne les {2} (surprendre) pas au sommet.",
+      "blanks": [
+        {
+          "cue": "redescendre",
+          "answer": [
+            "seraient redescendues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe de mouvement → être, accord avec le sujet"
+        },
+        {
+          "cue": "surprendre",
+          "answer": [
+            "avait surprises"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « les » (= les randonneuses)"
+        }
+      ],
+      "explanation": "Irréel du passé. « redescendre » here is intransitive (a movement) and takes être, so the participle AGREES with the feminine-plural subject « les randonneuses »: « seraient redescendues ». « surprendre » takes avoir, and its direct object « les » (= « les randonneuses ») is placed BEFORE the verb, so the participle agrees with it: « avait surprises » (feminine plural). Note the pronoun « les » is the COD, not the subject."
+    },
+    {
+      "text": "Nous {1} (se souvenir) de son adresse si nous l'{2} (noter) quelque part.",
+      "blanks": [
+        {
+          "cue": "se souvenir",
+          "answer": [
+            "nous serions souvenus",
+            "nous serions souvenues"
+          ],
+          "hint": "conditionnel passé, verbe essentiellement pronominal → être, accord avec le sujet « nous »"
+        },
+        {
+          "cue": "noter",
+          "answer": [
+            "avions notée"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « l' » (= l'adresse, féminin)"
+        }
+      ],
+      "explanation": "« se souvenir » is an essentially pronominal verb (it exists only in the pronominal form), so its participle ALWAYS agrees with the subject: « nous serions souvenus » (or « souvenues » if the group is all-feminine). « noter » takes avoir, and the preceding direct-object pronoun « l' » stands for « l'adresse » (feminine singular), so the participle agrees: « avions notée » — the antéposed COD triggers the -e."
+    },
+    {
+      "text": "Si le jury {1} (relire) attentivement les copies, il {2} (revenir) sur sa décision.",
+      "blanks": [
+        {
+          "cue": "relire",
+          "answer": [
+            "avait relu",
+            "avait relues"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., auxiliaire avoir — COD « les copies » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "revenir",
+          "answer": [
+            "serait revenu"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing., verbe de mouvement → être, accord avec le sujet masculin « le jury »"
+        }
+      ],
+      "explanation": "Irréel du passé. In the « si » clause, « relire » takes avoir and its object « les copies » FOLLOWS the verb, so there is no agreement: « avait relu ». The result clause uses « revenir », a movement verb with être; the participle agrees with the masculine-singular subject « le jury »: « serait revenu ». Clause order (si-clause first here) does not change the verb forms."
     }
   ]
 }

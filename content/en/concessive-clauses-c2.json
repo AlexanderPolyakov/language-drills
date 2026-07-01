@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "Try {1} he might, he could not shift the boulder from the path.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though",
+            "as",
+            "however",
+            "despite"
+          ],
+          "hint": "fixed concessive: Try ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might' = 'No matter how hard he tried'. 'Though' does not fit this frozen pattern (we do not say 'Try though he might'); 'however' would front the whole clause ('However hard he tried'); 'despite' cannot govern the finite verb 'might'."
+    },
+    {
+      "text": "{1} how carefully you plan, some things will always go wrong on the day.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "For all",
+            "Much as",
+            "No matter",
+            "Albeit"
+          ],
+          "hint": "___ + how/what/who + clause = it makes no difference that"
+        }
+      ],
+      "explanation": "'No matter how + adverb + clause' concedes that the outcome is unaffected by any degree: 'No matter how carefully you plan' = 'However carefully you plan'. 'For all' takes a noun phrase, not 'how + clause'; 'Much as' is followed directly by subject + verb; 'Albeit' cannot introduce a finite clause with its own subject."
+    },
+    {
+      "text": "Your objections are noted. {1}, the board has decided to proceed with the plan.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as it is",
+            "Be that as it may",
+            "However it be",
+            "Albeit so"
+          ],
+          "hint": "a fixed formal conjunct: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formal conjunct (a subjunctive fossil) meaning 'even if that is true' / 'nevertheless', standing alone before a comma and linking back to the previous sentence. The other options are invented, ungrammatical strings; none is an established English connector."
+    },
+    {
+      "text": "Strange {1} it may seem, the two rivals became the closest of friends.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though as",
+            "however",
+            "as",
+            "that"
+          ],
+          "hint": "fronted adjective + ___ + it + may + seem = concessive inversion"
+        }
+      ],
+      "explanation": "'Adjective + as + it may + verb' ('Strange as it may seem') is a concessive inversion meaning 'although it may seem strange'. 'Though as' doubles the connector and is ungrammatical; 'however' would precede the adjective ('However strange it may seem'); 'that' would make a noun clause, losing the concessive sense."
+    },
+    {
+      "text": "The scheme is expensive and slow to set up. {1}, the long-term savings more than justify it.",
+      "blanks": [
+        {
+          "answer": "That said",
+          "options": [
+            "Much as",
+            "That said",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "a conjunct meaning 'in spite of what was just said'"
+        }
+      ],
+      "explanation": "'That said' is a sentence conjunct meaning 'in spite of what has just been said', standing alone before a comma and conceding the previous point before countering it. 'Much as' and 'For all' must be followed by a clause or noun phrase within the same sentence; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
     }
   ]
 }
