@@ -19,7 +19,7 @@
     { "text": "On voit la {1} depuis la fenêtre.", "blanks": [ { "cue": "mountain", "answer": ["montagne"] } ], "explanation": "montagne = mountain (feminine)." },
     { "text": "La {1} est ma pièce préférée.", "blanks": [ { "cue": "kitchen", "answer": ["cuisine"] } ], "explanation": "cuisine = kitchen/cooking (feminine)." },
     { "text": "Elle cherche un {1} dans l'informatique.", "blanks": [ { "cue": "trade", "answer": ["métier"] } ], "explanation": "métier = job/trade (masculine)." },
-    { "text": "J'ai trouvé un nouveau {1} bien payé.", "blanks": [ { "cue": "job", "answer": ["emploi"] } ], "explanation": "emploi = job/employment (masculine)." },
+    { "text": "J'ai trouvé un nouvel {1} bien payé.", "blanks": [ { "cue": "job", "answer": ["emploi"] } ], "explanation": "emploi = job/employment (masculine); before a vowel 'nouveau' becomes 'nouvel'." },
     { "text": "Je cherche un {1} pour la nuit.", "blanks": [ { "cue": "hotel", "answer": ["hôtel"] } ], "explanation": "hôtel = hotel (masculine)." },
     { "text": "La {1} est en panne, prenons l'escalier.", "blanks": [ { "cue": "elevator", "answer": ["ascenseur"] } ], "explanation": "Careful: 'ascenseur' is masculine (un ascenseur)." },
     { "text": "Je paie avec ma {1} bancaire.", "blanks": [ { "cue": "card", "answer": ["carte"] } ], "explanation": "carte = card (feminine)." },
@@ -39,7 +39,7 @@
     { "text": "Je prends le {1} pour aller en ville.", "blanks": [ { "cue": "subway", "answer": ["métro"] } ], "explanation": "métro = subway (masculine)." },
     { "text": "L'{1} où je travaille est très grande.", "blanks": [ { "cue": "company", "answer": ["entreprise"] } ], "explanation": "entreprise = company/business (feminine)." },
     { "text": "Quelle belle {1} dans le ciel ce soir !", "blanks": [ { "cue": "moon", "answer": ["lune"] } ], "explanation": "lune = moon (feminine)." },
-    { "text": "Le {1} dure trois mois ici.", "blanks": [ { "cue": "winter", "answer": ["hiver"] } ], "explanation": "hiver = winter (masculine)." },
+    { "text": "L'{1} dure trois mois ici.", "blanks": [ { "cue": "winter", "answer": ["hiver"] } ], "explanation": "hiver = winter (masculine); 'le' elides to 'l'' before a vowel." },
     { "text": "Je prends des {1} pendant mes congés.", "blanks": [ { "cue": "holidays", "answer": ["vacances"] } ], "explanation": "vacances = holidays (feminine, always plural)." }
   ]
 }
