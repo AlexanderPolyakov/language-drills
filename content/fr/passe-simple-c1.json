@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "La jeune fille {1} (lire) la lettre en tremblant, puis {2} (croire) d'abord à une plaisanterie.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« lire » belongs to the « -u » family with the stem « lu- » → 3rd singular « elle lut » (not to be confused with « lit », the present). « croire » follows the same family → « elle crut » (distinct from the present « croit »). Both narrate single, completed actions in this literary récit."
+    },
+    {
+      "text": "L'écrivain {1} (recevoir) enfin une réponse et {2} (écrire) aussitôt un long remerciement.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille → reçut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écrivi-"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family: 3rd singular « il reçut » — note the cédille on the « ç », kept before « u » to preserve the [s] sound. « écrire » has the special stem « écrivi- » → « il écrivit ». Both express completed narrative actions, the hallmark of the passé simple in written narration."
+    },
+    {
+      "text": "Les deux frères {1} (courir) jusqu'au fleuve, où l'aîné {2} (mourir) noyé.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → coururent"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family: 3rd plural « ils coururent » (double « r » from the infinitive stem « cour- » plus the ending). « mourir » follows the same family → « il mourut ». Both narrate single, completed events in this literary récit."
     }
   ]
 }

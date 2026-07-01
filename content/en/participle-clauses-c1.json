@@ -106,6 +106,57 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because it stands on a hill, the castle can be seen from miles away.",
+      "instruction": "Rewrite the reason clause as a fronted causal -ing participle clause, beginning with 'Standing'.",
+      "answer": [
+        "Standing on a hill, the castle can be seen from miles away.",
+        "Standing on a hill the castle can be seen from miles away"
+      ],
+      "placeholder": "Standing…",
+      "explanation": "A causal clause ('Because it stands…') reduces to a present participle clause expressing reason: 'Standing on a hill' = 'Because it stands on a hill'. The understood subject is 'the castle', the subject of the main clause, so the modifier is correctly attached and does not dangle."
+    },
+    {
+      "prompt": "The weather was fine, so we decided to eat lunch outside on the terrace.",
+      "instruction": "Rewrite the first clause as a bare absolute construction (noun + participle, no 'with'), beginning with 'The weather'.",
+      "answer": [
+        "The weather being fine, we decided to eat lunch outside on the terrace.",
+        "The weather being fine we decided to eat lunch outside on the terrace"
+      ],
+      "placeholder": "The weather being fine, …",
+      "explanation": "A bare absolute construction keeps its own subject and links it to the main clause through a participle: 'The weather being fine' has the subject 'the weather', distinct from 'we'. Because the absolute clause carries its own subject, it does not need to share the subject of the main clause and so does not dangle."
+    },
+    {
+      "prompt": "Driving to the coast, the sea suddenly came into view.",
+      "instruction": "This sentence contains a dangling modifier (the sea was not driving). Rewrite it so the participle clause has a proper subject, beginning with 'Driving to the coast, we'.",
+      "answer": [
+        "Driving to the coast, we suddenly saw the sea come into view.",
+        "Driving to the coast, we suddenly saw the sea.",
+        "Driving to the coast we suddenly saw the sea"
+      ],
+      "placeholder": "Driving to the coast, we…",
+      "explanation": "The original dangles: the understood subject of 'Driving' must be the subject of the main clause, but 'the sea' cannot drive. Supplying a human subject ('we') for the main clause makes 'we' the shared subject of the participle, so the modifier no longer dangles."
+    },
+    {
+      "prompt": "He had lost his passport. He was unable to board the flight.",
+      "instruction": "Combine using a perfect participle clause with an object, beginning with 'Having'.",
+      "answer": [
+        "Having lost his passport, he was unable to board the flight.",
+        "Having lost his passport he was unable to board the flight"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "The perfect participle 'Having lost his passport' marks the loss as completed before the main event and, here, expresses its cause ('Because he had lost…'). A plain -ing clause ('Losing his passport') would wrongly suggest the two events were simultaneous."
+    },
+    {
+      "prompt": "If the weather permits, the ceremony will take place in the garden.",
+      "instruction": "Rewrite the condition as an absolute participle phrase using 'permitting', placed after the main clause.",
+      "answer": [
+        "The ceremony will take place in the garden, weather permitting.",
+        "The ceremony will take place in the garden weather permitting"
+      ],
+      "placeholder": "…, weather permitting.",
+      "explanation": "'Weather permitting' is a fixed absolute construction (noun + -ing participle) meaning 'if the weather permits'. Like other absolutes it carries its own subject ('weather'), distinct from 'the ceremony', so it attaches without a shared subject and does not dangle."
     }
   ]
 }

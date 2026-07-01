@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'elle {1} l'espagnol couramment, elle préféra s'adresser à eux en français.",
+      "blanks": [
+        {
+          "answer": "parlât",
+          "options": [
+            "parla",
+            "parlât",
+            "parlait"
+          ],
+          "hint": "subjonctif imparfait de « parler » (-ât), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « parla » (passé simple de l'indicatif) and « parlait » (imparfait de l'indicatif) are both impossible after this concessive trigger. The main verb « préféra » is in the past and the state is simultaneous, so literary concordance requires the subjonctif imparfait of parler: « qu'elle parlât » — note the circumflex on the -ât ending."
+    },
+    {
+      "text": "Le maître attendit longtemps sans qu'aucun élève ne {1} à répondre à la question.",
+      "blanks": [
+        {
+          "answer": "parvînt",
+          "options": [
+            "parvint",
+            "parvenait",
+            "parvînt"
+          ],
+          "hint": "subjonctif imparfait de « parvenir » (-înt, avec circonflexe), après « sans que »"
+        }
+      ],
+      "explanation": "« sans que » triggers the subjunctive, so the indicatif is impossible: « parvint » (passé simple de l'indicatif, no circumflex) and « parvenait » (imparfait de l'indicatif) are both excluded. The main verb « attendit » is in the past and the action is simultaneous, so literary concordance calls for the subjonctif imparfait of parvenir: « qu'il parvînt » — the circumflex on « parvînt » distinguishes it from the indicative « parvint »."
+    },
+    {
+      "text": "Le vieux roi souhaitait que ses fils {1} enfin leurs querelles avant sa mort.",
+      "blanks": [
+        {
+          "answer": "vidassent",
+          "options": [
+            "vidèrent",
+            "vidaient",
+            "vidassent"
+          ],
+          "hint": "subjonctif imparfait de « vider » (-assent), 3e pers. plur., après « souhaiter que »"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so the indicatif forms are excluded: « vidèrent » (passé simple de l'indicatif) and « vidaient » (imparfait de l'indicatif) cannot follow this verb of wish. The main verb « souhaitait » is in the past (imparfait) and the settling is posterior, so literary concordance requires the subjonctif imparfait of vider, 3rd plural in -assent: « qu'ils vidassent »."
+    },
+    {
+      "text": "Il eût fallu que le messager {1} avant que la nouvelle ne se répandît dans la ville.",
+      "blanks": [
+        {
+          "answer": "fût parti",
+          "options": [
+            "était parti",
+            "fut parti",
+            "fût parti"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, après « il eût fallu que »"
+        }
+      ],
+      "explanation": "« il eût fallu que » imposes the subjunctive, so the indicatif is excluded: « était parti » (plus-que-parfait de l'indicatif) and « fut parti » (passé antérieur de l'indicatif, no circumflex) are both wrong. The departure is ANTERIOR to the past reference, so strict concordance after the conditionnel passé « eût fallu » requires the subjonctif plus-que-parfait of partir with être: « qu'il fût parti » — note the circumflex on the auxiliary « fût » and the agreement of « parti » with the masculine subject."
     }
   ]
 }
