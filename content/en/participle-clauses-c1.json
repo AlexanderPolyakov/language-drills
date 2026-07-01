@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "If you turn left at the old church, you will see the museum directly ahead of you.",
+      "instruction": "Rewrite the conditional clause as a present (-ing) participle clause expressing an open condition, beginning with 'Turning'.",
+      "answer": [
+        "Turning left at the old church, you will see the museum directly ahead of you.",
+        "Turning left at the old church you will see the museum directly ahead of you"
+      ],
+      "placeholder": "Turning…",
+      "explanation": "A present participle clause can express an open (real) condition equivalent to an 'if'-clause: 'Turning left at the old church' = 'If you turn left at the old church'. The understood subject of 'Turning' is 'you', the subject of the main clause, so the modifier does not dangle. This conditional use is distinct from a merely simultaneous -ing clause because it names the circumstance under which the main clause becomes true."
+    },
+    {
+      "prompt": "She calmed the frightened child by singing softly to him.",
+      "instruction": "Rewrite so that the means/manner is expressed by a fronted present (-ing) participle clause, beginning with 'Singing'.",
+      "answer": [
+        "Singing softly to him, she calmed the frightened child.",
+        "Singing softly to him she calmed the frightened child"
+      ],
+      "placeholder": "Singing…",
+      "explanation": "A fronted -ing clause can express the means or manner by which the main action is carried out: 'Singing softly to him' answers 'how' she calmed the child, corresponding to 'by singing softly to him'. Because the singing and the calming are performed by the same subject at the same time and 'she' is understood as the subject of the participle, no separate subject is needed."
+    },
+    {
+      "prompt": "He had lost his keys. As a result, he had to climb in through the kitchen window.",
+      "instruction": "Combine using a perfect participle clause expressing the prior cause, beginning with 'Having'.",
+      "answer": [
+        "Having lost his keys, he had to climb in through the kitchen window.",
+        "Having lost his keys he had to climb in through the kitchen window"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having lost' marks an action completed before the main verb and presents it as the cause of what follows: 'Having lost his keys' = 'Because he had lost his keys'. Unlike a plain -ing clause of simultaneous action, the perfect form makes the earlier, causative event explicit, and the understood subject 'he' matches the subject of the main clause."
     }
   ]
 }

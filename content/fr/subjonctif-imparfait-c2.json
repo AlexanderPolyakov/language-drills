@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut que son messager {1} sur-le-champ annoncer la nouvelle à la cour.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so both indicatif options are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this verb of volition. The main verb « voulut » is in the past and the coming is posterior to the wish, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — the circumflex on « vînt » is what distinguishes the subjunctive from the passé simple indicative « vint »."
+    },
+    {
+      "text": "Quoiqu'il {1} déjà la vérité tout entière, le juge feignit l'ignorance.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are impossible: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this concessive conjunction. The main verb « feignit » is in the past and the knowing is simultaneous, so strict concordance calls for the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "Il quitta la salle sans que personne {1} garde à son départ discret.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « sans que », principal au passé simple"
+        }
+      ],
+      "explanation": "« sans que » always requires the subjunctive, so the indicatif options are excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « quitta » is in the past and the action is simultaneous, so literary concordance gives the subjonctif imparfait of prendre: « que personne ne prît garde » — the circumflex on « prît » distinguishes the subjunctive from the passé simple indicative « prit »."
     }
   ]
 }
