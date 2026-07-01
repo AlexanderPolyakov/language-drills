@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} how carefully you phrase the criticism, someone on the committee is bound to take offence.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "For all",
+            "Whatever"
+          ],
+          "hint": "___ + how + adverb + finite clause = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' is a concessive structure meaning 'to whatever degree', so 'No matter how carefully you phrase it' fits before the following 'how'. 'However' cannot precede 'how': it would itself replace it ('However carefully you phrase it'), making 'However how' ungrammatical. 'For all' must be followed by a noun phrase ('For all your care'), not by 'how'. 'Whatever' also takes a noun ('Whatever the wording'), not the adverbial 'how carefully'."
+    },
+    {
+      "text": "The scheme is costly and its long-term benefits remain unproven. {1}, the board has resolved to press ahead with it.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much though",
+            "As it may"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma + main clause = 'even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so' or 'granting all that', which stands alone before a comma and a full main clause, linking back to the preceding sentence. 'Even though' must introduce a subordinate clause within the sentence, not stand on its own before an independent clause. 'Much though' requires a following verb or adjective ('Much though I admire it'), so it cannot stand alone. 'As it may' is only a fragment of the idiom and is ungrammatical in isolation."
     }
   ]
 }

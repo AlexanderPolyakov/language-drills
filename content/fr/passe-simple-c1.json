@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieux marin {1} une gorgée d'eau-de-vie, puis {2} à ses compagnons transis.",
+      "blanks": [
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical bu- → but"
+        },
+        {
+          "cue": "sourire",
+          "answer": [
+            "sourit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical souri- → sourit (comme rire → rit)"
+        }
+      ],
+      "explanation": "« boire » belongs to the « -u » family with the stem « bu- » → 3rd singular « il but ». « sourire » (like « rire ») has the stem « souri- » → « il sourit ». Neither takes a circumflex, which never appears in the 3rd person of the passé simple (it marks only the nous/vous forms). Both report single, completed narrative actions."
+    },
+    {
+      "text": "Les convives {1} d'abord surpris, mais ils {2} d'une seule voix à l'invitation.",
+      "blanks": [
+        {
+          "cue": "paraître",
+          "answer": [
+            "parurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u, radical paru- → parurent"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — verbe régulier en -RE → -irent"
+        }
+      ],
+      "explanation": "« paraître » follows the « -u » family with the stem « paru- » → 3rd plural « ils parurent »; note that the circumflex of the infinitive « paraître » disappears in the passé simple, where no 3rd-person form carries a circumflex. « répondre » is a regular -RE verb: 3rd plural passé simple ends in -irent → « ils répondirent ». Both narrate completed events in the literary past."
     }
   ]
 }
