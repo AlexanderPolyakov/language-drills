@@ -173,7 +173,7 @@
         {
           "answer": "as",
           "options": [
-            "though",
+            "much",
             "as",
             "however",
             "despite"
@@ -181,7 +181,7 @@
           "hint": "fixed concessive: Try ___ + subject + might/may = however hard one tries"
         }
       ],
-      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might' = 'No matter how hard he tried'. 'Though' does not fit this frozen pattern (we do not say 'Try though he might'); 'however' would front the whole clause ('However hard he tried'); 'despite' cannot govern the finite verb 'might'."
+      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might' = 'No matter how hard he tried'. 'Much' does not fit this frozen slot ('Try much he might' is not English); 'however' would front the whole clause ('However hard he tried'); 'despite' cannot govern the finite verb 'might'."
     },
     {
       "text": "{1} how carefully you plan, some things will always go wrong on the day.",
