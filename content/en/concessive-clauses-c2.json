@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fronted bare verb + ___ + subject + modal = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may/do' is a fixed concessive inversion in which the bare verb is fronted: 'Try as he might' = 'however hard he tried'. 'As try' inverts the words and is ungrammatical; 'However' would need a following adjective/adverb ('However hard'); 'Much as' takes a verb of feeling with its own subject ('Much as he tried'), not the fronted bare verb + subject + modal pattern."
+    },
+    {
+      "text": "{1} late it was, the shops on the main square were still crowded with tourists.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = 'regardless of how'"
+        }
+      ],
+      "explanation": "'No matter how + adjective/adverb + subject + verb' means 'regardless of how': 'No matter how late it was'. 'Much as' takes a verb directly, not the adjective 'late'; 'For all' takes a bare noun phrase; 'Albeit' cannot head a finite clause with its own subject ('it was')."
+    },
+    {
+      "text": "{1} the reasons for the delay, the customers deserve a full refund.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = 'no matter what' / 'irrespective of'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' has a concessive sense of 'no matter what' / 'irrespective of': 'Whatever the reasons for the delay' = 'no matter what the reasons were'. 'However' would need a following adjective/adverb; 'Much as' takes a subject + verb; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "The scheme may well save money in the short term. {1}, the long-term costs could be crippling.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "a fixed conjunct conceding the previous sentence: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive conjunct meaning 'even if that is true', which concedes the preceding sentence before countering it and stands alone before a comma. 'Even though' must introduce a subordinate clause within the same sentence; 'Much as' needs a following subject + verb; 'Notwithstanding' is a preposition requiring a following noun phrase, not a free-standing connector."
+    },
+    {
+      "text": "{1} the risks involved, the surgeon judged that operating was the only realistic option.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "For all",
+            "Even though",
+            "While",
+            "Much as"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all the risks involved' = 'despite the risks'. 'Even though' and 'While' introduce a finite clause, not a bare noun phrase; 'Much as' must be followed by a subject and verb ('Much as the risks worried her'), not by the bare noun phrase 'the risks involved'."
     }
   ]
 }

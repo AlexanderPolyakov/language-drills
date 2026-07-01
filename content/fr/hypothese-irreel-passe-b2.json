@@ -149,6 +149,67 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si j'{1} (savoir), je ne {2} (rien dire) devant tout le monde.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "avais su"
+          ],
+          "hint": "plus-que-parfait, 1re pers. sing., auxiliaire avoir"
+        },
+        {
+          "cue": "rien dire",
+          "answer": [
+            "n'aurais rien dit"
+          ],
+          "hint": "conditionnel passé négatif, je, auxiliaire avoir — « rien » s'intercale après l'auxiliaire"
+        }
+      ],
+      "explanation": "Irréel du passé (a classic regret). The « si » clause uses the plus-que-parfait « avais su » (« savoir » takes avoir, no preceding direct object, so no agreement). The result clause uses the conditionnel passé with avoir; in the negation « ne … rien » the « rien » slips between the auxiliary and the participle: « je n'aurais rien dit »."
+    },
+    {
+      "text": "Nous {1} (se perdre) dans la forêt si le garde ne nous {2} (indiquer) le chemin.",
+      "blanks": [
+        {
+          "cue": "se perdre",
+          "answer": [
+            "nous serions perdus",
+            "nous serions perdues"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réfléchi → être, accord avec le sujet « nous »"
+        },
+        {
+          "cue": "indiquer",
+          "answer": [
+            "avait indiqué"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., auxiliaire avoir — COD postposé « le chemin », donc pas d'accord"
+        }
+      ],
+      "explanation": "« se perdre » is a reflexive pronominal verb where « se » is the DIRECT object, so it takes être and the participle AGREES with « nous »: « nous serions perdus » (or « perdues » if all-feminine). The « si » clause uses « indiquer » with avoir; the direct object « le chemin » FOLLOWS the verb, so there is no agreement: « avait indiqué » — plus-que-parfait."
+    },
+    {
+      "text": "Elles {1} (rester) chez elles ce soir-là si on les {2} (avertir) du danger.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "seraient restées"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe d'état → être, accord avec le sujet « elles »"
+        },
+        {
+          "cue": "avertir",
+          "answer": [
+            "avait averties"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « les » (= elles)"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » is a state verb conjugated with être, so the participle AGREES with the feminine plural subject « elles »: « seraient restées ». For « avertir » (auxiliaire avoir), the preceding direct-object pronoun « les » (= « elles », feminine plural) triggers agreement: « on les avait averties » — the participle must carry the feminine-plural -es."
     }
   ]
 }

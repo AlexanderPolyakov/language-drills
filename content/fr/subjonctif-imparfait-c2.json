@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que chaque élève {1} le poème avant la fin de la semaine.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, sans accent) are ungrammatical after this trigger. The main verb « exigea » is a past tense and the action is posterior, so literary concordance requires the subjonctif imparfait of « savoir »: « qu'il sût » — the circumflex distinguishes it from the passé simple « sut »."
+    },
+    {
+      "text": "Je doutai fort que ces promesses {1} un jour tenues.",
+      "blanks": [
+        {
+          "answer": "fussent",
+          "options": [
+            "seraient",
+            "furent",
+            "fussent"
+          ],
+          "hint": "subjonctif imparfait de « être » (fussent), 3e pers. plur. (-ussent), après « douter que »"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the conditionnel « seraient » and the passé simple de l'indicatif « furent » are both excluded. The main verb « doutai » is in the past, so literary concordance calls for the subjonctif imparfait of « être »: « qu'elles fussent tenues » — the 3rd plural ending is -ussent for être."
+    },
+    {
+      "text": "Elle craignait qu'il n'{1} déjà tout dépensé avant leur arrivée.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « craindre que »"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) cannot follow. The spending is ANTERIOR to the past reference, so strict concordance after the past « craignait » requires the subjonctif plus-que-parfait « qu'il eût dépensé » — the circumflex on the auxiliary « eût » marks the subjunctive."
+    },
+    {
+      "text": "Quoiqu'elle {1} de toutes ses forces, la barque dérivait toujours vers les récifs.",
+      "blanks": [
+        {
+          "answer": "ramât",
+          "options": [
+            "ramait",
+            "rama",
+            "ramât"
+          ],
+          "hint": "subjonctif imparfait (-ât), 3e pers. sing., après « quoique », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « ramait » (imparfait de l'indicatif) and « rama » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main clause is in the past (« dérivait ») and the concessive action is simultaneous, so literary concordance requires the subjonctif imparfait of the -ER verb « ramer »: « qu'elle ramât » (3rd singular ending -ât)."
     }
   ]
 }

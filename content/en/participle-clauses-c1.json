@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The results had been checked twice. They were sent to the editor.",
+      "instruction": "Combine using a perfect passive participle clause for the completed prior action, beginning with 'Having'.",
+      "answer": [
+        "Having been checked twice, the results were sent to the editor.",
+        "Having been checked twice the results were sent to the editor"
+      ],
+      "placeholder": "Having been checked…",
+      "explanation": "'Having been + past participle' reduces a clause that is both passive and prior in time: 'The results had been checked twice' becomes 'Having been checked twice'. The understood subject is 'the results', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The tourists did not have a map. They wandered the old town for hours.",
+      "instruction": "Rewrite the first idea as a negative present participle clause of reason, beginning with 'Not'.",
+      "answer": [
+        "Not having a map, the tourists wandered the old town for hours.",
+        "Not having a map the tourists wandered the old town for hours"
+      ],
+      "placeholder": "Not having…",
+      "explanation": "A reason clause reduces to a participle clause with 'not' placed before the participle: 'Because they did not have a map' becomes 'Not having a map'. The subject 'the tourists' is shared with the main clause."
+    },
+    {
+      "prompt": "Once it is opened, the medicine must be used within a month.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "Once opened, the medicine must be used within a month.",
+        "Once opened the medicine must be used within a month"
+      ],
+      "placeholder": "Once opened…",
+      "explanation": "A subordinating conjunction can be retained in front of a reduced clause for precision: 'Once it is opened' drops the subject and the form of 'be' to give 'Once opened'. The understood subject remains 'the medicine', the subject of the main clause."
+    },
+    {
+      "prompt": "The candidate had lost the previous three elections. She was written off by the pundits.",
+      "instruction": "Combine using a perfect (active) participle clause for the completed prior situation, beginning with 'Having'.",
+      "answer": [
+        "Having lost the previous three elections, the candidate was written off by the pundits.",
+        "Having lost the previous three elections the candidate was written off by the pundits"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "The perfect participle 'Having lost' marks the losses as complete before the main event, in a way a plain -ing clause ('Losing') could not. The shared subject 'the candidate' is understood as the subject of the participle, so the modifier does not dangle even though the main clause is passive."
+    },
+    {
+      "prompt": "The storm knocked out the power lines. It left thousands of homes in darkness.",
+      "instruction": "Combine into one sentence using an -ing participle clause to express the result, ending with a clause beginning '…, leaving…'.",
+      "answer": [
+        "The storm knocked out the power lines, leaving thousands of homes in darkness.",
+        "The storm knocked out the power lines leaving thousands of homes in darkness"
+      ],
+      "placeholder": "The storm knocked out…, leaving…",
+      "explanation": "An -ing clause following the main clause can express a result or consequence: 'leaving thousands of homes in darkness' = 'and this left…'. The understood subject is 'the storm', the subject of the main clause, so no dangling modifier arises."
     }
   ]
 }
