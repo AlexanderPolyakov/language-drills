@@ -36,7 +36,7 @@
       "explanation": "Use 'an' before a vowel sound: an elephant. It is capitalized at the start of the sentence."
     },
     {
-      "text": "I like {1} dogs.",
+      "text": "In general, I like {1} dogs.",
       "blanks": [
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "plural noun in general" }
       ],
@@ -65,7 +65,7 @@
       "explanation": "Use 'the' when it is clear which thing we mean: the door of this room."
     },
     {
-      "text": "I drink {1} water every morning.",
+      "text": "In general, I drink {1} water every morning.",
       "blanks": [
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "uncountable noun in general" }
       ],

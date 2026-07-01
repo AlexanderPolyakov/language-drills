@@ -64,7 +64,7 @@
       "explanation": "Jobs take 'a' or 'an' in the singular: 'engineer' starts with a vowel sound (an engineer), 'teacher' with a consonant sound (a teacher)."
     },
     {
-      "text": "{1} children love {2} chocolate.",
+      "text": "In general, {1} children love {2} chocolate.",
       "blanks": [
         { "answer": "—", "options": ["A", "The", "—"], "hint": "people in general" },
         { "answer": "—", "options": ["a", "the", "—"], "hint": "things in general" }
