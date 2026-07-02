@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les villageois {1} (trembler) de peur et {2} (fuir) vers la forêt.",
+      "blanks": [
+        {
+          "cue": "trembler",
+          "answer": [
+            "tremblèrent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe en -ER → terminaison -èrent"
+        },
+        {
+          "cue": "fuir",
+          "answer": [
+            "fuirent"
+          ],
+          "hint": "passé simple, 3e pers. plur., type -IR → terminaison -irent"
+        }
+      ],
+      "explanation": "« trembler » is a regular -ER verb: 3rd plural passé simple ends in -èrent → « ils tremblèrent ». « fuir » conjugates like a regular -IR verb in the passé simple: « il fuit », 3rd plural « ils fuirent » (not to be confused with the present « ils fuient »). Both narrate punctual, completed actions in the literary récit."
+    },
+    {
+      "text": "Le prisonnier {1} (craindre) le pire, mais il {2} (pouvoir) enfin s'échapper.",
+      "blanks": [
+        {
+          "cue": "craindre",
+          "answer": [
+            "craignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical en craign- → craignit"
+        },
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put, sans circonflexe"
+        }
+      ],
+      "explanation": "« craindre » has the special passé simple stem « craign- » → 3rd singular « il craignit » (like « peindre » → « il peignit »). « pouvoir » belongs to the « -u » family → « il put »; note there is no circumflex in the 3rd person singular (« put », not « pût » which would be the subjonctif imparfait). Both express single, completed narrative actions in the récit."
     }
   ]
 }

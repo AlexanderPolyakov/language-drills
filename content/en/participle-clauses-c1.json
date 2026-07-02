@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She had not received a reply. She wrote to the company again.",
+      "instruction": "Combine using a negative perfect participle clause to show the prior (non-)event, beginning with 'Not having'.",
+      "answer": [
+        "Not having received a reply, she wrote to the company again.",
+        "Not having received a reply she wrote to the company again"
+      ],
+      "placeholder": "Not having received…",
+      "explanation": "The negative perfect participle 'Not having + past participle' combines two features at once: 'having received' marks the action as completed before the main verb, and 'not' negates the whole clause. 'Not having received a reply' = 'Since she had not received a reply'. The negator 'not' is placed before the participle, and the understood subject stays 'she', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The evidence that was gathered during the raid proved crucial at the trial.",
+      "instruction": "Rewrite using a reduced defining relative clause built on a past (passive) participle (drop 'that was').",
+      "answer": [
+        "The evidence gathered during the raid proved crucial at the trial.",
+        "The evidence gathered during the raid proved crucial at the trial"
+      ],
+      "placeholder": "The evidence gathered…",
+      "explanation": "A defining relative clause of the form 'that/which + was + past participle' reduces to the bare past participle: 'that was gathered' becomes 'gathered'. Because the clause is defining (it tells us which evidence), no commas are used — unlike the non-defining reduced relative, which keeps its commas. The participle 'gathered' modifies the noun 'the evidence', so this is a reduced relative clause, not an adverbial participle clause."
     }
   ]
 }

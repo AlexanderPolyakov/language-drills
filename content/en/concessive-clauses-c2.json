@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as they might, the investigators could not establish how the intruder had entered the building.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Hard",
+            "Much",
+            "Try",
+            "Even"
+          ],
+          "hint": "fixed idiom: ___ as + subject + might/would = however hard they tried"
+        }
+      ],
+      "explanation": "'Try as they might' is a fixed concessive idiom — fronted bare verb + 'as' + subject + 'might/would' — meaning 'however hard they tried'. Since the modal 'might' already follows the subject, the fronted slot must hold the lexical verb 'Try'. 'Hard' and 'Much' are an adverb and a quantifier that would each still need a following verb ('Hard as they might try', 'Much as they tried'), so neither completes 'as they might'; 'Even as they might' is temporal or ungrammatical, not concessive."
+    },
+    {
+      "text": "{1} much the authorities invest in flood defences, the low-lying villages remain vulnerable.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of investment alters the result (= 'no matter how much they invest'). 'For all' takes a bare noun phrase ('For all their investment'), not 'much + clause'; 'Much as' would double the quantifier ('Much as much') and is in any case followed directly by a verb, not by 'much'; 'Albeit' cannot head a finite clause with its own subject and verb ('the authorities invest')."
+    },
+    {
+      "text": "The board's reservations {1}, the chief executive pushed the acquisition through.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "although",
+            "despite",
+            "however",
+            "notwithstanding"
+          ],
+          "hint": "used post-nominally, after its noun phrase: [noun phrase] ___, ... = in spite of"
+        }
+      ],
+      "explanation": "Here 'notwithstanding' is used post-nominally: it follows the noun phrase it governs ('The board's reservations notwithstanding'), a formal alternative to the fronted 'Notwithstanding the board's reservations'. 'Despite' is also a preposition but can only precede its noun, never follow it; 'although' is a subordinating conjunction that must introduce a finite clause, not sit after a bare noun phrase; 'however' requires a following adjective or adverb and an altogether different structure."
     }
   ]
 }

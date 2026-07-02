@@ -149,6 +149,27 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Nous {1} (monter) au sommet si le brouillard {2} (se lever) plus tôt.",
+      "blanks": [
+        {
+          "cue": "monter",
+          "answer": [
+            "serions montés",
+            "serions montées"
+          ],
+          "hint": "conditionnel passé, nous, verbe de mouvement → être, accord avec le sujet"
+        },
+        {
+          "cue": "se lever",
+          "answer": [
+            "s'était levé"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., verbe pronominal → être, accord avec le sujet « le brouillard »"
+        }
+      ],
+      "explanation": "Irréel du passé with the clauses in reverse order (result first, condition second): the verb forms are unchanged. « monter » is a movement verb conjugated with être, so the conditionnel passé is « nous serions montés », the participle agreeing with « nous » (masculine/plural « montés », or « montées » if all-feminine). The « si » clause uses the pronominal « se lever », also with être: plus-que-parfait « le brouillard s'était levé », the participle « levé » agreeing with the masculine singular subject."
     }
   ]
 }
