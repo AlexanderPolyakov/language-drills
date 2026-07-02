@@ -24,8 +24,8 @@
     },
     {
       "text": "Soudain, un homme {1} dans la pièce.",
-      "blanks": [{ "cue": "entrer", "answer": ["est entré", "est entrée"], "hint": "auxiliary être, sudden action" }],
-      "explanation": "« soudain » marks a one-off action; entrer is conjugated with être, hence est entré (possible agreement: est entrée)."
+      "blanks": [{ "cue": "entrer", "answer": ["est entré"], "hint": "auxiliary être, sudden action" }],
+      "explanation": "« soudain » marks a one-off action; entrer is conjugated with être; the subject « un homme » is masculine, hence est entré."
     },
     {
       "text": "Nous {1} la télévision quand l'orage a éclaté.",

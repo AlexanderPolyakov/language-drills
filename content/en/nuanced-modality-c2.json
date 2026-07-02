@@ -73,7 +73,7 @@
     {
       "text": "There's the doorbell. {1} the courier with the parcel I've been expecting.",
       "blanks": [
-        { "answer": "That'll be", "options": ["That should be", "That must be being", "That'll be"], "hint": "confident present assumption with predictive 'will'" }
+        { "answer": "That'll be", "options": ["That is being", "That must be being", "That'll be"], "hint": "confident present assumption with predictive 'will'" }
       ],
       "explanation": "Predictive 'will/'ll' expresses a confident assumption about a present situation ('That'll be the postman'). It is near-certainty based on expectation, distinct from deduction with 'must' and from the weaker expectation of 'should'."
     },
