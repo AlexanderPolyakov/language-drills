@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'invité {1} une gorgée de vin, puis {2} avec émotion les félicitations de l'assemblée.",
+      "blanks": [
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → but"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, avec cédille → reçut"
+        }
+      ],
+      "explanation": "« boire » belongs to the « -u » family with the stem « bu- » → « il but ». « recevoir » also follows the « -u » family → « il reçut », where the cédille on the « ç » keeps the soft [s] sound before « u ». Both narrate single, completed actions in the literary past."
+    },
+    {
+      "text": "Dès l'aube, le jeune page {1} prévenir le château, et bientôt les gardes {2} en armes sur les remparts.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "paraître",
+          "answer": [
+            "parurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → parurent"
+        }
+      ],
+      "explanation": "« courir » follows the « -u » family with the stem « cour- » → « il courut » (a single « r » in the passé simple, unlike the double « r » of the future « il courra »). « paraître » also joins the « -u » family → « ils parurent », and the circumflex of the infinitive disappears in the passé simple. Both report punctual, completed events in this narrative past."
     }
   ]
 }

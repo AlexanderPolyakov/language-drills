@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut que son ambassadeur {1} sans tarder pour négocier la paix.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « voulut » is in the past and the coming is posterior to the wish, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Quoiqu'il {1} la vérité depuis longtemps, il n'en souffla jamais un mot.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "sût",
+            "savait",
+            "sut"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « souffla » is in the past and the knowing is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "Elle ferma soigneusement les volets pour que nul ne {1} apercevoir la lueur de la bougie.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « pour que » au passé simple"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « ferma » is in the past and the purpose is posterior, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes it from the indicative « put »."
     }
   ]
 }

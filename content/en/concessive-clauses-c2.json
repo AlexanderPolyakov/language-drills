@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1}, he could not persuade the rusty lock to open.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Much as he might",
+            "Try as he might",
+            "However he might",
+            "As much he might"
+          ],
+          "hint": "fronted bare verb + as + subject + modal = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as he might' is the fronted-verb concessive inversion 'Verb + as + subject + might/would', meaning 'however hard he tried'. 'Much as he might' and 'However he might' leave the modal 'might' with no infinitive to complete it and no adverb after 'However', so both are incomplete; 'As much he might' simply scrambles the word order and is ungrammatical."
+    },
+    {
+      "text": "The scheme is costly and the timeline dangerously tight. {1}, the board has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as",
+            "Even though",
+            "Be that as it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct linking back: 'even so / that notwithstanding'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed conjunct meaning 'even so', standing alone before a comma and referring back to the previous sentence. 'Much as' requires a following subject + verb; 'Even though' must introduce a subordinate clause within the same sentence, not stand free before a comma; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} carefully we planned each stage, something always went wrong at the last minute.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "No matter what",
+            "No matter how",
+            "Much as"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb (carefully) + subject + verb' concedes that no degree of care changed the outcome. 'Whatever' and 'No matter what' govern a noun or clause, not the adverb 'carefully', so 'Whatever carefully' / 'No matter what carefully' are ungrammatical; 'Much as' is followed directly by a subject and verb, not by an adverb."
     }
   ]
 }
