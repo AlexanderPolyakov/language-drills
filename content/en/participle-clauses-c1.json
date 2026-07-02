@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The weather was fine. We set off early for the summit.",
+      "instruction": "Combine using a nominative absolute construction (a noun with a present participle) to give the attendant circumstance, beginning with 'The weather'.",
+      "answer": [
+        "The weather being fine, we set off early for the summit.",
+        "The weather being fine we set off early for the summit"
+      ],
+      "placeholder": "The weather being fine, …",
+      "explanation": "In a nominative absolute the participle keeps its own explicit subject: 'The weather was fine' becomes 'The weather being fine', with the finite 'was' turning into the participle 'being'. Because the construction carries its own subject ('the weather'), it does not need to match the main-clause subject ('we') and so does not dangle."
+    },
+    {
+      "prompt": "Once it has been signed by both parties, the contract becomes legally binding.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "Once signed by both parties, the contract becomes legally binding.",
+        "Once signed by both parties the contract becomes legally binding"
+      ],
+      "placeholder": "Once signed…",
+      "explanation": "The subordinating conjunction 'Once' can be kept in front of a reduced passive participle for precision: 'Once it has been signed' loses its subject and the auxiliary 'has been', leaving 'Once signed'. The understood subject remains 'the contract', the subject of the main clause, so the modifier does not dangle."
     }
   ]
 }
