@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Elle {1} (croire) entendre un pas dans le couloir et {2} (courir) vers la porte.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut (pas de circonflexe)"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family: 3rd singular passé simple « elle crut » (built on the stem « cru- », no circumflex in the 3rd person — the circumflex marks only « crût », the subjonctif imparfait). « courir » likewise follows the « -u » family → « elle courut » (stem « couru- »). Both narrate single, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le préfet {1} (recevoir) les invités avec cérémonie et les {2} (conduire) jusqu'au grand salon.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille sous le c devant u)"
+        },
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical en conduisi- → conduisit"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family: 3rd singular « il reçut », where the cédille is required to keep the soft [s] sound of the « c » before « u » (reçut, not *recut). « conduire » takes the special stem « conduisi- » (shared by the -uire verbs) → « il conduisit », not an « -u » form. Both express completed narrative actions in the passé simple."
     }
   ]
 }
