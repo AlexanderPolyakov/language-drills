@@ -149,6 +149,28 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (rester) chez toi ce soir-là, tu {2} (ne pas tomber) malade.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étais resté",
+            "étais restée"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne serais pas tombé",
+            "ne serais pas tombée"
+          ],
+          "hint": "conditionnel passé négatif, 2e pers. sing., verbe de mouvement → auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. Both « rester » (verbe d'état) and « tomber » (verbe de mouvement) are conjugated with être, so the past participle AGREES with the subject « tu »: « étais resté » / « ne serais pas tombé » if « tu » is masculine, « étais restée » / « ne serais pas tombée » if feminine. The negation wraps the auxiliary: « tu ne serais pas tombé(e) »."
     }
   ]
 }

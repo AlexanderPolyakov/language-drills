@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} son frêle esquif avant l'aube.",
+      "blanks": [
+        {
+          "answer": "engloutît",
+          "options": [
+            "engloutissait",
+            "engloutit",
+            "engloutît"
+          ],
+          "hint": "subjonctif imparfait (-ît, avec circonflexe), après un verbe de crainte au passé (« craignait que … ne »)"
+        }
+      ],
+      "explanation": "« craindre que » is a verb of fear that governs the subjunctive (here with the « ne » explétif), so the indicatif forms are excluded: « engloutissait » (imparfait de l'indicatif) and « engloutit » (passé simple de l'indicatif, sans accent) are both ungrammatical after this trigger. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance requires the subjonctif imparfait « qu'elle engloutît » — note the distinguishing circumflex on « engloutît », which separates it from the identical-looking passé simple « engloutit »."
+    },
+    {
+      "text": "Ce fut le seul officier qui {1} jamais tenir tête au vieux maréchal.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « le seul … qui », principal au passé simple"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » (an exclusive/quasi-superlative antecedent) takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « fut » is in the past and the ability is presented as general/simultaneous, so literary concordance calls for the subjonctif imparfait of pouvoir: « qui pût » — note the circumflex on « pût », which distinguishes the subjunctive from the indicative passé simple « put »."
     }
   ]
 }
