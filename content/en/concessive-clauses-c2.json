@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could never persuade the committee to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "However",
+            "Try as",
+            "Even if"
+          ],
+          "hint": "fronts a lexical verb so end-stranded 'might' is licensed: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive pattern 'Try as + subject + might/may', where the fronted verb 'try' is what allows the modal 'might' to stand with no following infinitive (= 'however hard he might try'). Every distractor leaves 'might' stranded because none fronts a lexical verb: 'Much as' must be followed directly by a verb of feeling ('Much as he admires'), not a bare modal; 'However' requires an immediately following gradable adjective/adverb ('However hard he might try'); 'Even if' introduces an ordinary conditional clause and cannot license a verbless 'he might'."
+    },
+    {
+      "text": "{1} carefully she explained the rules, the students remained thoroughly confused.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "No matter how",
+            "Much as",
+            "Regardless"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that no degree of an action changes the outcome: 'No matter how carefully she explained'. The distractors all fail before the adverb 'carefully': 'Whatever' governs a noun phrase, not a manner adverb ('Whatever carefully' is ungrammatical); 'Much as' is followed directly by subject + verb with no adverb slot ('Much as she explained'); 'Regardless' is not a conjunction here and would require 'regardless of' plus a noun phrase."
+    },
+    {
+      "text": "The prototype exceeded every performance target. {1}, the board still refused to fund full production.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "For all",
+            "Much as",
+            "Be that as it may"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma: 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands complete before a comma and is followed by an independent main clause. The distractors cannot stand alone in this slot: 'Even though' is a subordinator that must introduce its own finite clause, not sit isolated before a comma and a separate main clause; 'For all' requires a following noun phrase ('For all its success'); 'Much as' requires a following subject + verb ('Much as it impressed us')."
     }
   ]
 }

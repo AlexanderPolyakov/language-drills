@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut qu'il {1} sur-le-champ défendre sa cause devant la cour.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vînt",
+            "vint"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » gouverne le subjonctif : les formes de l'indicatif sont donc exclues — « venait » est l'imparfait de l'indicatif et « vint » le passé simple de l'indicatif (sans circonflexe), tous deux impossibles après ce déclencheur. Le verbe principal « voulut » est au passé et l'action est postérieure, si bien que la concordance littéraire impose le subjonctif imparfait « qu'il vînt » ; le circonflexe le distingue de l'indicatif « vint »."
+    },
+    {
+      "text": "La mère craignit que l'enfant ne {1} de sa fièvre avant le lever du jour.",
+      "blanks": [
+        {
+          "answer": "mourût",
+          "options": [
+            "mourût",
+            "mourait",
+            "mourut"
+          ],
+          "hint": "subjonctif imparfait de « mourir » (mourût, -ût), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » (ici avec le « ne » explétif) déclenche le subjonctif : l'indicatif est donc proscrit — « mourait » est l'imparfait de l'indicatif et « mourut » le passé simple de l'indicatif (sans circonflexe), l'un et l'autre fautifs après ce verbe de crainte. Le principal « craignit » est au passé et le procès redouté lui est postérieur, d'où le subjonctif imparfait « qu'il mourût » ; le circonflexe l'oppose à l'indicatif « mourut »."
+    },
+    {
+      "text": "Le maître répéta la leçon pour que tous les élèves la {1} par cœur.",
+      "blanks": [
+        {
+          "answer": "connussent",
+          "options": [
+            "connaissaient",
+            "connurent",
+            "connussent"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (connussent, -ussent), 3e pers. plur., après « pour que »"
+        }
+      ],
+      "explanation": "« pour que » régit toujours le subjonctif : les formes de l'indicatif sont donc écartées — « connaissaient » est l'imparfait de l'indicatif et « connurent » le passé simple de l'indicatif, tous deux inacceptables après ce déclencheur de but. Le principal « répéta » est au passé et le but est postérieur, ce qui appelle le subjonctif imparfait 3e personne du pluriel « qu'ils connussent » (radical du passé simple « connu- », terminaison -ussent)."
     }
   ]
 }

@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because he was a doctor, he knew at once what the symptoms meant.",
+      "instruction": "Rewrite the reason clause as a present participle clause using the participle of 'be', beginning with 'Being'.",
+      "answer": [
+        "Being a doctor, he knew at once what the symptoms meant.",
+        "Being a doctor he knew at once what the symptoms meant"
+      ],
+      "placeholder": "Being a doctor…",
+      "explanation": "A causal clause with the copula ('Because/As he was a doctor') reduces to the present participle of 'be' plus its complement: 'Being a doctor' expresses reason. The understood subject of 'Being' is 'he', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "His work was finished. He left the office and headed straight home.",
+      "instruction": "Combine using a nominative absolute construction (a noun followed by a past participle, with no 'with'), beginning 'His work finished,'.",
+      "answer": [
+        "His work finished, he left the office and headed straight home.",
+        "His work finished he left the office and headed straight home"
+      ],
+      "placeholder": "His work finished…",
+      "explanation": "The nominative absolute 'His work finished' (= 'When/Once his work was finished') pairs a noun with a past participle and, crucially, carries its own subject, 'his work'. Because that subject is stated within the absolute rather than borrowed from the main clause, the construction supplies the attendant circumstance without dangling, even though the main subject is the different 'he'."
     }
   ]
 }

@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le condamné {1} (écrire) ses dernières volontés, puis {2} (recevoir) le prêtre dans sa cellule.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv- → écrivit"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        }
+      ],
+      "explanation": "« écrire » a le radical irrégulier du passé simple « écriv- » → 3e pers. sing. « il écrivit ». « recevoir » appartient à la famille en -u et prend la cédille devant le « u » → « il reçut » (comme « il aperçut »). Aucune des deux formes ne porte de circonflexe à la 3e personne. Les deux verbes rapportent des actions ponctuelles et achevées, valeur propre au récit littéraire."
+    },
+    {
+      "text": "L'enfant {1} (courir) vers sa mère dès qu'il la {2} (reconnaître) dans la foule.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "reconnaître",
+          "answer": [
+            "reconnut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reconnut (perte du circonflexe de l'infinitif)"
+        }
+      ],
+      "explanation": "« courir » suit la famille en -u : 3e pers. sing. « il courut » (à distinguer du présent « il court »). « reconnaître », composé de « connaître », fait « il reconnut » au passé simple : le circonflexe de l'infinitif « reconnaître » disparaît à la 3e personne. Ni « courut » ni « reconnut » ne portent d'accent circonflexe. Les deux formes marquent des actions successives et achevées, propres à la narration."
     }
   ]
 }
