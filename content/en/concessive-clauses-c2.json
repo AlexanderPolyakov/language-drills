@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "The scheme is expensive and logistically complex. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Be that as it may",
+            "For all"
+          ],
+          "hint": "a fixed conjunct = 'even so / nevertheless', standing alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands alone before a comma and is followed by an independent main clause that concedes the previous sentence. 'Even though' must introduce a subordinate finite clause, not stand alone before a comma; 'Much as' requires a following subject + verb ('Much as it costs'); 'For all' must be followed by a noun phrase ('For all its expense')."
+    },
+    {
+      "text": "{1} of his proposal, the timing could hardly have been worse.",
+      "blanks": [
+        {
+          "answer": "Whatever the merits",
+          "options": [
+            "However",
+            "Much as",
+            "Even though",
+            "Whatever the merits"
+          ],
+          "hint": "elliptical concession: ___ [may be] + 'of' + noun"
+        }
+      ],
+      "explanation": "'Whatever the merits (of his proposal)' is an elliptical concessive clause — 'whatever the merits may be' — conceding the point regardless of how the argument is judged, and is uniquely able to be followed by 'of + noun'. 'However' needs a following adjective or adverb, not 'of'; 'Much as' requires a subject + finite verb; 'Even though' must introduce a complete finite clause, not the fragment 'of his proposal'."
     }
   ]
 }

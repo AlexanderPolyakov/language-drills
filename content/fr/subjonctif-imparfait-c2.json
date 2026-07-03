@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le fugitif avançait à pas de loup, de peur que la sentinelle ne le {1} au détour du sentier.",
+      "blanks": [
+        {
+          "answer": "surprît",
+          "options": [
+            "surprenait",
+            "surprit",
+            "surprît"
+          ],
+          "hint": "subjonctif imparfait de « surprendre » (-ît, circonflexe), 3e pers. sing., après « de peur que »"
+        }
+      ],
+      "explanation": "« de peur que » always governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « surprenait » (imparfait de l'indicatif) and « surprit » (passé simple de l'indicatif, without circumflex) are both excluded by the trigger. The main verb « avançait » is a past (imparfait), and the feared event is posterior, so literary concordance requires the subjonctif imparfait of « surprendre »: « qu'il surprît » — the circumflex on « surprît » is precisely what distinguishes it from the passé simple « surprit »."
+    },
+    {
+      "text": "L'orateur simplifia longuement son propos pour que même les plus jeunes le {1} sans peine.",
+      "blanks": [
+        {
+          "answer": "comprissent",
+          "options": [
+            "comprenaient",
+            "comprissent",
+            "comprirent"
+          ],
+          "hint": "subjonctif imparfait de « comprendre » (-issent), 3e pers. plur., après « pour que »"
+        }
+      ],
+      "explanation": "« pour que » (final clause) always calls for the subjunctive, so the indicatif is excluded: « comprenaient » (imparfait de l'indicatif) and « comprirent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « simplifia » is in the passé simple and the understanding is posterior to it, so strict concordance gives the subjonctif imparfait 3rd plural of « comprendre »: « qu'ils comprissent » — the ending « -issent » marks the subjunctive against the passé simple « comprirent »."
     }
   ]
 }

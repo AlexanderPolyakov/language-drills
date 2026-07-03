@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si elles s'{1} (rencontrer) plus tôt, elles {2} (devenir) sans doute inséparables.",
+      "blanks": [
+        {
+          "cue": "se rencontrer",
+          "answer": [
+            "étaient rencontrées"
+          ],
+          "hint": "plus-que-parfait, pronominal réciproque → être, « se » = COD, accord avec « elles » (féminin pluriel)"
+        },
+        {
+          "cue": "devenir",
+          "answer": [
+            "seraient devenues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe d'état → être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé with a RECIPROCAL pronominal verb. In « se rencontrer » (« rencontrer l'une l'autre ») the reflexive « se » is the DIRECT object, so under être the participle AGREES with the subject: « elles s'étaient rencontrées » (feminine plural « -ées »). This differs from « se rendre compte », where « se » is indirect and the participle stays invariable. The result clause uses « devenir », a state-change verb conjugated with être, so the conditionnel passé also agrees with the feminine plural subject « elles »: « seraient devenues ». The feminine of the subject is fixed by « elles », so only the agreeing forms are correct here."
     }
   ]
 }

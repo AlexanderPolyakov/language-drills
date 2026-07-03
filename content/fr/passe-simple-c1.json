@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (courir) jusqu'à la rivière et {2} (boire) longuement à même la source.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical bu- → but"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family: 3rd singular passé simple « il courut » (the double « r » of the future/conditional does not appear here). « boire » has the passé simple stem « bu- » → « il but » (no circumflex in the 3rd person singular). Both report single, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "Les villageois {1} (savoir) enfin la vérité et {2} (croire) chaque mot du vieillard.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → surent"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical cru- → crurent"
+        }
+      ],
+      "explanation": "« savoir » follows the « -u » family with the stem « su- » → 3rd plural « ils surent ». « croire » likewise takes an « -u » stem « cru- » → « ils crurent ». Neither carries a circumflex in the 3rd person plural (the circumflex marks only the nous/vous forms « nous sûmes », « nous crûmes »). Both narrate completed events in the past."
     }
   ]
 }

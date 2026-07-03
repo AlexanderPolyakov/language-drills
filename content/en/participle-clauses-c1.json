@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because she lives near the office, she walks to work every day.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Living'.",
+      "answer": [
+        "Living near the office, she walks to work every day.",
+        "Living near the office she walks to work every day"
+      ],
+      "placeholder": "Living…",
+      "explanation": "A causal clause expressing an ongoing state ('Because she lives near the office') reduces to a present participle clause of reason: 'Living near the office'. The understood subject is 'she', the subject of the main clause, so the modifier does not dangle. Unlike a simultaneous -ing clause, this one answers 'why', not 'when'."
+    },
+    {
+      "prompt": "Once it has been opened, the medicine must be used within four weeks.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "Once opened, the medicine must be used within four weeks.",
+        "Once opened the medicine must be used within four weeks"
+      ],
+      "placeholder": "Once opened…",
+      "explanation": "The conjunction 'Once' can be retained in front of a reduced participle clause for precision: 'Once it has been opened' becomes 'Once opened', dropping the subject and the passive auxiliary 'has been'. The understood subject stays 'the medicine', the subject of the main clause, so the clause does not dangle."
+    },
+    {
+      "prompt": "The report was finally finished. She turned her attention to her overflowing inbox.",
+      "instruction": "Combine using a 'with + noun + past participle' absolute construction for the completed circumstance, beginning with 'With'.",
+      "answer": [
+        "With the report finally finished, she turned her attention to her overflowing inbox.",
+        "With the report finally finished she turned her attention to her overflowing inbox"
+      ],
+      "placeholder": "With the report…",
+      "explanation": "The absolute construction 'With + noun + past participle' supplies a completed attendant circumstance and has its own subject ('the report'), so it need not share the subject of the main clause ('she'). The past participle 'finished' carries a passive, resultative sense — 'now that the report had been finished' — distinguishing it from the -ing absolute, which describes an ongoing circumstance."
     }
   ]
 }
