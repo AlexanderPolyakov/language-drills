@@ -29,7 +29,7 @@
     {
       "prompt": "Le guide a conduit les touristes au sommet.",
       "instruction": "Réécrivez en remplaçant « les touristes » par un pronom et « au sommet » par « y » (double pronominalisation).",
-      "answer": ["Le guide les y a conduits.", "Le guide les y a conduits", "Le guide les y a conduit"],
+      "answer": ["Le guide les y a conduits.", "Le guide les y a conduits"],
       "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
     },
     {
