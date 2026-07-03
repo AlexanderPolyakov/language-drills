@@ -79,7 +79,7 @@
     },
     {
       "text": "Où avez-vous garé {1} voiture ?",
-      "blanks": [{ "options": ["votre", "vos", "notre"], "answer": "votre" }],
+      "blanks": [{ "options": ["votre", "vos", "leurs"], "answer": "votre" }],
       "explanation": "'voiture' is singular, so 'votre' for 'vous'."
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "text": "Les enfants aiment {1} professeur.",
-      "blanks": [{ "options": ["leur", "leurs", "notre"], "answer": "leur" }],
+      "blanks": [{ "options": ["leur", "leurs", "nos"], "answer": "leur" }],
       "explanation": "'professeur' is singular, so 'leur' for 'ils/elles'."
     },
     {
       "text": "Mes voisins lavent {1} fenêtres le samedi.",
-      "blanks": [{ "options": ["leur", "leurs", "vos"], "answer": "leurs" }],
+      "blanks": [{ "options": ["leur", "leurs", "notre"], "answer": "leurs" }],
       "explanation": "'fenêtres' is plural, so 'leurs' for 'ils/elles'."
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "text": "Nous prenons {1} vélos pour aller au parc.",
-      "blanks": [{ "options": ["notre", "nos", "vos"], "answer": "nos" }],
+      "blanks": [{ "options": ["notre", "nos", "leur"], "answer": "nos" }],
       "explanation": "'vélos' is plural, so 'nos' for 'nous'."
     },
     {
@@ -144,12 +144,12 @@
     },
     {
       "text": "N'oubliez pas {1} passeports à l'aéroport.",
-      "blanks": [{ "options": ["votre", "vos", "leurs"], "answer": "vos" }],
+      "blanks": [{ "options": ["votre", "vos", "leur"], "answer": "vos" }],
       "explanation": "'passeports' is plural, so 'vos' for 'vous'."
     },
     {
       "text": "Les élèves font {1} devoirs le soir.",
-      "blanks": [{ "options": ["leur", "leurs", "vos"], "answer": "leurs" }],
+      "blanks": [{ "options": ["leur", "leurs", "votre"], "answer": "leurs" }],
       "explanation": "'devoirs' is plural, so 'leurs' for 'ils/elles'."
     },
     {

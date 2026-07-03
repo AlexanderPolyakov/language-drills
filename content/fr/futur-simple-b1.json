@@ -113,9 +113,9 @@
       "explanation": "Irregular stem 'verr-' + 'a' for 'il': 'verra'."
     },
     {
-      "text": "Nous {1} plus tard cette question.",
+      "text": "Nous {1} traiter cette question plus tard.",
       "blanks": [{ "cue": "devoir", "answer": ["devrons"] }],
-      "explanation": "Irregular stem 'devr-' + 'ons' for 'nous': 'devrons'."
+      "explanation": "Irregular stem 'devr-' + 'ons' for 'nous': 'devrons'. 'devoir' here is modal and needs an infinitive ('traiter'); 'devoir' + a bare noun would instead mean 'to owe'."
     },
     {
       "text": "Vous {1} de la place pour tout le monde.",
