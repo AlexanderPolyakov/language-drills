@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as she might, she could never persuade him to change his mind.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "However",
+            "Even"
+          ],
+          "hint": "fixed concessive idiom: ___ + 'as' + subject + 'might/may' = 'however hard she tried'"
+        }
+      ],
+      "explanation": "'Try as she might' is a fixed concessive inversion of the pattern '[lexical verb] + as + subject + may/might', meaning 'however hard she tried'. 'Much as' must be followed by a verb of feeling or degree ('Much as she admires him') and cannot stand with only the bare modal 'might'; 'However' is not followed by 'as' but by an adjective or adverb ('However hard she tried'); 'Even as' is temporal ('at the very moment that'), not concessive. Only 'Try' completes the idiom."
+    },
+    {
+      "text": "The scheme is costly and its benefits far from certain. {1}, the council has resolved to press ahead.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a free-standing concessive formula meaning 'nevertheless', complete in itself before the comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive formula equivalent to 'nevertheless' or 'even so'; it is complete in itself and stands alone before the comma introducing a full main clause. 'Even though' is a subordinator that must be followed immediately by a finite clause, not left standing before an independent one; 'Much as' requires a subject and verb ('Much as it costs'); 'For all' must govern a noun phrase ('For all its cost'). None of the three can occupy a free-standing conjunct slot, so only 'Be that as it may' fits."
     }
   ]
 }

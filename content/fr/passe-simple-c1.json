@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le prisonnier ne {1} (pouvoir) forcer sa geôle, mais il {2} (savoir) attendre son heure.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "Both belong to the « -u » family of the passé simple: « pouvoir » → « il put », « savoir » → « il sut ». Crucially, neither carries a circumflex in the 3rd person singular — the circumflex marks only the subjonctif imparfait (« qu'il pût », « qu'il sût »), never the indicative passé simple. Both narrate single, completed actions, the hallmark use of this literary tense."
+    },
+    {
+      "text": "L'alpiniste épuisé {1} (atteindre) enfin le sommet, puis {2} (boire) une gorgée d'eau glacée.",
+      "blanks": [
+        {
+          "cue": "atteindre",
+          "answer": [
+            "atteignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical nasal atteign- → atteignit"
+        },
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → but"
+        }
+      ],
+      "explanation": "« atteindre » follows the nasal « -eign- » pattern (like « craindre » → « craignit », « peindre » → « peignit »): 3rd singular « il atteignit ». « boire » belongs to the « -u » family → « il but ». Note that no circumflex appears in the 3rd person of the passé simple; it survives only in the nous/vous forms. Both report punctual, completed narrative events."
     }
   ]
 }

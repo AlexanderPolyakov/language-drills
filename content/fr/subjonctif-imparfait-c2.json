@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il ne {1} déchiffrer l'inscription gravée sur la stèle, l'archéologue en devina peu à peu le sens.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pût",
+            "pouvait",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » is a concessive conjunction that always governs the subjunctive, so no indicatif is admissible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans circonflexe) are both excluded by the trigger. The main verb « devina » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the distinguishing circumflex on « pût », which alone separates it from the indicative « put »."
+    },
+    {
+      "text": "Elle baissa la voix de peur que les domestiques n'{1} son secret et ne le colportassent.",
+      "blanks": [
+        {
+          "answer": "apprissent",
+          "options": [
+            "apprissent",
+            "apprenaient",
+            "apprirent"
+          ],
+          "hint": "subjonctif imparfait de « apprendre » (apprissent), 3e pers. plur., après « de peur que » avec « ne » explétif"
+        }
+      ],
+      "explanation": "« de peur que » expresses a feared, hence unrealized, outcome and governs the subjunctive, accompanied here by the « ne » explétif (which is not a negation). Any indicatif is therefore impossible: « apprenaient » (imparfait de l'indicatif) and « apprirent » (passé simple de l'indicatif) cannot follow this locution. The main verb « baissa » is a past and the dreaded action is posterior, so strict concordance gives the subjonctif imparfait, 3rd plural « qu'ils apprissent »."
+    },
+    {
+      "text": "Ce fut le seul explorateur qui {1} jamais revenu vivant de cette contrée maudite.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fût",
+            "fut"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antécédent restrictif « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on a restrictive antecedent such as « le seul … qui » (like « l'unique », « le premier », « le dernier ») takes the subjunctive, so the indicatif is excluded: « était revenu » (plus-que-parfait de l'indicatif) and « fut revenu » (passé antérieur de l'indicatif) are both ungrammatical here. The return is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qui fût revenu » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
     }
   ]
 }

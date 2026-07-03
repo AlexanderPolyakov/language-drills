@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "After he had signed the contract, he immediately regretted it.",
+      "instruction": "Reduce the time clause to a participle clause, keeping the conjunction 'After' and using a simple -ing form, beginning with 'After signing'.",
+      "answer": [
+        "After signing the contract, he immediately regretted it.",
+        "After signing the contract he immediately regretted it"
+      ],
+      "placeholder": "After signing…",
+      "explanation": "A time clause introduced by 'after', 'before', 'since', 'when', 'while' or 'on' can be reduced to a participle clause when its subject matches that of the main clause: 'After he had signed' becomes 'After signing'. Because 'after' itself already marks the action as the earlier of the two, a simple -ing form suffices and the perfect participle ('after having signed') is unnecessary. The understood subject of 'signing' remains 'he', the subject of the main clause, so the clause does not dangle."
+    },
+    {
+      "prompt": "Having read the instructions carefully, the machine was easy to assemble.",
+      "instruction": "This sentence has a dangling (misrelated) participle: 'Having read the instructions carefully' cannot refer to 'the machine'. Rewrite it, keeping the participle clause unchanged, but giving the main clause a proper human subject by beginning it with 'I found'.",
+      "answer": [
+        "Having read the instructions carefully, I found the machine easy to assemble.",
+        "Having read the instructions carefully I found the machine easy to assemble"
+      ],
+      "placeholder": "Having read the instructions carefully, I found…",
+      "explanation": "A fronted participle clause takes its subject from the subject of the main clause; when the two do not match, the result is a dangling or misrelated participle. In the original, 'Having read the instructions' wrongly attaches to 'the machine', which cannot read, so a human subject must be supplied: 'I found the machine easy to assemble'. This is why an introductory participle requires the main clause to name the doer of the participle's action."
+    },
+    {
+      "prompt": "He had finished his work. He went for a walk.",
+      "instruction": "Combine using a nominative absolute construction with a noun + past participle (no 'having' and no 'with'), beginning 'His work finished, …'.",
+      "answer": [
+        "His work finished, he went for a walk.",
+        "His work finished he went for a walk"
+      ],
+      "placeholder": "His work finished, he…",
+      "explanation": "A nominative absolute (or 'absolute construction') consists of a noun or pronoun followed by a participle and stands grammatically apart from the main clause, carrying its own subject: 'His work finished' means 'When/Once his work had been finished'. Because the absolute supplies its own subject ('his work'), it need not share the subject of the main clause ('he'), and the past participle 'finished' expresses a completed, passive state. Unlike the 'with + noun + -ing' pattern, this bare absolute uses no 'with' and a past participle rather than an -ing form."
     }
   ]
 }
