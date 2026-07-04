@@ -27,7 +27,7 @@
     { "text": "Je veux {1} une nouvelle langue.", "blanks": [ { "cue": "to learn", "answer": ["apprendre"] } ], "explanation": "apprendre = to learn (infinitive)." },
     { "text": "Nous devons {1} le contrat.", "blanks": [ { "cue": "to sign", "answer": ["signer"] } ], "explanation": "signer = to sign (infinitive)." },
     { "text": "Tu dois {1} le formulaire.", "blanks": [ { "cue": "to fill in", "answer": ["remplir"] } ], "explanation": "remplir = to fill in (infinitive)." },
-    { "text": "Je veux {1} mes affaires avant de partir.", "blanks": [ { "cue": "to pack", "answer": ["ranger"] } ], "explanation": "ranger = to tidy/put away (infinitive)." },
+    { "text": "Je veux {1} mes affaires avant de partir.", "blanks": [ { "cue": "to tidy / put away", "answer": ["ranger"] } ], "explanation": "ranger = to tidy/put away (infinitive)." },
     { "text": "Elle aime {1} des photos en voyage.", "blanks": [ { "cue": "to take", "answer": ["prendre"] } ], "explanation": "prendre = to take (infinitive)." },
     { "text": "Il faut {1} pour réussir.", "blanks": [ { "cue": "to try", "answer": ["essayer"] } ], "explanation": "essayer = to try (infinitive)." },
     { "text": "Je vais {1} mon voisin demain.", "blanks": [ { "cue": "to thank", "answer": ["remercier"] } ], "explanation": "remercier = to thank (infinitive)." },

@@ -30,7 +30,7 @@
       "explanation": "Use the possessive pronoun when no noun follows: This book is mine."
     },
     {
-      "text": "We love {1} new house. The neighbors said {2} was very nice.",
+      "text": "We love {1} new house. The neighbours said {2} was very nice.",
       "blanks": [
         { "answer": "our", "options": ["our", "us", "ours"], "hint": "possessive adjective before a noun" },
         { "answer": "it", "options": ["they", "it", "its"], "hint": "subject pronoun for a thing" }
