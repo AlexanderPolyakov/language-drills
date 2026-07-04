@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He drove along the coast road. He admired the spectacular view.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Driving'.",
+      "answer": [
+        "Driving along the coast road, he admired the spectacular view.",
+        "Driving along the coast road he admired the spectacular view"
+      ],
+      "placeholder": "Driving…",
+      "explanation": "Two simultaneous actions by the same subject combine with an -ing clause: 'Driving along the coast road' replaces 'While he was driving along the coast road'. The subject 'he' is shared by both clauses, so the participle does not dangle."
+    },
+    {
+      "prompt": "She had spent twenty years abroad. She found her home town strangely unfamiliar.",
+      "instruction": "Combine using a perfect participle clause to show the first situation preceded the second, beginning with 'Having'.",
+      "answer": [
+        "Having spent twenty years abroad, she found her home town strangely unfamiliar.",
+        "Having spent twenty years abroad she found her home town strangely unfamiliar"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having spent' marks the twenty years abroad as completed before the moment of finding the town unfamiliar. A plain -ing clause ('Spending twenty years abroad') would wrongly imply the two were simultaneous; the shared subject 'she' keeps the clause from dangling."
+    },
+    {
+      "prompt": "The palace was destroyed by fire in 1698. It was never rebuilt.",
+      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Destroyed'.",
+      "answer": [
+        "Destroyed by fire in 1698, the palace was never rebuilt.",
+        "Destroyed by fire in 1698 the palace was never rebuilt"
+      ],
+      "placeholder": "Destroyed…",
+      "explanation": "A passive clause ('which was destroyed by fire in 1698') reduces to the bare past participle 'Destroyed by fire in 1698'. The understood subject is 'the palace', the subject of the main clause, so the fronted participle does not dangle."
+    },
+    {
+      "prompt": "The documents that were seized in the raid have still not been returned.",
+      "instruction": "Rewrite using a reduced relative clause (a past participle) in place of 'that were seized'.",
+      "answer": [
+        "The documents seized in the raid have still not been returned.",
+        "The documents seized in the raid have still not been returned"
+      ],
+      "placeholder": "The documents seized…",
+      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were seized' becomes 'seized'. This is a reduced relative clause modifying 'the documents', not an adverbial one, so no commas are used and the participle sits directly after the noun it defines."
+    },
+    {
+      "prompt": "Because he lacked any formal training, he taught himself to paint.",
+      "instruction": "Rewrite the reason clause as a present participle clause, beginning with 'Lacking'.",
+      "answer": [
+        "Lacking any formal training, he taught himself to paint.",
+        "Lacking any formal training he taught himself to paint"
+      ],
+      "placeholder": "Lacking…",
+      "explanation": "A causal clause ('Because he lacked any formal training') reduces to a present participle clause of reason: 'Lacking any formal training'. The stative verb 'lack' takes the -ing form even though it denotes no continuous action, and the shared subject 'he' prevents the modifier from dangling."
     }
   ]
 }

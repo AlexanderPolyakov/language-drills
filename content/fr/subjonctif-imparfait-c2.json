@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoique la tempête {1} de violence, les marins poursuivirent vaillamment leur route.",
+      "blanks": [
+        {
+          "answer": "redoublât",
+          "options": [
+            "redoublait",
+            "redoublât",
+            "redoubla"
+          ],
+          "hint": "subjonctif imparfait (-ât) de « redoubler », après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (comme « bien que ») gouverne toujours le subjonctif : les formes indicatives sont donc exclues, « redoublait » (imparfait de l'indicatif) et « redoubla » (passé simple de l'indicatif, sans accent). Le verbe principal « poursuivirent » est au passé et l'action concessive est simultanée, d'où le subjonctif imparfait « qu'elle redoublât » — l'accent circonflexe sur le -a distingue la forme subjonctive de l'indicatif « redoubla »."
+    },
+    {
+      "text": "Le maître répéta patiemment sa démonstration pour que chaque élève la {1} sans peine.",
+      "blanks": [
+        {
+          "answer": "comprît",
+          "options": [
+            "comprenait",
+            "comprît",
+            "comprit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « comprendre », après « pour que », postériorité"
+        }
+      ],
+      "explanation": "« pour que » (but) déclenche le subjonctif : l'indicatif est impossible, « comprenait » (imparfait de l'indicatif) et « comprit » (passé simple de l'indicatif, sans circonflexe) sont fautifs après ce déclencheur. Le principal « répéta » est au passé et la compréhension est postérieure au but visé, donc la concordance littéraire impose le subjonctif imparfait « qu'il comprît » — le circonflexe le distingue de l'indicatif « comprit »."
+    },
+    {
+      "text": "Le veilleur attendit sur le rempart jusqu'à ce que le dernier convive {1} du château.",
+      "blanks": [
+        {
+          "answer": "sortît",
+          "options": [
+            "sortait",
+            "sortît",
+            "sortit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « sortir », après « jusqu'à ce que », postériorité"
+        }
+      ],
+      "explanation": "« jusqu'à ce que » régit le subjonctif : les formes de l'indicatif sont exclues, « sortait » (imparfait de l'indicatif) et « sortit » (passé simple de l'indicatif, sans circonflexe). Le verbe principal « attendit » est au passé et la sortie est postérieure à l'attente, si bien que la concordance des temps littéraire réclame le subjonctif imparfait « qu'il sortît » — l'accent circonflexe le sépare de l'indicatif homographe « sortit »."
+    },
+    {
+      "text": "Ce fut le seul juré qui {1} vraiment saisi toute la portée du témoignage.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), tour « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "Après « le seul … qui » (comme après un superlatif), la relative se met au subjonctif : l'indicatif est donc exclu, « avait » (plus-que-parfait de l'indicatif) et « eut » (passé antérieur de l'indicatif, sans circonflexe). La compréhension est antérieure à la référence passée « ce fut », d'où le subjonctif plus-que-parfait « qui eût saisi » — le circonflexe sur l'auxiliaire « eût » marque le subjonctif face à l'indicatif « eut »."
     }
   ]
 }

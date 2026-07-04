@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (écouter) attentivement, tu {2} (comprendre) la consigne du premier coup.",
+      "blanks": [
+        {
+          "cue": "écouter",
+          "answer": [
+            "avais écouté"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., auxiliaire avoir — pas de COD antéposé, donc invariable"
+        },
+        {
+          "cue": "comprendre",
+          "answer": [
+            "aurais compris"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « la consigne » postposé, pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. The « si » clause takes the plus-que-parfait « avais écouté »: « écouter » here has no preceding direct object (only the adverb « attentivement »), so the participle stays invariable. The result clause takes the conditionnel passé « aurais compris »: « comprendre » uses avoir and its object « la consigne » FOLLOWS the verb, so there is no agreement."
+    },
+    {
+      "text": "Si les enfants {1} (naître) quelques années plus tôt, ils {2} (grandir) dans un tout autre pays.",
+      "blanks": [
+        {
+          "cue": "naître",
+          "answer": [
+            "étaient nés"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe d'état → être, accord avec le sujet « les enfants » (masc.)"
+        },
+        {
+          "cue": "grandir",
+          "answer": [
+            "auraient grandi"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., auxiliaire avoir — pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé contrasting the two auxiliaries. « naître » is conjugated with être, so the plus-que-parfait « étaient nés » AGREES with the masculine plural subject « les enfants ». « grandir », by contrast, uses avoir with no preceding object, so the conditionnel passé « auraient grandi » stays invariable — no agreement with the subject when the auxiliary is avoir."
+    },
+    {
+      "text": "Nous {1} (obtenir) le poste sans difficulté si nous {2} (postuler) à temps.",
+      "blanks": [
+        {
+          "cue": "obtenir",
+          "answer": [
+            "aurions obtenu"
+          ],
+          "hint": "conditionnel passé, nous, auxiliaire avoir — COD « le poste » postposé, pas d'accord"
+        },
+        {
+          "cue": "postuler",
+          "answer": [
+            "avions postulé"
+          ],
+          "hint": "plus-que-parfait, nous, auxiliaire avoir"
+        }
+      ],
+      "explanation": "Here the result clause comes first, but the forms of the irréel du passé are unchanged. « obtenir » uses avoir and its object « le poste » follows the verb, so the conditionnel passé « aurions obtenu » takes no agreement. The « si » clause uses the plus-que-parfait « avions postulé » (avoir, intransitive here, invariable)."
     }
   ]
 }

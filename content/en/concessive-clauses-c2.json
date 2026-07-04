@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could never remember where he had put his keys.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "Hard",
+            "However"
+          ],
+          "hint": "fixed idiom: ___ as + subject + might/could = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('___ as + subject + might/could') meaning 'however hard he tried'. 'Much' gives 'Much as he might', which is incomplete because 'much as' needs a verb of feeling ('Much as he loves it'), not a bare modal; 'Hard as he might' is nonstandard — the collocation is 'Hard as he tried', with a lexical verb, not 'might'; 'However' cannot stand before 'as' and would itself open the clause ('However hard he tried')."
+    },
+    {
+      "text": "The treatment is costly and far from guaranteed. {1}, it offers the only real hope of a cure.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a fixed conjunct = 'even so / nevertheless', standing alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands alone before a comma and links back to the preceding sentence. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone; 'Much as' requires a following subject + verb ('Much as it costs'); 'For all' must be followed by a noun phrase ('For all its cost')."
+    },
+    {
+      "text": "{1} the true reason for his resignation, the timing could hardly have been worse for the party.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Albeit",
+            "For all"
+          ],
+          "hint": "___ + noun phrase (+ may be) = 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the true reason') is a universal concessive meaning 'no matter what the reason was'. 'However' must be followed by an adjective or adverb ('However genuine the reason'), not a bare noun phrase; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted subject noun phrase; 'For all' would mean 'in spite of', which clashes with a reason presented as unknown ('no matter what it was')."
+    },
+    {
+      "text": "{1} it should cost me my job, I intend to make these findings public.",
+      "blanks": [
+        {
+          "answer": "Even if",
+          "options": [
+            "Even if",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "introduces a hypothetical concession (it may or may not happen) + finite clause"
+        }
+      ],
+      "explanation": "'Even if' introduces a hypothetical, as-yet-unrealised concession: the speaker does not know whether it will cost the job, only that the decision stands regardless. 'Even though' would assert the cost as an established fact, contradicting the hypothetical 'should cost'; 'Much as' needs a verb of feeling and a plain subject + verb ('Much as I value my job'); 'Notwithstanding' is a preposition and must govern a noun phrase ('Notwithstanding the risk'), not a finite clause."
+    },
+    {
+      "text": "I have made my decision, and I shall stand by it, {1}.",
+      "blanks": [
+        {
+          "answer": "come what may",
+          "options": [
+            "come what may",
+            "even so",
+            "albeit",
+            "much as"
+          ],
+          "hint": "a fixed end-placed idiom = 'whatever happens'"
+        }
+      ],
+      "explanation": "'Come what may' is a fixed universal-concessive idiom meaning 'whatever happens', naturally placed at the end after a comma. 'Even so' is a conjunct that introduces its own main clause ('Even so, I shall stand by it'), not a trailing tag; 'Albeit' must be followed by a concessive phrase (an adjective or prepositional phrase), not left dangling; 'Much as' requires a following subject + verb and cannot close the sentence."
     }
   ]
 }
