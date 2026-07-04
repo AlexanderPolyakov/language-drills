@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Once the report has been finalised, it will be circulated to all members.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the subordinate clause to a past (passive) participle, making 'the report' the subject of the main clause.",
+      "answer": [
+        "Once finalised, the report will be circulated to all members.",
+        "Once finalised the report will be circulated to all members"
+      ],
+      "placeholder": "Once finalised…",
+      "explanation": "The conjunction 'Once' can be retained in front of a reduced clause for precision: 'Once it has been finalised' becomes 'Once finalised', dropping the subject and the passive 'has been'. The understood subject must then surface as the subject of the main clause ('the report'), or the modifier would dangle."
+    },
+    {
+      "prompt": "Because he had lost his keys, he had to climb in through the window.",
+      "instruction": "Rewrite the reason clause as a perfect participle clause expressing cause, beginning with 'Having'.",
+      "answer": [
+        "Having lost his keys, he had to climb in through the window.",
+        "Having lost his keys he had to climb in through the window"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "A perfect participle can express cause as well as mere sequence: 'Having lost his keys' = 'Because he had lost his keys'. The 'Having + past participle' form marks the losing as complete and prior, and the shared subject 'he' licenses the reduction."
+    },
+    {
+      "prompt": "The road that leads to the village is closed for repairs.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that leads'.",
+      "answer": [
+        "The road leading to the village is closed for repairs.",
+        "The road leading to the village is closed for repairs"
+      ],
+      "placeholder": "The road leading…",
+      "explanation": "A defining relative clause whose verb is a simple active present ('that leads') reduces directly to an -ing participle: 'that leads' becomes 'leading'. Unlike the reduction of 'who is sitting' (be + -ing), here the participle replaces an ordinary finite verb, a pattern reserved for permanent or characterising facts."
     }
   ]
 }

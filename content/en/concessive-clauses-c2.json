@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} obstacles they encountered on the way, the team pressed on regardless.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun + subject + verb = no matter what/which"
+        }
+      ],
+      "explanation": "'Whatever + noun + subject + verb' ('Whatever obstacles they encountered') is a concessive nominal relative meaning 'no matter what obstacles they encountered'. 'However' requires a following adjective or adverb ('However many obstacles'), not a bare noun; 'Much as' is followed directly by a subject and verb ('Much as they struggled'); 'Albeit' cannot head a finite clause with its own subject and verb."
+    },
+    {
+      "text": "{1} as she might, she could not remember where she had left the documents.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Despite",
+            "Whatever"
+          ],
+          "hint": "fronted bare verb + as + subject + might = however hard she tried"
+        }
+      ],
+      "explanation": "'Verb + as + subject + might/may' ('Try as she might') is an emphatic concessive meaning 'however hard she tried'. The bare verb is fronted before 'as ... might'; only a verb fits this slot. 'However' would need a following adjective/adverb and its own clause; 'Despite' governs a noun or -ing, not 'as she might'; 'Whatever' introduces a noun or nominal clause, not the fixed 'as she might' frame."
     }
   ]
 }

@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le prisonnier ne {1} (pouvoir) s'évader, mais il {2} (écrire) une longue lettre à sa famille.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put (sans circonflexe)"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        }
+      ],
+      "explanation": "« pouvoir » belongs to the « -u » family: 3rd singular passé simple is « il put » — crucially WITHOUT a circumflex (« pût » would be the subjonctif imparfait). « écrire » keeps the special stem « écriv- » → « il écrivit ». Both report single, completed actions in the literary past."
+    },
+    {
+      "text": "Les convives {1} (boire) à la santé du roi, puis {2} (craindre) d'en avoir trop dit.",
+      "blanks": [
+        {
+          "cue": "boire",
+          "answer": [
+            "burent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → burent"
+        },
+        {
+          "cue": "craindre",
+          "answer": [
+            "craignirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical nasal craign- → craignirent"
+        }
+      ],
+      "explanation": "« boire » follows the « -u » family with the stem « bu- » → 3rd plural « ils burent ». « craindre » (like the verbs in -aindre/-eindre/-oindre) takes the nasal stem « craign- » → « ils craignirent ». Both narrate completed events in this literary récit."
     }
   ]
 }

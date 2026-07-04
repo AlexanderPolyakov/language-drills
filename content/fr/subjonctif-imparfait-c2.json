@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} sa barque avant l'aube.",
+      "blanks": [
+        {
+          "answer": "emportât",
+          "options": [
+            "emportait",
+            "emportât",
+            "emporta"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « craindre que … ne », verbe régulier en -er"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif forms are impossible: « emportait » (imparfait de l'indicatif) and « emporta » (passé simple de l'indicatif) cannot follow this trigger. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance requires the subjonctif imparfait of the -ER verb emporter: « qu'elle emportât » — the circumflex on the -ât ending marks the subjunctive against the identical-looking passé simple « emporta »."
+    },
+    {
+      "text": "Elle attendit sur le quai jusqu'à ce que le train {1} enfin en gare.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vînt",
+            "vint"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « jusqu'à ce que »"
+        }
+      ],
+      "explanation": "« jusqu'à ce que » always governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « attendit » is in the past and the arrival is posterior, so strict concordance calls for the subjonctif imparfait of venir: « qu'il vînt » — note the circumflex, which is the only thing distinguishing the subjunctive « vînt » from the passé simple de l'indicatif « vint »."
     }
   ]
 }

@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Ces deux sœurs {1} (se réconcilier) bien plus tôt si l'orgueil ne les {2} (séparer) pas si longtemps.",
+      "blanks": [
+        {
+          "cue": "se réconcilier",
+          "answer": [
+            "se seraient réconciliées"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réciproque → être, « se » complément d'objet direct, accord avec le sujet « elles » (féminin pluriel)"
+        },
+        {
+          "cue": "séparer",
+          "answer": [
+            "avait séparées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord du participe avec le COD antéposé « les » (= les deux sœurs, féminin pluriel), négation autour de l'auxiliaire"
+        }
+      ],
+      "explanation": "Irréel du passé, with the result clause placed first. « se réconcilier » is a RECIPROCAL pronominal verb (« se réconcilier l'une avec l'autre »); « se » functions as the DIRECT object, so the participle AGREES with the feminine-plural subject « elles »: « se seraient réconciliées ». In the « si » clause, « séparer » is conjugated with avoir, and its direct object — the preceding pronoun « les » (= les deux sœurs) — comes BEFORE the verb, so the participle also agrees: « séparées » (feminine plural). Note that the agreement is governed by the object « les », NOT by the singular subject « l'orgueil »; the negation wraps the auxiliary: « ne les avait pas séparées »."
     }
   ]
 }
