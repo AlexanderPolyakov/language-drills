@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le jeune peintre {1} (connaître) la gloire dès qu'il {2} (recevoir) le premier prix du Salon.",
+      "blanks": [
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        }
+      ],
+      "explanation": "« connaître » joins the « -u » family with the stem « conn- » → 3rd singular « il connut »; note that the circumflex of the infinitive « connaître » disappears in the passé simple. « recevoir » also belongs to the « -u » family → « il reçut », where the cédille on « ç » keeps the soft [s] sound before « u ». Both narrate single, completed events in the literary past."
+    },
+    {
+      "text": "Les villageois {1} (croire) au miracle et {2} (courir) aussitôt vers l'église.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → crurent"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → coururent"
+        }
+      ],
+      "explanation": "Both verbs belong to the « -u » family in the passé simple. « croire » builds on the stem « cr- » → 3rd plural « ils crurent ». « courir » builds on « cour- », keeping the double « r » of the infinitive → « ils coururent » (no circumflex in the 3rd person). Both report collective, completed actions, the characteristic use of the passé simple in written narration."
     }
   ]
 }

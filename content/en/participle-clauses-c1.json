@@ -106,6 +106,28 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He had lost his passport somewhere in the terminal. He was unable to board the flight.",
+      "instruction": "Combine into one sentence using a perfect participle clause to express the reason for the second event, beginning with 'Having'.",
+      "answer": [
+        "Having lost his passport, he was unable to board the flight.",
+        "Having lost his passport he was unable to board the flight",
+        "Having lost his passport somewhere in the terminal, he was unable to board the flight.",
+        "Having lost his passport somewhere in the terminal he was unable to board the flight"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "The perfect participle 'Having lost' here expresses cause rather than mere sequence: 'Having lost his passport' means 'Because he had lost his passport'. The same 'Having + past participle' form that can mark a completed prior action also serves to give the reason for the main clause, and the understood subject stays 'he', the subject of the main clause, so nothing dangles."
+    },
+    {
+      "prompt": "The path that leads to the village winds steeply through dense forest.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that leads'.",
+      "answer": [
+        "The path leading to the village winds steeply through dense forest.",
+        "The path leading to the village winds steeply through dense forest"
+      ],
+      "placeholder": "The path leading…",
+      "explanation": "A defining relative clause whose verb is in the simple present ('that leads') can still be reduced to an -ing participle: 'that leads' becomes 'leading', even though the original is not a progressive 'is leading'. This is a reduced relative clause modifying 'the path', so the participle stands in for the whole finite verb and its understood subject is 'the path', the noun it describes."
     }
   ]
 }

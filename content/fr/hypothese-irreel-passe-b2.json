@@ -149,6 +149,27 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Ces lettres compromettantes, si tu me les {1} (remettre) à temps, je {2} (partir) l'esprit tranquille.",
+      "blanks": [
+        {
+          "cue": "remettre",
+          "answer": [
+            "avais remises"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « les » (= les lettres, fém. plur.)"
+        },
+        {
+          "cue": "partir",
+          "answer": [
+            "serais parti",
+            "serais partie"
+          ],
+          "hint": "conditionnel passé, je, verbe de mouvement → auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT object placed BEFORE the verb. Here the personal pronoun « les » (= « les lettres », feminine plural) is the direct object and precedes the verb, so the participle must agree: « tu me les avais remises » (« remis » without agreement would be wrong). Note that « me » is only the indirect object (« à moi ») and never triggers agreement. The result clause uses « partir », a movement verb conjugated with être, whose participle agrees with the SUBJECT « je »: « serais parti » (masculine) or « serais partie » (feminine) — the irréel du passé pairing si + plus-que-parfait with conditionnel passé."
     }
   ]
 }

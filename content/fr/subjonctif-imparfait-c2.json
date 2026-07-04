@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux maître répéta la fable à voix haute afin que chaque élève la {1} par cœur.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût), après « afin que », principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » (like « pour que ») expresses purpose and always governs the subjunctive, so any indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « répéta » is in the past and the intended result is posterior, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which distinguishes it from the indicative passé simple « sut »."
+    },
+    {
+      "text": "C'était le seul conseiller qui {1} apaiser la colère du roi.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût), relative après « le seul », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on an exclusive antecedent like « le seul » takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both wrong. The main verb « était » is in the past, so strict literary concordance calls for the subjonctif imparfait of pouvoir: « qui pût » — the circumflex on « pût » marks the subjunctive against the indicative « put »."
     }
   ]
 }

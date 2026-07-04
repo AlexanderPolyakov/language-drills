@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "The consultants have raised a number of legitimate concerns. {1}, we have neither the time nor the budget to revisit the design now.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "a fixed concessive conjunct standing alone: 'even if that is so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', standing alone before a comma and referring back to the previous sentence. 'Much as' must be followed immediately by a subject and a verb of feeling ('Much as we respect them'); 'For all' requires a following noun phrase ('For all their concerns'); 'Albeit' introduces a concessive phrase such as an adjective or adverbial, never a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} many times the safety procedure is rehearsed, someone always freezes in a real emergency.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "No matter that",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + quantifier/adverb + clause = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + quantifier/adverb + clause' concedes that to any degree the outcome is unchanged: 'No matter how many times it is rehearsed, someone always freezes.' 'No matter that' takes a bare fact ('No matter that it is rehearsed'), not the fronted quantifier 'many times'; 'Much as' is followed directly by a subject and a verb of feeling, not by 'many times'; 'For all' requires a bare noun phrase ('For all the rehearsals'), not this fronted-quantifier clause."
+    },
+    {
+      "text": "The pilot scheme was scrapped after only six months, {1} it had exceeded every target set for it.",
+      "blanks": [
+        {
+          "answer": "despite the fact that",
+          "options": [
+            "despite the fact that",
+            "despite",
+            "notwithstanding",
+            "albeit"
+          ],
+          "hint": "lets a preposition govern a finite clause: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Despite the fact that' allows the preposition 'despite' to govern a finite clause: the noun 'the fact' serves as its object and 'that + clause' completes it, giving 'despite the fact that it had exceeded every target'. Bare 'despite' cannot be followed directly by a finite clause ('despite it had exceeded'); 'notwithstanding' likewise takes a noun phrase, not a subject + verb; 'albeit' introduces only a concessive phrase (an adjective or adverbial), not a full clause with its own subject and verb."
     }
   ]
 }
