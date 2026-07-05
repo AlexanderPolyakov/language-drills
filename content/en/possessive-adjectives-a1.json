@@ -40,6 +40,6 @@
     { "text": "My grandmother feeds {1} cats every morning.", "blanks": [ { "options": ["her", "his", "their"], "answer": "her" } ], "explanation": "'Her' matches the female owner 'my grandmother'." },
     { "text": "The players celebrated {1} victory.", "blanks": [ { "options": ["our", "his", "their"], "answer": "their" } ], "explanation": "'Their' matches the plural owner 'the players'." },
     { "text": "I packed {1} suitcase last night.", "blanks": [ { "options": ["his", "your", "my"], "answer": "my" } ], "explanation": "'My' matches the owner 'I'." },
-    { "text": "David and I love {1} new apartment.", "blanks": [ { "options": ["their", "our", "my"], "answer": "our" } ], "explanation": "'Our' matches the owner 'David and I'." }
+    { "text": "David and I love {1} new flat.", "blanks": [ { "options": ["their", "our", "my"], "answer": "our" } ], "explanation": "'Our' matches the owner 'David and I'." }
   ]
 }
