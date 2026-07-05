@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He had never travelled abroad before. He found the airport's noise and bustle overwhelming.",
+      "instruction": "Combine using a negative perfect participle clause for the prior lack of experience, beginning with 'Never having'.",
+      "answer": [
+        "Never having travelled abroad before, he found the airport's noise and bustle overwhelming.",
+        "Never having travelled abroad before he found the airport's noise and bustle overwhelming"
+      ],
+      "placeholder": "Never having travelled…",
+      "explanation": "A perfect participle ('Having travelled') reduces a prior completed situation; a perfect participle is negated by placing the negator before it, and 'never' is fronted for emphasis, giving 'Never having travelled abroad' = 'As he had never travelled abroad'. The understood subject is 'he', the subject of the main clause, so the participle does not dangle. This differs from the plain negative present participle 'Not knowing', because the perfect form marks the experience as completed (or, here, never accomplished) before the main verb."
+    },
+    {
+      "prompt": "The weather was fine. We decided to set out at dawn.",
+      "instruction": "Combine using a nominative absolute construction (a participle clause that keeps its own subject and uses no 'with'), beginning with 'The weather being'.",
+      "answer": [
+        "The weather being fine, we decided to set out at dawn.",
+        "The weather being fine we decided to set out at dawn"
+      ],
+      "placeholder": "The weather being…",
+      "explanation": "The nominative absolute 'The weather being fine' consists of a subject ('the weather') plus a participle ('being'), forming a clause that is grammatically independent of the main clause. Because it carries its own explicit subject, it need not share the main-clause subject 'we' and therefore cannot dangle. It expresses the attendant circumstance by the same logic as the 'with + noun + -ing' absolute, but without the introductory 'with'."
     }
   ]
 }

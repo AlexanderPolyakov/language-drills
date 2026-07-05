@@ -149,6 +149,27 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si nous {1} (pressentir) le danger, nous {2} (s'enfuir) sans demander notre reste.",
+      "blanks": [
+        {
+          "cue": "pressentir",
+          "answer": [
+            "avions pressenti"
+          ],
+          "hint": "plus-que-parfait, nous, auxiliaire avoir — COD « le danger » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "s'enfuir",
+          "answer": [
+            "nous serions enfuis",
+            "nous serions enfuies"
+          ],
+          "hint": "conditionnel passé, verbe essentiellement pronominal → être, accord avec le sujet « nous », variante de genre (masc./fém.)"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait of « pressentir » with avoir. Its direct object « le danger » FOLLOWS the verb, so there is no agreement: « avions pressenti » (an agreeing « pressentie/pressentis » would be wrong here). The result clause uses « s'enfuir », a VERBE ESSENTIELLEMENT PRONOMINAL (it exists only in the pronominal form), whose past participle always agrees with the SUBJECT — unlike « se rendre compte », where « se » is an indirect object and the participle stays invariable. With être the conditionnel passé is « nous nous serions enfuis » (or « enfuies » if the group is feminine, the participle agreeing with « nous »)."
     }
   ]
 }

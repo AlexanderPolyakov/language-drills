@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le condamné {1} (croire) un instant à une grâce royale, mais il {2} (mourir) sans avoir revu les siens.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical cru-"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical mouru-"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family with the passé simple stem « cru- » → 3rd singular « il crut ». « mourir » likewise follows the « -u » family, stem « mouru- » → « il mourut » (distinct from the present « il meurt »). Both report single, completed actions in the narrative past, the hallmark of the passé simple in a literary récit."
+    },
+    {
+      "text": "Les moines {1} (écrire) patiemment la chronique du règne, puis {2} (conduire) le lecteur à travers mille batailles.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical écrivi-, terminaison -irent"
+        },
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical conduisi-, terminaison -irent"
+        }
+      ],
+      "explanation": "Verbs in -IRE of this class build their passé simple on an « -is » stem: « écrire » → « ils écrivirent » (stem « écrivi- ») and « conduire » → « ils conduisirent » (stem « conduisi- »), both 3rd person plural in -irent. Do not confuse « écrivirent » with the present « ils écrivent ». These narrate punctual, completed actions in written narration."
     }
   ]
 }

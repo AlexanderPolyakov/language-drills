@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi partagea son royaume pour que chacun de ses fils en {1} une part égale.",
+      "blanks": [
+        {
+          "answer": "reçût",
+          "options": [
+            "recevait",
+            "reçut",
+            "reçût"
+          ],
+          "hint": "subjonctif imparfait de « recevoir » (reçût, -ût avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (proposition de but) always governs the subjunctive, so the indicatif forms are excluded: « recevait » (imparfait de l'indicatif) and « reçut » (passé simple de l'indicatif, no circumflex) are both impossible after this trigger. The main verb « partagea » is in the past (passé simple) and the receiving is posterior to the sharing, so strict literary concordance calls for the subjonctif imparfait of recevoir: « qu'il en reçût une part » — the distinguishing circumflex on « reçût » marks the subjunctive against the passé simple de l'indicatif « reçut »."
+    },
+    {
+      "text": "Le capitaine craignit que la mutinerie n'{1} avant l'arrivée des renforts.",
+      "blanks": [
+        {
+          "answer": "éclatât",
+          "options": [
+            "éclatât",
+            "éclatait",
+            "éclata"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « craindre que … ne » (ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "A verb of fear, « craindre que », triggers the subjunctive (here with the « ne » explétif that follows verbs of fearing), so the indicatif is ruled out: « éclatait » (imparfait de l'indicatif) and « éclata » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « craignit » is in the past and the feared mutiny is posterior, so literary concordance requires the subjonctif imparfait « qu'elle éclatât » — note the distinctive circumflex on « éclatât », which alone separates it from the passé simple de l'indicatif « éclata »."
     }
   ]
 }
