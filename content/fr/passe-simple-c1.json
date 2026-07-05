@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (apercevoir) une lueur au loin et {2} (courir) vers elle sans hésiter.",
+      "blanks": [
+        {
+          "cue": "apercevoir",
+          "answer": [
+            "aperçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant -u → aperçut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "Both belong to the « -u » family. « apercevoir » (like « recevoir ») keeps the « ç » before « -u » to preserve the /s/ sound → « il aperçut ». « courir » gives « il courut »; note this is distinct from the present « il court », and the circumflex appears only in « nous courûmes / vous courûtes », never in the 3rd person « courut ». Both report single, completed narrative actions."
+    },
+    {
+      "text": "Les deux frères {1} (connaître) la gloire, et le cadet {2} (écrire) le récit de leurs exploits.",
+      "blanks": [
+        {
+          "cue": "connaître",
+          "answer": [
+            "connurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → connurent"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        }
+      ],
+      "explanation": "« connaître » follows the « -u » family with the stem « conn- » → 3rd plural « ils connurent »; note that the circumflex of the infinitive « connaître » disappears in the passé simple (it survives only in « nous connûmes / vous connûtes », never in the 3rd person). « écrire » is an irregular -RE verb with the stem « écriv- » → « il écrivit » (an -it form, clearly distinct from the present « il écrit »). Both frame completed events in this literary récit."
     }
   ]
 }

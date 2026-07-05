@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le conseil décida de suspendre le procès, à moins que l'accusé ne {1} fournir de nouvelles preuves avant le soir.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « à moins que » (+ ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » always governs the subjunctive (here reinforced by the « ne » explétif), so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « décida » is in the past and the condition is posterior to it, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes the subjunctive « pût » from the indicative « put »."
+    },
+    {
+      "text": "L'hôte fit servir le vin le plus rare afin que chaque invité en {1} une coupe avant le toast.",
+      "blanks": [
+        {
+          "answer": "reçût",
+          "options": [
+            "recevait",
+            "reçut",
+            "reçût"
+          ],
+          "hint": "subjonctif imparfait de « recevoir » (reçût, avec circonflexe), après « afin que », postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » expresses purpose and always takes the subjunctive, so the indicatif is impossible: « recevait » (imparfait de l'indicatif) and « reçut » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « fit servir » is in the past and the receiving is posterior to it, so strict concordance calls for the subjonctif imparfait of recevoir: « qu'il reçût » — note the circumflex on « reçût », which separates it from the indicative « reçut »."
+    },
+    {
+      "text": "Quoiqu'il {1} parti bien avant l'aurore, les gardes retrouvèrent aisément sa trace dans la neige.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait de « partir » (fût + participe), antériorité, après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » (concessive) always governs the subjunctive, so the indicatif forms are excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The departure is ANTERIOR to the past reference « retrouvèrent », so literary concordance requires the subjonctif plus-que-parfait built with the auxiliary être: « qu'il fût parti » — the circumflex on the auxiliary « fût » marks the subjunctive against the indicative « fut »."
     }
   ]
 }

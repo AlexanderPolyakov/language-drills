@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because they lived far from the nearest town, they rarely received visitors.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause at the front, beginning with 'Living'.",
+      "answer": [
+        "Living far from the nearest town, they rarely received visitors.",
+        "Living far from the nearest town they rarely received visitors"
+      ],
+      "placeholder": "Living…",
+      "explanation": "A causal clause ('Because they lived far from the nearest town') reduces to a fronted -ing clause of reason: 'Living far from the nearest town'. The conjunction and the subject are dropped, and the finite verb 'lived' becomes the participle 'living'. Because the understood subject is 'they', the subject of the main clause, the modifier does not dangle."
+    },
+    {
+      "prompt": "As soon as she arrived at the office, she realised she had left her laptop at home.",
+      "instruction": "Rewrite the time clause using 'On' + an -ing participle to mean 'immediately after', beginning with 'On'.",
+      "answer": [
+        "On arriving at the office, she realised she had left her laptop at home.",
+        "On arriving at the office she realised she had left her laptop at home"
+      ],
+      "placeholder": "On arriving…",
+      "explanation": "The pattern 'On/Upon + -ing' reduces a time clause and means 'immediately after' the action: 'As soon as she arrived' becomes 'On arriving'. Unlike a conjunction kept in front of a past participle ('When questioned'), the preposition 'on' governs a gerund-participle here. The understood subject stays 'she', the subject of the main clause."
+    },
+    {
+      "prompt": "He listened to the whole speech. His arms were folded the entire time.",
+      "instruction": "Combine using a 'with + noun + past participle' absolute construction for the accompanying state, ending with ', with his arms folded'.",
+      "answer": [
+        "He listened to the whole speech, with his arms folded.",
+        "He listened to the whole speech with his arms folded"
+      ],
+      "placeholder": "…, with his arms folded",
+      "explanation": "The absolute construction 'With + noun + past participle' describes an accompanying state passively: 'his arms were folded' becomes 'with his arms folded'. Like the -ing absolute, it carries its own subject ('his arms'), so it need not share the subject of the main clause ('he') and does not dangle; the past participle marks the state as passive rather than an ongoing action."
     }
   ]
 }

@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could never quite earn his father's unconditional approval.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Much as",
+            "However",
+            "For all"
+          ],
+          "hint": "fronted verb + ___ + subject + might/may = 'although he tried hard'"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed literary concessive in which the lexical verb is fronted and followed by 'as' + subject + the modal 'might/may', meaning 'however hard he tried'. 'Much as' must be followed directly by a lexical verb of feeling ('Much as he admires'), not by the bare modal 'might'; 'However' would require a following adjective or adverb ('However hard he might try'); 'For all' governs a noun phrase, not the sequence 'he might'."
+    },
+    {
+      "text": "{1}, the board's decision is final and will not be reopened for debate.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as",
+            "For all",
+            "Notwithstanding"
+          ],
+          "hint": "a self-contained concessive conjunct standing alone before a full main clause"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, self-contained concessive conjunct meaning 'even if that is true', and it stands complete before a comma and a full main clause. 'Much as' cannot stand alone: it demands an immediately following subject + verb ('Much as I sympathise'); 'For all' requires a following noun phrase ('For all its merits'); 'Notwithstanding' as an adverb ('nevertheless') is placed at the end of its clause, not fronted before a comma, and as a preposition it must govern a noun phrase — so none of the distractors can occupy this free-standing slot."
     }
   ]
 }
