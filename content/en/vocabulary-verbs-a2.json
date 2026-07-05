@@ -26,7 +26,7 @@
     { "text": "Could you {1} the meaning of this word for me?", "blanks": [ { "options": ["save", "explain", "borrow"], "answer": "explain" } ], "explanation": "You explain something to make it clear and easy to understand." },
     { "text": "We will {1} our holiday for next August.", "blanks": [ { "options": ["lose", "plan", "rent"], "answer": "plan" } ], "explanation": "You plan something by deciding how it will happen." },
     { "text": "I want to {1} this jacket; do you have a bigger size?", "blanks": [ { "options": ["exchange", "complain", "win"], "answer": "exchange" } ], "explanation": "You exchange an item by swapping it for another." },
-    { "text": "Please {1} this letter at the post office.", "blanks": [ { "options": ["post", "save", "decide"], "answer": "post" } ], "explanation": "You post a letter by sending it through the mail." },
+    { "text": "Please {1} this letter at the post office.", "blanks": [ { "options": ["post", "save", "decide"], "answer": "post" } ], "explanation": "You post a letter by sending it through the post." },
     { "text": "I will {1} a table at the restaurant for eight o'clock.", "blanks": [ { "options": ["lend", "lose", "book"], "answer": "book" } ], "explanation": "You book something by arranging to keep it for you." },
     { "text": "Try not to {1} the bus; the next one is in an hour.", "blanks": [ { "options": ["save", "win", "miss"], "answer": "miss" } ], "explanation": "You miss a bus when you fail to catch it in time." },
     { "text": "The two friends {1} to meet at the cinema later.", "blanks": [ { "options": ["lost", "borrowed", "agreed"], "answer": "agreed" } ], "explanation": "You agree when you and another person share the same idea." },

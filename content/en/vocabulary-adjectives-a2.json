@@ -26,7 +26,7 @@
     { "text": "He felt {1} before his big exam.", "blanks": [ { "options": ["popular", "nervous", "calm"], "answer": "nervous" } ], "explanation": "Nervous means worried and not relaxed." },
     { "text": "She stayed {1} even when the others were panicking.", "blanks": [ { "options": ["nervous", "calm", "rude"], "answer": "calm" } ], "explanation": "Calm means relaxed and not worried." },
     { "text": "This jacket is {1}; it keeps me warm in winter.", "blanks": [ { "options": ["warm", "boring", "cool"], "answer": "warm" } ], "explanation": "Warm means having a pleasant amount of heat." },
-    { "text": "The shopping mall was {1} on Saturday because of the sale.", "blanks": [ { "options": ["busy", "empty", "quiet"], "answer": "busy" } ], "explanation": "Busy means full of activity or people." },
+    { "text": "The shopping centre was {1} on Saturday because of the sale.", "blanks": [ { "options": ["busy", "empty", "quiet"], "answer": "busy" } ], "explanation": "Busy means full of activity or people." },
     { "text": "After cleaning all day, the house looked very {1}.", "blanks": [ { "options": ["messy", "dangerous", "tidy"], "answer": "tidy" } ], "explanation": "Tidy means neat and well organised." },
     { "text": "His desk is so {1} that he can never find anything.", "blanks": [ { "options": ["polite", "tidy", "messy"], "answer": "messy" } ], "explanation": "Messy means untidy and disordered." },
     { "text": "The medicine was {1} and made the patient feel better.", "blanks": [ { "options": ["crowded", "useless", "effective"], "answer": "effective" } ], "explanation": "Effective means working well and getting results." },
