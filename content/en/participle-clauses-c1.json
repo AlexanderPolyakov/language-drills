@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The chairman's speech had ended. The delegates filed out of the hall.",
+      "instruction": "Combine using a nominative absolute construction (with its OWN subject and a perfect participle, and no 'with'), beginning with 'The chairman's speech having ended, …'.",
+      "answer": [
+        "The chairman's speech having ended, the delegates filed out of the hall.",
+        "The chairman's speech having ended the delegates filed out of the hall"
+      ],
+      "placeholder": "The chairman's speech having ended…",
+      "explanation": "A nominative (or free) absolute construction keeps its own overt subject — 'The chairman's speech' — followed by a participle, and stands grammatically independent of the main clause. Because it supplies its own subject, it does not need to share the subject of the main clause and cannot dangle: the delegates are not the ones ending. The perfect participle 'having ended' marks the speech as finished before they filed out; the whole phrase is set off by a comma and reads like a compressed 'When/After the chairman's speech had ended'."
+    },
+    {
+      "prompt": "If you turn left at the second set of traffic lights, you will see the museum on your right.",
+      "instruction": "Rewrite the conditional 'if' clause as a present (-ing) participle clause expressing the condition, beginning with 'Turning'.",
+      "answer": [
+        "Turning left at the second set of traffic lights, you will see the museum on your right.",
+        "Turning left at the second set of traffic lights you will see the museum on your right"
+      ],
+      "placeholder": "Turning left…",
+      "explanation": "An open conditional ('If you turn left…') can be reduced to a present participle clause when its subject is the same as that of the main clause: 'Turning left' = 'If you turn left'. Here the -ing clause expresses a condition rather than a simultaneous action or reason — the fulfilment of 'turning left' is the circumstance under which 'you will see the museum' holds. The understood subject is 'you', the subject of the main clause, so the modifier does not dangle."
     }
   ]
 }

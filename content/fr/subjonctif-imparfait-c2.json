@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître alluma toutes les lampes afin que chacun {1} lire à son aise.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « afin que », principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » (like « pour que ») expresses purpose and always governs the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « alluma » is in the past (passé simple) and the purpose is posterior to it, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the distinguishing circumflex on « pût », which alone separates the subjunctive from the indicative « put »."
+    },
+    {
+      "text": "Les conjurés quittèrent la salle sans que les gardes s'en {1}.",
+      "blanks": [
+        {
+          "answer": "aperçussent",
+          "options": [
+            "apercevaient",
+            "aperçussent",
+            "aperçurent"
+          ],
+          "hint": "subjonctif imparfait de « (s')apercevoir » (-ussent), 3e pers. plur., après « sans que », principal au passé simple"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif forms are excluded: « apercevaient » (imparfait de l'indicatif) and « aperçurent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « quittèrent » is in the past and the (non-)perception is simultaneous with the leaving, so literary concordance calls for the subjonctif imparfait of apercevoir, 3rd person plural: « qu'ils s'en aperçussent » — built on the passé simple stem « aperçu- » with the ending « -ssent » (compare the indicative passé simple « aperçurent »)."
+    },
+    {
+      "text": "Le juge différa sa sentence, à moins que le messager ne {1} déjà remis la grâce du roi.",
+      "blanks": [
+        {
+          "answer": "eût remis",
+          "options": [
+            "avait remis",
+            "eût remis",
+            "eut remis"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, 3e pers. sing., après « à moins que » (+ ne explétif)"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif, as with « avant que »), so the indicatif is excluded: « avait remis » (plus-que-parfait de l'indicatif) and « eut remis » (passé antérieur de l'indicatif, no circumflex on « eut ») are both ungrammatical after this trigger. The delivery is ANTERIOR to the past main verb « différa », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût remis » — the circumflex on the auxiliary « eût » is what distinguishes the subjunctive from the indicative « eut »."
     }
   ]
 }

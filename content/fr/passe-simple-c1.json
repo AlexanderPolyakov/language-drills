@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le marchand {1} (recevoir) la lettre au crépuscule, et les enfants {2} (courir) aussitôt annoncer la nouvelle au village.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u, radical couru- → coururent"
+        }
+      ],
+      "explanation": "« recevoir » belongs to the « -u » family with the stem « reç- » → « il reçut »; the cédille under the « ç » is required to keep the soft [s] sound before « u » (compare « recevons » with no cédille before « e »). « courir » is also in the « -u » family, stem « couru- » → 3rd plural « ils coururent ». Neither form takes a circumflex in the 3rd person (that accent marks only « nous reçûmes / courûmes » and « vous reçûtes / courûtes »). Both narrate single, completed events in the literary récit."
+    },
+    {
+      "text": "Le moine {1} (écrire) la chronique de la bataille, tandis que le convoi {2} (conduire) les blessés vers l'abbaye.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit (type -it)"
+        },
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical conduis- → conduisit (type -it)"
+        }
+      ],
+      "explanation": "« écrire » builds its passé simple on the stem « écriv- » → « il écrivit » (3rd plural « ils écrivirent »), an -it/-irent pattern rather than an « -u » form. « conduire » likewise uses the stem « conduis- » → « il conduisit » (3rd plural « ils conduisirent »), the same pattern shared by other -uire verbs (« il produisit », « il traduisit »). No circumflex appears in the 3rd person singular. Both report punctual, completed actions in the narrative past."
     }
   ]
 }

@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} they might, the negotiators could not reach a settlement acceptable to both parties.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Much as",
+            "However"
+          ],
+          "hint": "fixed inversion: bare verb + as + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as they might' is a fixed concessive inversion, 'bare verb + as + subject + might/may', meaning 'however hard they tried': the fronted infinitive 'try' is picked up by the modal 'might'. 'As try' reverses the two opening words and is ungrammatical. 'Much as' needs its own lexical verb ('Much as they wanted to' / 'Much as they might wish'); here it would leave the modal 'might' stranded with no verb, so 'Much as they might,' is incomplete. 'However' must be followed by an adjective or adverb ('However hard they tried'), not by a bare subject."
+    },
+    {
+      "text": "The scheme is admittedly costly to launch. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Be it as that may",
+            "Much as that may",
+            "However may that be"
+          ],
+          "hint": "fixed formulaic conjunct = 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic conjunct (a fossilised subjunctive) meaning 'even so / nevertheless', standing alone before a comma and conceding the previous statement. 'Be it as that may' scrambles the fixed word order and is ungrammatical. 'Much as that may' is incomplete: 'Much as' demands a following verb of feeling and a full clause ('Much as that may cost us'). 'However may that be' misplaces the modal and, in any case, 'however' would need a following adjective or adverb."
+    },
+    {
+      "text": "{1} the northern branch consistently exceeds its targets, the southern office continues to fall short.",
+      "blanks": [
+        {
+          "answer": "Whereas",
+          "options": [
+            "Whereas",
+            "Whereby",
+            "Whereupon",
+            "Wherein"
+          ],
+          "hint": "subordinator of contrast: ___ + finite clause set against a second fact"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinator of contrast meaning 'while, by contrast', introducing a finite clause and setting one fact against another. 'Whereby' means 'by means of which' and needs an antecedent it relates to; 'Whereupon' means 'immediately after which' and signals temporal sequence, not contrast; 'Wherein' means 'in which' and functions as a relative of place or respect. None of the three can head a free-standing clause of contrast."
     }
   ]
 }
