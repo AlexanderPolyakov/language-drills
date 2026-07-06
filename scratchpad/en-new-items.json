@@ -1,0 +1,68 @@
+{
+  "participle-clauses-c1": [
+    {
+      "prompt": "The weather was fine. We decided to walk to the coast.",
+      "instruction": "Combine into one sentence using an absolute (nominative) participle construction that keeps its own subject, beginning with 'The weather being fine'.",
+      "answer": [
+        "The weather being fine, we decided to walk to the coast.",
+        "The weather being fine we decided to walk to the coast"
+      ],
+      "placeholder": "The weather being fine,…",
+      "explanation": "This is a nominative absolute construction: 'The weather being fine' has its own overt subject ('the weather') plus the participle 'being', and is only loosely attached to the main clause, supplying a reason or attendant circumstance ('since/as the weather was fine'). Because the participle carries its own subject, it need not share the subject of the main clause, and so, unlike an ordinary -ing clause, it cannot dangle even though its subject ('the weather') differs from the main subject ('we')."
+    },
+    {
+      "prompt": "Because she was a qualified physician, she knew exactly what to do.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause of cause, beginning with 'Being'.",
+      "answer": [
+        "Being a qualified physician, she knew exactly what to do.",
+        "Being a qualified physician she knew exactly what to do"
+      ],
+      "placeholder": "Being…",
+      "explanation": "A causal clause ('Because she was a qualified physician') reduces to the participle of stative 'be' plus its complement: 'Being a qualified physician'. Here the -ing clause expresses reason or circumstance rather than a simultaneous action, which is why the normally dynamic '-ing' can attach to the state verb 'be'. The understood subject of 'Being' must be the subject of the main clause ('she'); were the main subject different, the sentence would dangle."
+    },
+    {
+      "prompt": "He had lost all his savings in the crash. He was forced to sell the family home.",
+      "instruction": "Combine using a perfect participle clause that expresses the cause of the second event, beginning with 'Having'.",
+      "answer": [
+        "Having lost all his savings in the crash, he was forced to sell the family home.",
+        "Having lost all his savings in the crash he was forced to sell the family home"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "The perfect participle 'Having lost' does two things at once: it marks the action as completed before the main verb, and, because it precedes an unavoidable consequence, it is read as its cause ('Because/Since he had lost all his savings'). This causal reading is what distinguishes it from a merely sequential 'Having finished..., he went home'. The shared subject 'he' is understood as the subject of the participle, so the modifier does not dangle."
+    }
+  ],
+  "concessive-clauses-c2": [
+    {
+      "text": "{1} tempting the offer may seem, accepting it would compromise our independence.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'However + adjective (tempting) + subject + verb' concedes that no degree of the quality changes the outcome ('no matter how tempting the offer seems'). This adjective-fronting slot is exactly where the near-synonyms fail: 'Much as' is followed directly by a verb of feeling ('Much as the offer tempts us'), not by an adjective; 'For all' governs a noun phrase ('For all its appeal'); and 'Albeit' introduces a concessive phrase, not a finite clause with its own subject and modal ('the offer may seem')."
+    },
+    {
+      "text": "{1} I sympathise with their predicament, I cannot in good conscience waive the rules for them.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "For all",
+            "However",
+            "Despite"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' fronts a verb of feeling for emphasis and means 'although I greatly sympathise'. The distractors differ precisely in what must follow: 'For all' requires a noun phrase ('For all my sympathy'); 'However' requires a following adjective or adverb ('However much I sympathise'), not a bare verb; and 'Despite' is a preposition taking a noun or -ing form, so it cannot govern the finite clause 'I sympathise'."
+    }
+  ]
+}

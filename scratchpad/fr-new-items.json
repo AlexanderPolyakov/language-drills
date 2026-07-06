@@ -1,0 +1,98 @@
+{
+  "subjonctif-imparfait-c2": [
+    {
+      "text": "Le précepteur voulut que son jeune élève {1} par cœur toute la tirade avant le lever du jour.",
+      "blanks": [
+        {
+          "answer": "apprît",
+          "options": [
+            "apprenait",
+            "apprît",
+            "apprit"
+          ],
+          "hint": "subjonctif imparfait (-ît, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple ; postériorité"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so the indicatif forms are excluded: « apprenait » (imparfait de l'indicatif) and « apprit » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this trigger. The main verb « voulut » is in the passé simple and the learning is POSTERIOR to the wish, so literary concordance requires the subjonctif imparfait of « apprendre »: « qu'il apprît » — note the circumflex on « apprît », which distinguishes it from the indicative passé simple « apprit »."
+    },
+    {
+      "text": "Elle regretta que son frère {1} parti sans lui avoir laissé le moindre mot.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » governs the subjunctive, so the indicatif compound forms are excluded: the auxiliary « était » (→ plus-que-parfait de l'indicatif « était parti ») and « fut » (→ passé antérieur « fut parti ») cannot follow this trigger. The departure is ANTERIOR to the past reference « regretta », so strict literary concordance requires the subjonctif plus-que-parfait of « partir »: « qu'il fût parti » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    }
+  ],
+  "passe-simple-c1": [
+    {
+      "text": "Le vieil érudit {1} (ouvrir) le grimoire poussiéreux et y {2} (lire) une formule oubliée.",
+      "blanks": [
+        {
+          "cue": "ouvrir",
+          "answer": [
+            "ouvrit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — se conjugue comme les verbes réguliers en -ir/-re, terminaison -it → ouvrit"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« ouvrir » forms its passé simple on the regular -ir/-re pattern: 3rd singular « il ouvrit » (like « il couvrit », « il offrit »). « lire » belongs to the irregular « -u » family with the stem « lu- » → « il lut » (not to be confused with the present « il lit »). Both narrate single, completed actions; recall that the passé simple never takes a circumflex in the 3rd person."
+    },
+    {
+      "text": "Le savant {1} (croire) d'abord à une simple erreur, puis {2} (écrire) fébrilement ses observations.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut (à distinguer de « il croit », présent)"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical spécial écriv- → écrivit"
+        }
+      ],
+      "explanation": "« croire » belongs to the irregular « -u » family: 3rd singular « il crut » (distinct from the present « il croit »). « écrire » keeps the special stem « écriv- » → « il écrivit » (like « il décrivit » for décrire). Both report punctual, completed narrative actions, hence the passé simple, which carries no circumflex in the 3rd person."
+    }
+  ],
+  "hypothese-irreel-passe-b2": [
+    {
+      "text": "Ils se {1} (téléphoner) bien plus tôt si le réseau {2} (ne pas tomber) en panne.",
+      "blanks": [
+        {
+          "cue": "se téléphoner",
+          "answer": [
+            "seraient téléphoné"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réciproque → être, mais « se » est COI (téléphoner À qqn) → participe invariable"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "n'était pas tombé"
+          ],
+          "hint": "plus-que-parfait négatif, 3e pers. sing., verbe de mouvement/état → être, accord avec « le réseau » (masc. sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « se téléphoner » is a RECIPROCAL pronominal verb, so it takes être in the conditionnel passé; BUT « se » here is an INDIRECT object (« téléphoner À quelqu'un »), so the past participle does NOT agree and stays invariable: « ils se seraient téléphoné » (never « téléphonés »). The same applies to « se parler », « s'écrire », « se nuire », « se succéder ». The « si » clause uses « tomber (en panne) » with être — a state-change verb — so the plus-que-parfait agrees with the masculine singular subject « le réseau »: « n'était pas tombé », the negation « ne … pas » wrapping the auxiliary « était »."
+    }
+  ]
+}

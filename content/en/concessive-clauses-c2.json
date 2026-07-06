@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} tempting the offer may seem, accepting it would compromise our independence.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'However + adjective (tempting) + subject + verb' concedes that no degree of the quality changes the outcome ('no matter how tempting the offer seems'). This adjective-fronting slot is exactly where the near-synonyms fail: 'Much as' is followed directly by a verb of feeling ('Much as the offer tempts us'), not by an adjective; 'For all' governs a noun phrase ('For all its appeal'); and 'Albeit' introduces a concessive phrase, not a finite clause with its own subject and modal ('the offer may seem')."
+    },
+    {
+      "text": "{1} I sympathise with their predicament, I cannot in good conscience waive the rules for them.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "For all",
+            "However",
+            "Despite"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' fronts a verb of feeling for emphasis and means 'although I greatly sympathise'. The distractors differ precisely in what must follow: 'For all' requires a noun phrase ('For all my sympathy'); 'However' requires a following adjective or adverb ('However much I sympathise'), not a bare verb; and 'Despite' is a preposition taking a noun or -ing form, so it cannot govern the finite clause 'I sympathise'."
     }
   ]
 }

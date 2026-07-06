@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieil érudit {1} (ouvrir) le grimoire poussiéreux et y {2} (lire) une formule oubliée.",
+      "blanks": [
+        {
+          "cue": "ouvrir",
+          "answer": [
+            "ouvrit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — se conjugue comme les verbes réguliers en -ir/-re, terminaison -it → ouvrit"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« ouvrir » forms its passé simple on the regular -ir/-re pattern: 3rd singular « il ouvrit » (like « il couvrit », « il offrit »). « lire » belongs to the irregular « -u » family with the stem « lu- » → « il lut » (not to be confused with the present « il lit »). Both narrate single, completed actions; recall that the passé simple never takes a circumflex in the 3rd person."
+    },
+    {
+      "text": "Le savant {1} (croire) d'abord à une simple erreur, puis {2} (écrire) fébrilement ses observations.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut (à distinguer de « il croit », présent)"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical spécial écriv- → écrivit"
+        }
+      ],
+      "explanation": "« croire » belongs to the irregular « -u » family: 3rd singular « il crut » (distinct from the present « il croit »). « écrire » keeps the special stem « écriv- » → « il écrivit » (like « il décrivit » for décrire). Both report punctual, completed narrative actions, hence the passé simple, which carries no circumflex in the 3rd person."
     }
   ]
 }

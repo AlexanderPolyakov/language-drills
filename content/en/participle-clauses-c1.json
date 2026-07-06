@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The weather was fine. We decided to walk to the coast.",
+      "instruction": "Combine into one sentence using an absolute (nominative) participle construction that keeps its own subject, beginning with 'The weather being fine'.",
+      "answer": [
+        "The weather being fine, we decided to walk to the coast.",
+        "The weather being fine we decided to walk to the coast"
+      ],
+      "placeholder": "The weather being fine,…",
+      "explanation": "This is a nominative absolute construction: 'The weather being fine' has its own overt subject ('the weather') plus the participle 'being', and is only loosely attached to the main clause, supplying a reason or attendant circumstance ('since/as the weather was fine'). Because the participle carries its own subject, it need not share the subject of the main clause, and so, unlike an ordinary -ing clause, it cannot dangle even though its subject ('the weather') differs from the main subject ('we')."
+    },
+    {
+      "prompt": "Because she was a qualified physician, she knew exactly what to do.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause of cause, beginning with 'Being'.",
+      "answer": [
+        "Being a qualified physician, she knew exactly what to do.",
+        "Being a qualified physician she knew exactly what to do"
+      ],
+      "placeholder": "Being…",
+      "explanation": "A causal clause ('Because she was a qualified physician') reduces to the participle of stative 'be' plus its complement: 'Being a qualified physician'. Here the -ing clause expresses reason or circumstance rather than a simultaneous action, which is why the normally dynamic '-ing' can attach to the state verb 'be'. The understood subject of 'Being' must be the subject of the main clause ('she'); were the main subject different, the sentence would dangle."
+    },
+    {
+      "prompt": "He had lost all his savings in the crash. He was forced to sell the family home.",
+      "instruction": "Combine using a perfect participle clause that expresses the cause of the second event, beginning with 'Having'.",
+      "answer": [
+        "Having lost all his savings in the crash, he was forced to sell the family home.",
+        "Having lost all his savings in the crash he was forced to sell the family home"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "The perfect participle 'Having lost' does two things at once: it marks the action as completed before the main verb, and, because it precedes an unavoidable consequence, it is read as its cause ('Because/Since he had lost all his savings'). This causal reading is what distinguishes it from a merely sequential 'Having finished..., he went home'. The shared subject 'he' is understood as the subject of the participle, so the modifier does not dangle."
     }
   ]
 }

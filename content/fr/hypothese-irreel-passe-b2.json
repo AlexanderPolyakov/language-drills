@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Ils se {1} (téléphoner) bien plus tôt si le réseau {2} (ne pas tomber) en panne.",
+      "blanks": [
+        {
+          "cue": "se téléphoner",
+          "answer": [
+            "seraient téléphoné"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réciproque → être, mais « se » est COI (téléphoner À qqn) → participe invariable"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "n'était pas tombé"
+          ],
+          "hint": "plus-que-parfait négatif, 3e pers. sing., verbe de mouvement/état → être, accord avec « le réseau » (masc. sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « se téléphoner » is a RECIPROCAL pronominal verb, so it takes être in the conditionnel passé; BUT « se » here is an INDIRECT object (« téléphoner À quelqu'un »), so the past participle does NOT agree and stays invariable: « ils se seraient téléphoné » (never « téléphonés »). The same applies to « se parler », « s'écrire », « se nuire », « se succéder ». The « si » clause uses « tomber (en panne) » with être — a state-change verb — so the plus-que-parfait agrees with the masculine singular subject « le réseau »: « n'était pas tombé », the negation « ne … pas » wrapping the auxiliary « était »."
     }
   ]
 }

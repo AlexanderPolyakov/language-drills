@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le précepteur voulut que son jeune élève {1} par cœur toute la tirade avant le lever du jour.",
+      "blanks": [
+        {
+          "answer": "apprît",
+          "options": [
+            "apprenait",
+            "apprît",
+            "apprit"
+          ],
+          "hint": "subjonctif imparfait (-ît, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple ; postériorité"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so the indicatif forms are excluded: « apprenait » (imparfait de l'indicatif) and « apprit » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this trigger. The main verb « voulut » is in the passé simple and the learning is POSTERIOR to the wish, so literary concordance requires the subjonctif imparfait of « apprendre »: « qu'il apprît » — note the circumflex on « apprît », which distinguishes it from the indicative passé simple « apprit »."
+    },
+    {
+      "text": "Elle regretta que son frère {1} parti sans lui avoir laissé le moindre mot.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » governs the subjunctive, so the indicatif compound forms are excluded: the auxiliary « était » (→ plus-que-parfait de l'indicatif « était parti ») and « fut » (→ passé antérieur « fut parti ») cannot follow this trigger. The departure is ANTERIOR to the past reference « regretta », so strict literary concordance requires the subjonctif plus-que-parfait of « partir »: « qu'il fût parti » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
     }
   ]
 }
