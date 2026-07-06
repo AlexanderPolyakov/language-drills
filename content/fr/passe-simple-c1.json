@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Malgré tous ses efforts, le prisonnier ne {1} (pouvoir) forcer la serrure, et personne ne {2} (savoir) qu'il était encore vivant.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "Two classic « -u » family irregulars: « pouvoir » → « il put », « savoir » → « il sut ». Neither takes a circumflex in the 3rd person singular (the circumflex marks only « pût » and « sût », which are the subjonctif imparfait, not the passé simple). Both report single, completed narrative actions in this literary récit."
+    },
+    {
+      "text": "Le vieux roi {1} (mourir) à l'aube, et un messager {2} (courir) aussitôt annoncer la nouvelle au château.",
+      "blanks": [
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical mouru-"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical couru-"
+        }
+      ],
+      "explanation": "« mourir » and « courir » both belong to the « -u » family despite their r-stems: « il mourut » (stem « mouru- ») and « il courut » (stem « couru- »). Neither carries a circumflex in the 3rd person singular. Both frame punctual, completed events in the narrative past, the hallmark use of the passé simple."
     }
   ]
 }

@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les deux frères {1} (s'écrire) plus tôt, ils {2} (se réconcilier) bien avant la fin de l'année.",
+      "blanks": [
+        {
+          "cue": "s'écrire",
+          "answer": [
+            "s'étaient écrit"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réciproque → être, mais « se » = COI (écrire À qqn), donc pas d'accord"
+        },
+        {
+          "cue": "se réconcilier",
+          "answer": [
+            "se seraient réconciliés"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, « se » = COD, accord avec le sujet « ils » (masculin pluriel)"
+        }
+      ],
+      "explanation": "Both pronominal verbs take être, but agreement depends on the function of « se ». In « s'écrire » the verb is « écrire À quelqu'un », so the reciprocal « se » is an INDIRECT object: the participle stays invariable → « ils s'étaient écrit » (never « écrits »). In « se réconcilier » (« réconcilier quelqu'un »), the « se » is a DIRECT object, so the participle AGREES with the masculine-plural subject « ils » → « ils se seraient réconciliés ». The « si » clause carries the plus-que-parfait and the result clause the conditionnel passé, as required by l'irréel du passé."
     }
   ]
 }

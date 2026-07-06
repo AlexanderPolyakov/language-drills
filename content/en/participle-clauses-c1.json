@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because he lived so far from the town centre, he rarely went out in the evenings.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause expressing cause, beginning with 'Living'.",
+      "answer": [
+        "Living so far from the town centre, he rarely went out in the evenings.",
+        "Living so far from the town centre he rarely went out in the evenings"
+      ],
+      "placeholder": "Living…",
+      "explanation": "A causal clause built on a stative verb ('Because he lived so far…') reduces to an -ing participle that expresses reason rather than a simultaneous action: 'Living so far from the town centre' = 'Because he lived so far…'. Even though 'live' names a state and not an event, the -ing form is still used, and the understood subject stays 'he', the subject of the main clause, so the fronted modifier does not dangle."
+    },
+    {
+      "prompt": "After she had locked all the doors, she went upstairs to bed.",
+      "instruction": "Rewrite reducing the time clause to a participle after the conjunction 'After', dropping the subject and 'had'.",
+      "answer": [
+        "After locking all the doors, she went upstairs to bed.",
+        "After locking all the doors she went upstairs to bed"
+      ],
+      "placeholder": "After locking…",
+      "explanation": "A time clause introduced by 'after' (also 'before', 'since', 'on' or 'while') can be reduced to conjunction + -ing form: 'After she had locked all the doors' becomes 'After locking all the doors'. Here the participle follows the conjunction directly as an active -ing form, unlike the passive 'When questioned', and because 'after' already signals that one action precedes the other, a plain -ing is enough without the perfect 'having locked'. The understood subject remains 'she', the subject of the main clause."
     }
   ]
 }

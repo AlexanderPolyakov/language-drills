@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux maître répéta la leçon afin que chaque élève la {1} par cœur avant le soir.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « afin que », postériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« afin que » expresses purpose and always governs the subjunctive, so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « répéta » is in the past and the goal (knowing the lesson) is POSTERIOR to it, so literary concordance calls for the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which distinguishes the subjunctive from the passé simple « sut »."
+    },
+    {
+      "text": "Quoiqu'il {1} tout prévu de longue main, le stratège fut surpris par l'assaut nocturne.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « quoique », 3e pers. sing."
+        }
+      ],
+      "explanation": "« quoique » is concessive and always governs the subjunctive, so the indicatif is excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, no circumflex) cannot follow this trigger. The planning is ANTERIOR to the past reference « fut surpris », so strict concordance after a past main verb requires the subjonctif plus-que-parfait « qu'il eût prévu » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
     }
   ]
 }
