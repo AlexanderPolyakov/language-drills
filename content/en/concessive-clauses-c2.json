@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} carefully the instructions were written, some users still managed to misread them.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "However much",
+            "For all",
+            "Much as"
+          ],
+          "hint": "___ + adverb + subject + verb = to no degree did it help"
+        }
+      ],
+      "explanation": "'No matter how + adverb (carefully) + subject + verb' concedes that no degree of care changed the outcome; it is the direct equivalent of 'However carefully…'. 'However much' pairs with a quantity or a bare verb ('However much they tried'), not with the manner adverb 'carefully'; 'For all' must be followed by a noun phrase ('For all their care'); 'Much as' is followed directly by a lexical verb of feeling, not by 'how carefully'."
+    },
+    {
+      "text": "{1} they might, the investigators never uncovered the source of the leak.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Much as",
+            "However",
+            "Notwithstanding"
+          ],
+          "hint": "fixed verb-fronting concessive: ___ + subject + might/could…"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may/could' is a fixed verb-fronting concessive (a lexical cousin of 'Much as I admire her') meaning 'however hard they tried'. 'Much as' must be followed directly by a lexical verb of feeling or degree, so 'Much as they might' is incomplete; 'However' needs a following adjective or adverb ('However hard they tried'); 'Notwithstanding' is a preposition taking a noun phrase, not a fronted verb."
+    },
+    {
+      "text": "{1} the outcome of the appeal, the company's reputation has already suffered.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = no matter what / regardless of"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive meaning 'no matter what / regardless of': 'Whatever the outcome' = 'It makes no difference what the outcome is'. 'However' must be followed by an adjective or adverb, not a bare noun; 'Much as' is followed directly by subject + verb; 'Albeit' introduces a short concessive adjective or adverbial phrase ('albeit briefly'), not a fronted noun phrase standing in for a whole clause."
     }
   ]
 }

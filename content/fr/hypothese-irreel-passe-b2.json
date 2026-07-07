@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si j'{1} (savoir) la vérité plus tôt, j'{2} (agir) tout autrement.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "avais su"
+          ],
+          "hint": "plus-que-parfait, 1re pers. sing., auxiliaire avoir"
+        },
+        {
+          "cue": "agir",
+          "answer": [
+            "aurais agi"
+          ],
+          "hint": "conditionnel passé, 1re pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait of « savoir » (auxiliaire avoir) → « j'avais su », and the result clause takes the conditionnel passé of « agir » (also avoir) → « j'aurais agi ». Both verbs use avoir with no preceding direct object, so there is no participle agreement, whatever the speaker's gender."
+    },
+    {
+      "text": "Elles {1} (devenir) championnes si elles {2} (s'entraîner) avec plus de rigueur.",
+      "blanks": [
+        {
+          "cue": "devenir",
+          "answer": [
+            "seraient devenues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "s'entraîner",
+          "answer": [
+            "s'étaient entraînées"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal → être, accord avec le sujet « elles »"
+        }
+      ],
+      "explanation": "Here the result clause comes first, but the forms are unchanged. « devenir » is a state-change verb conjugated with être, so its conditionnel passé agrees with the feminine plural subject « elles »: « seraient devenues ». The « si » clause uses the pronominal verb « s'entraîner », which takes être; « s' » is the direct object, so the plus-que-parfait participle also agrees: « s'étaient entraînées »."
+    },
+    {
+      "text": "Si les enfants {1} (sortir) sans manteau, ils {2} (attraper) un mauvais rhume.",
+      "blanks": [
+        {
+          "cue": "sortir",
+          "answer": [
+            "étaient sortis"
+          ],
+          "hint": "plus-que-parfait, « sortir » intransitif → être, accord avec « les enfants » (masc. plur.)"
+        },
+        {
+          "cue": "attraper",
+          "answer": [
+            "auraient attrapé"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., auxiliaire avoir"
+        }
+      ],
+      "explanation": "« sortir » used intransitively is a movement verb conjugated with être, so the plus-que-parfait participle agrees with the masculine plural subject « les enfants »: « étaient sortis » (transitive « sortir qqch » would instead take avoir). The result clause uses « attraper » with avoir, its object following the verb, so there is no agreement: conditionnel passé « auraient attrapé »."
     }
   ]
 }

@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le pèlerin {1} (marcher) tout le jour et {2} (gravir) la dernière colline au crépuscule.",
+      "blanks": [
+        {
+          "cue": "marcher",
+          "answer": [
+            "marcha"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe en -ER → -a"
+        },
+        {
+          "cue": "gravir",
+          "answer": [
+            "gravit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -IR → -it"
+        }
+      ],
+      "explanation": "« marcher » is a regular -ER verb, so its passé simple 3rd singular ends in -a → « il marcha ». « gravir » is a regular -IR verb, whose passé simple 3rd singular ends in -it → « il gravit » (no circumflex in the 3rd person). Both narrate single completed actions in this literary récit."
+    },
+    {
+      "text": "Le sage {1} (répondre) sans détour, et l'assemblée entière {2} (croire) à sa parole.",
+      "blanks": [
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -RE → -it"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing., famille en -u → crut"
+        }
+      ],
+      "explanation": "« répondre » is a regular -RE verb: its passé simple 3rd singular ends in -it → « il répondit ». « croire » belongs to the irregular « -u » family → « elle crut ». Neither takes a circumflex in the 3rd person; both report punctual, completed events."
+    },
+    {
+      "text": "Le vieux général {1} (conduire) ses hommes jusqu'au col, où il {2} (mourir) au combat.",
+      "blanks": [
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisit"
+          ],
+          "hint": "passé simple, 3e pers. sing., radical spécial en -is- → conduisit"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing., famille en -u → mourut"
+        }
+      ],
+      "explanation": "« conduire » has the special passé simple stem « conduis- » → « il conduisit » (like « il produisit », « il traduisit »). « mourir » follows the « -u » family with the stem « mour- » → « il mourut » (not the present « il meurt »). Both are single completed actions, the hallmark of the passé simple in written narration."
     }
   ]
 }

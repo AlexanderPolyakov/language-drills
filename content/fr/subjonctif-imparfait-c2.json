@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi voulait que son fils {1} avec sagesse après lui.",
+      "blanks": [
+        {
+          "answer": "régnât",
+          "options": [
+            "régnait",
+            "régna",
+            "régnât"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « vouloir que » au passé"
+        }
+      ],
+      "explanation": "« vouloir que » always governs the subjunctive, so the indicatif forms are excluded: « régnait » (imparfait de l'indicatif) and « régna » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulait » is in the past and the reign is posterior to it, so literary concordance requires the subjonctif imparfait of the -ER verb « régner »: « qu'il régnât » — built on the passé simple stem, 3e pers. sing. ending -ât."
+    },
+    {
+      "text": "Le maître d'armes exigeait que son jeune élève lui {1} sans jamais discuter.",
+      "blanks": [
+        {
+          "answer": "obéît",
+          "options": [
+            "obéissait",
+            "obéit",
+            "obéît"
+          ],
+          "hint": "subjonctif imparfait d'un verbe du 2e groupe (-ît), après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif is impossible: « obéissait » (imparfait de l'indicatif) and « obéit » (passé simple / présent de l'indicatif, without circumflex) are both wrong after this trigger. The main verb « exigeait » is in the past and the action is simultaneous, so concordance calls for the subjonctif imparfait of the 2nd-group verb « obéir »: « qu'il obéît » — the circumflex distinguishes it from the indicative « obéit »."
+    },
+    {
+      "text": "Il aurait fallu qu'il {1} deviner leurs intentions pour déjouer le complot.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (-ût), après « il aurait fallu que »"
+        }
+      ],
+      "explanation": "« il aurait fallu que » (conditionnel passé) governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow the trigger. After a past/conditional main verb, a simultaneous action takes the subjonctif imparfait of « pouvoir »: « qu'il pût » — 3e pers. sing. of the « -u » family, marked by the circumflex against the indicative « put »."
+    },
+    {
+      "text": "Il regrettait qu'elle {1} sans lui avoir dit adieu.",
+      "blanks": [
+        {
+          "answer": "fût partie",
+          "options": [
+            "était partie",
+            "fut partie",
+            "fût partie"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, sujet féminin singulier"
+        }
+      ],
+      "explanation": "« regretter que » takes the subjunctive, so the indicatif forms are excluded: « était partie » (plus-que-parfait de l'indicatif) and « fut partie » (passé antérieur de l'indicatif) are both ungrammatical after this trigger. Her leaving is ANTERIOR to the past reference « regrettait », so strict concordance requires the subjonctif plus-que-parfait « qu'elle fût partie » — « partir » takes être, so the participle agrees with the feminine subject (« partie »), and the circumflex on « fût » marks the subjunctive."
     }
   ]
 }

@@ -146,6 +146,27 @@
         { "cue": "finish", "answer": ["had finished"], "hint": "wish + past perfect for a regret about the past" }
       ],
       "explanation": "To regret that something did not happen in the past, we use 'wish + past perfect' ('had finished'); the speaker is sorry the roof was unfinished when the storm came."
+    },
+    {
+      "text": "If I had accepted their offer last spring, I {1} (earn) a much higher salary today.",
+      "blanks": [
+        { "cue": "earn", "answer": ["would be earning", "would earn"], "hint": "past condition, present result: would + base / would be -ing" }
+      ],
+      "explanation": "A past condition ('had accepted') with a result located in the present ('today') is a mixed conditional taking 'would + base verb' (or 'would be earning') in the main clause, because the result holds now."
+    },
+    {
+      "text": "If Tom weren't so stubborn, he {1} (apologise) to her weeks ago.",
+      "blanks": [
+        { "cue": "apologise", "answer": ["would have apologised", "would have apologized"], "hint": "present condition, past result: would have + past participle" }
+      ],
+      "explanation": "A general, ongoing present characteristic ('weren't so stubborn') combined with a past result ('weeks ago') uses 'would have + past participle' in the main clause."
+    },
+    {
+      "text": "I wish I {1} (know) how to swim; everyone else is heading into the sea without me.",
+      "blanks": [
+        { "cue": "know", "answer": ["knew"], "hint": "wish + past simple for a present situation" }
+      ],
+      "explanation": "To express a wish about a present state of affairs, we use 'wish + past simple' ('knew'); the speaker is sorry they cannot swim now."
     }
   ]
 }
