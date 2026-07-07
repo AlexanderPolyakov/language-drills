@@ -81,6 +81,16 @@
       "prompt": "Les retards et les annulations exaspèrent les usagers. (mettre en relief le sujet pluriel avec « ce sont »)",
       "answer": ["Ce sont les retards et les annulations qui exaspèrent les usagers."],
       "explanation": "To emphasise a PLURAL subject (« les retards et les annulations »), careful written French uses the agreeing presentative « ce sont » (not « c'est ») directly before the plural noun phrase, followed by « qui »: « Ce sont les retards et les annulations QUI exaspèrent les usagers ». « Ce sont » agrees in number with the following plural, and the verb of the relative clause keeps its plural form because « qui » carries the original plural subject."
+    },
+    {
+      "prompt": "Je pense constamment à toi. (mettre en relief le complément de personne « à toi » avec « c'est… que »)",
+      "answer": ["C'est à toi que je pense constamment."],
+      "explanation": "When the highlighted element is a PERSON introduced by a preposition, the whole prepositional group is clefted with « c'est … que », keeping the preposition before the STRESSED pronoun: « C'est à toi que je pense » (never « c'est à tu »). This differs from a THING complement of « penser à », which would be foregrounded with « ce à quoi » (« Ce à quoi je pense, c'est… »). For a person, French highlights the group directly as « c'est à + pronom tonique + que », and « que » is the relative pronoun of the clefted clause (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "Je réclame la justice, non la vengeance. (mettre en relief le COD par l'emphase négative « ce n'est pas… que…, mais »)",
+      "answer": ["Ce n'est pas la vengeance que je réclame, mais la justice."],
+      "explanation": "The negative cleft « ce n'est pas … que …, mais … » foregrounds a direct object by first rejecting the wrong term and then supplying the right one: « Ce n'est pas la vengeance que je réclame, mais la justice ». As in any « c'est … que » cleft on a COD, « que » is the relative pronoun standing for the clefted object, and the presentative simply takes the negation (« ce n'est pas »), staying invariable. This antithetical device (« non pas X, mais Y ») is a common emphatic structure in careful written French."
     }
   ]
 }

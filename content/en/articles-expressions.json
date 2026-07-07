@@ -45,6 +45,31 @@
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
       ],
       "explanation": "Meals take no article: have breakfast, have lunch, have dinner."
+    },
+    {
+      "text": "After the accident he spent a month in {1} hospital, and the other driver ended up in {2} prison.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "BrE: there as a patient" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "there for its purpose" }
+      ],
+      "explanation": "In British English 'in hospital' and 'in prison' take no article when someone is there for the institution's purpose (as a patient, as a prisoner) — American English prefers 'in the hospital'."
+    },
+    {
+      "text": "They play {1} football twice {2} week.",
+      "blanks": [
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "sports and games" },
+        { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "a = 'per'" }
+      ],
+      "explanation": "Sports and games take no article ('play football', 'play chess'); in expressions of frequency 'a' means 'per' — 'twice a week'."
+    },
+    {
+      "text": "On {1} whole, she learned the poem by {2} heart before {3} end of term.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "'on the whole' is fixed" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "'by heart' is fixed" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "'the end of ...'" }
+      ],
+      "explanation": "'On the whole' (in general) and 'by heart' (from memory) are fixed: the first keeps 'the', the second takes no article, while 'the end of' always takes 'the'."
     }
   ]
 }

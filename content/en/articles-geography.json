@@ -45,6 +45,23 @@
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "deserts" }
       ],
       "explanation": "Deserts take 'the' (the Sahara Desert, the Gobi Desert)."
+    },
+    {
+      "text": "We sailed across {1} Mediterranean to {2} Sicily and then on to {3} Canary Islands.",
+      "blanks": [
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "seas and oceans" },
+        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "a single island" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "a group of islands" }
+      ],
+      "explanation": "Seas and oceans take 'the' (the Mediterranean); a single island takes no article (Sicily); but groups of islands take 'the' (the Canary Islands)."
+    },
+    {
+      "text": "{1} Lake Geneva lies in {2} west of Switzerland.",
+      "blanks": [
+        { "answer": "—", "options": ["A", "An", "The", "—"], "hint": "lakes named with 'Lake'" },
+        { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "points of the compass" }
+      ],
+      "explanation": "Lakes take no article when named with 'Lake' (Lake Geneva, Lake Como); regions defined by a compass point take 'the' (the west, the north)."
     }
   ]
 }
