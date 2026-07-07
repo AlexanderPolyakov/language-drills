@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "After she had submitted her doctoral thesis, she finally took a long holiday.",
+      "instruction": "Rewrite using a perfect participle clause to show the first action was completed before the second, beginning with 'Having'.",
+      "answer": [
+        "Having submitted her doctoral thesis, she finally took a long holiday.",
+        "Having submitted her doctoral thesis she finally took a long holiday"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having + past participle' marks anteriority: the submission was completed before the holiday began, replacing 'After she had submitted'. The understood subject is 'she', the subject of the main clause, so the clause does not dangle."
+    },
+    {
+      "prompt": "The paintings that were discovered in the attic turned out to be clever forgeries.",
+      "instruction": "Rewrite using a reduced relative clause built on a past (passive) participle, dropping 'that were'.",
+      "answer": [
+        "The paintings discovered in the attic turned out to be clever forgeries.",
+        "The paintings discovered in the attic turned out to be clever forgeries"
+      ],
+      "placeholder": "The paintings discovered…",
+      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were discovered' becomes 'discovered'. This is a reduced relative clause modifying 'the paintings', not an adverbial one, and because it is defining no commas are used."
+    },
+    {
+      "prompt": "Because it stands on a steep hill, the castle is visible for miles around.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Standing'.",
+      "answer": [
+        "Standing on a steep hill, the castle is visible for miles around.",
+        "Standing on a steep hill the castle is visible for miles around"
+      ],
+      "placeholder": "Standing…",
+      "explanation": "A causal clause ('Because it stands on a hill') reduces to an -ing participle clause expressing reason: 'Standing on a steep hill'. The understood subject of the participle is 'the castle', the subject of the main clause, so the modifier does not dangle."
     }
   ]
 }

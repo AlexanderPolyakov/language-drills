@@ -149,6 +149,27 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les explorateurs {1} (rentrer) plus tôt, ils {2} (échapper) à la tempête.",
+      "blanks": [
+        {
+          "cue": "rentrer",
+          "answer": [
+            "étaient rentrés",
+            "étaient rentrées"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe de mouvement → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "échapper",
+          "answer": [
+            "auraient échappé"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., « échapper à » → auxiliaire avoir, pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « rentrer » is a movement verb conjugated with être, so its participle AGREES with the plural subject « les explorateurs »: « étaient rentrés » (masculine/mixed) or « étaient rentrées » (all-feminine). « échapper à quelque chose » is built with avoir and takes an INDIRECT object (« à la tempête »), so there is no participle agreement: the conditionnel passé is simply « auraient échappé »."
     }
   ]
 }

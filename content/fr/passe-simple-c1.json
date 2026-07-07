@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le prisonnier ne {1} (pouvoir) s'échapper, car nul ne {2} (savoir) où il était enfermé.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "« pouvoir » belongs to the « -u » family of the passé simple → 3rd singular « il put », and « savoir » likewise → « il sut ». Neither carries a circumflex in the 3rd person (the circumflex marks only the nous/vous forms « pûmes/pûtes », « sûmes/sûtes »). Both report single, completed narrative actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le roi {1} (recevoir) l'ambassadeur avec faste, puis {2} (écrire) sur-le-champ une longue réponse.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant le u)"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écrivi-"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family → 3rd singular « il reçut »: the cédille is required so that the « c » keeps its soft [s] sound before « u ». « écrire » has the special passé simple stem « écrivi- » → « il écrivit ». Neither takes a circumflex in the 3rd person singular. Both narrate punctual, completed actions in this literary récit."
     }
   ]
 }

@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he simply could not remember where he had left the keys.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As much",
+            "However",
+            "Even though"
+          ],
+          "hint": "fixed concessive idiom: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom (fronted bare verb + 'as' + subject + 'might/may') meaning 'however hard he tried'. 'As much' inverts the words and cannot precede 'he might'; 'However' requires a following adjective or adverb ('However hard'); 'Even though' introduces an ordinary finite clause and cannot licence the fronted bare verb 'try' that the idiom depends on."
+    },
+    {
+      "text": "The scheme is expensive and technically risky. {1}, the board has decided to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "fixed concessive disjunct standing alone before a comma: 'that may be so, but'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive disjunct meaning 'even so / that may be true, but', which stands alone before a comma and links back to the previous sentence. 'Even though' is a subordinator that must introduce a finite clause within the same sentence, not stand alone; 'Much as' requires a following subject + verb; 'Notwithstanding', used as a preposition here, would need a following noun phrase, and its adverbial 'nevertheless' sense is not used in this fronted position."
     }
   ]
 }
