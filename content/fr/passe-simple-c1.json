@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les sentinelles ne {1} (pouvoir) réagir à temps et ne {2} (savoir) que penser de cette étrange apparition.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "purent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → purent"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u, radical su- → surent"
+        }
+      ],
+      "explanation": "Both « pouvoir » and « savoir » belong to the irregular « -u » family: 3rd plural « ils purent » and « ils surent ». Their passé simple stems (« pu- », « su- ») are unrelated to their present stems, and, like all « -u » verbs, they carry no circumflex in the 3rd person plural (the circumflex marks only the nous/vous forms « nous pûmes », « vous sûtes »). Both report single, completed events in this literary récit."
+    },
+    {
+      "text": "Le moine {1} (lire) le vieux parchemin à voix haute, puis {2} (écrire) sa réponse d'une main tremblante.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical lu- → lut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        }
+      ],
+      "explanation": "« lire » follows the « -u » family with the stem « lu- » → « il lut ». « écrire » keeps its special stem « écriv- » → « il écrivit » (like « il vécut » is built on « véc- », the passé simple stem need not match the infinitive). Both narrate single, completed actions in the past, the characteristic use of the passé simple in written narration."
     }
   ]
 }

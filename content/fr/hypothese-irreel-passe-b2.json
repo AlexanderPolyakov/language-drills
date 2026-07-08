@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si elle {1} (se laver) les mains en rentrant, elle {2} (ne pas contracter) cette infection.",
+      "blanks": [
+        {
+          "cue": "se laver",
+          "answer": [
+            "s'était lavé"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal → être, mais COD « les mains » postposé → participe invariable"
+        },
+        {
+          "cue": "ne pas contracter",
+          "answer": [
+            "n'aurait pas contracté"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. sing., auxiliaire avoir, COD « cette infection » postposé → pas d'accord"
+        }
+      ],
+      "explanation": "A key trap of pronominal agreement. « se laver » is conjugated with être, but here « se » is an INDIRECT object (« laver les mains à soi-même »), so the participle does NOT automatically agree with the subject: it agrees only with a preceding DIRECT object. The direct object « les mains » FOLLOWS the verb, so « lavé » stays invariable → « s'était lavé ». (Contrast « les mains qu'elle s'était lavées », where the direct object « que » precedes and forces agreement — and « se blesser », where « se » is itself the direct object and the participle agrees with the subject.) The result clause uses « contracter » with avoir; its object « cette infection » is postposed, so there is no agreement, and the negation wraps the auxiliary: « n'aurait pas contracté »."
     }
   ]
 }

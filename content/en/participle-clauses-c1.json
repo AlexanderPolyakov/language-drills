@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She calmed the frightened child. She spoke to him in a soft, steady voice.",
+      "instruction": "Combine into one sentence using a bare present (-ing) participle clause of means/manner (not a 'by' phrase), placed after the main clause (', speaking…').",
+      "answer": [
+        "She calmed the frightened child, speaking to him in a soft, steady voice.",
+        "She calmed the frightened child speaking to him in a soft, steady voice"
+      ],
+      "placeholder": "…, speaking…",
+      "explanation": "A bare -ing clause can express the means or manner by which the main action is accomplished, doing the work of 'by speaking…' without the preposition: 'speaking to him in a soft voice' tells us how she calmed the child. The understood subject is 'she', the subject of the main clause, so the participle attaches correctly and does not dangle. Unlike a result clause ('…, forcing…'), this clause describes the method of the main verb rather than its consequence."
+    },
+    {
+      "prompt": "The wing of the museum, which is being renovated, will remain closed until spring.",
+      "instruction": "Rewrite the relative clause as a reduced relative built on 'being + past participle' (drop 'which is').",
+      "answer": [
+        "The wing of the museum, being renovated, will remain closed until spring.",
+        "The wing of the museum being renovated will remain closed until spring"
+      ],
+      "placeholder": "…, being renovated, …",
+      "explanation": "A passive continuous relative clause ('which is being renovated') reduces to 'being + past participle': 'being renovated'. Here 'being' preserves the sense of an action in progress that a plain past participle ('renovated') would lose, distinguishing an ongoing process from a finished state. This is a reduced relative clause modifying 'the wing', so the commas of the non-defining original are kept."
+    },
+    {
+      "prompt": "The last of the paperwork was signed. The delegates finally rose to leave.",
+      "instruction": "Combine using a 'With + noun + past participle' absolute construction at the front, beginning with 'With'.",
+      "answer": [
+        "With the last of the paperwork signed, the delegates finally rose to leave.",
+        "With the last of the paperwork signed the delegates finally rose to leave"
+      ],
+      "placeholder": "With…",
+      "explanation": "The absolute construction 'With + noun + past participle' states a completed, passive circumstance that sets the scene for the main clause: 'With the paperwork signed' = 'now that the paperwork had been signed'. Because the construction carries its own subject ('the last of the paperwork'), it need not share the subject of the main clause ('the delegates') and so cannot dangle. The past participle 'signed' marks the sub-event as both passive and already complete."
     }
   ]
 }

@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "La vieille femme laissa une lanterne à la fenêtre pour que son petit-fils {1} sans crainte à travers la lande.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive (purpose clause), so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « laissa » is a past tense and the coming is posterior to it, so literary concordance requires the subjonctif imparfait of venir, « qu'il vînt » — note the circumflex on the nasal form « vînt », which distinguishes it from the indicative passé simple « vint »."
+    },
+    {
+      "text": "Ce fut le seul obstacle que le vieux capitaine n'{1} jamais pu contourner.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « le seul … que », antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … que » (an exclusive antecedent, like a superlative) takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The failure to circumvent the obstacle is anterior to the past reference « ce fut », so strict concordance requires the subjonctif plus-que-parfait « qu'il n'eût pu contourner » — the auxiliary « eût » carries the distinguishing circumflex that marks the subjunctive against the indicative « eut »."
     }
   ]
 }
