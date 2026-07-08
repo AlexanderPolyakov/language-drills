@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the poverty figures stubbornly refuse to fall.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "Much as",
+            "For all",
+            "Whatever",
+            "However"
+          ],
+          "hint": "___ + much + subject + verb = no amount of it changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of spending alters the result. 'Much as' is followed directly by a verb of feeling ('Much as I sympathise'), so it cannot precede 'much'; 'For all' governs a bare noun phrase, not 'much + clause'; 'Whatever' selects a noun ('Whatever sum'), not the degree adverb 'much', so only 'However' fits the 'much + subject + verb' complementation."
+    },
+    {
+      "text": "{1} I sympathise with your predicament, the regulations leave me no discretion whatsoever.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "As much",
+            "Albeit",
+            "Notwithstanding",
+            "Much as"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' ('Much as I sympathise') fronts the verb of feeling and means 'although I greatly sympathise'. 'As much' merely inverts the words and cannot open a concessive clause; 'Albeit' introduces a phrase, not a finite clause with its own subject and verb; 'Notwithstanding' governs a noun phrase ('Notwithstanding my sympathy'), not the clause 'I sympathise'."
+    },
+    {
+      "text": "{1} its impressive specifications on paper, the device proved hopelessly unreliable in daily use.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "Much as",
+            "For all",
+            "However",
+            "Granted"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all its impressive specifications' = 'despite its specifications'. 'Much as' requires a following subject + verb, not a bare noun phrase; 'However' needs a following adjective/adverb ('However impressive'); 'Granted' introduces a conceded clause ('Granted that its specifications are impressive'), not a fronted noun phrase."
+    },
+    {
+      "text": "{1} that the early results were disappointing, the trial still yielded data of lasting value.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Albeit",
+            "Despite",
+            "Granted",
+            "Much as"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point before the counter-argument: 'Granted that the early results were disappointing, the trial still…'. 'Albeit' cannot take a finite 'that'-clause; 'Despite' governs a noun phrase or -ing form, never a 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the results disappointed'), not by the complementiser 'that'."
+    },
+    {
+      "text": "The surgery brought her a marked improvement in mobility, {1} a hard-won and gradual one.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "albeit",
+            "much as",
+            "granted",
+            "notwithstanding"
+          ],
+          "hint": "introduces a concessive phrase (no finite verb), here 'a … one'"
+        }
+      ],
+      "explanation": "'Albeit' introduces a concessive phrase qualifying what precedes it: 'a marked improvement…, albeit a hard-won and gradual one'. 'Much as' and 'granted' both require a following subject + finite verb, which the bare noun phrase 'a hard-won and gradual one' lacks; 'notwithstanding' would need to govern that noun phrase as a plain preposition meaning 'in spite of', which reverses the intended 'though it was' sense."
     }
   ]
 }

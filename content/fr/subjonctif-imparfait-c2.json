@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître voulut que le jeune élève {1} sa leçon sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so any indicatif is excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « voulut » is a passé simple (past) and the recitation is simultaneous, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât », built on the passé simple stem with the ending -ât."
+    },
+    {
+      "text": "Les anciens statuts exigeaient que tous les membres {1} à main levée.",
+      "blanks": [
+        {
+          "answer": "votassent",
+          "options": [
+            "votaient",
+            "votassent",
+            "votèrent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « exiger que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so the indicatif forms are excluded: « votaient » (imparfait de l'indicatif) and « votèrent » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « exigeaient » is in the past, so the -ER verb « voter » takes the subjonctif imparfait 3rd plural « qu'ils votassent » — ending in -assent, built on the passé simple stem."
+    },
+    {
+      "text": "Quoiqu'il {1} à contrecœur, le jeune lieutenant obéit sans un mot.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif is impossible: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « obéit » is in the past and the concession is simultaneous, so literary concordance requires the subjonctif imparfait « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "Le capitaine craignait que la tempête n'{1} déjà emporté les dernières provisions.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eût",
+            "eut"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « craindre que » avec « ne » explétif, antériorité"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive (here with the « ne » explétif), so the indicatif auxiliary is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, sans circonflexe) cannot follow it. The feared event is ANTERIOR to the past reference « craignait », so strict concordance requires the subjonctif plus-que-parfait « qu'elle eût emporté » — note the circumflex on « eût », which marks the subjunctive against the indicative « eut »."
     }
   ]
 }

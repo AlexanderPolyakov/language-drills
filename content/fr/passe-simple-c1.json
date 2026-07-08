@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le cavalier {1} (courir) jusqu'au château et {2} (recevoir) sur-le-champ les ordres du roi.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant le u → reçut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family with the stem « cour- » → 3rd singular « il courut ». « recevoir » also follows the « -u » family → « il reçut », where the « c » takes a cédille before « u » to keep the [s] sound. Both narrate single, completed actions in this literary récit."
+    },
+    {
+      "text": "L'écrivain {1} (écrire) une longue lettre où il {2} (craindre) d'en avoir trop dit.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv-"
+        },
+        {
+          "cue": "craindre",
+          "answer": [
+            "craignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical craign-"
+        }
+      ],
+      "explanation": "« écrire » has the irregular passé simple stem « écriv- » → « il écrivit ». « craindre », like all verbs in -indre, takes the stem « craign- » → « il craignit » (not « craindit »). Both report completed narrative actions, the hallmark of the passé simple."
+    },
+    {
+      "text": "Le cocher {1} (conduire) l'attelage jusqu'au port, où il {2} (connaître) enfin un peu de repos.",
+      "blanks": [
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical conduis-"
+        },
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut, sans circonflexe"
+        }
+      ],
+      "explanation": "« conduire » has the passé simple stem « conduis- » → « il conduisit ». « connaître » follows the « -u » family with the stem « conn- » → « il connut »; note that the circumflex of the infinitive « connaître » disappears in the 3rd-person passé simple. Both express single completed actions in written narration."
     }
   ]
 }

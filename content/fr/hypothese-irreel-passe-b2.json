@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu avais ouvert le coffre, tu {1} (retrouver) les bijoux que ta grand-mère t'{2} (léguer).",
+      "blanks": [
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurais retrouvé"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « les bijoux » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "léguer",
+          "answer": [
+            "avait légués"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les bijoux, masc. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé. With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. For « retrouver », the object « les bijoux » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurais retrouvé » (an agreeing « retrouvés » would be wrong here). In « les bijoux que ta grand-mère t'avait légués », the relative pronoun « que » = « les bijoux » (masculine plural) precedes « léguer », so the plus-que-parfait MUST agree: « légués »."
+    },
+    {
+      "text": "Si les infirmières {1} (arriver) plus tôt, elles {2} (rester) au chevet du malade toute la nuit.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "étaient arrivées"
+          ],
+          "hint": "plus-que-parfait, verbe de mouvement → auxiliaire être, accord avec le sujet féminin pluriel"
+        },
+        {
+          "cue": "rester",
+          "answer": [
+            "seraient restées"
+          ],
+          "hint": "conditionnel passé, verbe d'état → auxiliaire être, accord avec « les infirmières »"
+        }
+      ],
+      "explanation": "Irréel du passé. Both « arriver » (movement) and « rester » (state) are conjugated with être, so the past participle AGREES with the feminine plural subject « les infirmières ». The « si » clause takes the plus-que-parfait « étaient arrivées » and the result clause the conditionnel passé « seraient restées » — both participles carry the feminine-plural « -es »."
+    },
+    {
+      "text": "Si elles {1} (se rencontrer) plus tôt, elles {2} (devenir) sans doute inséparables.",
+      "blanks": [
+        {
+          "cue": "se rencontrer",
+          "answer": [
+            "s'étaient rencontrées"
+          ],
+          "hint": "plus-que-parfait, pronominal réciproque → auxiliaire être, « se » = COD, accord avec le sujet féminin pluriel"
+        },
+        {
+          "cue": "devenir",
+          "answer": [
+            "seraient devenues"
+          ],
+          "hint": "conditionnel passé, verbe d'état → auxiliaire être, accord avec le sujet « elles »"
+        }
+      ],
+      "explanation": "Irréel du passé. « se rencontrer » is a reciprocal pronominal verb (« l'une l'autre ») where « se » is the DIRECT object, so the participle AGREES with the feminine plural subject: plus-que-parfait « s'étaient rencontrées ». « devenir » is a state verb conjugated with être, so its conditionnel passé also agrees with « elles »: « seraient devenues ». All pronominal verbs and « devenir » take être, never avoir."
     }
   ]
 }

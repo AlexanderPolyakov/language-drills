@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because she lived only a short walk from the office, she rarely bothered with the bus.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Living'.",
+      "answer": [
+        "Living only a short walk from the office, she rarely bothered with the bus.",
+        "Living only a short walk from the office she rarely bothered with the bus"
+      ],
+      "placeholder": "Living…",
+      "explanation": "A causal clause ('Because she lived…') reduces to a present participle clause expressing reason: 'Living only a short walk from the office' = 'Because/Since she lived…'. The subject 'she' is shared with the main clause, so the participle does not dangle; a present participle is used because the state is contemporaneous with the main verb, not prior to it."
+    },
+    {
+      "prompt": "She had locked every door and window. Only then did she feel able to relax.",
+      "instruction": "Combine using a perfect participle clause to show the locking was completed first, beginning with 'Having'.",
+      "answer": [
+        "Having locked every door and window, she finally felt able to relax.",
+        "Having locked every door and window she finally felt able to relax"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having locked' marks the securing of the house as complete before the main event, capturing the 'only then' sequence. A plain -ing clause ('Locking every door and window') would wrongly suggest the two happened at once rather than one after the other."
+    },
+    {
+      "prompt": "The novel was translated into more than thirty languages. It brought its author sudden international fame.",
+      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Translated'.",
+      "answer": [
+        "Translated into more than thirty languages, the novel brought its author sudden international fame.",
+        "Translated into more than thirty languages the novel brought its author sudden international fame"
+      ],
+      "placeholder": "Translated…",
+      "explanation": "A passive clause ('which was translated into more than thirty languages') reduces to the bare past participle 'Translated'. The understood subject is 'the novel', the subject of the main clause, so the modifier does not dangle; the -ed form carries the passive meaning that the novel was translated, not that it translated anything."
+    },
+    {
+      "prompt": "The train which is arriving at platform four is the delayed express to Edinburgh.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) instead of 'which is arriving'.",
+      "answer": [
+        "The train arriving at platform four is the delayed express to Edinburgh.",
+        "The train arriving at platform four is the delayed express to Edinburgh"
+      ],
+      "placeholder": "The train arriving…",
+      "explanation": "A defining relative clause with 'which/who + be + -ing' can be reduced to the bare participle: 'which is arriving' becomes 'arriving'. This is a reduced relative clause modifying 'the train', not an adverbial one, so no comma is introduced and the active -ing form is kept because the train is doing the arriving."
+    },
+    {
+      "prompt": "The documents that were leaked to the press have forced the company onto the defensive.",
+      "instruction": "Rewrite using a reduced relative clause built on a past (passive) participle (drop 'that were').",
+      "answer": [
+        "The documents leaked to the press have forced the company onto the defensive.",
+        "The documents leaked to the press have forced the company onto the defensive"
+      ],
+      "placeholder": "The documents leaked…",
+      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were leaked' becomes 'leaked'. This reduced relative modifies 'the documents' and, being defining, takes no commas; the -ed form preserves the passive sense that the documents were leaked by someone."
     }
   ]
 }
