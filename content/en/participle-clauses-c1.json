@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He was the youngest of five children. He was often overlooked at family gatherings.",
+      "instruction": "Combine using a present participle clause expressing reason (cause), reducing 'be' to its participle and beginning with 'Being'.",
+      "answer": [
+        "Being the youngest of five children, he was often overlooked at family gatherings.",
+        "Being the youngest of five children he was often overlooked at family gatherings"
+      ],
+      "placeholder": "Being the youngest…",
+      "explanation": "A causal clause ('Because he was the youngest') reduces to an -ing clause built on the copula: 'be' becomes 'Being'. Unlike a simultaneous -ing clause, this one gives the reason for the main clause, and the understood subject 'he' is shared with the main clause, so it does not dangle."
+    },
+    {
+      "prompt": "The soldiers stood rigidly to attention. Their eyes were fixed on the horizon.",
+      "instruction": "Combine using a 'with + noun + past participle' absolute construction to give the attendant circumstances, placed after the main clause (', with their eyes…').",
+      "answer": [
+        "The soldiers stood rigidly to attention, with their eyes fixed on the horizon.",
+        "The soldiers stood rigidly to attention with their eyes fixed on the horizon"
+      ],
+      "placeholder": "…, with their eyes fixed…",
+      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances from a passive idea ('their eyes were fixed'): the form of 'be' is dropped, leaving the bare past participle 'fixed'. Because the construction carries its own subject ('their eyes'), it does not need to share the subject of the main clause and so does not dangle."
     }
   ]
 }

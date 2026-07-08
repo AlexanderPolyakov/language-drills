@@ -166,6 +166,54 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Hard",
+            "Much",
+            "However"
+          ],
+          "hint": "fronted bare verb + as + subject + might/could = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the pattern 'bare verb + as + subject + might/could', meaning 'however hard he tried'. 'Hard' would need 'though' or a preceding 'However' ('However hard he tried'), not a following 'as he might'; 'Much as' is followed directly by a verb of feeling ('Much as he tried'), not by 'as he might'; 'However' takes an adjective/adverb ('However hard'), not this verb-fronting slot."
+    },
+    {
+      "text": "{1} how carefully you plan the itinerary, something is bound to go wrong.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However much",
+            "For all",
+            "Much as"
+          ],
+          "hint": "___ + wh-word (how/what/who) + clause = regardless of"
+        }
+      ],
+      "explanation": "'No matter + wh-word (how/what/who) + clause' means 'regardless of': 'No matter how carefully you plan'. 'However much' takes a quantity or verb ('However much you plan'), not the adverb sequence 'how carefully'; 'For all' is followed by a noun phrase, not a wh-clause; 'Much as' needs a subject + verb directly, not the wh-word 'how'."
+    },
+    {
+      "text": "The scheme is costly and legally complex. {1}, the board is determined to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Granted that"
+          ],
+          "hint": "fixed conjunct = 'even so / nevertheless', standing before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless', which stands alone before a comma and concedes the previous sentence while introducing a contrasting main clause. 'Even though' and 'Granted that' must introduce a subordinate clause, not stand as a free-standing conjunct; 'Much as' requires a following subject + verb ('Much as the board wishes')."
     }
   ]
 }

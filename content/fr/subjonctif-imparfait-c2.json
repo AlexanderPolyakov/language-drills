@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi souhaita qu'un messager {1} sur-le-champ annoncer la victoire aux provinces.",
+      "blanks": [
+        {
+          "answer": "allât",
+          "options": [
+            "allait",
+            "alla",
+            "allât"
+          ],
+          "hint": "subjonctif imparfait d'« aller » (-ât), 3e pers. sing., après un principal au passé simple"
+        }
+      ],
+      "explanation": "« souhaiter que » triggers the subjunctive, so the indicatif forms are excluded: « allait » (imparfait de l'indicatif) and « alla » (passé simple de l'indicatif) cannot follow this trigger. The main verb « souhaita » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of aller: « qu'il allât » — the circumflex on « allât » distinguishes it from the indicative « alla »."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} fondre sur eux avant l'aube.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), après « craindre que » + ne explétif"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « craignait » is a past tense and the feared event is posterior, so strict concordance calls for the subjonctif imparfait of venir: « qu'elle vînt » — the circumflex distinguishes it from the indicative « vint »."
     }
   ]
 }

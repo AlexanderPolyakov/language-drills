@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieux roi {1} (mourir) au cœur de l'hiver, et nul ne {2} (pouvoir) le remplacer aussitôt.",
+      "blanks": [
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        },
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        }
+      ],
+      "explanation": "« mourir » follows the « -u » family with the stem « mour- » → « il mourut » (distinct from the past participle « mort »). « pouvoir » also belongs to the « -u » family → « il put » (no circumflex in the 3rd person singular; the circumflex marks only « pût », the subjonctif imparfait). Both report single, completed events in this literary récit."
+    },
+    {
+      "text": "L'enfant {1} (croire) au miracle et {2} (courir) vers la lumière sans hésiter.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family with the stem « cr- » → « il crut » (do not confuse it with the present « il croit »). « courir » likewise follows the « -u » family → « il courut ». Both narrate single, completed actions, the characteristic use of the passé simple in written narration."
     }
   ]
 }

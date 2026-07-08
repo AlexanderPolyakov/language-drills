@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Ces documents, tu les {1} (retrouver) aussitôt si tu les {2} (ranger) correctement.",
+      "blanks": [
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurais retrouvés"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir, accord avec le COD antéposé « les » (= les documents)"
+        },
+        {
+          "cue": "ranger",
+          "answer": [
+            "avais rangés"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., auxiliaire avoir, accord avec le COD antéposé « les » (= les documents)"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait « avais rangés » and the result clause the conditionnel passé « aurais retrouvés ». Both verbs use avoir, and in each the direct-object pronoun « les » (= « ces documents », masculine plural) precedes the verb, so the past participle MUST agree with it: « retrouvés » and « rangés » (the unagreed « retrouvé »/« rangé » would be wrong because the object is antéposé)."
     }
   ]
 }
