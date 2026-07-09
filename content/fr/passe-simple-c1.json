@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les marchands {1} (arriver) au port dès l'aube et {2} (recevoir) un accueil des plus chaleureux.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "arrivèrent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe en -ER → terminaison -èrent"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → reçurent (cédille devant u)"
+        }
+      ],
+      "explanation": "« arriver » is a regular -ER verb: its 3e personne du pluriel passé simple ends in -èrent → « ils arrivèrent ». « recevoir » belongs to the irregular « -u » family with the stem « reç- » → « ils reçurent » (the cédille preserves the [s] sound before -u). Both narrate single, completed events in this literary récit."
+    },
+    {
+      "text": "Le sage {1} (répondre) sans la moindre hésitation, puis {2} (écrire) sa sentence sur le parchemin.",
+      "blanks": [
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -RE → terminaison -it"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv-"
+        }
+      ],
+      "explanation": "« répondre » is a regular -RE verb: its 3e personne du singulier passé simple ends in -it → « il répondit ». « écrire » keeps the special stem « écriv- » → « il écrivit ». Neither takes a circumflex in the 3rd person singular, and both express punctual, completed actions typical of written narration."
     }
   ]
 }

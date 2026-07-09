@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi exigea que ses ministres {1} toute la nuit avant de rendre leur verdict.",
+      "blanks": [
+        {
+          "answer": "délibérassent",
+          "options": [
+            "délibéraient",
+            "délibérèrent",
+            "délibérassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « délibéraient » (imparfait de l'indicatif) and « délibérèrent » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past and the deliberation is posterior to the demand, so literary concordance requires the subjonctif imparfait of the -ER verb « délibérer », whose 3e personne du pluriel ends in -assent: « qu'ils délibérassent »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine se tenir debout, le vieux marin voulut hisser lui-même la voile.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so both indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans accent circonflexe) are excluded by the trigger. The main verb « voulut » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » is exactly what distinguishes the subjunctive from the indicative « put »."
     }
   ]
 }

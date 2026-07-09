@@ -131,7 +131,7 @@
       "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les fautes que tu avais commises », the relative pronoun « que » = « les fautes » (feminine plural) precedes « commettre », so the participle MUST agree: « commises » (« commis » without agreement is wrong here). For « éviter », the object « bien des fautes » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurais évité » (an agreeing « évitées » would be incorrect, since the object is not antéposed)."
     },
     {
-      "text": "Elle {1} (se blesser) gravement si les secours n'{2} (intervenir) pas si vite.",
+      "text": "Elle {1} (se blesser) gravement si les secours {2} (intervenir) si vite.",
       "blanks": [
         {
           "cue": "se blesser",
@@ -143,12 +143,34 @@
         {
           "cue": "intervenir",
           "answer": [
-            "étaient intervenus"
+            "n'étaient pas intervenus"
           ],
-          "hint": "plus-que-parfait, 3e pers. plur., verbe de mouvement → être, accord avec « les secours » (masculin), négation autour de l'auxiliaire"
+          "hint": "plus-que-parfait négatif, 3e pers. plur., verbe de mouvement → être ; « ne … pas » entoure l'auxiliaire ; accord avec « les secours » (masculin)"
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (rester) chez toi ce soir-là, jamais tu ne {2} (tomber) malade.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étais resté",
+            "étais restée"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "tomber",
+          "answer": [
+            "serais tombé",
+            "serais tombée"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., verbe de mouvement → auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. Both « rester » and « tomber » are conjugated with être, so the past participle AGREES with the subject « tu »: « étais resté » / « serais tombé » if « tu » is masculine, « étais restée » / « serais tombée » if feminine. The negation is fronted for emphasis, « ne » preceding the auxiliary of the result clause: « jamais tu ne serais tombé(e) malade »."
     }
   ]
 }

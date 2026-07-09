@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He realised that he was running dangerously late. He hailed the first taxi he saw.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause for the reason, beginning with 'Realising'.",
+      "answer": [
+        "Realising he was running dangerously late, he hailed the first taxi he saw.",
+        "Realising he was running dangerously late he hailed the first taxi he saw"
+      ],
+      "placeholder": "Realising…",
+      "explanation": "A causal clause ('Because he realised…') reduces to a present participle clause of reason: 'Realising he was running dangerously late' means 'Since he realised he was running late'. The understood subject of 'Realising' is 'he', the subject of the main clause, so the modifier attaches to the right noun and does not dangle."
+    },
+    {
+      "prompt": "The researchers had gathered enough evidence. They began to draft their conclusions.",
+      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
+      "answer": [
+        "Having gathered enough evidence, the researchers began to draft their conclusions.",
+        "Having gathered enough evidence the researchers began to draft their conclusions"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having gathered' makes explicit that the evidence had been collected before the drafting started, a sequence a plain -ing clause ('Gathering enough evidence') would blur. The shared subject 'the researchers' is named once in the main clause, so the participle is not left dangling."
+    },
+    {
+      "prompt": "The paintings were discovered in a dusty attic. They fetched millions at auction.",
+      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Discovered'.",
+      "answer": [
+        "Discovered in a dusty attic, the paintings fetched millions at auction.",
+        "Discovered in a dusty attic the paintings fetched millions at auction"
+      ],
+      "placeholder": "Discovered…",
+      "explanation": "A passive clause ('which were discovered in a dusty attic') reduces to the past participle alone: 'Discovered in a dusty attic'. The understood subject is 'the paintings', the subject of the main clause, so the participle modifies the right noun and does not dangle."
     }
   ]
 }

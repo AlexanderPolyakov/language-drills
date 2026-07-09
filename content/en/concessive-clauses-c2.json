@@ -166,6 +166,36 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} the board disliked the proposal, they could find no legal grounds to reject it.",
+      "blanks": [
+        {
+          "answer": "However much",
+          "options": [
+            "However much",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + subject + verb = to no matter what degree"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no degree of an attitude changes the outcome: 'However much the board disliked it' = 'no matter how much they disliked it'. 'For all' must be followed by a noun phrase ('For all their dislike'), not a finite clause; 'Albeit' introduces a reduced concessive phrase (an adjective or adverbial), never a full clause with its own subject and verb like 'the board disliked'."
+    },
+    {
+      "text": "The strenuous objections of the minority {1}, the assembly proceeded to an immediate vote.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "despite",
+            "albeit"
+          ],
+          "hint": "postposed after its noun phrase: NP + ___ = in spite of that NP"
+        }
+      ],
+      "explanation": "'Notwithstanding' is the one option that can be POSTPOSED, standing after the noun phrase it governs: 'The objections of the minority notwithstanding' = 'in spite of those objections'. 'Despite' is a preposition that must PRECEDE its noun ('despite the objections'), so it cannot sit after it; 'Albeit' introduces a following concessive phrase and can neither govern a preceding noun nor mean 'in spite of'."
     }
   ]
 }
