@@ -149,6 +149,67 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si j'{1} (savoir) la vérité, je te l'{2} (dire) aussitôt.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "avais su"
+          ],
+          "hint": "plus-que-parfait, 1re pers. sing., auxiliaire avoir — COD « la vérité » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "dire",
+          "answer": [
+            "aurais dite"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « l' » (= la vérité, féminin sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé. The « si » clause uses the plus-que-parfait of « savoir » with avoir → « avais su »; the object « la vérité » FOLLOWS the verb, so there is no agreement. The result clause uses the conditionnel passé of « dire » with avoir, but here the preceding direct object « l' » (= « la vérité », feminine singular) triggers agreement: « je te l'aurais dite » (« aurais dit » without the -e would be wrong, since the object is antéposé)."
+    },
+    {
+      "text": "Si les soldats {1} (obéir) aux ordres, ils {2} (ne pas tomber) dans l'embuscade.",
+      "blanks": [
+        {
+          "cue": "obéir",
+          "answer": [
+            "avaient obéi"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., auxiliaire avoir — « obéir à » n'a pas de COD, donc pas d'accord"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne seraient pas tombés"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. plur., verbe de mouvement → être, accord avec « les soldats » (masc. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « obéir (à) » is conjugated with avoir and governs an indirect object, so there is no direct object and no agreement → « avaient obéi ». « tomber » is a movement verb conjugated with être, so the past participle AGREES with the masculine-plural subject « les soldats » → « tombés »; the negation wraps the auxiliary → « ils ne seraient pas tombés »."
+    },
+    {
+      "text": "Si je {1} (se taire), tout {2} (se passer) autrement.",
+      "blanks": [
+        {
+          "cue": "se taire",
+          "answer": [
+            "m'étais tu",
+            "m'étais tue"
+          ],
+          "hint": "plus-que-parfait, 1re pers. sing., verbe pronominal → être, accord avec le sujet (masc. « tu » / fém. « tue »)"
+        },
+        {
+          "cue": "se passer",
+          "answer": [
+            "se serait passé"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, accord avec le sujet « tout » (masc. sing.)"
+        }
+      ],
+      "explanation": "Irréel du passé with two pronominal verbs, both conjugated with être. « se taire » is an essentially pronominal verb whose participle AGREES with the subject « je »: « m'étais tu » if the speaker is masculine, « m'étais tue » if feminine (both are valid, since the sentence does not fix the gender). « se passer » agrees with its subject « tout » (masculine singular) → « tout se serait passé autrement »."
     }
   ]
 }

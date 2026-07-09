@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieux marin {1} (connaître) bien des tempêtes, mais il {2} (répondre) toujours à l'appel du large.",
+      "blanks": [
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -RE → terminaison -it"
+        }
+      ],
+      "explanation": "« connaître » belongs to the « -u » family with the stem « conn- » → 3rd singular « il connut » (no circumflex in the 3rd person; the circumflex marks only « nous connûmes / vous connûtes »). « répondre » is a regular -RE verb → 3rd singular ends in -it → « il répondit ». Both narrate single, completed actions, the hallmark of the passé simple in written narration."
+    },
+    {
+      "text": "Dès qu'elle {1} (entendre) le cri, la mère {2} (courir) vers la rivière.",
+      "blanks": [
+        {
+          "cue": "entendre",
+          "answer": [
+            "entendit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -RE → terminaison -it"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        }
+      ],
+      "explanation": "« entendre » is a regular -RE verb → 3rd singular « elle entendit ». « courir » belongs to the « -u » family with the stem « cour- » → « elle courut » (je courus, il courut), with no circumflex in the 3rd person. Both report punctual, completed events in the narrative past."
+    },
+    {
+      "text": "Les moines {1} (écrire) la chronique à la lueur des cierges, puis la {2} (lire) à voix haute.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical écriv- → -irent"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → lurent"
+        }
+      ],
+      "explanation": "« écrire » has the irregular passé simple stem « écriv- » → 3rd plural « ils écrivirent » (il écrivit, ils écrivirent). « lire » follows the « -u » family → 3rd plural « ils lurent » (il lut, ils lurent). No circumflex appears in the 3rd person (it marks only « nous écrivîmes / lûmes »). Both express completed narrative actions."
     }
   ]
 }

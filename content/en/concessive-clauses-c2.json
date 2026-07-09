@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he simply could not recall where he had seen her before.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "Try as",
+            "However",
+            "As hard"
+          ],
+          "hint": "fixed idiom: ___ + subject + might/may = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as + subject + might (or may)' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might, he could not recall...'. 'Much as' must be followed by a lexical verb of feeling ('Much as I admire'), not the bare modal 'might'; 'However' requires a following adjective or adverb ('However hard'); 'As hard' reverses the required word order and cannot head the clause here."
+    },
+    {
+      "text": "The scheme is admittedly expensive. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Albeit",
+            "Be that as it may"
+          ],
+          "hint": "fixed conjunct linking back: 'even so / in spite of that', stands alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed sentence conjunct meaning 'even so / in spite of that', standing alone before a comma and pointing back to the previous sentence. 'Even though' and 'Much as' must introduce a subordinate clause within the same sentence (a subject and verb have to follow); 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} how meticulously the itinerary is planned, some delay always seems to creep in.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However much",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + how + adverb + subject + verb = irrespective of degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that the degree makes no difference to the outcome: 'No matter how meticulously... some delay creeps in'. 'However much' cannot precede 'how', since 'however' already incorporates it ('However meticulously'); 'Much as' must be followed directly by a verb of feeling, not by 'how'; 'For all' governs a noun phrase ('For all the planning'), not a 'how'-clause."
+    },
+    {
+      "text": "{1} the design were flawless, we would still lack the budget to bring it to market.",
+      "blanks": [
+        {
+          "answer": "Even if",
+          "options": [
+            "Much as",
+            "For all",
+            "Even if",
+            "Even though"
+          ],
+          "hint": "hypothetical concession pairing with 'still': ___ + subject + past-subjunctive verb"
+        }
+      ],
+      "explanation": "'Even if + clause' introduces a hypothetical concession, here signalled by the past-subjunctive 'were' and reinforced by 'still' in the main clause: 'Even if the design were flawless, we would still lack the budget'. 'Even though' marks a factual, not hypothetical, concession and clashes with the counterfactual 'were'; 'Much as' needs a following verb of feeling; 'For all' requires a noun phrase, not a finite clause."
+    },
+    {
+      "text": "The critics savaged the novel; it became, {1}, the best-selling book of the decade.",
+      "blanks": [
+        {
+          "answer": "for all that",
+          "options": [
+            "much as",
+            "for all that",
+            "even though",
+            "albeit"
+          ],
+          "hint": "parenthetical conjunct = 'nonetheless / in spite of that', sits between commas"
+        }
+      ],
+      "explanation": "'for all that' is an adverbial conjunct meaning 'nonetheless / in spite of that', inserted parenthetically between commas: 'it became, for all that, the best-selling book'. 'much as' and 'even though' must introduce a finite clause (subject + verb), so neither can sit as a bare parenthetical; 'albeit' has to introduce its own concessive phrase ('albeit reluctantly'), not stand alone as a conjunct."
     }
   ]
 }

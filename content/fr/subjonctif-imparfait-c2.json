@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux maître alluma un grand feu pour que ses disciples {1} l'écouter jusqu'à l'aube.",
+      "blanks": [
+        {
+          "answer": "vinssent",
+          "options": [
+            "vinssent",
+            "venaient",
+            "vinrent"
+          ],
+          "hint": "subjonctif imparfait de « venir » (-inssent), 3e pers. plur., après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (a purpose clause) always governs the subjunctive, so the indicatif forms are excluded: « venaient » (imparfait de l'indicatif) and « vinrent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « alluma » is in the past and the coming is POSTERIOR to it (the aim of the fire), so literary concordance requires the subjonctif imparfait of venir: « qu'ils vinssent » — note the double « ss » that distinguishes it from the indicative « vinrent »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine tenir debout, le blessé poursuivit sa route vers le fort.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans accent circonflexe) are both excluded by the trigger. The main verb « poursuivit » is in the past and the concessive state is simultaneous, so literary concordance gives the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes the subjunctive from the indicative « put »."
+    },
+    {
+      "text": "Le juge tint l'affaire pour perdue, à moins que le vieux notaire n'en {1} plus long.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « à moins que » (avec « ne » explétif)"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « tint » is in the past and the state is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » (« en savoir plus long ») — the circumflex on « sût » marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "De tous ses maîtres, il n'y eut personne qui {1} vraiment deviné son génie.",
+      "blanks": [
+        {
+          "answer": "eût deviné",
+          "options": [
+            "avait deviné",
+            "eût deviné",
+            "eut deviné"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après un antécédent négatif « il n'y eut personne qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on a NEGATIVE antecedent (« il n'y eut personne qui ») requires the subjunctive, so the indicatif is genuinely excluded: « avait deviné » (plus-que-parfait de l'indicatif) and « eut deviné » (passé antérieur de l'indicatif, no circumflex) are both wrong. The discerning of his genius is ANTERIOR to the past reference « il n'y eut », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût deviné » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
     }
   ]
 }

@@ -106,6 +106,60 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "While he was waiting for the bus, he skimmed through the morning paper.",
+      "instruction": "Rewrite keeping the conjunction 'While' but reducing the time clause to a present (-ing) participle.",
+      "answer": [
+        "While waiting for the bus, he skimmed through the morning paper.",
+        "While waiting for the bus he skimmed through the morning paper"
+      ],
+      "placeholder": "While waiting…",
+      "explanation": "A subordinating conjunction (while, before, after, since) may be kept in front of an -ing participle: 'While he was waiting' reduces to 'While waiting', dropping the subject and the form of 'be'. The understood subject stays 'he', the subject of the main clause, so the clause does not dangle. Unlike a bare -ing clause, the retained conjunction makes the temporal relation explicit."
+    },
+    {
+      "prompt": "As soon as she saw the exam results, she phoned her parents.",
+      "instruction": "Rewrite the time clause as an 'On + -ing' participle clause meaning 'as soon as / the moment that', beginning with 'On' (or 'Upon').",
+      "answer": [
+        "On seeing the exam results, she phoned her parents.",
+        "On seeing the exam results she phoned her parents",
+        "Upon seeing the exam results, she phoned her parents.",
+        "Upon seeing the exam results she phoned her parents"
+      ],
+      "placeholder": "On seeing…",
+      "explanation": "'On (or Upon) + -ing' reduces an 'as soon as / the moment that' clause and stresses that the second action followed immediately: 'On seeing the results' = 'As soon as she saw the results'. The understood subject is 'she', shared with the main clause. Unlike a plain simultaneous -ing clause, 'On + -ing' specifically marks immediate temporal succession rather than overlap."
+    },
+    {
+      "prompt": "The weather was fine, so we decided to walk to the coast.",
+      "instruction": "Combine using a nominative absolute construction (its own subject + an -ing participle, with no 'with' and no conjunction), beginning with 'The weather'.",
+      "answer": [
+        "The weather being fine, we decided to walk to the coast.",
+        "The weather being fine we decided to walk to the coast"
+      ],
+      "placeholder": "The weather being fine…",
+      "explanation": "The nominative (or 'absolute') construction 'noun + -ing participle' carries its own subject ('the weather'), distinct from the main-clause subject ('we'), so it does not dangle even though the subjects differ. 'The weather being fine' reduces 'As/Because the weather was fine' and supplies the reason or attendant circumstance. Unlike the 'with + noun + participle' pattern, the bare absolute takes no introductory 'with'."
+    },
+    {
+      "prompt": "Because he was a newcomer to the village, he was unfamiliar with its unwritten rules.",
+      "instruction": "Rewrite the reason clause as a participle clause built on 'being', beginning with 'Being'.",
+      "answer": [
+        "Being a newcomer to the village, he was unfamiliar with its unwritten rules.",
+        "Being a newcomer to the village he was unfamiliar with its unwritten rules"
+      ],
+      "placeholder": "Being a newcomer…",
+      "explanation": "A clause of the form 'Because + subject + be + complement' reduces to 'Being + complement': 'Because he was a newcomer' becomes 'Being a newcomer'. The -ing participle of 'be' carries the causal sense, and the understood subject remains 'he', the subject of the main clause. Because it reduces a stative be-clause rather than an action, no perfect or passive alternative is available here."
+    },
+    {
+      "prompt": "She had not received any reply to her first letter. She therefore wrote again.",
+      "instruction": "Combine using a negative perfect participle clause to show the prior circumstance, beginning with 'Not having'.",
+      "answer": [
+        "Not having received any reply to her first letter, she wrote again.",
+        "Not having received any reply to her first letter she wrote again",
+        "Not having received any reply to her first letter, she therefore wrote again.",
+        "Not having received any reply to her first letter she therefore wrote again"
+      ],
+      "placeholder": "Not having received…",
+      "explanation": "The negative perfect participle 'Not having + past participle' combines anteriority with negation: 'Not having received any reply' = 'Because she had not received any reply'. The perfect form ('having received') is required because the non-receipt was already established before she wrote again, and 'not' is placed before 'having' to negate the whole participle. The understood subject is 'she', shared with the main clause."
     }
   ]
 }
