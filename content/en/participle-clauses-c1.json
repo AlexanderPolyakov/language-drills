@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He had lost everything in the market crash. He was forced to rebuild his career from nothing.",
+      "instruction": "Combine using a perfect participle clause expressing the reason for the second event, beginning with 'Having'.",
+      "answer": [
+        "Having lost everything in the market crash, he was forced to rebuild his career from nothing.",
+        "Having lost everything in the market crash he was forced to rebuild his career from nothing"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having lost' here expresses reason as well as prior time: it reduces 'Because he had lost everything' to a participle clause. The completed sense of 'Having + past participle' shows the loss preceded and caused the situation in the main clause. The understood subject is 'he', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The cathedral, which dominates the old town, attracts thousands of visitors each summer.",
+      "instruction": "Rewrite using a reduced non-defining relative clause with a present (-ing) participle instead of 'which dominates', keeping the commas.",
+      "answer": [
+        "The cathedral, dominating the old town, attracts thousands of visitors each summer.",
+        "The cathedral dominating the old town attracts thousands of visitors each summer"
+      ],
+      "placeholder": "The cathedral, dominating…",
+      "explanation": "A non-defining relative clause with an active verb ('which dominates') can be reduced to a present participle even when there is no form of 'be' to drop: 'which dominates' becomes 'dominating'. This is a reduced relative clause modifying 'the cathedral', not an adverbial one, so the commas of the original non-defining clause are retained."
+    },
+    {
+      "prompt": "Once it is exposed to sunlight, the compound loses its distinctive colour within minutes.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "Once exposed to sunlight, the compound loses its distinctive colour within minutes.",
+        "Once exposed to sunlight the compound loses its distinctive colour within minutes"
+      ],
+      "placeholder": "Once exposed…",
+      "explanation": "The subordinating conjunction 'once' can be kept in front of a reduced participle clause for precision: 'Once it is exposed' reduces to 'Once exposed', dropping the subject and the form of 'be'. The understood subject remains 'the compound', the subject of the main clause, so the clause does not dangle."
+    },
+    {
+      "prompt": "As he was a meticulous planner, he had already anticipated every possible objection.",
+      "instruction": "Rewrite the reason clause as a present participle clause of reason at the front, beginning with 'Being'.",
+      "answer": [
+        "Being a meticulous planner, he had already anticipated every possible objection.",
+        "Being a meticulous planner he had already anticipated every possible objection"
+      ],
+      "placeholder": "Being…",
+      "explanation": "A causal clause built on the verb 'be' ('As he was a meticulous planner') reduces to the present participle 'Being': 'Being a meticulous planner' expresses the reason for the main clause. The understood subject is 'he', the subject of the main clause, so no dangling modifier results."
+    },
+    {
+      "prompt": "His work was finished at last. He allowed himself a rare evening off.",
+      "instruction": "Combine using an absolute construction WITHOUT 'with' — a noun phrase followed by a past participle — placed at the front, beginning with 'His work'.",
+      "answer": [
+        "His work finished at last, he allowed himself a rare evening off.",
+        "His work finished at last he allowed himself a rare evening off"
+      ],
+      "placeholder": "His work finished…,",
+      "explanation": "The absolute construction 'noun phrase + past participle' ('His work finished') carries its own subject ('his work'), which is different from the main-clause subject ('he'). Because it supplies that subject itself, it is not a dangling modifier even though its subject differs from that of the main clause; it means 'His work being finished / Now that his work was finished'."
     }
   ]
 }

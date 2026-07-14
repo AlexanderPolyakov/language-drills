@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il {1} parfaitement les lieux, le braconnier n'osa pas s'aventurer plus loin dans les ténèbres.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connut",
+            "connût"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (-ût), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « connaissait » (imparfait de l'indicatif) and « connut » (passé simple de l'indicatif, no circumflex) cannot follow this concessive conjunction. The main verb « n'osa pas » is in the past and the knowledge is simultaneous, so literary concordance requires the subjonctif imparfait of « connaître »: « qu'il connût » — note the circumflex on « connût », which distinguishes it from the indicative « connut »."
+    },
+    {
+      "text": "La gouvernante verrouilla toutes les issues de peur qu'un rôdeur ne {1} dans le manoir endormi.",
+      "blanks": [
+        {
+          "answer": "pénétrât",
+          "options": [
+            "pénétrait",
+            "pénétra",
+            "pénétrât"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « de peur que » (+ ne explétif), postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« de peur que » triggers the subjunctive and is accompanied by the « ne » explétif, so the indicatif is impossible: « pénétrait » (imparfait de l'indicatif) and « pénétra » (passé simple de l'indicatif) are both ungrammatical here. The main verb « verrouilla » is in the past and the feared intrusion is posterior to it, so strict concordance calls for the subjonctif imparfait « qu'il pénétrât » — the circumflex distinguishes it from the indicative « pénétra »."
+    },
+    {
+      "text": "L'entreprise tout entière aurait sombré à moins que chaque associé n'y {1} toute son énergie.",
+      "blanks": [
+        {
+          "answer": "mît",
+          "options": [
+            "mettait",
+            "mit",
+            "mît"
+          ],
+          "hint": "subjonctif imparfait de « mettre » (mît), après « à moins que » (+ ne explétif), principal au conditionnel passé"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive and takes the « ne » explétif, so the indicatif forms are excluded: « mettait » (imparfait de l'indicatif) and « mit » (passé simple de l'indicatif) cannot follow it. The main clause is in the conditionnel passé (« aurait sombré »), a tense with past value, so literary concordance requires the subjonctif imparfait of « mettre »: « qu'il mît » — note the circumflex on « mît », absent from the indicative « mit »."
+    },
+    {
+      "text": "Sa mère craignait qu'il n'{1} déjà commis quelque imprudence irréparable.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), verbe de crainte au passé, antériorité"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (plus-que-parfait de l'indicatif) and « eut » (passé antérieur de l'indicatif, no circumflex) are both wrong after this verb of fear. The main verb « craignait » is in the past and the feared act is anterior to it, so strict concordance requires the subjonctif plus-que-parfait « qu'il eût commis » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
     }
   ]
 }

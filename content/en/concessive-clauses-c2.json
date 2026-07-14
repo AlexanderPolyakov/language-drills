@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could never make the old engine start on a cold morning.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "Hard",
+            "However"
+          ],
+          "hint": "fronted bare verb + as + subject + might/would = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom that fronts the bare verb 'try' before 'as + subject + might/would', meaning 'however hard he tried'. 'Much' would give 'Much as', which must be followed by a lexical verb of feeling with its own subject ('Much as he loved it'), not by the modal 'might' standing alone; 'Hard as' requires a following lexical verb ('Hard as he tried'), not the bare 'might'; 'However' must be followed immediately by an adjective or adverb ('However hard he tried'), never by 'as'."
+    },
+    {
+      "text": "{1} that as it may, the underlying problem has still not been addressed.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "However",
+            "Be",
+            "Even",
+            "Much"
+          ],
+          "hint": "fixed subjunctive formula: ___ that as it may = 'granting that may be so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive formula built on the fronted subjunctive 'be', meaning 'even though that may be true'; it stands alone before a comma and a full main clause. 'However' requires a following adjective/adverb or a different clause structure; 'Even' would need a partner word ('Even so', 'Even though') and cannot head 'that as it may'; 'Much' needs 'as + subject + verb' and cannot fill the subjunctive slot of this frozen phrase."
+    },
+    {
+      "text": "{1} the outcome of tomorrow's vote, the reforms will take years to implement in full.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = 'no matter what', with 'may be' understood"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the outcome') is a concessive meaning 'no matter what the outcome may be', with the verb ellipted. 'However' must be followed directly by an adjective or adverb ('However uncertain the outcome'), not by a bare noun phrase; 'Much as' requires a subject and verb ('Much as we speculate'); 'Albeit' introduces a concessive phrase that qualifies something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "I have decided to turn the offer down. {1} that I doubt my own ability — I simply want a fresh challenge.",
+      "blanks": [
+        {
+          "answer": "Not",
+          "options": [
+            "Albeit",
+            "Much as",
+            "Even",
+            "Not"
+          ],
+          "hint": "qualifier forestalling a wrong inference: ___ that + clause"
+        }
+      ],
+      "explanation": "'Not that + clause' is a concessive qualifier that heads off an inference the listener might otherwise draw: 'Not that I doubt my own ability' = 'I do not mean to suggest that I doubt it'. 'Albeit' cannot take a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as I doubt'), not by 'that'; 'Even' needs a partner such as 'though' or 'if' to introduce a clause and cannot govern a bare 'that'-clause."
+    },
+    {
+      "text": "The software is remarkably powerful and flexible. {1} said, its learning curve is undeniably steep.",
+      "blanks": [
+        {
+          "answer": "That",
+          "options": [
+            "That",
+            "Even",
+            "Much",
+            "However"
+          ],
+          "hint": "participial conjunct linking back: ___ said, = 'having conceded that'"
+        }
+      ],
+      "explanation": "'That said' is a fixed participial conjunct (equivalent to 'having said that' / 'even so') that concedes the preceding statement before adding a qualifying contrast; it stands before a comma and a full main clause. 'Even said' is not an English collocation; 'Much' requires 'as + subject + verb'; 'However' either stands alone as a conjunct ('However,') or takes a following adjective/adverb, but it does not combine with 'said'."
     }
   ]
 }

@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Malgré tous ses efforts, l'avocat ne {1} (pouvoir) sauver son client, et jamais on ne {2} (savoir) ce qui s'était réellement passé.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "« pouvoir » belongs to the « -u » family: 3rd singular passé simple « il put » — note there is no circumflex here (« pût » with a circumflex would be the subjonctif imparfait). « savoir » likewise gives « on sut ». Both report single, completed facts in the narrative past."
+    },
+    {
+      "text": "Le jeune moine {1} (écrire) la chronique du monastère, mais il n'en {2} (connaître) jamais le succès posthume.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv-"
+        },
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut"
+        }
+      ],
+      "explanation": "« écrire » has the special passé simple stem « écriv- » → 3rd singular « il écrivit » (like « il conduisit »). « connaître » follows the « -u » family → « il connut »; note that the circumflex of the infinitive « connaître » disappears in the passé simple. Both narrate completed actions in this literary récit."
+    },
+    {
+      "text": "Le fuyard {1} (courir) sans relâche vers la frontière, puis {2} (mourir) d'épuisement avant de l'atteindre.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical cour- + -ut"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical mour- + -ut"
+        }
+      ],
+      "explanation": "« courir » and « mourir » both take the « -u » passé simple: « il courut », « il mourut » (built on the stems « cour- » and « mour- »). Neither carries a circumflex in the 3rd person singular. Both express single, completed narrative actions."
     }
   ]
 }

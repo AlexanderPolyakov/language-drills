@@ -149,6 +149,68 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Tu {1} (retrouver) facilement son adresse si tu avais gardé les lettres qu'elle t'{2} (écrire).",
+      "blanks": [
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurais retrouvé"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « son adresse » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "avait écrites"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les lettres, féminin pluriel)"
+        }
+      ],
+      "explanation": "Irréel du passé, with the result clause placed first — the forms are unchanged. « retrouver » uses avoir and its object « son adresse » FOLLOWS the verb, so there is no agreement: « aurais retrouvé ». In the « si » clause, the relative pronoun « que » = « les lettres » (feminine plural) precedes « écrire », so with avoir the past participle MUST agree: « qu'elle t'avait écrites » (« écrit » without agreement would be wrong here)."
+    },
+    {
+      "text": "Si tu {1} (se perdre) dans cette forêt, tu {2} (ne jamais revenir) de ton expédition.",
+      "blanks": [
+        {
+          "cue": "se perdre",
+          "answer": [
+            "t'étais perdu",
+            "t'étais perdue"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réfléchi → être, « se » = COD, accord avec le sujet « tu »"
+        },
+        {
+          "cue": "ne jamais revenir",
+          "answer": [
+            "ne serais jamais revenu",
+            "ne serais jamais revenue"
+          ],
+          "hint": "conditionnel passé négatif, verbe de mouvement → être, accord avec le sujet « tu »"
+        }
+      ],
+      "explanation": "Irréel du passé. « se perdre » is a reflexive pronominal verb where « se » is the DIRECT object (« perdre soi-même »), so it takes être and the participle AGREES with « tu »: « t'étais perdu » (masculine) or « t'étais perdue » (feminine). The result clause uses « revenir », a movement verb with être, whose participle likewise agrees: « ne serais jamais revenu(e) »; the negation « ne … jamais » wraps the auxiliary « serais »."
+    },
+    {
+      "text": "Si elles {1} (s'écrire) plus souvent, elles {2} (rester) proches malgré les années et la distance.",
+      "blanks": [
+        {
+          "cue": "s'écrire",
+          "answer": [
+            "s'étaient écrit"
+          ],
+          "hint": "plus-que-parfait, pronominal → être, mais « se » est COI (écrire à qqn) → participe invariable"
+        },
+        {
+          "cue": "rester",
+          "answer": [
+            "seraient restées"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., auxiliaire être, accord avec le sujet « elles »"
+        }
+      ],
+      "explanation": "Irréel du passé, contrasting two être verbs. In « s'écrire », « se » is an INDIRECT object (« écrire à quelqu'un »), so the participle stays INVARIABLE despite the feminine-plural subject: « s'étaient écrit » (not « écrites »). By contrast « rester » agrees normally with its subject « elles »: the conditionnel passé is « seraient restées », with the feminine-plural ending -es."
     }
   ]
 }
