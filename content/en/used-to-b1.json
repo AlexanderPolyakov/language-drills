@@ -37,8 +37,8 @@
     { "text": "{1} you {2} to that café often?", "blanks": [ { "cue": "do", "answer": ["did"] }, { "cue": "go", "answer": ["use to go"] } ], "explanation": "Question: did + subject + use to + base verb." },
     { "text": "I {1} taller than my dad, but he caught up.", "blanks": [ { "cue": "be", "answer": ["used to be"] } ], "explanation": "Past state: used to + base verb 'be'." },
     { "text": "They {1} games outside until it got dark.", "blanks": [ { "cue": "play", "answer": ["used to play"] } ], "explanation": "Past habit: used to + base verb." },
-    { "text": "He {1} drink milk; now he's lactose-free.", "blanks": [ { "cue": "use", "answer": ["used to drink"] } ], "explanation": "Affirmative past habit: used to + base verb 'drink'." },
-    { "text": "We {1} travel by train, but now we fly.", "blanks": [ { "cue": "use", "answer": ["used to travel"] } ], "explanation": "Affirmative past habit: used to + base verb 'travel'." },
+    { "text": "He {1} drink milk; now he's lactose-free.", "blanks": [ { "cue": "use", "answer": ["used to"] } ], "explanation": "'used to' + the base verb 'drink' already in the sentence." },
+    { "text": "We {1} travel by train, but now we fly.", "blanks": [ { "cue": "use", "answer": ["used to"] } ], "explanation": "'used to' + the base verb 'travel' already in the sentence." },
     { "text": "{1} she {2} glasses at school?", "blanks": [ { "cue": "do", "answer": ["did"] }, { "cue": "wear", "answer": ["use to wear"] } ], "explanation": "Question: did + subject + use to + base verb." },
     { "text": "I {1} call my friends; now I just text them.", "blanks": [ { "cue": "call", "answer": ["used to call"] } ], "explanation": "Past habit: used to + base verb." }
   ]
