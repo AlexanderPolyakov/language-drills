@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le savant {1} (recevoir) la nouvelle et {2} (croire) d'abord à une plaisanterie.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → reçut (cédille devant u)"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« recevoir » belongs to the « -u » family: 3rd singular passé simple « il reçut » — the cedilla keeps the soft [s] sound before « u ». « croire » likewise follows the « -u » family → « il crut » (distinct from the present « il croit »). Both narrate single, completed actions in the literary récit."
+    },
+    {
+      "text": "Les enfants {1} (courir) jusqu'au rivage, puis {2} (répondre) à l'appel de leur mère.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → coururent"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondirent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe régulier en -RE → -irent"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family, giving the 3rd plural « ils coururent » (built on the stem « couru- »). « répondre » is a regular -RE verb, so its 3rd plural passé simple is « ils répondirent » (-irent). Both report punctual, completed narrative events, the hallmark of the passé simple in written narration."
     }
   ]
 }

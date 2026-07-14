@@ -149,6 +149,48 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si vous {1} (rester) plus vigilants, vous {2} (ne pas tomber) dans le piège.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étiez restés",
+            "étiez restées"
+          ],
+          "hint": "plus-que-parfait, vous, verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne seriez pas tombés",
+            "ne seriez pas tombées"
+          ],
+          "hint": "conditionnel passé négatif, vous, verbe de mouvement → auxiliaire être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » is a state verb conjugated with être, so the plus-que-parfait « étiez restés » agrees with the subject « vous » (« restés » if masculine/mixed, « restées » if all-feminine). The result clause uses « tomber », also an être verb, in the conditionnel passé; the negation wraps the auxiliary and the participle agrees with the subject: « vous ne seriez pas tombés » (or « tombées »)."
+    },
+    {
+      "text": "Si elle {1} (se lever) à temps, elle {2} (ne pas rater) son train.",
+      "blanks": [
+        {
+          "cue": "se lever",
+          "answer": [
+            "s'était levée"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réfléchi → être, accord avec le sujet féminin « elle »"
+        },
+        {
+          "cue": "ne pas rater",
+          "answer": [
+            "n'aurait pas raté"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "« se lever » is a reflexive pronominal verb where « se » is the DIRECT object (« lever soi-même »), so it takes être and the participle agrees with the feminine subject « elle »: « s'était levée ». The result clause uses « rater » with avoir, and since there is no preceding direct object the participle is invariable; the negation wraps the auxiliary: « elle n'aurait pas raté son train »."
     }
   ]
 }

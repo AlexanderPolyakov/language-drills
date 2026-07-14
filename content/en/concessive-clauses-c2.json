@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} much he earns, he never seems to have enough to clear his debts.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "Much as",
+            "However",
+            "For all",
+            "Whatever"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of something (here, earning) alters the result: 'However much he earns'. 'Much as' is followed directly by the verb of feeling ('Much as I admire'), not by the quantifier 'much'; 'For all' requires a noun phrase ('For all his earnings'), not 'much + clause'; 'Whatever' cannot precede 'much' in this slot, since 'Whatever much he earns' is ungrammatical."
+    },
+    {
+      "text": "Financial constraints {1}, the museum somehow managed to acquire the entire private collection.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "albeit",
+            "however",
+            "notwithstanding",
+            "for all"
+          ],
+          "hint": "a formal preposition placed AFTER its noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'Notwithstanding' may follow the noun phrase it governs ('Financial constraints notwithstanding' = 'in spite of the financial constraints'), a formal, semi-legal postposed usage. 'Albeit' introduces a concessive phrase and cannot mean 'in spite of' after a noun; 'however' needs a following adjective or adverb; 'for all' must precede its noun phrase ('For all the financial constraints'), never follow it."
     }
   ]
 }

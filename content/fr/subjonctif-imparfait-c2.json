@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Il aurait fallu que chacun {1} son devoir avant de songer au repos.",
+      "blanks": [
+        {
+          "answer": "accomplît",
+          "options": [
+            "accomplissait",
+            "accomplit",
+            "accomplît"
+          ],
+          "hint": "subjonctif imparfait (-ît), 3e pers. sing., après « il aurait fallu que »"
+        }
+      ],
+      "explanation": "« il faut que » governs the subjunctive in every tense, so after the conditionnel passé « il aurait fallu que » the indicatif is impossible: « accomplissait » (imparfait de l'indicatif) and « accomplit » (passé simple de l'indicatif, no circumflex) are both excluded. The action is simultaneous with a past reference, so literary concordance requires the subjonctif imparfait of « accomplir » → « qu'il accomplît », the circumflex distinguishing it from the indicative « accomplit »."
+    },
+    {
+      "text": "On regretta qu'il n'{1} averti personne avant de disparaître.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » triggers the subjunctive, so the indicatif forms are excluded: « avait » (plus-que-parfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) cannot follow the trigger. The warning is ANTERIOR to the past main verb « regretta », so strict concordance calls for the subjonctif plus-que-parfait « qu'il eût averti » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
     }
   ]
 }

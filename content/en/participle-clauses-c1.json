@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He realized he was already late. He sprinted for the last train.",
+      "instruction": "Combine using a present (-ing) participle clause expressing the reason, beginning with 'Realizing'.",
+      "answer": [
+        "Realizing he was already late, he sprinted for the last train.",
+        "Realizing he was already late he sprinted for the last train"
+      ],
+      "placeholder": "Realizing…",
+      "explanation": "A present participle clause can express reason or cause as well as simultaneous action: 'Realizing he was already late' = 'Because he realized he was already late'. The understood subject is 'he', the subject of the main clause, so the participle attaches correctly and does not dangle."
+    },
+    {
+      "prompt": "The path that winds up to the summit becomes treacherous after heavy rain.",
+      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that winds', keeping the rest of the sentence unchanged.",
+      "answer": [
+        "The path winding up to the summit becomes treacherous after heavy rain.",
+        "The path winding up to the summit becomes treacherous after heavy rain"
+      ],
+      "placeholder": "The path winding…",
+      "explanation": "A defining relative clause with an active verb ('that/which winds') reduces to a bare -ing participle: 'that winds up to the summit' becomes 'winding up to the summit'. This is a reduced relative clause modifying 'the path', not an adverbial clause, so no comma is added."
     }
   ]
 }
