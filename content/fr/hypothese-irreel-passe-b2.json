@@ -149,6 +149,69 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (se lever) plus tôt, tu {2} (ne pas rater) ton train.",
+      "blanks": [
+        {
+          "cue": "se lever",
+          "answer": [
+            "t'étais levé",
+            "t'étais levée"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., verbe pronominal → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas rater",
+          "answer": [
+            "n'aurais pas raté"
+          ],
+          "hint": "conditionnel passé négatif, 2e pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Irréel du passé. « se lever » is a reflexive pronominal verb where « te » is the DIRECT object, so it takes être and the participle AGREES with the subject: « t'étais levé » (masculine) or « t'étais levée » (feminine). The result clause uses « rater » with avoir; the object « ton train » FOLLOWS the verb, so there is no agreement, and the negation wraps the auxiliary: « tu n'aurais pas raté »."
+    },
+    {
+      "text": "Je {1} (rester) plus longtemps si la soirée {2} (être) plus animée.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "serais resté",
+            "serais restée"
+          ],
+          "hint": "conditionnel passé, je, verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "être",
+          "answer": [
+            "avait été"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Here the result clause comes FIRST but the forms are unchanged. « rester » is conjugated with être, so its conditionnel passé agrees with the subject « je »: « serais resté » (masculine) or « serais restée » (feminine). The « si » clause takes the plus-que-parfait « avait été »; « être » itself uses avoir as auxiliary, so there is no participle agreement there."
+    },
+    {
+      "text": "S'ils {1} (s'en aller) plus tôt, ils {2} (échapper) à l'orage.",
+      "blanks": [
+        {
+          "cue": "s'en aller",
+          "answer": [
+            "s'en étaient allés",
+            "s'en étaient allées"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe pronominal → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "échapper",
+          "answer": [
+            "auraient échappé"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur., auxiliaire avoir (échapper à)"
+        }
+      ],
+      "explanation": "« s'en aller » is a pronominal verb built on « aller », so it takes être and the participle AGREES with the plural subject: « s'en étaient allés » (masculine/mixed) or « s'en étaient allées » (all feminine). The result clause uses « échapper à quelque chose », an indirect construction with avoir, so there is no agreement: the conditionnel passé is « auraient échappé »."
     }
   ]
 }

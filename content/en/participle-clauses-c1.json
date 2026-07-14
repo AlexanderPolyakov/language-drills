@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She had lived abroad for many years. She found the local customs easy to adapt to.",
+      "instruction": "Combine using a perfect participle clause expressing the reason, beginning with 'Having'.",
+      "answer": [
+        "Having lived abroad for many years, she found the local customs easy to adapt to.",
+        "Having lived abroad for many years she found the local customs easy to adapt to"
+      ],
+      "placeholder": "Having lived abroad…",
+      "explanation": "The perfect participle 'Having lived' reduces the prior clause and here expresses cause or reason ('Because she had lived abroad'), not mere sequence: her long residence abroad is offered as the explanation for the main clause. The form marks the experience as completed and relevant, and the shared subject 'she' lets the participle stand with no subject of its own."
+    },
+    {
+      "prompt": "Once it has been switched on, the device calibrates itself automatically.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
+      "answer": [
+        "Once switched on, the device calibrates itself automatically.",
+        "Once switched on the device calibrates itself automatically"
+      ],
+      "placeholder": "Once switched on…",
+      "explanation": "A subordinating conjunction other than 'when' can be retained in front of a reduced participle clause for precision: 'Once it has been switched on' reduces to 'Once switched on', dropping the subject and the form of 'be'. The understood subject remains 'the device', the subject of the main clause, so the reduced clause does not dangle."
+    },
+    {
+      "prompt": "Walking through the door, the smell of fresh bread greeted us.",
+      "instruction": "This participle clause dangles: the smell was not walking through the door. Rewrite it so the understood subject of 'walking' matches the main clause, beginning with 'Walking through the door, we'.",
+      "answer": [
+        "Walking through the door, we were greeted by the smell of fresh bread.",
+        "Walking through the door we were greeted by the smell of fresh bread"
+      ],
+      "placeholder": "Walking through the door, we…",
+      "explanation": "The understood subject of a participle clause must be the subject of the main clause. In the original the main subject is 'the smell', which implies the smell walked in — a dangling modifier. Recasting the main clause in the passive so that 'we' becomes its subject ('we were greeted') makes 'we' the doer of 'walking', repairing the broken link."
+    },
+    {
+      "prompt": "His work was finished. He allowed himself a long walk by the river.",
+      "instruction": "Combine using a nominative absolute construction (noun + past participle, with no 'with' and no conjunction), beginning with 'His work'.",
+      "answer": [
+        "His work finished, he allowed himself a long walk by the river.",
+        "His work finished he allowed himself a long walk by the river"
+      ],
+      "placeholder": "His work finished, he…",
+      "explanation": "The nominative absolute 'His work finished' pairs a noun ('his work') with a past participle ('finished') and carries its own subject, so it need not share the subject of the main clause ('he'). It supplies the circumstances ('once his work was finished') with no conjunction and no form of 'be' — unlike the 'with + noun + participle' variant, which adds 'with'."
+    },
+    {
+      "prompt": "The house, which is being renovated at the moment, has been in the family for generations.",
+      "instruction": "Reduce the relative clause to a participle clause using 'being' (drop 'which is').",
+      "answer": [
+        "The house, being renovated at the moment, has been in the family for generations.",
+        "The house being renovated at the moment has been in the family for generations"
+      ],
+      "placeholder": "The house, being renovated…",
+      "explanation": "A relative clause containing a progressive passive ('which is being renovated') reduces by dropping the relative pronoun and the finite 'is', leaving the participle 'being renovated'. 'Being' is the -ing participle of 'be' and carries the passive-progressive sense here; the reduced clause modifies 'the house' and keeps the commas of the non-defining original."
     }
   ]
 }

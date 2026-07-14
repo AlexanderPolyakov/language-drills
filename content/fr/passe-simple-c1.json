@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Nul ne {1} (pouvoir) le retenir, et personne ne {2} (savoir) jamais où il était allé.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
+        }
+      ],
+      "explanation": "« pouvoir » belongs to the irregular « -u » family: 3rd singular « il put ». « savoir » likewise: « il sut » (stem « su- »). Note that neither takes a circumflex in the 3rd person singular — the circumflex marks only « nous pûmes / vous pûtes » and the subjonctif imparfait « pût / sût », so « put » and « sut » here are the bare narrative passé simple. Both report single completed actions in this written récit."
+    },
+    {
+      "text": "Le moine {1} (lire) le manuscrit à voix haute, puis {2} (écrire) sa réponse dans la marge.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écrivi-"
+        }
+      ],
+      "explanation": "« lire » follows the « -u » family with the stem « lu- » → « il lut » (distinct from the subjonctif imparfait « lût », which carries a circumflex). « écrire » builds its passé simple on the augmented stem « écrivi- » → « il écrivit », patterning like a regular -it verb. Both narrate punctual, completed actions in the literary past."
+    },
+    {
+      "text": "Le jeune soldat {1} (courir) vers son capitaine, qui {2} (mourir) dans ses bras.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "Despite their regular -IR infinitives, « courir » and « mourir » form an irregular passé simple in the « -u » family: « il courut », « il mourut » (not « courit / mourit »). No circumflex appears in the 3rd person singular. Note « mourir » has the past participle « mort » but the passé simple « mourut »; both verbs mark single completed events, the hallmark of the passé simple in narration."
     }
   ]
 }

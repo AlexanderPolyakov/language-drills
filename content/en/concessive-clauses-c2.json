@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could never quite bring himself to apologise.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fixed idiom of futile effort: ___ + might/may"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom expressing that maximum effort fails: 'Try as he might' = 'however hard he tried'. 'As try' inverts the idiom and is ungrammatical; 'However' needs a following adjective or adverb ('However hard he tried'); 'Much as' fronts a verb of feeling ('Much as he admires her') and does not combine with the modal 'might' to convey effort."
+    },
+    {
+      "text": "The scheme is costly and its benefits far from certain. {1}, the council has resolved to press ahead.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "fixed conjunct: 'that may be true, but even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic conjunct that concedes the truth of the previous statement before setting it aside ('that may be so, but nevertheless'); it stands alone before a comma and a full main clause. 'Even though' must introduce a subordinate clause within the sentence, not stand alone; 'Much as' requires a following subject + verb; 'Notwithstanding' requires a following noun phrase."
+    },
+    {
+      "text": "{1} persuasive the argument may seem, it rests on a single unverified assumption.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'However + adjective (persuasive) + subject + verb' concedes that no degree of a quality changes the outcome, with the adjective pulled up next to 'However': 'However persuasive the argument may seem'. 'Much as' takes a verb of feeling directly, not an adjective; 'For all' takes a noun phrase ('For all its persuasiveness'); 'Albeit' introduces a reduced concessive phrase, not a finite clause with 'may seem'."
+    },
+    {
+      "text": "{1} how meticulously he checked the accounts, small errors kept surfacing.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + how + adverb + subject + verb = regardless of degree"
+        }
+      ],
+      "explanation": "'No matter + how + adverb + subject + verb' concedes that no degree changes the result: 'No matter how meticulously he checked'. 'However' cannot stand before 'how' — it would itself replace it ('However meticulously he checked'); 'Whatever' cannot precede 'how' either and needs a noun ('Whatever errors he found'); 'Albeit' introduces a phrase, not a finite clause with its own subject and verb."
+    },
+    {
+      "text": "He had trained for months and knew every metre of the course. {1}, he finished well outside the medals.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all that",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "conjunct = 'in spite of all that', standing before a comma"
+        }
+      ],
+      "explanation": "'For all that' is a conjunct meaning 'in spite of everything just said / nevertheless'; it links back to the previous sentence and stands alone before a comma and a full clause. Bare 'For all' must be followed immediately by a noun phrase ('For all his training'); 'Much as' needs a following subject + verb; 'Albeit' attaches a concessive phrase to a clause rather than acting as a free-standing sentence connector."
     }
   ]
 }

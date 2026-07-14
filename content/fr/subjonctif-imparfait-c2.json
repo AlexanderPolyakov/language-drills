@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Nul n'aurait ouvert la porte à moins que le messager ne {1} de la part du roi.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « à moins que … ne »"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main clause « aurait ouvert » is a past/conditional reference and the coming is posterior to it, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — note the circumflex on « vînt », which distinguishes it from the passé simple « vint »."
+    },
+    {
+      "text": "Le vieux savant cacha ses notes afin que nul ne les {1} jamais déchiffrer.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « afin que »"
+        }
+      ],
+      "explanation": "« afin que » always governs the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by this purpose conjunction. The main verb « cacha » is in the passé simple and the purpose is posterior, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » marks the subjunctive against the passé simple « put »."
+    },
+    {
+      "text": "Ce fut le seul soldat qui {1} jamais franchi seul les lignes ennemies.",
+      "blanks": [
+        {
+          "answer": "eût franchi",
+          "options": [
+            "avait franchi",
+            "eut franchi",
+            "eût franchi"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « le seul … qui »"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « avait franchi » (plus-que-parfait de l'indicatif) and « eut franchi » (passé antérieur de l'indicatif, no circumflex) are both wrong after this trigger. The crossing is ANTERIOR to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qu'il eût franchi » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi craignait que l'ennemi ne {1} la ville avant l'arrivée des renforts.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (with the « ne » explétif, which carries no negative meaning), so the indicatif is excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « craignait » is in the imparfait and the feared event is posterior, so literary concordance requires the subjonctif imparfait of prendre: « qu'il prît » — the circumflex distinguishes « prît » from the passé simple « prit »."
     }
   ]
 }
