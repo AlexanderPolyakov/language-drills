@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because he had already seen the exhibition, he offered to be our guide.",
+      "instruction": "Rewrite the reason clause as a perfect participle clause, beginning with 'Having'.",
+      "answer": [
+        "Having already seen the exhibition, he offered to be our guide.",
+        "Having already seen the exhibition he offered to be our guide"
+      ],
+      "placeholder": "Having already seen…",
+      "explanation": "The perfect participle 'Having + past participle' expresses not only sequence but also REASON: 'Having already seen the exhibition' = 'Because he had already seen it'. The completed prior action supplies the motive for the main verb, and because the understood subject is 'he', the subject of the main clause, the clause does not dangle."
+    },
+    {
+      "prompt": "Turning the corner, the old station suddenly came into view.",
+      "instruction": "This sentence has a dangling modifier — the station did not turn the corner. Correct it so that 'we' governs both actions, beginning 'Turning the corner, we saw…'.",
+      "answer": [
+        "Turning the corner, we saw the old station come into view.",
+        "Turning the corner we saw the old station come into view"
+      ],
+      "placeholder": "Turning the corner, we saw…",
+      "explanation": "A participle clause dangles when its implied subject is not the subject of the main clause. As originally written, 'Turning' attaches to 'the old station', absurdly implying the station turned the corner. Restoring the real subject 'we' to the main clause makes 'Turning the corner' modify the people who actually turned it, so the modifier no longer dangles."
+    },
+    {
+      "prompt": "The weather was fine, so we decided to have lunch in the garden.",
+      "instruction": "Combine using a nominative absolute construction — noun + the present participle of 'be' — to give the reason, beginning 'The weather being fine'.",
+      "answer": [
+        "The weather being fine, we decided to have lunch in the garden.",
+        "The weather being fine we decided to have lunch in the garden"
+      ],
+      "placeholder": "The weather being fine, …",
+      "explanation": "The nominative absolute 'The weather being fine' has its own subject ('the weather') and, like the 'with + noun + participle' construction, therefore does not need to share the subject of the main clause. Built on the present participle of 'be', it supplies the attendant circumstance or reason ('since the weather was fine') without any conjunction, and so does not dangle despite its subject differing from 'we'."
     }
   ]
 }

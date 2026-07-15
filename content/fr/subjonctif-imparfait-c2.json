@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître baissa la voix pour que son secret {1} caché à tous les présents.",
+      "blanks": [
+        {
+          "answer": "demeurât",
+          "options": [
+            "demeurait",
+            "demeura",
+            "demeurât"
+          ],
+          "hint": "subjonctif imparfait (-ât) de « demeurer », après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive, so the indicatif is excluded: « demeurait » (imparfait de l'indicatif) and « demeura » (passé simple de l'indicatif) cannot follow this trigger. The main verb « baissa » is in the past and the purpose clause is posterior to it, so strict literary concordance requires the subjonctif imparfait « qu'il demeurât » — the -ât ending marks the subjunctive in this registre soutenu."
+    },
+    {
+      "text": "Le capitaine craignait que la tempête ne {1} avant que le navire eût atteint le port.",
+      "blanks": [
+        {
+          "answer": "survînt",
+          "options": [
+            "survenait",
+            "survint",
+            "survînt"
+          ],
+          "hint": "subjonctif imparfait (-înt) de « survenir », après « craindre que … ne », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive, here with the « ne » explétif (a stylistic marker, not a negation), so the indicatif is impossible: « survenait » (imparfait de l'indicatif) and « survint » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance calls for the subjonctif imparfait of « survenir » (nasal « vin- » family): « qu'elle survînt » — the circumflex distinguishes it from the indicative « survint »."
     }
   ]
 }

@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could never quite silence his critics.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "However",
+            "Hard"
+          ],
+          "hint": "fixed idiom: bare verb + 'as + subject + might' = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom, 'verb + as + subject + might', meaning 'however hard he tried' / 'no matter how much he tried'. 'Much' would need a verb of feeling ('Much as I admire…'), not 'as he might'; 'However' must be followed by an adjective or adverb ('However hard'), not stand before 'as'; 'Hard' cannot precede 'as he might', since the modal 'might' requires a bare verb in this frame."
+    },
+    {
+      "text": "{1} that as it may, the board is unlikely to reverse its decision now.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "Be",
+            "Even",
+            "Much",
+            "Granted"
+          ],
+          "hint": "frozen subjunctive formula: '___ that as it may' = however that may be"
+        }
+      ],
+      "explanation": "'Be that as it may' is a frozen concessive formula built on the subjunctive 'be', meaning 'even if that is true' / 'however that may be'; it concedes the preceding point before countering it. The slot requires the subjunctive verb 'Be': 'Even', 'Much' and 'Granted' cannot open this fixed idiom, which admits no substitution."
     }
   ]
 }

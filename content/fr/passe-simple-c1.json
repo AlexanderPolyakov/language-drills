@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le prisonnier ne {1} (pouvoir) s'échapper, et les gardes {2} (savoir) aussitôt déjouer ses ruses.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "put"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → put (sans circonflexe)"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → surent"
+        }
+      ],
+      "explanation": "« pouvoir » belongs to the « -u » family: 3rd singular « il put ». Note there is NO circumflex in the 3rd person — the circumflex appears only in « nous pûmes / vous pûtes ». « savoir » likewise follows the « -u » family: 3rd plural « ils surent ». Both report single, completed actions in this literary récit."
+    },
+    {
+      "text": "L'ermite {1} (recevoir) une lettre étrange et la {2} (lire) trois fois avant de la brûler.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant -u → reçut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family and takes a cédille to keep the soft [s] before -u: « il reçut ». « lire » also joins the « -u » family, with the stem « lu- » → « il lut ». Neither carries a circumflex in the 3rd person singular. Both narrate single, completed events in the narrative past."
     }
   ]
 }

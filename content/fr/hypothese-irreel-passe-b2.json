@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si elle {1} (se laver) les mains avant le repas, elle {2} (ne pas tomber) malade.",
+      "blanks": [
+        {
+          "cue": "se laver",
+          "answer": [
+            "s'était lavé"
+          ],
+          "hint": "plus-que-parfait pronominal, auxiliaire être — mais le COD « les mains » est postposé, donc PAS d'accord"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne serait pas tombée"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. sing. fém., verbe de mouvement → être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé with a pronominal-agreement subtlety. « se laver » takes être, BUT here « se » is the INDIRECT object and the DIRECT object « les mains » FOLLOWS the verb, so the past participle does NOT agree: « elle s'était lavé les mains » (an agreeing « lavée » would be wrong). Contrast « elle s'était lavée », where « se » is itself the direct object and the participle does agree. The result clause uses « tomber » (movement verb with être), whose participle agrees with the feminine subject: « elle ne serait pas tombée malade »."
     }
   ]
 }
