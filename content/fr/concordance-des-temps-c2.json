@@ -30,7 +30,7 @@
       "explanation": "The main verb « a affirmé » is past, and the subordinate action happened BEFORE it (« la veille »). A passé composé in direct speech (« l'accord a été signé ») shifts to the plus-que-parfait to mark anteriority: « avait été signé »."
     },
     {
-      "text": "Je craignais qu'il ne {1} déjà tout dépensé avant notre arrivée.",
+      "text": "Je craignais qu'il n'{1} déjà tout dépensé avant notre arrivée.",
       "blanks": [
         { "cue": "avoir", "answer": ["ait", "eût"], "hint": "subjunctive concordance: anteriority after a past main verb — modern « ait » (subjonctif passé) or literary « eût » (subjonctif plus-que-parfait)" }
       ],
