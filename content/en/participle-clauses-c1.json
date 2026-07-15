@@ -106,6 +106,36 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The tourists did not speak the local language. They found it hard to ask for directions.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause expressing the reason, beginning with 'Not'.",
+      "answer": [
+        "Not speaking the local language, the tourists found it hard to ask for directions.",
+        "Not speaking the local language the tourists found it hard to ask for directions"
+      ],
+      "placeholder": "Not speaking…",
+      "explanation": "A present participle can replace a reason clause, so 'Because they did not speak the local language' reduces to 'Not speaking the local language'. The negative particle stays in front of the -ing form, and the understood subject of the participle is 'the tourists', the subject of the main clause, so there is no dangling modifier."
+    },
+    {
+      "prompt": "The candidate had been rejected twice before. She approached the third interview with little confidence.",
+      "instruction": "Combine into one sentence using a perfect passive participle clause, beginning with 'Having'.",
+      "answer": [
+        "Having been rejected twice before, the candidate approached the third interview with little confidence.",
+        "Having been rejected twice before the candidate approached the third interview with little confidence"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The 'Having been + past participle' form is the perfect passive participle, reducing 'After she had been rejected twice before' to 'Having been rejected twice before'. It marks an action completed before the main clause and preserves the passive meaning, with 'the candidate' understood as the subject of both clauses."
+    },
+    {
+      "prompt": "The documents were signed by both parties. They were then lodged with the court.",
+      "instruction": "Combine into one sentence using a past (-ed) participle clause to reduce the passive relative clause, beginning with 'Signed'.",
+      "answer": [
+        "Signed by both parties, the documents were then lodged with the court.",
+        "Signed by both parties the documents were then lodged with the court"
+      ],
+      "placeholder": "Signed…",
+      "explanation": "A past participle reduces a passive relative clause, so 'The documents, which had been signed by both parties' becomes 'Signed by both parties'. The -ed participle carries passive meaning on its own, and 'the documents' remains the shared subject of the main clause, avoiding any dangling modifier."
     }
   ]
 }

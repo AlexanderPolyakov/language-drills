@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Il attendait avec anxiété que son fils lui {1} enfin des nouvelles du front.",
+      "blanks": [
+        {
+          "answer": "écrivît",
+          "options": [
+            "écrivait",
+            "écrivit",
+            "écrivît"
+          ],
+          "hint": "subjonctif imparfait de « écrire » (-ît), 3e pers. sing., postériorité, après un principal à l'imparfait"
+        }
+      ],
+      "explanation": "« attendre que » governs the subjunctive, so the indicatif forms are excluded: « écrivait » (imparfait de l'indicatif) and « écrivit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « attendait » is in the past and the awaited letter is posterior to the waiting, so literary concordance requires the subjonctif imparfait of écrire: « qu'il écrivît » — the circumflex on « écrivît » distinguishes it from the indicative « écrivit »."
+    },
+    {
+      "text": "Le veilleur ne croyait pas qu'un seul soldat {1} rentré au camp avant l'aurore.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., auxiliaire être"
+        }
+      ],
+      "explanation": "« ne pas croire que » triggers the subjunctive, so the indicatif is excluded: « était rentré » (plus-que-parfait de l'indicatif) and « fut rentré » (passé antérieur de l'indicatif, no circumflex) are both ungrammatical after this trigger. The return is ANTERIOR to the past reference « avant l'aurore », so strict concordance after the past « croyait » calls for the subjonctif plus-que-parfait « qu'il fût rentré » — « rentrer » takes être and the participle agrees with the masculine singular subject; the circumflex on « fût » marks the subjunctive against the indicative « fut »."
     }
   ]
 }

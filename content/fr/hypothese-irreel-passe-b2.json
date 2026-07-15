@@ -149,6 +149,26 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (sortir) plus couvert ce matin-là, tu {2} (ne pas attraper) froid.",
+      "blanks": [
+        {
+          "cue": "sortir",
+          "answer": [
+            "étais sorti"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., verbe de mouvement → auxiliaire être ; accord au masculin imposé par l'attribut « couvert » (masc. sing.) déjà présent dans la phrase"
+        },
+        {
+          "cue": "ne pas attraper",
+          "answer": [
+            "n'aurais pas attrapé"
+          ],
+          "hint": "conditionnel passé négatif, 2e pers. sing., auxiliaire avoir, pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « sortir » (verb of movement) is conjugated with être, so its participle agrees with the subject « tu ». Here the subject's gender is fixed by the attribut du sujet « plus couvert » (masculine singular), so only « étais sorti » is coherent; a feminine reading would require « sortie … plus couverte », which the fixed text does not offer. « attraper » takes avoir with no preceding direct object (« froid » follows), hence no agreement, and the negation wraps the auxiliary: « tu n'aurais pas attrapé »."
     }
   ]
 }

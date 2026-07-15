@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could never quite recapture the effortless style of his early work.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Trying as",
+            "Even though"
+          ],
+          "hint": "fixed frame: ___ + subject + might/may + bare verb"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive frame 'Try as + subject + might/may', meaning 'however hard he tried'. 'As try' merely reverses the words and is ungrammatical; 'Trying as' is impossible because the pattern requires the bare infinitive 'try', not the -ing form; 'Even though' would need a full finite clause ('Even though he tried') and cannot govern the fronted verb followed by 'might'."
+    },
+    {
+      "text": "The evidence against him is admittedly circumstantial. {1}, a jury may well find it persuasive enough to convict.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Being that as it may",
+            "However that may be so",
+            "As it may be"
+          ],
+          "hint": "fixed sentence-initial marker conceding the previous statement"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive concessive discourse marker meaning 'even so; granting all that', used to concede the preceding sentence before stating a contrasting point. 'Being that as it may' wrongly substitutes the -ing form for the subjunctive 'be'; 'However that may be so' is redundant and non-idiomatic because 'however...so' doubles the concession; 'As it may be' is an incomplete fragment that does not function as a standalone concessive connector."
     }
   ]
 }
