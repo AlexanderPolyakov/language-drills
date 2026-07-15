@@ -149,6 +149,46 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu avais lu les lettres que je t'{1} (envoyer), tu {2} (comprendre) mon silence.",
+      "blanks": [
+        {
+          "cue": "envoyer",
+          "answer": [
+            "avais envoyées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les lettres, fém. plur.)"
+        },
+        {
+          "cue": "comprendre",
+          "answer": [
+            "aurais compris"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « mon silence » postposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb: in « les lettres que je t'avais envoyées », the relative pronoun « que » = « les lettres » (feminine plural) precedes « envoyer », so the plus-que-parfait must agree → « avais envoyées ». For « comprendre » the object « mon silence » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurais compris » (an agreeing form would be wrong here, the object not being antéposé)."
+    },
+    {
+      "text": "Elles se {1} (souvenir) de ce détail si on le leur {2} (rappeler) à temps.",
+      "blanks": [
+        {
+          "cue": "se souvenir",
+          "answer": [
+            "seraient souvenues"
+          ],
+          "hint": "conditionnel passé, verbe essentiellement pronominal → être, accord avec le sujet « elles » (fém. plur.)"
+        },
+        {
+          "cue": "rappeler",
+          "answer": [
+            "avait rappelé"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing. (« on »), auxiliaire avoir"
+        }
+      ],
+      "explanation": "Irréel du passé with the result clause placed FIRST (reversed order), which leaves the verb forms unchanged. « se souvenir » is an « essentiellement pronominal » verb conjugated with être; its participle AGREES with the subject « elles », giving the conditionnel passé « se seraient souvenues ». The « si » clause uses « rappeler » with avoir: plus-que-parfait « avait rappelé » — the preceding pronoun « le » (= ce détail, masculine singular) triggers no visible change."
     }
   ]
 }

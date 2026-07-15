@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1}, he simply could not commit the long sequence of numbers to memory.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Try as he might",
+            "Much as he might",
+            "However he might",
+            "Despite he might"
+          ],
+          "hint": "a fixed fronted-verb idiom = 'although he tried very hard'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the type 'Verb + as + subject + may/might', meaning 'however hard he tried'. 'Much as' must be followed directly by a verb of feeling ('Much as he admired'), so 'Much as he might' is left dangling with no verb; 'However' needs a following adjective or adverb ('However hard he might try'), not a bare modal; 'Despite' is a preposition taking a noun phrase or -ing form, never a finite clause with a subject ('he might')."
+    },
+    {
+      "text": "The scheme is costly and its long-term benefits remain uncertain. {1}, the council has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma = 'even so', 'nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so' / 'nevertheless'; it stands alone before a comma and links back to the preceding sentence. 'Much as it may' is incomplete, since 'Much as' demands a following verb ('Much as it may cost'); 'However it may' likewise needs a completing adjective/adverb and clause ('However costly it may be'); 'Albeit' introduces a subordinate concessive phrase within a sentence, not a free-standing connector before a full main clause."
     }
   ]
 }

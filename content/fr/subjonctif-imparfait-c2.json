@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître de chapelle voulut que tous les enfants {1} d'une seule voix.",
+      "blanks": [
+        {
+          "answer": "chantassent",
+          "options": [
+            "chantaient",
+            "chantèrent",
+            "chantassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so both indicatif forms are excluded: « chantaient » (imparfait de l'indicatif) and « chantèrent » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « voulut » is a past (passé simple) and the singing is simultaneous, so literary concordance demands the subjonctif imparfait; for an -ER verb the 3rd person plural ends in -assent: « qu'ils chantassent »."
+    },
+    {
+      "text": "Le colonel craignit que personne ne {1} déchiffrer le message avant l'aube.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded. Note that the « ne » here is not the explétif « ne » (which appears with an affirmative subordinate, « je crains qu'il ne vienne ») but the ordinary negation correlated with the negative subject « personne » (personne… ne = « nobody »). The main verb « craignit » is in the past and the fear bears on a simultaneous possibility, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes it from the indicative « put »."
     }
   ]
 }

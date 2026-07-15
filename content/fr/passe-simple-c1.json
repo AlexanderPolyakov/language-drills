@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les cloches {1} (sonner) à toute volée et les fidèles {2} (répondre) aussitôt à l'appel.",
+      "blanks": [
+        {
+          "cue": "sonner",
+          "answer": [
+            "sonnèrent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe en -ER → terminaison -èrent"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondirent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe en -RE régulier → radical répond- + -irent"
+        }
+      ],
+      "explanation": "« sonner » is a regular -ER verb: its 3rd person plural passé simple ends in -èrent → « elles sonnèrent ». « répondre » is a regular -RE verb built on the stem « répond- »: 3rd person plural → « ils répondirent » (like « ils rendirent »). Both report single, completed narrative actions, the hallmark of the passé simple in written récit."
+    },
+    {
+      "text": "Le voyageur {1} (recevoir) une lettre inattendue et {2} (connaître) enfin la vérité.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant u → reçut"
+        },
+        {
+          "cue": "connaître",
+          "answer": [
+            "connut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → connut, sans circonflexe"
+        }
+      ],
+      "explanation": "« recevoir » belongs to the « -u » family: 3rd person singular « il reçut », the cédille keeping the soft [s] sound before « u ». « connaître » also follows the « -u » family → « il connut »; note that the circumflex of the infinitive « connaître » disappears in the passé simple (the circumflex marks only nous/vous). Both express completed narrative actions in this literary récit."
     }
   ]
 }
