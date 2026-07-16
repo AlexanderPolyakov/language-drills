@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine marcher, le vieux soldat tint à suivre le cortège jusqu'au bout.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » après « quoique », en concordance avec « tint » (passé simple)"
+        }
+      ],
+      "explanation": "« Quoique » régit le subjonctif ; le verbe principal « tint » étant au passé, la concordance des temps littéraire impose le subjonctif imparfait. À la 3e personne du singulier, la terminaison -ût porte toujours l'accent circonflexe (pût), ce qui le distingue du passé simple « put »."
+    },
+    {
+      "text": "C'était le seul homme qui {1} vraiment la vérité, et tous se turent lorsqu'il prit la parole.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » après le superlatif relatif « le seul … qui »"
+        }
+      ],
+      "explanation": "Une relative introduite par « le seul … qui » (valeur superlative) appelle le subjonctif ; comme la principale « C'était » est à l'imparfait de l'indicatif, la concordance littéraire requiert le subjonctif imparfait « sût », à distinguer du passé simple « sut » par le circonflexe de la 3e personne du singulier."
+    },
+    {
+      "text": "Il relut chaque phrase, de peur qu'une erreur ne se {1} glissée dans le manuscrit.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "fut",
+            "était",
+            "fût"
+          ],
+          "hint": "auxiliaire « être » au subjonctif imparfait pour former le subjonctif plus-que-parfait (antériorité)"
+        }
+      ],
+      "explanation": "« De peur que » régit le subjonctif ; l'antériorité par rapport à « relut » (passé) s'exprime au subjonctif plus-que-parfait « ne se fût glissée ». Le verbe pronominal « se glisser » se conjugue avec l'auxiliaire « être », d'où l'accord du participe « glissée » avec « une erreur » (féminin) ; l'auxiliaire « fût » porte le circonflexe de la 3e personne du singulier."
     }
   ]
 }

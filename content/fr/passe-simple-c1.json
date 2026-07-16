@@ -146,6 +146,42 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Lorsque le messager {1} enfin la lettre scellée, il la {2} à haute voix devant l'assemblée silencieuse.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ]
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ]
+        }
+      ],
+      "explanation": "Passé simple de récit, 3e personne du singulier : « recevoir » donne « reçut » (avec cédille devant u pour garder le son [s]) et « lire » donne « lut ». Contrairement au subjonctif imparfait (reçût, lût), la 3e personne du singulier du passé simple ne prend jamais d'accent circonflexe."
+    },
+    {
+      "text": "Les villageois {1} vers la place dès qu'ils {2} la nouvelle de la défaite.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ]
+        },
+        {
+          "cue": "connaître",
+          "answer": [
+            "connurent"
+          ]
+        }
+      ],
+      "explanation": "Passé simple de récit, 3e personne du pluriel : « courir » fait « coururent » et « connaître » fait « connurent » (radical en -u, terminaison -urent). Aucune de ces formes ne porte de circonflexe, qui n'apparaît qu'aux deux premières personnes du pluriel (courûmes, courûtes)."
     }
   ]
 }

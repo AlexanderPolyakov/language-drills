@@ -166,6 +166,22 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "The proposal is undeniably expensive and slow to implement. {1} that as it may, it remains the only realistic option on the table.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "Be",
+            "Being",
+            "Been",
+            "Is"
+          ],
+          "hint": "fixed subjunctive concessive formula meaning 'even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic concessive using the present subjunctive 'be' (= 'however that may be / even so'); it concedes the preceding point while asserting the main clause. The base form 'Be' is frozen in this idiom, so the inflected or gerundive alternatives ('Being', 'Been', 'Is') are all ungrammatical here."
     }
   ]
 }

@@ -149,6 +149,42 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu m'avais montré les photos que tu {1} pendant le voyage, je te les {2} volontiers.",
+      "blanks": [
+        {
+          "cue": "prendre",
+          "answer": [
+            "avais prises"
+          ]
+        },
+        {
+          "cue": "rendre",
+          "answer": [
+            "aurais rendues"
+          ]
+        }
+      ],
+      "explanation": "Irréel du passé : « si » + plus-que-parfait (avais prises) dans la subordonnée, conditionnel passé (aurais rendues) dans la principale. Les deux verbes se conjuguent avec « avoir » et leur COD (« que » = les photos ; « les » = les photos), placé avant le verbe, impose l'accord au féminin pluriel : prises, rendues."
+    },
+    {
+      "text": "Si Élodie {1} du bureau un peu plus tôt, elle {2} chez elle bien avant l'orage.",
+      "blanks": [
+        {
+          "cue": "descendre",
+          "answer": [
+            "était descendue"
+          ]
+        },
+        {
+          "cue": "rentrer",
+          "answer": [
+            "serait rentrée"
+          ]
+        }
+      ],
+      "explanation": "Irréel du passé : « si » + plus-que-parfait (était descendue) → conditionnel passé (serait rentrée). « Descendre » (ici intransitif) et « rentrer » sont des verbes de mouvement conjugués avec l'auxiliaire « être » ; le participe s'accorde donc avec le sujet féminin « Élodie » : descendue, rentrée."
     }
   ]
 }

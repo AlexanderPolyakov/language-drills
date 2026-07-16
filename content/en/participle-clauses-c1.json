@@ -106,6 +106,28 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The weather was fine. We set off early for the coast.",
+      "instruction": "Combine the two ideas using a nominative absolute construction (noun + present participle, WITHOUT 'with'), beginning with 'The'.",
+      "answer": [
+        "The weather being fine, we set off early for the coast.",
+        "The weather being fine we set off early for the coast"
+      ],
+      "placeholder": "The weather being…",
+      "explanation": "Unlike an ordinary participle clause, an absolute construction keeps its own subject ('the weather'), which differs from the main-clause subject ('we'). The participle 'being' links the two, expressing reason or attendant circumstance ('Since the weather was fine…'). Because the absolute supplies its own subject, there is no dangling modifier."
+    },
+    {
+      "prompt": "As soon as she arrived at the office, she realised she had left the documents at home.",
+      "instruction": "Reduce the time clause to an 'On + -ing' participle phrase of immediate sequence, beginning with 'On'.",
+      "answer": [
+        "On arriving at the office, she realised she had left the documents at home.",
+        "On arriving at the office she realised she had left the documents at home",
+        "On arriving at the office, she realised that she had left the documents at home.",
+        "On arriving at the office she realised that she had left the documents at home"
+      ],
+      "placeholder": "On arriving…",
+      "explanation": "'On/Upon + -ing' reduces a clause of immediate time ('as soon as / the moment that…'), stressing that the second event followed at once. The understood subject of 'arriving' is 'she', the subject of the main clause, so the modifier does not dangle."
     }
   ]
 }
