@@ -149,6 +149,87 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si nous {1} (rester) une nuit de plus, nous {2} (assister) à la grande fête du village.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étions restés",
+            "étions restées"
+          ],
+          "hint": "plus-que-parfait, nous, verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "assister",
+          "answer": [
+            "aurions assisté"
+          ],
+          "hint": "conditionnel passé, nous, auxiliaire avoir, « assister à » (COI) → pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » is conjugated with être, so the plus-que-parfait « étions restés » agrees with the subject « nous » (masculine/mixed « restés », all-feminine « restées »). The result clause uses « assister à », which is INDIRECTLY transitive (« assister à quelque chose »): with avoir and no preceding direct object, the conditionnel passé « aurions assisté » stays invariable."
+    },
+    {
+      "text": "Si j'avais su la vérité, je t'{1} (rendre) aussitôt les lettres que tu m'{2} (confier).",
+      "blanks": [
+        {
+          "cue": "rendre",
+          "answer": [
+            "aurais rendu"
+          ],
+          "hint": "conditionnel passé, je, auxiliaire avoir, COD « les lettres » postposé → pas d'accord"
+        },
+        {
+          "cue": "confier",
+          "answer": [
+            "avais confiées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les lettres, fém. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé with an antéposé direct object. « rendre » takes avoir and its object « les lettres » FOLLOWS the verb, so the conditionnel passé « aurais rendu » does not agree. But in « les lettres que tu m'avais confiées », the relative « que » = « les lettres » (feminine plural) PRECEDES « confier », so the plus-que-parfait participle must agree: « confiées » (« confié » would be wrong here)."
+    },
+    {
+      "text": "Nous {1} (se téléphoner) chaque jour si nous {2} (échanger) nos numéros ce soir-là.",
+      "blanks": [
+        {
+          "cue": "se téléphoner",
+          "answer": [
+            "nous serions téléphoné"
+          ],
+          "hint": "conditionnel passé, pronominal réciproque → être, mais « se » = COI → participe invariable"
+        },
+        {
+          "cue": "échanger",
+          "answer": [
+            "avions échangé"
+          ],
+          "hint": "plus-que-parfait, nous, auxiliaire avoir, COD « nos numéros » postposé → pas d'accord"
+        }
+      ],
+      "explanation": "Reversed order (the result clause comes first). « se téléphoner » is a reciprocal pronominal verb, but « téléphoner » is INDIRECTLY transitive (« téléphoner à quelqu'un »), so « se » is an indirect object and the participle stays INVARIABLE: « nous serions téléphoné » (never « téléphonés »), despite the plural subject. The « si » clause uses « échanger » with avoir; the object « nos numéros » follows the verb, so « avions échangé » shows no agreement."
+    },
+    {
+      "text": "Elle {1} (se noyer) dans le torrent si un berger ne l'{2} (secourir) pas à temps.",
+      "blanks": [
+        {
+          "cue": "se noyer",
+          "answer": [
+            "se serait noyée"
+          ],
+          "hint": "conditionnel passé, pronominal réfléchi → être, « se » = COD, accord avec « elle » (fém.)"
+        },
+        {
+          "cue": "secourir",
+          "answer": [
+            "avait secourue"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, COD antéposé « l' » (= elle, fém.) → accord, négation autour de l'auxiliaire"
+        }
+      ],
+      "explanation": "Irréel du passé, reversed order. « se noyer » here is a reflexive pronominal verb where « se » is the DIRECT object (« noyer soi-même »), so the conditionnel passé participle AGREES with the feminine subject « elle »: « se serait noyée ». In the « si » clause, « secourir » takes avoir and its preceding direct-object pronoun « l' » (= elle, feminine) triggers agreement: « ne l'avait pas secourue » — the negation « ne … pas » simply wraps the auxiliary."
     }
   ]
 }

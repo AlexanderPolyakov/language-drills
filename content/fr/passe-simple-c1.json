@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les villageois {1} (danser) toute la nuit, et le vieux seigneur leur {2} (répondre) par un sourire bienveillant.",
+      "blanks": [
+        {
+          "cue": "danser",
+          "answer": [
+            "dansèrent"
+          ],
+          "hint": "passé simple, 3e pers. plur., verbe en -ER → -èrent"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe en -RE régulier → -it"
+        }
+      ],
+      "explanation": "« danser » is a regular -ER verb, so its 3rd plural passé simple ends in -èrent → « ils dansèrent ». « répondre » is a regular -RE verb whose 3rd singular ends in -it → « il répondit ». Both narrate single, completed actions in the literary past."
+    },
+    {
+      "text": "Le pèlerin {1} (gravir) la colline escarpée et {2} (atteindre) enfin le sanctuaire.",
+      "blanks": [
+        {
+          "cue": "gravir",
+          "answer": [
+            "gravit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe en -IR régulier → -it"
+        },
+        {
+          "cue": "atteindre",
+          "answer": [
+            "atteignit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical atteigni- → atteignit"
+        }
+      ],
+      "explanation": "« gravir » is a regular -IR verb: its 3rd singular passé simple ends in -it → « il gravit ». « atteindre » has the special stem « atteigni- » → « il atteignit » (like « il peignit », « il craignit »). Note that neither form carries a circumflex in the 3rd person. Both report punctual, completed events in this literary récit."
+    },
+    {
+      "text": "Le capitaine {1} (recevoir) l'ordre du roi, mais ses hommes ne {2} (pouvoir) le suivre.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille → reçut"
+        },
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "purent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → purent"
+        }
+      ],
+      "explanation": "« recevoir » belongs to the « -u » family, with a cedilla before the ending → « il reçut ». « pouvoir » also follows the « -u » family: its 3rd plural is « ils purent » (short stem pu-). No circumflex appears in the 3rd person of the passé simple. Both mark completed actions in the narrative past."
     }
   ]
 }

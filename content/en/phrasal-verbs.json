@@ -130,6 +130,27 @@
         { "answer": "look into", "options": ["look into", "look up", "look on"], "hint": "investigate something" }
       ],
       "explanation": "'look into' means to investigate or examine a matter. 'look up' = find information in a reference source, and 'look on' = watch something happen without taking part, so neither fits investigating a complaint."
+    },
+    {
+      "text": "The design team need to {1} a fresh concept before tomorrow's pitch to the client.",
+      "blanks": [
+        { "answer": "come up with", "options": ["come up with", "come round to", "come down with"], "hint": "think of or devise (an idea, plan)" }
+      ],
+      "explanation": "'come up with' means to think of or produce an idea or plan. 'come round to' = gradually change your mind and agree to something, and 'come down with' = start to suffer from an illness, so neither fits devising a concept."
+    },
+    {
+      "text": "The doctor advised him to {1} sugary drinks and salty snacks if he wanted to lower his blood pressure.",
+      "blanks": [
+        { "answer": "cut down on", "options": ["cut off", "cut down on", "cut up"], "hint": "reduce the amount you consume" }
+      ],
+      "explanation": "'cut down on' means to reduce the quantity of something you consume or do. 'cut off' = disconnect, remove or isolate, and 'cut up' = divide into pieces, so neither expresses reducing your intake."
+    },
+    {
+      "text": "I can't believe the examiners let him {1} copying half of his answers.",
+      "blanks": [
+        { "answer": "get away with", "options": ["get on with", "get round to", "get away with"], "hint": "escape punishment or blame for something" }
+      ],
+      "explanation": "'get away with' means to do something wrong without being caught or punished. 'get on with' = continue doing something or have a good relationship, and 'get round to' = finally find the time to do something, so neither expresses escaping the consequences of cheating."
     }
   ]
 }

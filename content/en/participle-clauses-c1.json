@@ -106,6 +106,46 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Once it had been translated into English, the novel reached a much wider audience.",
+      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the passive clause to a past participle (drop 'it had been').",
+      "answer": [
+        "Once translated into English, the novel reached a much wider audience.",
+        "Once translated into English the novel reached a much wider audience"
+      ],
+      "placeholder": "Once translated…",
+      "explanation": "A subordinating conjunction can be retained in front of a reduced participle clause for precision: the passive 'Once it had been translated' reduces to 'Once translated', dropping the subject and 'had been'. The understood subject stays 'the novel', the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "She had not read the instructions. She assembled the cabinet incorrectly.",
+      "instruction": "Combine using a NEGATIVE perfect participle clause to show the omission preceded the result, beginning with 'Not having'.",
+      "answer": [
+        "Not having read the instructions, she assembled the cabinet incorrectly.",
+        "Not having read the instructions she assembled the cabinet incorrectly"
+      ],
+      "placeholder": "Not having read…",
+      "explanation": "The perfect participle 'having read' marks the reading as prior to the assembling, while the negative is formed by placing 'not' before the participle: 'Not having read'. This combines negation and anteriority in one clause, expressing the reason ('because she had not read')."
+    },
+    {
+      "prompt": "All the preparations had been completed. The team waited nervously for the launch.",
+      "instruction": "Combine using a 'With + noun + past participle' absolute construction for the attendant circumstances, beginning with 'With'.",
+      "answer": [
+        "With all the preparations completed, the team waited nervously for the launch.",
+        "With all the preparations completed the team waited nervously for the launch"
+      ],
+      "placeholder": "With all the preparations completed…",
+      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances and carries its own subject ('all the preparations'), so it need not share the main subject ('the team'). The past (passive) participle 'completed' reduces 'which had been completed', so the phrase does not dangle despite the differing subject."
+    },
+    {
+      "prompt": "Any student who is found using a phone during the exam will be disqualified.",
+      "instruction": "Rewrite using a reduced DEFINING relative clause built on a past participle, dropping 'who is' (keep it defining, so no commas).",
+      "answer": [
+        "Any student found using a phone during the exam will be disqualified.",
+        "Any student found using a phone during the exam will be disqualified"
+      ],
+      "placeholder": "Any student found…",
+      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare past participle: 'who is found' becomes 'found'. Because the clause is defining (it identifies which students), no commas are used, unlike a reduced non-defining relative."
     }
   ]
 }

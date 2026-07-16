@@ -290,7 +290,7 @@
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
           "file": "en/phrasal-verbs.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "en-reported-speech-b2",
@@ -338,7 +338,7 @@
           "level": "C1",
           "title": "Participle clauses: -ing, perfect and -ed",
           "file": "en/participle-clauses-c1.json",
-          "count": 10
+          "count": 14
         },
         {
           "id": "en-vocabulary-c1",
@@ -354,7 +354,7 @@
           "level": "C2",
           "title": "Advanced concessive and contrast structures",
           "file": "en/concessive-clauses-c2.json",
-          "count": 10
+          "count": 13
         },
         {
           "id": "en-discourse-markers-c2",
@@ -656,7 +656,7 @@
           "level": "B2",
           "title": "L'irréel du passé : si + plus-que-parfait → conditionnel passé",
           "file": "fr/hypothese-irreel-passe-b2.json",
-          "count": 7
+          "count": 11
         },
         {
           "id": "fr-subjonctif-passe-b2",
@@ -696,7 +696,7 @@
           "level": "C1",
           "title": "Le passé simple : le temps du récit littéraire",
           "file": "fr/passe-simple-c1.json",
-          "count": 7
+          "count": 10
         },
         {
           "id": "fr-concordance-des-temps-c2",
@@ -720,7 +720,7 @@
           "level": "C2",
           "title": "Le subjonctif imparfait et la concordance littéraire",
           "file": "fr/subjonctif-imparfait-c2.json",
-          "count": 6
+          "count": 9
         }
       ]
     }

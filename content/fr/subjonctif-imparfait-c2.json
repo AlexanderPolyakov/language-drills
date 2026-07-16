@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi craignait que son favori ne le {1} avant la fin de son règne.",
+      "blanks": [
+        {
+          "answer": "trahît",
+          "options": [
+            "trahissait",
+            "trahît",
+            "trahit"
+          ],
+          "hint": "subjonctif imparfait (-ît), après « craindre que » (ne explétif), principal à l'imparfait"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here reinforced by the « ne » explétif), so no indicatif is possible: « trahissait » (imparfait de l'indicatif) and « trahit » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « craignait » is in the past and the betrayal is posterior to the fear, so literary concordance requires the subjonctif imparfait « qu'il le trahît » — the circumflex on « trahît » distinguishes it from the indicative « trahit »."
+    },
+    {
+      "text": "Le maître d'armes voulait que chaque page {1} le règlement à la lettre.",
+      "blanks": [
+        {
+          "answer": "respectât",
+          "options": [
+            "respectât",
+            "respectait",
+            "respecta"
+          ],
+          "hint": "subjonctif imparfait (-ât), verbe en -ER, après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » always takes the subjunctive, so the indicatif forms are impossible: « respectait » (imparfait de l'indicatif) and « respecta » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulait » is a past tense and the obedience is simultaneous, so strict concordance calls for the subjonctif imparfait of this -ER verb: « qu'il respectât » (3e pers. sing. en -ât)."
+    },
+    {
+      "text": "Quoiqu'elle {1} tout prévu de longue main, la conjuration échoua lamentablement.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » governs the subjunctive, so the indicatif is excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, auxiliaire sans circonflexe) are both wrong after this concessive. The planning is ANTERIOR to the past failure « échoua », so literary concordance requires the subjonctif plus-que-parfait « qu'elle eût tout prévu » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
     }
   ]
 }
