@@ -40,6 +40,6 @@
     { "text": "He {1} drink milk; now he's lactose-free.", "blanks": [ { "cue": "use", "answer": ["used to"] } ], "explanation": "'used to' + the base verb 'drink' already in the sentence." },
     { "text": "We {1} travel by train, but now we fly.", "blanks": [ { "cue": "use", "answer": ["used to"] } ], "explanation": "'used to' + the base verb 'travel' already in the sentence." },
     { "text": "{1} she {2} glasses at school?", "blanks": [ { "cue": "do", "answer": ["did"] }, { "cue": "wear", "answer": ["use to wear"] } ], "explanation": "Question: did + subject + use to + base verb." },
-    { "text": "I {1} call my friends; now I just text them.", "blanks": [ { "cue": "call", "answer": ["used to call"] } ], "explanation": "Past habit: used to + base verb." }
+    { "text": "I {1} call my friends; now I just text them.", "blanks": [ { "cue": "use", "answer": ["used to"] } ], "explanation": "'used to' + the base verb 'call' already in the sentence." }
   ]
 }
