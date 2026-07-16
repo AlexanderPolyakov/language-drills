@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le guide ralentit le pas pour que chacun {1} le sentier escarpé sans peine.",
+      "blanks": [
+        {
+          "answer": "gravît",
+          "options": [
+            "gravissait",
+            "gravît",
+            "gravit"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing., verbe en -ir → -ît (avec accent circonflexe)"
+        }
+      ],
+      "explanation": "The main verb « ralentit » is a past narrative tense (passé simple), so in the literary sequence of tenses the subordinate clause introduced by « pour que » — which ALWAYS governs the subjunctive — takes the imperfect subjunctive for an action simultaneous with or posterior to the main one. « gravir » is an -ir verb, giving « qu'il gravît » (ending -ît with a circumflex). « gravissait » is the indicative imperfect, which is impossible after « pour que » (that conjunction never admits the indicative). « gravit » is the passé simple of the indicative — its ONLY spelling difference from the subjunctive is the missing circumflex, and the indicative cannot appear here because « pour que » demands the subjunctive."
+    },
+    {
+      "text": "Quoiqu'il {1} déjà la nouvelle, le vieux notaire feignit l'étonnement devant l'assemblée.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connût",
+            "connut"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing., famille en -u → -ût (avec accent circonflexe)"
+        }
+      ],
+      "explanation": "« quoique » is a concessive conjunction that ALWAYS requires the subjunctive. Because the main verb « feignit » is in the passé simple (a past tense), literary concordance calls for the imperfect subjunctive to mark simultaneity. « connaître » belongs to the « -u » family, so the 3rd singular imperfect subjunctive is « connût » (ending -ût with a circumflex). « connaissait » is the indicative imperfect, excluded because « quoique » forbids the indicative. « connut » is the passé simple of the indicative — identical to « connût » except for the missing circumflex — and is likewise ruled out, since only the subjunctive can follow « quoique »."
     }
   ]
 }

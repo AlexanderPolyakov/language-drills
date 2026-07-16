@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'enfant {1} (courir) jusqu'au portail et {2} (sortir) dans la rue déserte.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "sortir",
+          "answer": [
+            "sortit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe en -ir régulier → -it"
+        }
+      ],
+      "explanation": "« courir » belongs to the irregular « -u » family, so its 3rd singular passé simple is « il courut » (no circumflex in the 3rd person; the circumflex marks only the nous/vous forms « courûmes/courûtes »). « sortir » is a regular -IR verb and takes the ending -it → « il sortit ». Both report single, completed actions in the literary narrative past."
+    },
+    {
+      "text": "Le savant {1} (lire) le vieux grimoire, puis {2} (écrire) fébrilement sa réponse.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv- → écrivit"
+        }
+      ],
+      "explanation": "« lire » follows the « -u » family with the stem « lu- » → 3rd singular « il lut » (again, no circumflex in the 3rd person). « écrire » keeps its special passé simple stem « écriv- », giving « il écrivit » (like « il conduisit » for conduire). Both narrate punctual, completed events, the hallmark use of the passé simple in written récit."
     }
   ]
 }

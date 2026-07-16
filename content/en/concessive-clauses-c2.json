@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could not silence the nagging suspicion that something was badly wrong.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Much as",
+            "However"
+          ],
+          "hint": "fronted bare verb + 'as' + subject + modal (might/may)"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed emphatic-concessive frame 'Try as + subject + might/may', equivalent to 'no matter how hard he tried'; the lexical verb 'try' is fronted and its force is carried by the modal 'might'. 'As try' reverses the obligatory word order of the idiom, which fixes the bare verb first, so 'As try he might' is ungrammatical. 'Much as' is followed directly by a lexical verb of feeling or opinion ('Much as I admire'); placed here it leaves the modal 'might' stranded with no main verb to complete it. 'However' demands a following adjective or adverb plus subject and verb ('However hard he tried'); with only the bare modal 'he might' it has no gradable word to quantify and is ungrammatical."
+    },
+    {
+      "text": "The panel dismissed the design as impractical. {1}, the client adopted it and it won a national award.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Be as it may",
+            "Much as it may",
+            "Even though that"
+          ],
+          "hint": "fixed subjunctive concessive conjunct = 'even granting that is so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fossilised subjunctive conjunct meaning 'even if that is true', standing complete before a comma and looking back to the previous sentence. 'Be as it may' drops the obligatory pronoun 'that', which is the subject of the fronted subjunctive 'be'; the idiom is fixed and cannot be reduced, so the truncation is ungrammatical. 'Much as it may' requires a following lexical verb ('Much as it may seem impractical'); left with the bare modal 'may' it is incomplete and cannot function as a free-standing conjunct before a full clause. 'Even though that' opens a subordinate clause that needs a subject and finite verb after it; a bare demonstrative 'that' with no verb cannot stand alone before a comma as a concessive linker."
     }
   ]
 }

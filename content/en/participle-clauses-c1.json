@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The novel was translated into more than forty languages. It became a worldwide phenomenon.",
+      "instruction": "Combine using a past (-ed) passive participle clause that reduces the passive clause, beginning with 'Translated'.",
+      "answer": [
+        "Translated into more than forty languages, the novel became a worldwide phenomenon.",
+        "Translated into more than forty languages the novel became a worldwide phenomenon"
+      ],
+      "placeholder": "Translated…",
+      "explanation": "A passive clause ('which was translated into more than forty languages') reduces to the bare past participle 'Translated into more than forty languages'. The understood subject of the participle is 'the novel', which is also the subject of the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The jury had weighed all the evidence carefully. It then returned a unanimous verdict.",
+      "instruction": "Combine using a perfect participle clause to show the first action was completed before the second, beginning with 'Having'.",
+      "answer": [
+        "Having weighed all the evidence carefully, the jury returned a unanimous verdict.",
+        "Having weighed all the evidence carefully the jury returned a unanimous verdict"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having weighed' makes explicit that the deliberation was completed before the verdict was returned, a sequence a plain -ing clause ('Weighing the evidence') would blur into simultaneity. The shared subject 'the jury' is the subject of both the participle and the main clause, so there is no dangling modifier."
     }
   ]
 }
