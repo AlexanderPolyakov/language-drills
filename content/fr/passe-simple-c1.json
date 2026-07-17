@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieux moine {1} (lire) le manuscrit interdit et {2} (croire) enfin à la prophétie.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        }
+      ],
+      "explanation": "« lire » belongs to the « -u » family: 3rd singular passé simple « il lut ». « croire » likewise → « il crut » — note there is no circumflex in the 3rd person (« crût » with a circumflex would be the passé simple of « croître » or a subjonctif imparfait). Both report single, completed narrative actions in this literary récit."
+    },
+    {
+      "text": "L'explorateur {1} (mourir) au cours de l'expédition, mais ses compagnons {2} (atteindre) enfin le sommet.",
+      "blanks": [
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        },
+        {
+          "cue": "atteindre",
+          "answer": [
+            "atteignirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical en -gn- → atteignirent"
+        }
+      ],
+      "explanation": "« mourir » has the irregular « -u » passé simple → 3rd singular « il mourut » (distinct from the past participle « mort »). « atteindre » forms its passé simple on the stem « atteign- » → 3rd plural « ils atteignirent » (like « craignirent », « peignirent »). Both narrate punctual, completed events in the narrative past."
     }
   ]
 }

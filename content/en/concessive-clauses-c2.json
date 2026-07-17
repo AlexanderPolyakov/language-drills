@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} might, he could not persuade the committee to reconsider its decision.",
+      "blanks": [
+        {
+          "answer": "Try as he",
+          "options": [
+            "Try as he",
+            "As he tried",
+            "However he",
+            "Much as he"
+          ],
+          "hint": "fixed concessive idiom: verb + as + subject, followed by 'might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the form 'bare verb + as + subject + might/may', meaning 'however hard he tried'. 'As he tried' is not concessive but temporal ('while/because he tried') and leaves 'might' stranded; 'However he' would require 'However hard he tried' with no 'might'; 'Much as he' takes a verb of feeling directly ('Much as he wanted to') and cannot be completed by the bare 'might' that this pattern demands."
+    },
+    {
+      "text": "The scheme is undeniably expensive and logistically fraught. {1}, it remains the only realistic option open to us.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "However it may be",
+            "As it may be",
+            "Much as it may"
+          ],
+          "hint": "fixed conceding formula linking back to the previous sentence: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive concessive formula meaning 'even if that is true / nevertheless'; it stands before a comma and a full main clause, conceding the preceding statement. 'However it may be' and 'As it may be' are not idiomatic standalone conjuncts in this slot; 'Much as it may' requires a following verb ('Much as it may cost us') and cannot stand alone before the comma."
     }
   ]
 }

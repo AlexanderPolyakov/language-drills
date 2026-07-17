@@ -96,6 +96,36 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le prince attendit que ses conseillers se {1} avant d'annoncer sa décision.",
+      "blanks": [
+        {
+          "answer": "retirassent",
+          "options": [
+            "retirassent",
+            "retiraient",
+            "retirèrent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « attendre que », principal au passé simple"
+        }
+      ],
+      "explanation": "« attendre que » governs the subjunctive, so the indicatif forms are excluded: « retiraient » (imparfait de l'indicatif) and « retirèrent » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main verb « attendit » is in the past and the withdrawal is posterior to it, so literary concordance requires the subjonctif imparfait of an -ER verb, 3rd plural in -assent: « qu'ils se retirassent »."
+    },
+    {
+      "text": "Elle déplorait que son frère {1} déjà parti quand elle arriva à la gare.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fût",
+            "fut"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« déplorer que » takes the subjunctive, so the indicatif forms are excluded: « était » (plus-que-parfait de l'indicatif, auxiliaire) and « fut » (passé antérieur de l'indicatif, sans circonflexe) cannot follow this trigger. The departure is ANTERIOR to the past reference « quand elle arriva », so strict concordance after the past « déplorait » calls for the subjonctif plus-que-parfait « qu'il fût parti » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
     }
   ]
 }

@@ -106,6 +106,28 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He had already read the novel twice. He found the film adaptation deeply disappointing.",
+      "instruction": "Combine using a perfect participle clause to give the completed prior reason, beginning with 'Having'.",
+      "answer": [
+        "Having already read the novel twice, he found the film adaptation deeply disappointing.",
+        "Having already read the novel twice, he found the film adaptation deeply disappointing",
+        "Having already read the novel twice he found the film adaptation deeply disappointing"
+      ],
+      "placeholder": "Having already read…",
+      "explanation": "The perfect participle 'Having + past participle' can express a reason rooted in a completed prior event: 'Having already read the novel twice' = 'Because he had already read it twice'. It is the completedness of that earlier reading (marked by 'Having') that explains his later reaction, so a plain -ing clause ('Reading the novel twice') would blur the time relationship."
+    },
+    {
+      "prompt": "She was unfamiliar with the local customs. She hesitated to speak first at the meeting.",
+      "instruction": "Combine using an -ing participle clause with 'Being' to express the reason, beginning with 'Being'.",
+      "answer": [
+        "Being unfamiliar with the local customs, she hesitated to speak first at the meeting.",
+        "Being unfamiliar with the local customs, she hesitated to speak first at the meeting",
+        "Being unfamiliar with the local customs she hesitated to speak first at the meeting"
+      ],
+      "placeholder": "Being unfamiliar…",
+      "explanation": "A causal clause describing a state ('Because she was unfamiliar with the local customs') reduces to a participle clause with 'Being + complement': 'Being unfamiliar with the local customs'. Here the -ing participle expresses reason rather than a simultaneous action, and the understood subject stays 'she', the subject of the main clause, so the modifier does not dangle."
     }
   ]
 }

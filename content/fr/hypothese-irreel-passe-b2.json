@@ -149,6 +149,48 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (ranger) tes affaires avec soin, tu les {2} (retrouver) sans peine.",
+      "blanks": [
+        {
+          "cue": "ranger",
+          "answer": [
+            "avais rangé"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., auxiliaire avoir — COD « tes affaires » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurais retrouvées"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — accord avec le COD antéposé « les » (= tes affaires, féminin pluriel)"
+        }
+      ],
+      "explanation": "Irréel du passé. In the « si » clause « ranger » takes avoir and its object « tes affaires » FOLLOWS the verb, so there is no agreement: plus-que-parfait « avais rangé ». In the result clause the pronoun « les » = « tes affaires » (feminine plural) PRECEDES the verb, so the past participle MUST agree: conditionnel passé « aurais retrouvées » (« retrouvé » or « retrouvés » would be wrong, since the antéposed direct object is feminine plural)."
+    },
+    {
+      "text": "Si les enfants {1} (rester) à la maison, ils {2} (ne pas tomber) malades.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étaient restés",
+            "étaient restées"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne seraient pas tombés",
+            "ne seraient pas tombées"
+          ],
+          "hint": "conditionnel passé négatif, 3e pers. plur., verbe de mouvement → être, accord avec le sujet, négation autour de l'auxiliaire"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » is conjugated with être, so the plus-que-parfait is « étaient restés », the participle agreeing with the subject « les enfants » (masculine/plural « restés », or « restées » if all feminine). « tomber » is a movement/state-change verb and also takes être; the conditionnel passé is « seraient tombés », with the negation wrapping the auxiliary: « ne seraient pas tombés » (or « tombées » if all feminine)."
     }
   ]
 }
