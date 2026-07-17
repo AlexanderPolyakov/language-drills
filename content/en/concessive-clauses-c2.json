@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} I sympathize with their plight, I cannot condone the methods they have used.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "As much",
+            "However",
+            "Notwithstanding"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' fronts a verb of feeling for emphasis, meaning 'although I greatly sympathize'. 'As much' reverses the words and cannot head the clause; bare 'However I sympathize' forces a 'in whatever way' manner reading rather than the intended concession, which needs 'However much'; 'Notwithstanding' is a preposition and must be followed by a noun phrase, not the finite clause 'I sympathize'."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the underlying problem stubbornly remains.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no quantity of spending alters the result. 'For all' takes a bare noun phrase ('For all the spending'), not 'much + clause'; 'Much as' is followed directly by the verb, not by 'much'; 'Albeit' cannot introduce a finite clause with its own subject and verb like 'the government spends'."
+    },
+    {
+      "text": "{1} its impressive specifications, the device proved thoroughly unreliable in everyday use.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "For all",
+            "Much as",
+            "Albeit",
+            "However"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all its impressive specifications' = 'despite them'. 'Much as' and 'However' require a following clause or adjective, not a bare noun phrase; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'in spite of' phrase before the main clause."
+    },
+    {
+      "text": "{1} that the evidence is largely circumstantial, it nonetheless points firmly in one direction.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Granted",
+            "Albeit",
+            "Despite",
+            "Much as"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point one is about to argue against: 'Granted that the evidence is circumstantial, it nonetheless...'. 'Albeit' cannot take a 'that'-clause; 'Despite' governs a noun phrase or -ing form, never a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the evidence is circumstantial'), not by 'that'."
+    },
+    {
+      "text": "The appeal was ultimately dismissed, the compelling new evidence {1}.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "despite",
+            "however",
+            "albeit"
+          ],
+          "hint": "a formal preposition that may FOLLOW its noun phrase = in spite of it"
+        }
+      ],
+      "explanation": "'Notwithstanding' is the one concessive preposition here that can be postposed, standing after the noun phrase it governs: 'the compelling new evidence notwithstanding' = 'in spite of the compelling new evidence'. 'Despite' is also a preposition but must precede its noun phrase and cannot follow it; 'however' would need a following adjective or adverb; 'albeit' introduces a concessive phrase and cannot be postposed after a noun in this way."
     }
   ]
 }

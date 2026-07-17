@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "He sat by the fire. He read a novel until midnight.",
+      "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Sitting'.",
+      "answer": [
+        "Sitting by the fire, he read a novel until midnight.",
+        "Sitting by the fire he read a novel until midnight"
+      ],
+      "placeholder": "Sitting…",
+      "explanation": "Two simultaneous actions by the same subject are joined by an -ing clause: 'Sitting by the fire' replaces 'While he sat by the fire'. The shared subject 'he' is not repeated, and because that understood subject is also the subject of the main clause the participle does not dangle."
+    },
+    {
+      "prompt": "She had already seen the film twice. She declined the invitation to the cinema.",
+      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
+      "answer": [
+        "Having already seen the film twice, she declined the invitation to the cinema.",
+        "Having already seen the film twice she declined the invitation to the cinema"
+      ],
+      "placeholder": "Having…",
+      "explanation": "The perfect participle 'Having already seen' makes explicit that the seeing was completed before she declined; here it also carries a causal sense ('because she had already seen it'). A plain -ing form ('Seeing the film twice') would wrongly suggest the two events coincided."
+    },
+    {
+      "prompt": "The palace was destroyed during the war. It was never rebuilt.",
+      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Destroyed'.",
+      "answer": [
+        "Destroyed during the war, the palace was never rebuilt.",
+        "Destroyed during the war the palace was never rebuilt"
+      ],
+      "placeholder": "Destroyed…",
+      "explanation": "A passive clause ('which was destroyed during the war') reduces to the bare past participle 'Destroyed'. The understood subject is 'the palace', the subject of the main clause, so the fronted modifier attaches correctly and does not dangle."
+    },
+    {
+      "prompt": "The documents that were seized during the raid have now been returned to their owners.",
+      "instruction": "Rewrite using a reduced relative clause (a past/-ed participle) instead of 'that were seized'.",
+      "answer": [
+        "The documents seized during the raid have now been returned to their owners.",
+        "The documents seized during the raid have now been returned to their owners"
+      ],
+      "placeholder": "The documents seized…",
+      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare participle: 'that were seized' becomes 'seized'. This is a reduced relative clause modifying 'the documents', not an adverbial one, so no commas are added."
+    },
+    {
+      "prompt": "Because he lacked the necessary experience, he was passed over for promotion.",
+      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Lacking'.",
+      "answer": [
+        "Lacking the necessary experience, he was passed over for promotion.",
+        "Lacking the necessary experience he was passed over for promotion"
+      ],
+      "placeholder": "Lacking…",
+      "explanation": "A causal clause ('Because he lacked') reduces to an -ing participle expressing reason: 'Lacking the necessary experience' = 'As he lacked it'. The stative verb 'lack' appears as a participle even though it is not normally used in the progressive, because a reason participle marks cause, not an action in progress."
     }
   ]
 }
