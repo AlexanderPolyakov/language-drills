@@ -106,6 +106,26 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She was a doctor. She immediately recognised the symptoms.",
+      "instruction": "Combine using a present participle clause of the verb 'be' to express the reason, beginning with 'Being'.",
+      "answer": [
+        "Being a doctor, she immediately recognised the symptoms.",
+        "Being a doctor she immediately recognised the symptoms"
+      ],
+      "placeholder": "Being a doctor…",
+      "explanation": "The verb 'be' can itself head a participle clause: 'Being a doctor' reduces 'Because she was a doctor' and gives the reason for the main clause. The understood subject of 'Being' is 'she', which is also the subject of the main clause, so the modifier does not dangle. This causal 'Being + noun/adjective' pattern is distinct from a simultaneous action clause; it explains why the main event happens rather than describing something occurring at the same time."
+    },
+    {
+      "prompt": "The weather was fine. They decided to set off at dawn.",
+      "instruction": "Combine using a nominative absolute construction (a participle clause carrying its own noun subject, with no 'with'), beginning with 'The weather being'.",
+      "answer": [
+        "The weather being fine, they decided to set off at dawn.",
+        "The weather being fine they decided to set off at dawn"
+      ],
+      "placeholder": "The weather being fine…",
+      "explanation": "A nominative absolute construction has its own explicit subject ('the weather') followed by a participle ('being'), and is grammatically independent of the main clause. Because it carries its own subject, it is not required to share the subject of the main clause ('they') and therefore does not dangle — unlike an ordinary -ing clause, whose understood subject must match that of the main clause. 'The weather being fine' conveys the attendant circumstance 'as/since the weather was fine'."
     }
   ]
 }

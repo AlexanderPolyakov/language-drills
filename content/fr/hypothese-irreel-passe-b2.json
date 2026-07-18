@@ -149,6 +149,46 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu avais gardé les photos que je t'{1}, tu me les {2} aujourd'hui avec fierté.",
+      "blanks": [
+        {
+          "cue": "envoyer",
+          "answer": [
+            "avais envoyées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les photos, fém. plur.)"
+        },
+        {
+          "cue": "montrer",
+          "answer": [
+            "aurais montrées"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « les » (= les photos, fém. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé : la subordonnée relative reprend la structure « si + plus-que-parfait » et la principale le conditionnel passé. Avec l'auxiliaire avoir, le participe s'accorde avec le COD placé AVANT le verbe. Dans « les photos que je t'avais envoyées », le pronom relatif « que » = « les photos » (féminin pluriel) précède « envoyer » : accord obligatoire → « envoyées ». De même, « tu me les aurais montrées » : le pronom COD antéposé « les » (= les photos) impose l'accord → « montrées ». Les formes « envoyé » ou « montré » sans accord seraient fautives ici."
+    },
+    {
+      "text": "Si elles {1} à la cérémonie, elles en {2} profondément émues.",
+      "blanks": [
+        {
+          "cue": "se rendre",
+          "answer": [
+            "s'étaient rendues"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal → auxiliaire être, accord avec le sujet « elles » (fém. plur.)"
+        },
+        {
+          "cue": "repartir",
+          "answer": [
+            "seraient reparties"
+          ],
+          "hint": "conditionnel passé, verbe de mouvement → auxiliaire être, accord avec le sujet « elles » (fém. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé. « se rendre (à un lieu) » est un verbe pronominal conjugué avec être, dont le participe s'accorde avec le sujet : « elles s'étaient rendues ». « repartir » est un verbe de mouvement également conjugué avec être : au conditionnel passé, le participe s'accorde avec le sujet féminin pluriel « elles » → « seraient reparties ». Les deux participes portent la marque du féminin pluriel « -es »."
     }
   ]
 }

@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "L'ambassadeur {1} la lettre scellée du roi et y {2} sur-le-champ.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical reç- (cédille), sans circonflexe"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — verbe en -re, terminaison -it"
+        }
+      ],
+      "explanation": "« recevoir » appartient à la famille du passé simple en « -u » : 3e pers. sing. « il reçut » (la cédille conserve le son [s] devant « u », et il n'y a jamais de circonflexe à la 3e pers. sing. — à distinguer de « reçût », subjonctif imparfait). « répondre » suit le modèle régulier des verbes en -re : « il répondit ». Les deux verbes rapportent des actions ponctuelles et achevées, d'où le passé simple du récit littéraire."
+    },
+    {
+      "text": "Dès qu'il entendit le cri d'alarme, le gardien {1} vers la tour et en {2} précipitamment la lourde porte.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, radical cour-, sans circonflexe"
+        },
+        {
+          "cue": "ouvrir",
+          "answer": [
+            "ouvrit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical ouvr-, terminaison -it"
+        }
+      ],
+      "explanation": "« courir » suit la famille du passé simple en « -u » : « il courut » (aucun circonflexe à la 3e pers. sing. ; le circonflexe n'apparaît qu'aux formes « nous courûmes / vous courûtes »). « ouvrir », bien que verbe en -ir, prend au passé simple les terminaisons en -it : « il ouvrit ». Les deux verbes expriment des actions uniques et achevées, emploi typique du passé simple dans la narration écrite."
     }
   ]
 }

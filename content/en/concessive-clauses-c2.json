@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1}, he could never persuade the committee to overturn its original verdict.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Much as he might",
+            "Try as he might",
+            "However he might",
+            "As much he tried"
+          ],
+          "hint": "fixed emphatic pattern: bare verb + 'as' + subject + 'might/would'"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive pattern 'Verb + as + subject + might/would', meaning 'however hard he tried' or 'no matter how he tried'. 'Much as he might' strands the modal: 'Much as' must be followed directly by a verb of feeling or effort ('Much as he tried'), not by a bare 'might'. 'However he might' needs a following adjective or adverb ('However hard he might try'), not a stranded modal. 'As much he tried' misorders the words: the pattern requires the fronted verb ('Try as...'), not 'As much' before the subject."
+    },
+    {
+      "text": "The report was undoubtedly drafted in haste. {1}, its central recommendation deserves serious consideration.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "However that be",
+            "Much as it may",
+            "Be that as it may",
+            "Even though"
+          ],
+          "hint": "fixed conjunct meaning 'nevertheless', standing alone before a comma and a full main clause"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct (with the subjunctive 'be') meaning 'even so' / 'nevertheless'; it links back to the preceding sentence and stands alone before a comma and an independent main clause. 'However that be' is not an idiomatic English formula. 'Much as it may' strands the modal and requires a following verb ('Much as it may seem...'), so it cannot stand alone. 'Even though' must introduce a subordinate finite clause within the same sentence, not stand by itself before a separate main clause."
     }
   ]
 }

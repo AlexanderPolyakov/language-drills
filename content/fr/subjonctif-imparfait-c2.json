@@ -96,6 +96,38 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Nul ne s'étonna que le messager {1} si tard, tant les routes de montagne étaient périlleuses.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "vint",
+            "vienne",
+            "venait",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « s'étonner que », principal au passé simple"
+        }
+      ],
+      "explanation": "« s'étonner que » gouverne le subjonctif : l'indicatif est donc exclu. « vint » est le passé simple de l'indicatif (aucun circonflexe à la 3e pers. sing.) et « venait » l'imparfait de l'indicatif ; ni l'un ni l'autre ne peut suivre ce déclencheur. « vienne » est le subjonctif présent, incorrect ici car le verbe principal « s'étonna » est au passé : la concordance littéraire impose alors le subjonctif imparfait « vînt » pour l'action simultanée, dont le circonflexe le distingue du passé simple « vint »."
+    },
+    {
+      "text": "Le règlement exigeait que chaque candidat {1} place en silence avant le début de l'épreuve.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenne",
+            "prît",
+            "prit",
+            "prenait"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « exiger que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« exiger que » appelle le subjonctif, ce qui exclut l'indicatif : « prit » est le passé simple de l'indicatif (sans circonflexe à la 3e pers. sing.) et « prenait » l'imparfait de l'indicatif. « prenne » est le subjonctif présent, inadapté car le verbe principal « exigeait » est au passé et l'action est postérieure : la concordance des temps littéraire réclame le subjonctif imparfait « prît » (« prendre place »), dont le circonflexe le sépare du passé simple « prit »."
     }
   ]
 }
