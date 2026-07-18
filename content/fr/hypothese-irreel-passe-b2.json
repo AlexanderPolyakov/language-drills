@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si les deux sœurs {1} (rester) ensemble, elles {2} (revenir) saines et sauves de la forêt.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étaient restées"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur. fém., verbe d'état → être, accord avec le sujet"
+        },
+        {
+          "cue": "revenir",
+          "answer": [
+            "seraient revenues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe de mouvement → être, accord avec le sujet"
+        }
+      ],
+      "explanation": "Irréel du passé. « rester » (verbe d'état) and « revenir » (verbe de mouvement) both take être, so the past participle AGREES with the feminine plural subject « les deux sœurs » (= « elles »). The « si » clause takes the plus-que-parfait « étaient restées » and the result clause the conditionnel passé « seraient revenues » — both participles carry the feminine plural ending -es."
+    },
+    {
+      "text": "Elle {1} (retrouver) les clés qu'elle {2} (perdre) si elle avait mieux cherché.",
+      "blanks": [
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurait retrouvé"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing., auxiliaire avoir — COD « les clés » postposé, donc pas d'accord"
+        },
+        {
+          "cue": "perdre",
+          "answer": [
+            "avait perdues"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les clés, fém. plur.)"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les clés qu'elle avait perdues », the relative pronoun « que » = « les clés » (feminine plural) precedes « perdre », so the participle MUST agree: « perdues ». For « retrouver », the object « les clés » FOLLOWS the verb, so there is no agreement: the conditionnel passé stays « aurait retrouvé » (an agreeing « retrouvées » would be wrong, the object not being antéposé)."
+    },
+    {
+      "text": "Elle {1} (s'apercevoir) de la fraude si elle {2} (vérifier) les comptes elle-même.",
+      "blanks": [
+        {
+          "cue": "s'apercevoir",
+          "answer": [
+            "se serait aperçue"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, accord avec le sujet « elle » (féminin)"
+        },
+        {
+          "cue": "vérifier",
+          "answer": [
+            "avait vérifié"
+          ],
+          "hint": "plus-que-parfait, 3e pers. sing., auxiliaire avoir — pas de COD antéposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Pronominal verbs take être. In « s'apercevoir de qqch », the participle agrees with the SUBJECT, so with feminine « elle » it is « se serait aperçue » — contrast « se rendre compte », whose « rendu » stays invariable because there « se » is an indirect object. The « si » clause uses « vérifier » with avoir; the object « les comptes » follows the verb, so there is no agreement: plus-que-parfait « avait vérifié »."
     }
   ]
 }

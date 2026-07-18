@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "As soon as she opened the letter, she knew the news was bad.",
+      "instruction": "Combine using an 'On + -ing' participle clause of time, beginning with 'On'.",
+      "answer": [
+        "On opening the letter, she knew the news was bad.",
+        "On opening the letter she knew the news was bad"
+      ],
+      "placeholder": "On opening…",
+      "explanation": "'On + -ing' is a formal way of saying 'as soon as' or 'immediately when': 'On opening the letter' = 'The moment she opened the letter'. The construction stresses that the main event follows instantly, and its understood subject is 'she', the subject of the main clause."
+    },
+    {
+      "prompt": "The medicine will be distributed nationwide as soon as it is approved.",
+      "instruction": "Rewrite the time clause as a reduced clause using 'Once + past participle', beginning with 'Once'.",
+      "answer": [
+        "Once approved, the medicine will be distributed nationwide.",
+        "Once approved the medicine will be distributed nationwide"
+      ],
+      "placeholder": "Once approved…",
+      "explanation": "The subordinator 'once' can be kept in front of a bare past participle when the reduced clause is passive: 'once it is approved' becomes 'once approved', dropping the subject and the form of 'be'. The understood subject is 'the medicine', the subject of the main clause, so the clause does not dangle."
+    },
+    {
+      "prompt": "She financed her degree. She did so by tutoring younger pupils.",
+      "instruction": "Combine into one sentence using a 'by + -ing' clause of means, beginning 'She financed her degree by…'.",
+      "answer": [
+        "She financed her degree by tutoring younger pupils.",
+        "She financed her degree by tutoring younger pupils"
+      ],
+      "placeholder": "She financed her degree by…",
+      "explanation": "A 'by + -ing' clause expresses means — the method by which the main action was accomplished: 'by tutoring younger pupils' answers 'how did she finance it?'. Unlike a simultaneous or result -ing clause, this one is introduced by 'by' and names the instrument or method, with 'she' understood as its subject."
+    },
+    {
+      "prompt": "Passengers who hold a valid ticket may board the train at any door.",
+      "instruction": "Rewrite using a reduced relative clause (present participle) in place of 'who hold'.",
+      "answer": [
+        "Passengers holding a valid ticket may board the train at any door.",
+        "Passengers holding a valid ticket may board the train at any door"
+      ],
+      "placeholder": "Passengers holding…",
+      "explanation": "A defining relative clause reduces to an -ing participle even when the verb is habitual or stative rather than progressive: 'who hold a valid ticket' becomes 'holding a valid ticket'. Reduced relatives use the present participle regardless of aspect, so 'holding' here means 'who habitually hold', not 'who are in the act of holding'."
+    },
+    {
+      "prompt": "Consider the faulty sentence: 'Walking through the park, the flowers seemed especially beautiful.'",
+      "instruction": "Rewrite so the participle clause no longer dangles, keeping 'Walking through the park,' and giving the main clause the subject 'I' with the verb 'found'.",
+      "answer": [
+        "Walking through the park, I found the flowers especially beautiful.",
+        "Walking through the park I found the flowers especially beautiful"
+      ],
+      "placeholder": "Walking through the park, I found…",
+      "explanation": "The original dangles because the understood subject of 'Walking' would be 'the flowers', yet flowers do not walk. The fix is to make the person who walked the subject of the main clause: with 'I found the flowers…', the implied subject of 'Walking' now matches the main subject 'I', so the modifier attaches correctly."
     }
   ]
 }

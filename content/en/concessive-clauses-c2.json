@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} as he might, he could not prise the rusted lock open.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "However",
+            "Much",
+            "Try",
+            "Even"
+          ],
+          "hint": "bare-infinitive verb fronted: '___ as + subject + might/may'"
+        }
+      ],
+      "explanation": "'[Verb] as + subject + might/may' ('Try as he might') is an emphatic concessive meaning 'however hard he tried' or 'although he tried'; the verb stands in the bare infinitive at the front. 'However' needs a following adjective or adverb ('However hard he tried'); 'Much' belongs to the frame 'Much as + subject + finite verb', not the bare 'as he might' pattern; 'Even' does not form this fronted concessive."
+    },
+    {
+      "text": "The scheme is costly and the schedule punishing. {1} that as it may, the board is determined to proceed.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "However",
+            "Much",
+            "Granted",
+            "Be"
+          ],
+          "hint": "fixed subjunctive idiom: '___ that as it may' = even so"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formal idiom using the subjunctive 'be', meaning 'even so / nonetheless'; it concedes the previous statement before countering it. None of the alternatives completes this frozen expression: 'However that as it may', 'Much that as it may' and 'Granted that as it may' are all ungrammatical, and 'Granted' would instead be followed by '(that) + clause'."
+    },
+    {
+      "text": "The novel is overlong and its plot implausible. {1} said, it contains some of the finest prose she has ever written.",
+      "blanks": [
+        {
+          "answer": "That",
+          "options": [
+            "However",
+            "That",
+            "Granted",
+            "Much"
+          ],
+          "hint": "conjunct '___ said,' concedes the prior point before a contrast"
+        }
+      ],
+      "explanation": "'That said' is a conjunct — a reduced form of 'that having been said' — meaning 'nevertheless / even so', acknowledging a preceding criticism before offering a counterpoint. The other words cannot precede 'said' in this fixed phrase: 'However' requires a following adjective or adverb, 'Granted' takes a '(that)-'clause, and 'Much' needs the frame 'Much as + subject + verb'."
+    },
+    {
+      "text": "{1} the cost, the government insists that the flood defences must be built.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "'___ + noun phrase' concedes every possibility: 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the cost') is an elliptical concessive meaning 'no matter what the cost may be'. 'However' must be followed by an adjective or adverb ('However great the cost'), not a bare noun phrase; 'Much as' requires a subject and finite verb; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'no-matter-what' condition."
+    },
+    {
+      "text": "The evidence against him was largely circumstantial. The jury, {1}, returned a verdict of guilty.",
+      "blanks": [
+        {
+          "answer": "nonetheless",
+          "options": [
+            "even though",
+            "nonetheless",
+            "much as",
+            "albeit"
+          ],
+          "hint": "parenthetical conjunct between commas = 'in spite of that'"
+        }
+      ],
+      "explanation": "'Nonetheless' (like 'nevertheless') is a conjunct meaning 'in spite of that / even so'; it can sit parenthetically between commas inside the clause and points back to the previous sentence. 'Even though' and 'much as' must each introduce their own subordinate clause with a subject and verb, which the bare parenthetical slot does not provide; 'albeit' introduces a concessive phrase, not a free-standing sentence connector."
     }
   ]
 }

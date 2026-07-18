@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi voulut que son héritier {1} régner seul avant l'hiver.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so both indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this trigger. The main verb « voulut » is in the past and the reign is posterior to the wish, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le veilleur craignait que l'assaillant ne {1} par la poterne mal gardée.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « craindre que » avec le « ne » explétif"
+        }
+      ],
+      "explanation": "« craindre que » triggers the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif is impossible: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, sans circonflexe) cannot follow it. The main verb « craignait » is in the past and the feared arrival is posterior, so strict concordance calls for the subjonctif imparfait « qu'il vînt » — the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Il quitta la salle sans que personne ne {1} garde à son départ.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « sans que »"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive (here reinforced by the « ne » explétif), so the indicatif forms are excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, sans circonflexe) are both wrong. The main verb « quitta » is in the past and the action is simultaneous, so literary concordance requires the subjonctif imparfait of prendre: « qu'il prît garde » — note the circumflex on « prît »."
+    },
+    {
+      "text": "Ce fut le seul des naufragés qui {1} mort avant l'arrivée des secours.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), tournure « le seul … qui », antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "A relative clause after « le seul … qui » takes the subjunctive, so the indicatif is excluded: « était » (plus-que-parfait de l'indicatif « était mort ») and « fut » (passé antérieur de l'indicatif « fut mort », sans circonflexe) are both wrong. The death is ANTERIOR to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait of mourir: « qui fût mort » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
     }
   ]
 }

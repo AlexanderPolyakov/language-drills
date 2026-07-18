@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le vieil érudit {1} (croire) rêver lorsqu'il {2} (lire) son propre nom sur le parchemin.",
+      "blanks": [
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → crut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« croire » belongs to the « -u » family: 3rd singular passé simple « il crut » (stem « cru- », not to be confused with the present « il croit »). « lire » likewise gives « il lut » (stem « lu- »). Both report single, completed narrative actions, hence the passé simple in this literary récit."
+    },
+    {
+      "text": "Le capitaine {1} (recevoir) l'ordre à l'aube et y {2} (répondre) sans la moindre hésitation.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant u → reçut"
+        },
+        {
+          "cue": "répondre",
+          "answer": [
+            "répondit"
+          ],
+          "hint": "passé simple, 3e pers. sing., verbe régulier en -RE → terminaison -it"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family with a cedilla to keep the soft /s/ before « u »: « il reçut ». « répondre » is a regular -RE verb, so its 3rd singular passé simple ends in -it: « il répondit ». Both express single, completed actions in the narrative past."
+    },
+    {
+      "text": "L'enfant {1} (courir) jusqu'au vieux portail et {2} (ouvrir) la lourde grille rouillée.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "ouvrir",
+          "answer": [
+            "ouvrit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — comme « offrir », terminaison -it → ouvrit"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family: 3rd singular passé simple « il courut » (double-r stem « cour- » + -ut). « ouvrir » conjugates like « offrir » and « couvrir », taking the -it ending of the -IR/-RE type despite its infinitive: « il ouvrit ». Both narrate punctual, completed events in this literary récit."
     }
   ]
 }
