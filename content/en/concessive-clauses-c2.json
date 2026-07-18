@@ -166,6 +166,38 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} she earns, she always seems to be short of money before the month is out.",
+      "blanks": [
+        {
+          "answer": "However much",
+          "options": [
+            "However much",
+            "Despite",
+            "Albeit",
+            "Notwithstanding"
+          ],
+          "hint": "___ + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no quantity or degree alters the result: 'However much she earns' = 'no matter how much she earns'. 'Despite' and 'Notwithstanding' are prepositional and must be followed by a noun phrase ('Despite her earnings'), not the finite clause 'she earns'; 'Albeit' introduces a reduced concessive phrase and cannot head a full finite clause with its own subject and verb."
+    },
+    {
+      "text": "The minority's strenuous objections {1}, the resolution was adopted without a single amendment.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "albeit",
+            "for all",
+            "even so"
+          ],
+          "hint": "the one connector that may FOLLOW its noun phrase, not only precede it"
+        }
+      ],
+      "explanation": "'Notwithstanding' is unusual in that it can either precede or, more formally, follow its noun phrase; here it is postposed, so 'The minority's strenuous objections notwithstanding' means 'in spite of the minority's objections'. 'For all' can only precede its noun phrase ('For all the objections'), never follow it; 'albeit' introduces a reduced concessive phrase and cannot govern a preceding noun as 'in spite of'; 'even so' is a sentence conjunct ('in spite of that') that links back to a previous statement and does not attach to a noun phrase inside the clause."
     }
   ]
 }

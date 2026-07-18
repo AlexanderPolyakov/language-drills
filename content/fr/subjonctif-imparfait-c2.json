@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que l'élève {1} son poème sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récita",
+            "récitât"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), verbe en -ER, après « exigea » (passé simple)"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past and the reciting is posterior to the order, so literary concordance requires the subjonctif imparfait of this -ER verb: « qu'il récitât » — note the circumflex on the « â »."
+    },
+    {
+      "text": "Il n'y avait personne qui {1} résoudre une énigme aussi ardue.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "puisse",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., relative après un antécédent négatif"
+        }
+      ],
+      "explanation": "A relative clause depending on a negative antecedent (« il n'y avait personne qui ») takes the subjunctive, so the indicatif « pouvait » (imparfait de l'indicatif) is excluded. « puisse » is the subjonctif présent — the right mood but the wrong tense here, since the main verb « il n'y avait » is in the past: strict concordance calls for the subjonctif imparfait « qu'il pût » — note the circumflex on « û », which also distinguishes it from the passé simple « put »."
+    },
+    {
+      "text": "Personne ne croyait qu'il {1} son chef-d'œuvre à un âge si tendre.",
+      "blanks": [
+        {
+          "answer": "eût achevé",
+          "options": [
+            "avait achevé",
+            "ait achevé",
+            "eût achevé"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « ne croyait pas que » (principal négatif au passé)"
+        }
+      ],
+      "explanation": "A negated « croire que » governs the subjunctive, so the indicatif « avait achevé » (plus-que-parfait de l'indicatif) is excluded. « ait achevé » is the subjonctif passé — the correct mood but the wrong tense after a PAST main verb (« croyait »): literary concordance for an ANTERIOR action requires the subjonctif plus-que-parfait « qu'il eût achevé » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
     }
   ]
 }

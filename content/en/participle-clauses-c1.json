@@ -106,6 +106,17 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "She had lived in Japan for a decade. She spoke the language fluently.",
+      "instruction": "Combine into one sentence using a perfect participle clause for the completed prior situation, beginning with 'Having'.",
+      "answer": [
+        "Having lived in Japan for a decade, she spoke the language fluently.",
+        "Having lived in Japan for a decade she spoke the language fluently",
+        "Having lived in Japan for a decade, she spoke the language fluently"
+      ],
+      "placeholder": "Having lived…",
+      "explanation": "The perfect participle 'Having lived' reduces 'She had lived in Japan for a decade' and marks that situation as completed and relevant before the main verb: 'Having lived in Japan for a decade' = 'Because/After she had lived in Japan for a decade'. The understood subject of the participle is 'she', the subject of the main clause, so the modifier does not dangle. A plain -ing clause ('Living in Japan for a decade') would lose the sense that the residence preceded and explains her fluency."
     }
   ]
 }

@@ -146,6 +146,46 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le voyageur {1} (ouvrir) la lettre et {2} (comprendre) aussitôt la gravité de la nouvelle.",
+      "blanks": [
+        {
+          "cue": "ouvrir",
+          "answer": [
+            "ouvrit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical ouvri- → ouvrit"
+        },
+        {
+          "cue": "comprendre",
+          "answer": [
+            "comprit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille de « prendre », radical en pri-"
+        }
+      ],
+      "explanation": "« ouvrir » forms its passé simple on the stem « ouvri- » → 3rd singular « il ouvrit » (like « il couvrit », « il offrit »). « comprendre » follows « prendre » with the irregular stem « pri- » → « il comprit ». Both narrate single, completed actions in the literary past, with no circumflex in the 3rd person."
+    },
+    {
+      "text": "Les villageois {1} (apercevoir) la fumée au loin et {2} (courir) vers la colline.",
+      "blanks": [
+        {
+          "cue": "apercevoir",
+          "answer": [
+            "aperçurent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u, cédille devant -u → aperçurent"
+        },
+        {
+          "cue": "courir",
+          "answer": [
+            "coururent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → coururent (deux r)"
+        }
+      ],
+      "explanation": "« apercevoir » belongs to the « -u » family (like « recevoir » → « il reçut »): 3rd plural « ils aperçurent », with a cédille on the « ç » to keep the soft sound before « -u ». « courir » also takes the « -u » family, with a doubled « r » → « ils coururent ». Neither form carries a circumflex in the 3rd person."
     }
   ]
 }
