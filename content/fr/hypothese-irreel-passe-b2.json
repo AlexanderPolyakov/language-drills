@@ -149,6 +149,67 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si vous {1} (rester) un instant de plus, vous {2} (comprendre) le dénouement de l'affaire.",
+      "blanks": [
+        {
+          "cue": "rester",
+          "answer": [
+            "étiez restés",
+            "étiez restées"
+          ],
+          "hint": "plus-que-parfait, vous, verbe d'état → auxiliaire être, accord avec le sujet"
+        },
+        {
+          "cue": "comprendre",
+          "answer": [
+            "auriez compris"
+          ],
+          "hint": "conditionnel passé, vous, auxiliaire avoir — pas de COD antéposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « rester » is conjugated with être, so its participle AGREES with the plural subject « vous »: « étiez restés » (masculine/mixed) or « étiez restées » (all-feminine). « comprendre » uses avoir with the direct object « le dénouement » placed AFTER the verb, so there is no agreement: « auriez compris » stays invariable."
+    },
+    {
+      "text": "Ils se {1} (rencontrer) bien plus tôt s'ils {2} (fréquenter) les mêmes cercles littéraires.",
+      "blanks": [
+        {
+          "cue": "se rencontrer",
+          "answer": [
+            "seraient rencontrés"
+          ],
+          "hint": "conditionnel passé, verbe pronominal réciproque → être, accord avec le sujet « ils »"
+        },
+        {
+          "cue": "fréquenter",
+          "answer": [
+            "avaient fréquenté"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., auxiliaire avoir — COD « les mêmes cercles » postposé, pas d'accord"
+        }
+      ],
+      "explanation": "Here the result clause comes first, but the verb forms are unchanged. « se rencontrer » is a reciprocal pronominal verb where « se » is the DIRECT object (« rencontrer l'un l'autre »), so it takes être and the participle AGREES with the subject « ils »: « se seraient rencontrés ». The « si » clause uses « fréquenter » with avoir; the direct object « les mêmes cercles » FOLLOWS the verb, so there is no agreement: plus-que-parfait « avaient fréquenté »."
+    },
+    {
+      "text": "Si tu avais gardé les photos que je t'{1} (envoyer), tu me les {2} (montrer).",
+      "blanks": [
+        {
+          "cue": "envoyer",
+          "answer": [
+            "avais envoyées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « que » (= les photos, fém. plur.)"
+        },
+        {
+          "cue": "montrer",
+          "answer": [
+            "aurais montrées"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « les » (= les photos, fém. plur.)"
+        }
+      ],
+      "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb — and here that rule applies in BOTH clauses. In the « si » clause « les photos que je t'avais envoyées », the relative pronoun « que » = « les photos » (feminine plural) precedes the verb, so the participle agrees: « envoyées ». In the result clause « tu me les aurais montrées », the pronoun « les » = « les photos » is likewise a preceding direct object, so the conditionnel passé agrees too: « montrées ». Note that « t' » and « me » are INDIRECT objects (« envoyer / montrer À toi, À moi ») and never trigger agreement — only the feminine-plural « les photos » does."
     }
   ]
 }

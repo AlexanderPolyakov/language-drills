@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Elle alluma une lampe à la fenêtre pour que le voyageur égaré {1} jusqu'à la ferme.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (a clause of purpose) always governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « alluma » is in the passé simple and the hoped-for arrival is posterior to it, so strict literary concordance requires the subjonctif imparfait of « venir »: « qu'il vînt » — note the circumflex on « vînt », which alone distinguishes the subjunctive from the passé simple « vint »."
+    },
+    {
+      "text": "Il était le seul officier qui {1} déchiffrer les messages codés de l'ennemi.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût), relative après « le seul qui », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul (qui) » takes the subjunctive (like relatives after « le premier / le dernier / le seul » and after superlatives), so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif) cannot follow this trigger. The main verb « était » is a past tense and the ability is simultaneous with it, so literary concordance calls for the subjonctif imparfait of « savoir »: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the passé simple « sut »."
+    },
+    {
+      "text": "Le notaire refusa de conclure la vente, à moins que l'acheteur ne {1} l'entière responsabilité du domaine.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît), après « à moins que » (+ ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » always governs the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif forms are impossible: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) are both excluded. The main verb « refusa » is in the passé simple and the condition is posterior to it, so literary concordance requires the subjonctif imparfait of « prendre »: « qu'il prît » — the circumflex distinguishes it from the passé simple « prit »."
+    },
+    {
+      "text": "Quoiqu'il {1} tout prévu dans les moindres détails, le vieux stratège fut surpris par l'assaut nocturne.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « quoique », antériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (like « bien que ») always governs the subjunctive, so the indicatif forms are excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, auxiliary « eut » without circumflex) are both ungrammatical after this trigger. Foreseeing everything is ANTERIOR to the past reference « fut surpris », so strict concordance calls for the subjonctif plus-que-parfait « qu'il eût prévu » — note the circumflex on the auxiliary « eût », which alone marks the subjunctive against the passé antérieur « eut prévu »."
     }
   ]
 }

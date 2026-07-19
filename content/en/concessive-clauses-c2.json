@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he simply could not shake off the feeling that something was badly wrong.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "However",
+            "Try as",
+            "Even though"
+          ],
+          "hint": "fronted verb + as + subject + might/may = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive pattern in which the bare verb is fronted for emphasis: 'Try as he might' = 'However hard he tried'. 'Much as' is followed directly by a verb of feeling ('Much as he liked it'), not by the modal 'might' with the verb elided, so 'Much as he might' leaves no verb and is ungrammatical. 'However' would itself begin the clause with a following adjective/adverb ('However hard he tried'), not sit before 'he might'. 'Even though he might' produces an incomplete, unidiomatic clause, since 'even though' expects a full finite verb phrase, not a stranded 'might'."
+    },
+    {
+      "text": "The evidence against the defendant is admittedly circumstantial. {1}, the jury may still find the argument compelling enough to convict.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Be that as it may",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a stand-alone conjunct meaning 'even so / that notwithstanding'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, free-standing concessive conjunct meaning 'even so' or 'that notwithstanding'; it links back to the previous sentence and is set off by a comma before a full main clause. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone before an independent clause. 'Much as' requires a following subject + verb ('Much as the jury doubts it'). 'Albeit' introduces a reduced concessive phrase (an adjective or adverbial), never a stand-alone connector heading a complete main clause."
+    },
+    {
+      "text": "{1} the firm's northern division went from strength to strength, its southern counterpart declined year after year.",
+      "blanks": [
+        {
+          "answer": "Whereas",
+          "options": [
+            "Notwithstanding",
+            "For all",
+            "Albeit",
+            "Whereas"
+          ],
+          "hint": "subordinator drawing an explicit contrast between two finite clauses"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinating conjunction that introduces a finite clause and draws an explicit contrast between two situations: 'Whereas the northern division flourished, the southern one declined'. 'Notwithstanding' and 'For all' are followed by a noun phrase, not a finite clause with its own subject and verb ('the northern division went'). 'Albeit' can only introduce a reduced concessive phrase, so it cannot head the full finite clause 'the firm's northern division went from strength to strength'."
+    },
+    {
+      "text": "She knew perfectly well that the venture might ruin her financially; {1}, she pressed ahead without a moment's hesitation.",
+      "blanks": [
+        {
+          "answer": "for all that",
+          "options": [
+            "much as",
+            "albeit",
+            "for all that",
+            "granted"
+          ],
+          "hint": "a conjunct meaning 'in spite of that / nevertheless'"
+        }
+      ],
+      "explanation": "'For all that' used as a conjunct means 'in spite of that' or 'nevertheless', referring back to the whole preceding clause and standing before a comma and a full main clause. It is distinct from 'for all + noun phrase' ('for all her wealth'). 'Much as' needs a following subject + verb ('much as she feared it'). 'Albeit' introduces a reduced concessive phrase, not a free-standing connector before an independent clause. 'Granted' concedes a point that is then countered and is normally followed by '(that) + clause', not used alone in this mid-sentence conjunct slot."
+    },
+    {
+      "text": "{1} how daunting the challenge became, she refused to let her team see a flicker of doubt.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "No matter",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + how + adjective + clause = it made no difference"
+        }
+      ],
+      "explanation": "'No matter how + adjective + clause' concedes that the degree of difficulty made no difference to the outcome: 'No matter how daunting the challenge became'. 'However' expresses the same idea but attaches directly to the adjective ('However daunting the challenge became') and cannot precede 'how'. 'Much as' takes a verb of feeling, not 'how' plus an adjective. 'For all' is followed by a noun phrase ('For all its difficulty'), so it cannot govern the 'how + adjective + clause' structure here."
     }
   ]
 }

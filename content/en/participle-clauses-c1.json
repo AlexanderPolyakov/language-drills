@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "Because he had lost his passport, he was unable to board the flight.",
+      "instruction": "Rewrite the reason clause as a perfect participle clause expressing cause, beginning with 'Having'.",
+      "answer": [
+        "Having lost his passport, he was unable to board the flight.",
+        "Having lost his passport he was unable to board the flight"
+      ],
+      "placeholder": "Having lost…",
+      "explanation": "A causal clause referring to a completed prior event ('Because he had lost his passport') reduces to a perfect participle clause 'Having + past participle': 'Having lost his passport'. The perfect form makes clear the loss happened before, and is the cause of, the inability to board. The understood subject 'he' is shared with the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The sun had set behind the mountains. The travellers decided to make camp for the night.",
+      "instruction": "Combine using an absolute (nominative absolute) participle construction that keeps its own subject at the front, beginning with 'The sun having set'.",
+      "answer": [
+        "The sun having set behind the mountains, the travellers decided to make camp for the night.",
+        "The sun having set behind the mountains the travellers decided to make camp for the night"
+      ],
+      "placeholder": "The sun having set…",
+      "explanation": "An absolute construction places a noun ('The sun') immediately before a participle ('having set'), giving the participle clause its own subject that differs from the main clause's subject ('the travellers'). Because the participle carries its own explicit subject, no dangling modifier results even though the subjects differ. The perfect participle 'having set' also marks the setting of the sun as completed before the main action."
+    },
+    {
+      "prompt": "As he was new to the company, he was unsure of the correct procedures.",
+      "instruction": "Rewrite the reason clause as a present participle clause using the participle of 'be', beginning with 'Being'.",
+      "answer": [
+        "Being new to the company, he was unsure of the correct procedures.",
+        "Being new to the company he was unsure of the correct procedures"
+      ],
+      "placeholder": "Being new…",
+      "explanation": "A causal clause describing a state ('As he was new to the company') reduces to a present participle clause built on 'being': 'Being new to the company'. Unlike the perfect participle 'Having + past participle', which marks a completed prior event, 'Being + adjective' expresses an ongoing state that is the reason for the main clause. The understood subject is 'he', shared with the main clause, so the modifier does not dangle."
+    },
+    {
+      "prompt": "If you look at it closely, you will notice tiny cracks running through the varnish.",
+      "instruction": "Rewrite the conditional 'if' clause as a present (-ing) participle clause of condition, beginning with 'Looking'.",
+      "answer": [
+        "Looking at it closely, you will notice tiny cracks running through the varnish.",
+        "Looking at it closely you will notice tiny cracks running through the varnish"
+      ],
+      "placeholder": "Looking at it closely…",
+      "explanation": "A conditional clause ('If you look at it closely') can reduce to an -ing participle clause when the condition and the main clause share the same subject: 'Looking at it closely' = 'If you look at it closely'. The shared subject 'you' is understood as the subject of the participle, so the clause does not dangle; the conditional (rather than purely simultaneous) reading comes from the context and the modal 'will' in the main clause."
+    },
+    {
+      "prompt": "If the weather permits, we will hold the graduation ceremony outdoors.",
+      "instruction": "Rewrite the conditional 'if' clause as an idiomatic absolute participle construction, beginning with 'Weather permitting'.",
+      "answer": [
+        "Weather permitting, we will hold the graduation ceremony outdoors.",
+        "Weather permitting we will hold the graduation ceremony outdoors"
+      ],
+      "placeholder": "Weather permitting…",
+      "explanation": "'Weather permitting' is a fixed idiomatic absolute construction ('noun + -ing participle') meaning 'if the weather allows it'. Like other absolutes, it carries its own subject ('weather'), distinct from the main clause's 'we', so it does not dangle. The set phrase compresses the whole conditional 'If the weather permits' into two words and is used only in this frozen form."
     }
   ]
 }

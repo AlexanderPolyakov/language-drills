@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le page {1} (courir) jusqu'à la tour et {2} (recevoir) des mains du roi le sceau royal.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → courut"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant u → reçut"
+        }
+      ],
+      "explanation": "« courir » belongs to the « -u » family of the passé simple: 3rd singular « il courut » (built on a stem distinct from the infinitive, not « courit »). « recevoir » likewise follows the « -u » family → « il reçut », where the cédille keeps the [s] sound of the « c » before « u ». Neither form carries a circumflex in the 3rd person singular. Both narrate single, completed actions, the characteristic use of the passé simple in written narration."
+    },
+    {
+      "text": "Le moine {1} (écrire) patiemment la chronique du royaume, que nul ne {2} (lire) avant sa mort.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical en écriv- → écrivit"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
+        }
+      ],
+      "explanation": "« écrire » takes the special passé simple stem « écriv- » → 3rd singular « il écrivit » (like « conduisit », « construisit »). « lire » belongs to the « -u » family → « il lut » (not to be confused with « il lit », the present). Both report punctual, completed events in this literary récit, and, as always in the passé simple, neither third-person form bears a circumflex."
+    },
+    {
+      "text": "À l'annonce du désastre, les villageois {1} (craindre) une nouvelle attaque et {2} (boire) en silence à la santé du seigneur.",
+      "blanks": [
+        {
+          "cue": "craindre",
+          "answer": [
+            "craignirent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — radical en craign- → craignirent"
+        },
+        {
+          "cue": "boire",
+          "answer": [
+            "burent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → burent"
+        }
+      ],
+      "explanation": "« craindre » builds its passé simple on the stem « craign- » with the -IR/-RE endings: 3rd plural « ils craignirent » (like « ils peignirent », « ils joignirent »). « boire » belongs to the « -u » family with the stem « b- » → « ils burent ». Both narrate collective, completed actions in the past; the 3rd person plural of the passé simple never takes a circumflex (the circumflex marks only the « nous » and « vous » forms, e.g. « nous bûmes », « vous craignîtes »)."
     }
   ]
 }
