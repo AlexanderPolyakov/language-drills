@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "If it is used sparingly, a single tube of this cream lasts for months.",
+      "instruction": "Rewrite the conditional clause as a past (passive) participle clause of condition, beginning with 'Used'.",
+      "answer": [
+        "Used sparingly, a single tube of this cream lasts for months.",
+        "Used sparingly a single tube of this cream lasts for months"
+      ],
+      "placeholder": "Used sparingly…",
+      "explanation": "A conditional clause ('If it is used sparingly') can reduce to a bare past participle that carries a conditional sense: 'Used sparingly' = 'If/When it is used sparingly'. The understood subject of the participle must be the subject of the main clause, here 'a single tube of this cream', which is indeed what is used, so the modifier does not dangle."
+    },
+    {
+      "prompt": "The work was finally finished. The exhausted team left the office well after midnight.",
+      "instruction": "Combine using an absolute construction with a past participle (its own subject, no 'with'), beginning with 'The work'.",
+      "answer": [
+        "The work finally finished, the exhausted team left the office well after midnight.",
+        "The work finally finished the exhausted team left the office well after midnight"
+      ],
+      "placeholder": "The work finished, the team…",
+      "explanation": "The nominative absolute 'The work finally finished' has its own subject ('the work') separate from the subject of the main clause ('the team'), which is exactly why it does not dangle even though the two subjects differ. Unlike a reduced relative clause, an absolute modifies the whole main clause, supplying the circumstance under which the team left, and a past participle is used because the work was finished (passive) rather than doing the finishing."
+    },
+    {
+      "prompt": "Driving to work this morning, the traffic was so heavy that I was an hour late.",
+      "instruction": "The participle clause dangles, since the traffic was not driving. Correct it by making the person the subject of the main clause, keeping 'Driving to work this morning'.",
+      "answer": [
+        "Driving to work this morning, I found the traffic so heavy that I was an hour late.",
+        "Driving to work this morning I found the traffic so heavy that I was an hour late"
+      ],
+      "placeholder": "Driving to work this morning, I…",
+      "explanation": "A participle clause takes its subject from the subject of the main clause, so 'Driving to work this morning, the traffic was heavy' wrongly implies the traffic was driving. The repair is to recast the main clause so that its subject ('I') is the one performing the participle's action: 'Driving to work this morning, I found the traffic so heavy…'. The participle itself does not change; only the main clause is rebuilt around the correct subject."
+    },
+    {
+      "prompt": "Because he could see that no one was listening to him any longer, he abandoned his speech.",
+      "instruction": "Reduce the reason clause to a present participle clause of reason, beginning with 'Seeing'.",
+      "answer": [
+        "Seeing that no one was listening to him any longer, he abandoned his speech.",
+        "Seeing that no one was listening to him any longer he abandoned his speech"
+      ],
+      "placeholder": "Seeing that…",
+      "explanation": "A causal clause introduced by 'because' can be reduced to an -ing participle expressing reason, and 'Seeing (that)…' is the idiomatic way to render 'because he could see/realised that…'. The participle retains its own 'that'-complement clause, while its understood subject stays 'he', the subject of the main clause. This is an adverbial participle clause of cause, not a reduced relative."
+    },
+    {
+      "prompt": "The old mill could not be saved. Its timbers had been rotted through by decades of damp.",
+      "instruction": "Combine using an absolute construction of the form 'possessive + noun + past participle', beginning with 'Its'.",
+      "answer": [
+        "Its timbers rotted through by decades of damp, the old mill could not be saved.",
+        "Its timbers rotted through by decades of damp the old mill could not be saved"
+      ],
+      "placeholder": "Its timbers rotted through…, the old mill…",
+      "explanation": "This is an absolute construction whose subject is a possessive noun phrase, 'Its timbers', governing the past participle 'rotted through'. Because the absolute carries its own subject, it need not share the subject of the main clause ('the old mill'), so no dangling modifier arises. The past participle is passive in force, showing that the timbers were rotted by the damp rather than doing the rotting themselves."
     }
   ]
 }

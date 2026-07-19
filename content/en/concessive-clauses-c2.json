@@ -166,6 +166,86 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1}, he could not for the life of him recall where he had left his passport.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "However hard",
+            "Try as he might",
+            "Much as trying",
+            "For all trying"
+          ],
+          "hint": "fixed idiom: verb + as + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the pattern 'verb + as + subject + might/may', meaning 'however hard he tried'. 'However hard' cannot stand alone here: it needs a following gradable clause ('However hard he tried'), so on its own before the comma it is ungrammatical; 'Much as trying' is ungrammatical because 'Much as' must be followed by a subject and finite verb, not by an -ing form; 'For all trying' fails because 'For all' governs a full noun phrase ('For all his efforts'), not a bare gerund."
+    },
+    {
+      "text": "The scheme is undeniably imaginative. {1}, it remains wholly unfunded and cannot proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Albeit",
+            "Be that as it may"
+          ],
+          "hint": "a free-standing conjunct meaning 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed conjunct meaning 'even so' or 'that notwithstanding', standing alone before a comma and conceding the previous sentence before countering it. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone; 'Much as' requires a following subject and verb ('Much as we admire it'); 'Albeit' introduces a reduced concessive phrase, not a free-standing sentence connector before a full main clause."
+    },
+    {
+      "text": "{1} carefully you plan a live broadcast, something will always go wrong on the night.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree, it makes no difference"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that no degree of care changes the outcome: 'No matter how carefully you plan…'. 'Much as' is followed directly by a subject and verb, not by the adverb 'carefully'; 'For all' must govern a noun phrase ('For all your planning'); 'Albeit' introduces a concessive phrase and cannot head a finite clause with its own subject and verb ('you plan')."
+    },
+    {
+      "text": "{1} the obstacles that lie ahead, the expedition is now committed to reaching the summit.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase (+ may be) = no matter what"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' works concessively to mean 'no matter what', with an understood 'may be': 'Whatever the obstacles (may be)…'. 'However' requires a following adjective or adverb ('However great the obstacles'), not a bare noun; 'Much as' must be followed by a subject and finite verb; 'Albeit' introduces a reduced concessive phrase qualifying something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "The setback did nothing to dampen their enthusiasm; {1}, it only hardened their resolve.",
+      "blanks": [
+        {
+          "answer": "if anything",
+          "options": [
+            "even though",
+            "if anything",
+            "much as",
+            "albeit"
+          ],
+          "hint": "a conjunct conceding the opposite tendency: 'on the contrary, to some degree'"
+        }
+      ],
+      "explanation": "'If anything' is a concessive conjunct meaning 'on the contrary, if there was any effect at all', used to correct an expectation in the opposite direction: far from dampening enthusiasm, the setback strengthened it. 'Even though' must introduce a subordinate clause, not stand alone between clauses; 'much as' requires a following subject and verb; 'albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
     }
   ]
 }

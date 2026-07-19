@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les fuyards ne {1} (pouvoir) aller plus loin, car ils ne {2} (savoir) quelle route mènerait au port.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "purent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → purent"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → surent"
+        }
+      ],
+      "explanation": "« pouvoir » and « savoir » both belong to the irregular « -u » family: 3rd plural passé simple « ils purent » and « ils surent ». Note that neither form takes a circumflex in the 3rd person — the circumflex belongs only to the subjonctif imparfait « qu'il pût » / « qu'il sût ». Both report completed actions in this literary narration."
+    },
+    {
+      "text": "Le vieil abbé {1} (recevoir) le messager avec méfiance, puis {2} (lire) la missive à la lueur d'une chandelle.",
+      "blanks": [
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille devant u → reçut"
+        },
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical lu-"
+        }
+      ],
+      "explanation": "« recevoir » follows the « -u » family with a cedilla kept before « u » to preserve the [s] sound: « il reçut ». « lire » has the passé simple stem « lu- » → « il lut ». Neither carries a circumflex in the 3rd person singular (unlike the subjonctif imparfait « qu'il reçût », « qu'il lût »). Both narrate single, completed actions in this literary récit."
+    },
+    {
+      "text": "Le poète {1} (écrire) son ultime vers à l'aube et {2} (mourir) avant midi.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv-"
+        },
+        {
+          "cue": "mourir",
+          "answer": [
+            "mourut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+        }
+      ],
+      "explanation": "« écrire » keeps the special passé simple stem « écriv- » (as in « il écrivit »), one of the verbs that do NOT join the « -u » family. « mourir » does follow the « -u » family → « il mourut » (not to be confused with the present « il meurt »). No circumflex appears in the 3rd person singular; both frame punctual, completed events in the narrative past."
     }
   ]
 }

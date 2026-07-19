@@ -149,6 +149,67 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (se réveiller) plus tôt, tu {2} (ne pas rater) ton train.",
+      "blanks": [
+        {
+          "cue": "se réveiller",
+          "answer": [
+            "t'étais réveillé",
+            "t'étais réveillée"
+          ],
+          "hint": "plus-que-parfait, 2e pers. sing., verbe pronominal → être, accord avec le sujet"
+        },
+        {
+          "cue": "ne pas rater",
+          "answer": [
+            "n'aurais pas raté"
+          ],
+          "hint": "conditionnel passé négatif, 2e pers. sing., auxiliaire avoir, pas d'accord (COD postposé)"
+        }
+      ],
+      "explanation": "Irréel du passé. In the « si » clause, the pronominal « se réveiller » takes être; here « te » is the DIRECT object (« réveiller soi-même »), so the past participle AGREES with the subject « tu »: « t'étais réveillé » (masculine) or « t'étais réveillée » (feminine). The result clause uses « rater » with avoir; the direct object « ton train » FOLLOWS the verb, so there is no agreement, and the negation wraps the auxiliary: « tu n'aurais pas raté »."
+    },
+    {
+      "text": "Jamais elle ne {1} (revenir) sur sa décision si on l'{2} (soutenir) un peu plus.",
+      "blanks": [
+        {
+          "cue": "revenir",
+          "answer": [
+            "serait revenue"
+          ],
+          "hint": "conditionnel passé, 3e pers. sing. fém., verbe de mouvement → être, accord avec le sujet « elle » ; la négation « ne … jamais » est déjà portée par « Jamais … ne » antéposé, donc on n'ajoute pas de second « jamais »"
+        },
+        {
+          "cue": "soutenir",
+          "answer": [
+            "avait soutenue"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « l' » (= elle)"
+        }
+      ],
+      "explanation": "Irréel du passé with the two clauses in REVERSED order (result first, condition second) — the verb forms are unchanged. « revenir » is a movement verb conjugated with être, so the conditionnel passé participle agrees with the feminine subject « elle »: « Jamais elle ne serait revenue ». The negation is already carried by the fronted « Jamais … ne », so the verb itself takes NO second « jamais » (« ne serait jamais revenue » would be a double negation here). In the « si » clause, « soutenir » takes avoir, and the preceding direct-object pronoun « l' » (= elle) forces agreement: « on l'avait soutenue » — « l' » is here a direct object, hence the feminine -e."
+    },
+    {
+      "text": "Si elles {1} (se parler) plus tôt, elles {2} (parvenir) sans peine à un compromis.",
+      "blanks": [
+        {
+          "cue": "se parler",
+          "answer": [
+            "s'étaient parlé"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réciproque → être, mais « se » est COI (parler à) → participe invariable"
+        },
+        {
+          "cue": "parvenir",
+          "answer": [
+            "seraient parvenues"
+          ],
+          "hint": "conditionnel passé, 3e pers. plur. fém., verbe de mouvement → être, accord avec le sujet « elles »"
+        }
+      ],
+      "explanation": "Irréel du passé. « se parler » is a reciprocal pronominal verb, but « se » is an INDIRECT object (« parler À quelqu'un »), so the past participle stays INVARIABLE: « elles s'étaient parlé » (never « parlées »). By contrast « parvenir » follows the « venir » family with être, and its participle AGREES with the feminine plural subject « elles »: « elles seraient parvenues ». The contrast shows that pronominal agreement depends on the syntactic function of « se », not merely on the auxiliary être."
     }
   ]
 }

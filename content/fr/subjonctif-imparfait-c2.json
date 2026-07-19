@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il {1} depuis longtemps la vérité, le vieux serviteur garda le silence jusqu'à sa mort.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, without circumflex) are both ungrammatical after this concessive conjunction. The main verb « garda » is in the past and the knowing is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », the only graphic mark that distinguishes it from the passé simple « sut »."
+    },
+    {
+      "text": "Elle marchait sur la pointe des pieds, de peur que l'enfant ne s'{1}.",
+      "blanks": [
+        {
+          "answer": "éveillât",
+          "options": [
+            "éveillait",
+            "éveilla",
+            "éveillât"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « de peur que » avec « ne » explétif, principal à l'imparfait"
+        }
+      ],
+      "explanation": "« de peur que » triggers the subjunctive, here reinforced by the « ne » explétif, which carries no negative value: the indicatif is therefore impossible, and « éveillait » (imparfait de l'indicatif) and « éveilla » (passé simple de l'indicatif) cannot follow it. The main verb « marchait » is in the past and the feared waking is posterior, so concordance calls for the subjonctif imparfait of a first-group verb: « qu'il s'éveillât » (-ât) — distinct from the passé simple « s'éveilla »."
+    },
+    {
+      "text": "Le maître répétait chaque maxime pour que ses disciples la {1} un jour sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitassent",
+          "options": [
+            "récitaient",
+            "récitèrent",
+            "récitassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « pour que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« pour que » expresses purpose and always governs the subjunctive, so the indicatif forms are excluded: « récitaient » (imparfait de l'indicatif) and « récitèrent » (passé simple de l'indicatif) are both wrong after this conjunction. The main verb « répétait » is in the past and the reciting is posterior, so literary concordance requires the subjonctif imparfait; for a first-group verb the 3rd person plural ends in -assent: « qu'ils récitassent »."
+    },
+    {
+      "text": "Le capitaine exigea que chaque homme {1} rentré à bord avant le coucher du soleil.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., après un verbe de volonté au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » is a verb of volition that governs the subjunctive, so the indicatif forms are excluded: « était rentré » (plus-que-parfait de l'indicatif) and « fut rentré » (passé antérieur de l'indicatif, without circumflex) are both ungrammatical after this trigger. The main verb « exigea » is in the past and the return is ANTERIOR to the deadline, so strict concordance requires the subjonctif plus-que-parfait of être: « qu'il fût rentré » — the circumflex on « fût » is the sole mark distinguishing it from the indicative « fut »."
     }
   ]
 }
