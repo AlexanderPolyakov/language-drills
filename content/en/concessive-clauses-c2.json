@@ -12,12 +12,7 @@
       "blanks": [
         {
           "answer": "Much as",
-          "options": [
-            "Much as",
-            "As much",
-            "Despite",
-            "However"
-          ],
+          "options": ["Despite", "However", "Much as", "As much"],
           "hint": "fronts a verb of feeling: ___ + subject + verb"
         }
       ],
@@ -28,12 +23,7 @@
       "blanks": [
         {
           "answer": "However",
-          "options": [
-            "Much as",
-            "However",
-            "Whatever",
-            "Albeit"
-          ],
+          "options": ["However", "Whatever", "Much as", "Albeit"],
           "hint": "___ + adverb + subject + verb = no degree of effort helped"
         }
       ],
@@ -44,12 +34,7 @@
       "blanks": [
         {
           "answer": "For all",
-          "options": [
-            "Much as",
-            "However",
-            "For all",
-            "Albeit"
-          ],
+          "options": ["For all", "Albeit", "However", "Much as"],
           "hint": "___ + noun phrase = in spite of"
         }
       ],
@@ -60,12 +45,7 @@
       "blanks": [
         {
           "answer": "Granted",
-          "options": [
-            "Albeit",
-            "Despite",
-            "Much as",
-            "Granted"
-          ],
+          "options": ["Granted", "Albeit", "Despite", "Much as"],
           "hint": "concede a point before countering: ___ (that) + clause"
         }
       ],
@@ -76,12 +56,7 @@
       "blanks": [
         {
           "answer": "albeit",
-          "options": [
-            "much as",
-            "albeit",
-            "however",
-            "granted"
-          ],
+          "options": ["however", "much as", "albeit", "granted"],
           "hint": "introduces a concessive phrase (no finite verb), here 'with reluctance'"
         }
       ],
@@ -92,12 +67,7 @@
       "blanks": [
         {
           "answer": "Notwithstanding",
-          "options": [
-            "Much as",
-            "However",
-            "Notwithstanding",
-            "Even though"
-          ],
+          "options": ["Notwithstanding", "However", "Even though", "Much as"],
           "hint": "a formal preposition: ___ + noun phrase = in spite of"
         }
       ],
@@ -108,12 +78,7 @@
       "blanks": [
         {
           "answer": "though",
-          "options": [
-            "despite",
-            "however",
-            "much",
-            "though"
-          ],
+          "options": ["though", "much", "however", "despite"],
           "hint": "fronted adjective/adverb + ___ + subject + verb"
         }
       ],
@@ -124,12 +89,7 @@
       "blanks": [
         {
           "answer": "as",
-          "options": [
-            "though as",
-            "as",
-            "however",
-            "despite"
-          ],
+          "options": ["though as", "as", "however", "despite"],
           "hint": "fronted adjective + ___ + subject + be = concessive 'as ... as'"
         }
       ],
@@ -140,12 +100,7 @@
       "blanks": [
         {
           "answer": "Even so",
-          "options": [
-            "Even so",
-            "Even though",
-            "Much as",
-            "Albeit"
-          ],
+          "options": ["Much as", "Even so", "Even though", "Albeit"],
           "hint": "a conjunct linking back to the previous sentence: 'in spite of that'"
         }
       ],
@@ -156,16 +111,66 @@
       "blanks": [
         {
           "answer": "While",
-          "options": [
-            "For all",
-            "Albeit",
-            "While",
-            "Notwithstanding"
-          ],
+          "options": ["For all", "Notwithstanding", "While", "Albeit"],
           "hint": "subordinator used concessively: ___ + finite clause = although"
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, the old locksmith could not persuade the rusted mechanism to turn.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": ["As try", "Try as", "Much as", "However"],
+          "hint": "emphatic concession: Verb + ___ + subject + might/could"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed emphatic pattern 'Verb + as + subject + might/could', meaning 'however hard he tried'. 'As try' reverses the word order and is ungrammatical; 'Much as' takes a verb of feeling and would need a following main verb ('Much as he might wish'), not a bare 'might'; 'However' must be completed by an adjective or adverb ('However hard'), so it cannot stand before 'he might' alone."
+    },
+    {
+      "text": "The critics have raised some fair points about the budget. {1}, the project must proceed on schedule.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": ["That being so", "Come what may", "As it may be", "Be that as it may"],
+          "hint": "fixed conjunct: 'even granting that, ...'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', conceding the previous sentence before overriding it. 'That being so' is causal ('because that is the case'), the opposite relation; 'As it may be' is not an idiomatic conjunct and hangs incomplete; 'Come what may' means 'whatever happens' and points to the future, not back at a conceded point."
+    },
+    {
+      "text": "{1} the reasons for the delay, the final outcome remains wholly unacceptable to the client.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": ["Whatever", "Much as", "Whichever", "However"],
+          "hint": "___ + noun phrase = 'no matter what ... may be'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive with an elided copula: 'Whatever the reasons (may be)' = 'no matter what the reasons are'. 'However' requires a following adjective or adverb ('However good the reasons'); 'Whichever' selects from a defined, closed set and cannot govern an open noun like 'the reasons'; 'Much as' demands a subject and verb ('Much as we sympathise'), not a bare noun phrase."
+    },
+    {
+      "text": "Her arguments were widely regarded as flawed. {1}, they carried the day at the meeting.",
+      "blanks": [
+        {
+          "answer": "Nevertheless",
+          "options": ["Even though", "Much as", "Nevertheless", "Whereas"],
+          "hint": "stand-alone conjunct linking back: 'in spite of that'"
+        }
+      ],
+      "explanation": "'Nevertheless' is a sentence conjunct meaning 'in spite of that'; it stands alone before a comma and a full main clause, referring back to the previous sentence. 'Even though' is a subordinator that must introduce a dependent clause within its own sentence, not stand alone; 'Much as' needs a following subject and verb; 'Whereas' is a subordinating conjunction of contrast and likewise cannot function as a free-standing conjunct before a comma."
+    },
+    {
+      "text": "{1} persuasive his rhetoric, the facts stubbornly refused to bear out his conclusion.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": ["Whatever", "No matter how", "No matter that", "However much"],
+          "hint": "___ + adjective + subject (+ verb) = 'to whatever degree'"
+        }
+      ],
+      "explanation": "'No matter how + adjective + subject' ('No matter how persuasive his rhetoric [was]') concedes that no degree of the quality changes the result. 'However much' modifies quantity or a verb, not a predicative adjective ('However much persuasive' is ungrammatical); 'Whatever' governs a noun, not the adjective 'persuasive'; 'No matter that' takes a full finite clause ('No matter that his rhetoric was persuasive'), so it cannot precede the bare 'persuasive his rhetoric'."
     }
   ]
 }

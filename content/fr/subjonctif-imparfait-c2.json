@@ -96,6 +96,66 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "L'instituteur écrivit la règle au tableau pour que chaque élève la {1} recopier sans faute.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » expresses purpose and always governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « écrivit » is in the past (passé simple) and the ability to copy is posterior to the writing, so literary concordance requires the subjonctif imparfait of « pouvoir »: « qu'il pût » — note the distinguishing circumflex on « pût » (3e pers. sing. -ût), which separates it from the indicative « put »."
+    },
+    {
+      "text": "Quoique les soldats {1} de fatigue, ils poursuivirent leur marche jusqu'à l'aube.",
+      "blanks": [
+        {
+          "answer": "tombassent",
+          "options": [
+            "tombaient",
+            "tombèrent",
+            "tombassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » is concessive and always takes the subjunctive, so the indicatif is impossible: « tombaient » (imparfait de l'indicatif) and « tombèrent » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main verb « poursuivirent » is in the past and the concessive state is simultaneous, so strict concordance calls for the subjonctif imparfait, 3rd plural: « qu'ils tombassent » (ending -assent, built on the passé simple stem), to be distinguished from the indicative passé simple « tombèrent »."
+    },
+    {
+      "text": "Il avait juré qu'il ne renoncerait jamais, à moins que la mort elle-même ne l'{1}.",
+      "blanks": [
+        {
+          "answer": "arrêtât",
+          "options": [
+            "arrêtait",
+            "arrêta",
+            "arrêtât"
+          ],
+          "hint": "subjonctif imparfait de « arrêter » (arrêtât, avec circonflexe), après « à moins que … ne », principal au conditionnel"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif is excluded: « arrêtait » (imparfait de l'indicatif) and « arrêta » (passé simple de l'indicatif) cannot appear after it. The governing verb « renoncerait » is a conditionnel and the hypothetical interruption is posterior, so literary concordance requires the subjonctif imparfait « qu'elle l'arrêtât » — the circumflex on « arrêtât » (3e pers. sing. -ât) distinguishes it from the indicative passé simple « arrêta »."
+    },
+    {
+      "text": "Ce fut le seul officier qui {1} revenu vivant de cette expédition désastreuse.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), après « le seul … qui », antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both wrong. The return is ANTERIOR to the past reference « ce fut », and « revenir » uses the auxiliary être, so strict concordance requires the subjonctif plus-que-parfait « qui fût revenu » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
     }
   ]
 }

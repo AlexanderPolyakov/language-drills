@@ -106,6 +106,56 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "When it is seen from above, the city resembles a vast circuit board.",
+      "instruction": "Rewrite by fronting a past (passive) participle clause, dropping 'When it is', beginning with 'Seen' and keeping 'the city' as the subject of the main clause.",
+      "answer": [
+        "Seen from above, the city resembles a vast circuit board.",
+        "Seen from above the city resembles a vast circuit board"
+      ],
+      "placeholder": "Seen from above…",
+      "explanation": "A passive time clause ('When it is seen from above') reduces to the bare past participle 'Seen from above'. The understood subject of 'Seen' must be the subject of the main clause, 'the city' — the thing that is seen — so the fronted modifier attaches correctly and does not dangle."
+    },
+    {
+      "prompt": "Once the project has been completed, it will supply clean water to half a million people.",
+      "instruction": "Reduce the time clause to a past participle while keeping the conjunction 'Once', beginning with 'Once completed' and restoring 'the project' as the subject of the main clause.",
+      "answer": [
+        "Once completed, the project will supply clean water to half a million people.",
+        "Once completed the project will supply clean water to half a million people"
+      ],
+      "placeholder": "Once completed, the project…",
+      "explanation": "The subordinating conjunction 'Once' can be kept in front of a participle clause for precision: 'Once the project has been completed' reduces to 'Once completed', dropping the subject and the passive 'has been'. The understood subject of 'completed' must head the main clause, so the pronoun 'it' is restored to the noun 'the project' to keep the participle from dangling."
+    },
+    {
+      "prompt": "Walking through the door, the smell of fresh bread greeted her.",
+      "instruction": "This sentence dangles: the -ing clause 'Walking through the door' wrongly attaches to 'the smell', which cannot walk. Rewrite it so the person who walks is the subject of the main clause, beginning with 'Walking through the door, she' and using the passive 'was greeted by'.",
+      "answer": [
+        "Walking through the door, she was greeted by the smell of fresh bread.",
+        "Walking through the door she was greeted by the smell of fresh bread"
+      ],
+      "placeholder": "Walking through the door, she…",
+      "explanation": "The understood subject of a fronted participle must be the subject of the main clause. In the original, that subject is 'the smell of fresh bread', which cannot walk — a classic dangling modifier. Recasting the main clause in the passive ('she was greeted by the smell') puts 'she', the one who actually walks, into subject position, so 'Walking through the door' now attaches to the correct subject."
+    },
+    {
+      "prompt": "If the weather permits, the ceremony will be held in the garden.",
+      "instruction": "Rewrite the condition as an absolute participle construction that keeps its own subject, beginning with 'Weather permitting'.",
+      "answer": [
+        "Weather permitting, the ceremony will be held in the garden.",
+        "Weather permitting the ceremony will be held in the garden"
+      ],
+      "placeholder": "Weather permitting…",
+      "explanation": "'Weather permitting' is an absolute construction meaning 'if the weather permits'. Unlike an ordinary participle clause, an absolute clause retains its OWN subject ('weather'), which differs from the main-clause subject ('the ceremony'). It is precisely this licensed independent subject that stops the participle from dangling."
+    },
+    {
+      "prompt": "The new regulations take effect next month, which means all suppliers must be recertified.",
+      "instruction": "Reduce the sentential relative clause 'which means' to a present participle clause, ending with '…, meaning…'.",
+      "answer": [
+        "The new regulations take effect next month, meaning all suppliers must be recertified.",
+        "The new regulations take effect next month meaning all suppliers must be recertified"
+      ],
+      "placeholder": "…, meaning…",
+      "explanation": "A sentential relative clause ('which means…') that comments on the whole preceding statement reduces to the -ing participle 'meaning…'. Here the participle's understood subject is the entire preceding fact rather than a single noun — a recognised use of the -ing clause to express a consequence, parallel to the result use of 'forcing…'."
     }
   ]
 }

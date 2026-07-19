@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Les fugitifs {1} (pouvoir) enfin s'échapper, mais ils ne {2} (savoir) plus où se cacher.",
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "purent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → purent"
+        },
+        {
+          "cue": "savoir",
+          "answer": [
+            "surent"
+          ],
+          "hint": "passé simple, 3e pers. plur. — famille en -u → surent"
+        }
+      ],
+      "explanation": "« pouvoir » and « savoir » both belong to the « -u » family of the passé simple: 3rd plural « ils purent », « ils surent ». Note « surent » is distinct from the present « ils savent » and the imparfait « ils savaient ». No circumflex appears in the 3rd person (the circumflex marks only nous/vous: « nous pûmes », « nous sûmes »). Both narrate completed actions in the literary past."
+    },
+    {
+      "text": "Le vieux moine {1} (lire) la missive à la lueur d'une chandelle, puis {2} (boire) une gorgée d'eau.",
+      "blanks": [
+        {
+          "cue": "lire",
+          "answer": [
+            "lut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → lut (à distinguer du présent « lit »)"
+        },
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → but (homographe du nom « un but »)"
+        }
+      ],
+      "explanation": "« lire » and « boire » both follow the « -u » family: 3rd singular « il lut », « il but ». « lut » must be distinguished from the present « il lit »; « but » is a homograph of the noun « un but » (a goal), disambiguated by context. Neither takes a circumflex in the 3rd person singular (contrast the nous/vous forms « nous lûmes », « nous bûmes »). Both report punctual, completed actions in the récit."
+    },
+    {
+      "text": "Le romancier {1} (écrire) la dernière ligne de son œuvre, puis {2} (conduire) son visiteur jusqu'au seuil.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical à infixe -v- → écrivit"
+        },
+        {
+          "cue": "conduire",
+          "answer": [
+            "conduisit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical à infixe -s- → conduisit"
+        }
+      ],
+      "explanation": "« écrire » and « conduire » are -RE verbs whose passé simple is built on an expanded stem: écrire → « écriv- » → « il écrivit »; conduire → « conduis- » → « il conduisit » (like « il produisit », « il traduisit »). Their endings are the regular -it of the passé simple. No circumflex appears in the 3rd person singular (contrast « nous écrivîmes », « nous conduisîmes »). Both narrate single, completed actions in this literary récit."
     }
   ]
 }

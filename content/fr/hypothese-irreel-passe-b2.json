@@ -149,6 +149,66 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Ces maladresses, je les {1} (réparer) volontiers si tu me les {2} (signaler) plus tôt.",
+      "blanks": [
+        {
+          "cue": "réparer",
+          "answer": [
+            "aurais réparées"
+          ],
+          "hint": "conditionnel passé, auxiliaire avoir, accord avec le COD antéposé « les » (= ces maladresses, fém. plur.)"
+        },
+        {
+          "cue": "signaler",
+          "answer": [
+            "avais signalées"
+          ],
+          "hint": "plus-que-parfait, auxiliaire avoir, accord avec le COD antéposé « les » (= ces maladresses, fém. plur.)"
+        }
+      ],
+      "explanation": "Irréel du passé with the clauses in reversed order (result before « si »). Both verbs use the auxiliary AVOIR, and in both the direct object « les » (= « ces maladresses », feminine plural) PRECEDES the verb, so the past participle MUST agree: conditionnel passé « je les aurais réparées » and plus-que-parfait « tu me les avais signalées ». Had the object followed the verb, the participle would stay invariable — agreement with avoir depends on a DIRECT OBJECT placed before the verb, not on the subject."
+    },
+    {
+      "text": "Ils se {1} (dire) toute la vérité s'ils {2} (avoir) le courage de s'expliquer.",
+      "blanks": [
+        {
+          "cue": "se dire",
+          "answer": [
+            "seraient dit"
+          ],
+          "hint": "conditionnel passé, verbe pronominal → être, mais « se » est COI (dire À) et le COD suit → participe invariable"
+        },
+        {
+          "cue": "avoir",
+          "answer": [
+            "avaient eu"
+          ],
+          "hint": "plus-que-parfait, 3e pers. plur., auxiliaire avoir"
+        }
+      ],
+      "explanation": "Pronominal verbs take être, so « se dire » in the conditionnel passé is « ils se seraient dit ». The participle stays INVARIABLE here: in « se dire quelque chose », « se » is an INDIRECT object (« dire à soi-même / l'un à l'autre »), and the real direct object « toute la vérité » FOLLOWS the verb, so nothing triggers agreement — « dit ». (Had the object been antéposed, e.g. « la vérité qu'ils se seraient dite », the participle would agree.) The « si » clause uses « avoir » in the plus-que-parfait: « s'ils avaient eu le courage », no agreement."
+    },
+    {
+      "text": "Elles {1} (ne pas tomber) malades si elles {2} (se couvrir) davantage ce jour-là.",
+      "blanks": [
+        {
+          "cue": "ne pas tomber",
+          "answer": [
+            "ne seraient pas tombées"
+          ],
+          "hint": "conditionnel passé négatif, verbe de mouvement → être, accord avec « elles » (fém. plur.), négation autour de l'auxiliaire"
+        },
+        {
+          "cue": "se couvrir",
+          "answer": [
+            "s'étaient couvertes"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réfléchi → être, « se » COD → accord avec le sujet « elles »"
+        }
+      ],
+      "explanation": "« tomber » (here « tomber malade ») is a verb of state-change conjugated with être, so the past participle agrees with the feminine plural subject « elles » and the negation wraps the auxiliary: « elles ne seraient pas tombées ». In the « si » clause, « se couvrir » is a reflexive pronominal verb where « se » is the DIRECT object (« couvrir soi-même »), so it also takes être and the participle agrees with « elles »: « elles s'étaient couvertes »."
     }
   ]
 }
