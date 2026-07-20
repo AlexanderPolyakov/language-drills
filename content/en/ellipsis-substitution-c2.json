@@ -155,11 +155,11 @@
       "explanation": "'Suppose' takes the positive substitute 'suppose so', standing for the affirmative clause 'the roadworks are going to delay the deliveries', which fits the tentative agreement here. 'I suppose not' would deny the delay (the opposite sense), and 'it' cannot substitute for a whole clause after 'suppose'."
     },
     {
-      "text": "The report offered two remedies, a tax rise and a spending freeze; the cabinet favoured {1} as less politically damaging.",
+      "text": "The report proposed two remedies, a tax rise and a spending freeze; ministers favoured {1}, since raising taxes just before an election was unthinkable.",
       "blanks": [
-        { "answer": "the former", "options": ["the former", "the latter", "such"], "hint": "refers back to the FIRST of the two remedies named ('a tax rise')" }
+        { "answer": "the latter", "options": ["the former", "the latter", "such"], "hint": "refers back to the SECOND of the two remedies named ('a spending freeze')" }
       ],
-      "explanation": "'The former' substitutes for the first-named of two items — here 'a tax rise'. 'The latter' would point instead to the spending freeze (the second option named), and 'such' substitutes for a whole category rather than singling out one of two named items."
+      "explanation": "'The latter' substitutes for the second-named of two items — here 'a spending freeze', which ministers preferred because the clause rules the tax rise out. 'The former' would point instead to the tax rise (the first option named), and 'such' substitutes for a whole category rather than singling out one of two named items."
     },
     {
       "text": "\"I'm absolutely certain the figures are right.\" \"So {1} I, now that I've checked them twice.\"",
