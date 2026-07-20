@@ -146,6 +146,66 @@
         }
       ],
       "explanation": "« dire » has the passé simple stem « di- » → « il dit » (identical in form to the present « il dit », disambiguated by context). « mettre » has the stem « mi- » → « il mit ». Both narrate punctual, completed actions, the hallmark use of the passé simple in written narration."
+    },
+    {
+      "text": "Le voyageur {1} (savoir) enfin la vérité et {2} (croire) d'abord à une cruelle plaisanterie.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "sut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → su-"
+        },
+        {
+          "cue": "croire",
+          "answer": [
+            "crut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → cru-"
+        }
+      ],
+      "explanation": "« savoir » belongs to the « -u » family with the stem « su- » → « il sut » (here in its inchoative sense « came to know »). « croire » likewise takes the « -u » family stem « cru- » → « il crut » (no circumflex in the 3rd singular; « crût » with a circumflex would be the subjonctif imparfait or the passé simple of « croître »). Both report single completed actions in the narrative past."
+    },
+    {
+      "text": "L'enfant {1} (courir) jusqu'à la rivière et {2} (boire) longuement à la source glacée.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "courut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → couru-"
+        },
+        {
+          "cue": "boire",
+          "answer": [
+            "but"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u → bu-"
+        }
+      ],
+      "explanation": "« courir » follows the « -u » family with the stem « couru- » → « il courut » (not to be confused with the futur « il courra »). « boire » has the irregular « -u » stem « bu- » → « il but ». Both narrate punctual, completed events in this literary récit."
+    },
+    {
+      "text": "Le romancier {1} (écrire) sans relâche et {2} (recevoir) enfin les honneurs qu'il méritait.",
+      "blanks": [
+        {
+          "cue": "écrire",
+          "answer": [
+            "écrivit"
+          ],
+          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
+        },
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçut"
+          ],
+          "hint": "passé simple, 3e pers. sing. — famille en -u, cédille → reçut"
+        }
+      ],
+      "explanation": "« écrire » builds its passé simple on the stem « écriv- » → « il écrivit » (like « il conduisit », « il dit »). « recevoir » belongs to the « -u » family and keeps the cédille before « u » to preserve the [s] sound → « il reçut ». Both express single completed actions in the narrative past."
     }
   ]
 }

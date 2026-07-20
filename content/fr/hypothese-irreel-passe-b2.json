@@ -149,6 +149,48 @@
         }
       ],
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
+    },
+    {
+      "text": "Si tu {1} (se taire), tu {2} (éviter) bien des ennuis à toute la famille.",
+      "blanks": [
+        {
+          "cue": "se taire",
+          "answer": [
+            "t'étais tu",
+            "t'étais tue"
+          ],
+          "hint": "plus-que-parfait, verbe pronominal réfléchi → être, accord avec le sujet « tu »"
+        },
+        {
+          "cue": "éviter",
+          "answer": [
+            "aurais évité"
+          ],
+          "hint": "conditionnel passé, 2e pers. sing., auxiliaire avoir — COD « bien des ennuis » postposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. « se taire » is a reflexive pronominal verb whose « se » is the DIRECT object, so it takes être and the participle AGREES with « tu »: « t'étais tu » if « tu » is masculine, « t'étais tue » if feminine. The result clause uses « éviter » with avoir; the direct object « bien des ennuis » FOLLOWS the verb, so there is no agreement: conditionnel passé « aurais évité »."
+    },
+    {
+      "text": "Si nous {1} (revenir) sur nos pas, nous {2} (retrouver) bien plus vite le sentier.",
+      "blanks": [
+        {
+          "cue": "revenir",
+          "answer": [
+            "étions revenus",
+            "étions revenues"
+          ],
+          "hint": "plus-que-parfait, nous, verbe de mouvement → être, accord avec le sujet"
+        },
+        {
+          "cue": "retrouver",
+          "answer": [
+            "aurions retrouvé"
+          ],
+          "hint": "conditionnel passé, nous, auxiliaire avoir — COD « le sentier » postposé, donc pas d'accord"
+        }
+      ],
+      "explanation": "Irréel du passé. « revenir » is a movement verb of the « venir » family conjugated with être, so the plus-que-parfait is « étions revenus », the participle agreeing with « nous » (masculine/mixed « revenus », or « revenues » if all-feminine). The result clause uses « retrouver » with avoir; the direct object « le sentier » comes AFTER the verb, so there is no agreement: conditionnel passé « aurions retrouvé »."
     }
   ]
 }

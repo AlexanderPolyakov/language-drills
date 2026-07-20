@@ -106,6 +106,17 @@
       ],
       "placeholder": "…, with the two sides remaining…",
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
+    },
+    {
+      "prompt": "The last train had already left. The stranded passengers had no choice but to walk home.",
+      "instruction": "Combine using a nominative absolute construction (a noun with its own perfect participle) for the prior event, beginning with 'The last train having'.",
+      "answer": [
+        "The last train having already left, the stranded passengers had no choice but to walk home.",
+        "The last train having already left the stranded passengers had no choice but to walk home",
+        "The last train having left, the stranded passengers had no choice but to walk home."
+      ],
+      "placeholder": "The last train having…",
+      "explanation": "A nominative absolute construction keeps its OWN subject ('the last train') and attaches a participle to it, so unlike an ordinary participle clause it need not share the subject of the main clause. The perfect participle 'having left' marks the departure as completed before the main event, and because the absolute has an explicit subject there is no dangling modifier even though the main subject is 'the passengers'."
     }
   ]
 }

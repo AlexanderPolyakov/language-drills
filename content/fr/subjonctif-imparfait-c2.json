@@ -96,6 +96,51 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que chaque élève lui {1} par cœur les vers du poète avant l'aube.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so both indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « exigea » is in the past and the recitation is posterior to the order, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât » — 3rd singular in -ât with the circumflex."
+    },
+    {
+      "text": "On redoutait que l'orateur ne {1} son plaidoyer par quelque provocation maladroite.",
+      "blanks": [
+        {
+          "answer": "finît",
+          "options": [
+            "finissait",
+            "finît",
+            "finit"
+          ],
+          "hint": "subjonctif imparfait de « finir » (finît), 3e pers. sing. (-ît), avec « ne » explétif"
+        }
+      ],
+      "explanation": "« redouter que » triggers the subjunctive and, being a verb of fearing, takes the « ne » explétif (unelided « ne » here, since « finît » begins with a consonant), so the indicatif is impossible: « finissait » (imparfait de l'indicatif) and « finit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « redoutait » is in the past and the action is simultaneous/posterior, so concordance calls for the subjonctif imparfait of « finir »: « qu'il finît » — the circumflex distinguishes it from the indicative « finit »."
+    },
+    {
+      "text": "Elle eût souhaité que son fils aîné {1} devenu médecin plutôt que comédien.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, auxiliaire être (devenir)"
+        }
+      ],
+      "explanation": "« souhaiter que » takes the subjunctive, so the indicatif forms are excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both wrong. The becoming is ANTERIOR to the past reference of « eût souhaité » (conditionnel passé), so strict concordance requires the subjonctif plus-que-parfait; « devenir » is conjugated with être, giving « qu'il fût devenu » — note the circumflex on the auxiliary « fût »."
     }
   ]
 }

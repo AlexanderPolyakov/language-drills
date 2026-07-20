@@ -166,6 +166,22 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, he could not rid himself of the nagging suspicion that he had been deceived.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "However",
+            "Much as",
+            "Even though"
+          ],
+          "hint": "fixed concessive idiom: ___ + subject + 'might/may' = no matter how hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom built on the pattern 'Try as + subject + might/may', meaning 'however hard he tried'. 'However' would need a following adjective/adverb ('However hard he tried') and cannot precede the bare 'he might'; 'Much as' is followed by a verb of feeling ('Much as he tried'), not the modal-final 'he might'; 'Even though' introduces an ordinary finite clause and does not license the fronted 'might'."
     }
   ]
 }
