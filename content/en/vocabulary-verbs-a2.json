@@ -40,6 +40,8 @@
     { "text": "I need to {1} my appointment because I am ill.", "blanks": [ { "options": ["cancel", "win", "save"], "answer": "cancel" } ], "explanation": "You cancel something to stop it from happening." },
     { "text": "Please {1} the children while I cook dinner.", "blanks": [ { "options": ["lend", "rent", "watch"], "answer": "watch" } ], "explanation": "You watch people to look after and keep an eye on them." },
     { "text": "We hope the weather will {1} before the weekend.", "blanks": [ { "options": ["win", "borrow", "change"], "answer": "change" } ], "explanation": "Something changes when it becomes different." },
-    { "text": "I want to {1} this old phone for some money.", "blanks": [ { "options": ["lend", "sell", "lose"], "answer": "sell" } ], "explanation": "You sell something by giving it to someone for money." }
+    { "text": "I want to {1} this old phone for some money.", "blanks": [ { "options": ["lend", "sell", "lose"], "answer": "sell" } ], "explanation": "You sell something by giving it to someone for money." },
+    {"text": "Please {1} this letter at the post office.", "blanks": [{"options": ["post", "save", "decide"], "answer": "post"}], "explanation": "You post a letter by sending it through the post."},
+    {"text": "I always try to {1} my brother's birthday.", "blanks": [{"options": ["spend", "remember", "rent"], "answer": "remember"}], "explanation": "You remember something that you keep in your mind."}
   ]
 }

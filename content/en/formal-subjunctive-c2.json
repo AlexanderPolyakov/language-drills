@@ -167,6 +167,19 @@
         { "cue": "have", "answer": ["Had"], "hint": "inverted third conditional dropping 'if': 'Had I known' = 'If I had known'; capitalised at the start" }
       ],
       "explanation": "Formal counterfactual conditionals can drop 'if' and invert the auxiliary to the front: 'Had I known' = 'If I had known'. The past-perfect 'had' moves before the subject 'I', signalling an unreal past condition; the clause opens the sentence, so it is capitalised."
+    },
+    {
+      "text": "The deadline is unworkable; {1} that as it may, we are contractually bound to meet it.",
+      "blanks": [
+        {
+          "cue": "be",
+          "answer": [
+            "be"
+          ],
+          "hint": "fixed concessive formula; keeps the bare subjunctive 'be'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb keeps the bare subjunctive form 'be' rather than the indicative 'is'."
     }
   ]
 }

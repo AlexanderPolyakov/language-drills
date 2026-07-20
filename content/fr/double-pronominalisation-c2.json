@@ -103,6 +103,65 @@
       "instruction": "Mettez à l'impératif affirmatif (vous) en remplaçant « les fleurs » ET « à tes grands-parents » par des pronoms (double pronominalisation).",
       "answer": ["Apportez-les-leur !", "Apportez-les-leur", "Apportez les leur"],
       "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative (« vous » form): « les fleurs » → « les », « à tes grands-parents » → « leur ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Apportez-les-leur ». « leur » keeps its form (the « moi/toi » switch affects only « me/te »). Compare the declarative « Vous les leur apportez »."
+    },
+    {
+      "prompt": "Le jardinier a mis des fleurs dans ce parterre.",
+      "instruction": "Réécrivez en remplaçant « dans ce parterre » par « y » et « des fleurs » par « en » (double pronominalisation, au passé composé).",
+      "answer": [
+        "Le jardinier y en a mis.",
+        "Le jardinier y en a mis",
+        "Le jardinier y en a mis."
+      ],
+      "explanation": "The place complement « dans ce parterre » → « y »; the partitive object « des fleurs » → « en ». In the pre-verbal sequence « y » always comes before « en », giving the fixed pair « y en » (« Il y en a mis »). In the passé composé the pair sits before the auxiliary: « Le jardinier y en a mis ». The participle does NOT agree with the preceding « en », so « mis » stays invariable."
+    },
+    {
+      "prompt": "Je vais donner ce cadeau à ma sœur.",
+      "instruction": "Réécrivez en remplaçant « ce cadeau » ET « à ma sœur » par des pronoms (double pronominalisation avec le futur proche).",
+      "answer": [
+        "Je vais le lui donner.",
+        "Je vais le lui donner",
+        "Je vais le lui donner."
+      ],
+      "explanation": "With a semi-auxiliary (« aller ») followed by an infinitive, the two pronouns attach to the INFINITIVE they belong to, not to « vais »: « Je vais le lui donner ». The order is the two-third-person one — direct « le » (= « ce cadeau ») before indirect « lui » (= « à ma sœur »). No participle agreement applies, since the verb stays in the infinitive."
+    },
+    {
+      "prompt": "Tu dis ce secret à ton frère.",
+      "instruction": "Mettez à l'impératif NÉGATIF en remplaçant « ce secret » ET « à ton frère » par des pronoms (double pronominalisation).",
+      "answer": [
+        "Ne le lui dis pas.",
+        "Ne le lui dis pas",
+        "Ne le lui dis pas."
+      ],
+      "explanation": "In the NEGATIVE imperative the pronouns keep their normal PRE-verbal position and order (unlike the affirmative imperative): two third-person pronouns with the DIRECT one first, « le lui ». The negation wraps the whole group: « Ne le lui dis pas ». Compare the affirmative « Dis-le-lui », where the pronouns follow the verb."
+    },
+    {
+      "prompt": "Je promets mon aide à toi (= je te promets mon aide).",
+      "instruction": "Réécrivez « Je te promets mon aide » en remplaçant « mon aide » par un pronom (double pronominalisation).",
+      "answer": [
+        "Je te la promets.",
+        "Je te la promets",
+        "Je te la promets."
+      ],
+      "explanation": "A 2nd-person indirect pronoun « te » meets a 3rd-person direct pronoun « la » (= « mon aide », feminine). The rule « me / te / se / nous / vous » before « le / la / les » puts the person pronoun FIRST: « te la ». Hence « Je te la promets » — the same order as « Je te le promets », opposite to the two-third-person case (« le lui »)."
+    },
+    {
+      "prompt": "Le bijoutier a vendu ces bagues à ma tante.",
+      "instruction": "Réécrivez au passé composé en remplaçant « ces bagues » ET « à ma tante » par des pronoms (double pronominalisation, attention à l'accord du participe).",
+      "answer": [
+        "Le bijoutier les lui a vendues.",
+        "Le bijoutier les lui a vendues",
+        "Le bijoutier les lui a vendues."
+      ],
+      "explanation": "Two third-person pronouns: the direct object « ces bagues » (feminine plural) → « les », the indirect « à ma tante » → « lui ». With two third-person pronouns the DIRECT one comes first: « les lui ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « les » (feminine plural): « vendues ». Hence « Le bijoutier les lui a vendues »."
+    },
+    {
+      "prompt": "Le guide a conduit les touristes au sommet.",
+      "instruction": "Réécrivez en remplaçant « les touristes » par un pronom et « au sommet » par « y » (double pronominalisation).",
+      "answer": [
+        "Le guide les y a conduits.",
+        "Le guide les y a conduits"
+      ],
+      "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
     }
   ]
 }
