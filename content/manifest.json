@@ -298,7 +298,7 @@
           "level": "B2",
           "title": "Reported speech",
           "file": "en/reported-speech-b2.json",
-          "count": 21
+          "count": 25
         },
         {
           "id": "en-vocabulary-b2",
@@ -370,7 +370,7 @@
           "level": "C2",
           "title": "Ellipsis and substitution",
           "file": "en/ellipsis-substitution-c2.json",
-          "count": 21
+          "count": 24
         },
         {
           "id": "en-formal-subjunctive-c2",
@@ -386,7 +386,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 22
+          "count": 25
         }
       ]
     },
@@ -664,7 +664,7 @@
           "level": "B2",
           "title": "Le subjonctif passé",
           "file": "fr/subjonctif-passe-b2.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "fr-accord-participe-passe-c1",
@@ -672,7 +672,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 17
+          "count": 21
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -704,7 +704,7 @@
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 18
+          "count": 21
         },
         {
           "id": "fr-double-pronominalisation-c2",

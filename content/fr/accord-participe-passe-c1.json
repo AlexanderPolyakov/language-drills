@@ -126,6 +126,34 @@
         { "cue": "plaire", "answer": ["plu"], "hint": "« se plaire » (plaire À quelqu'un): « se » is COI, so the participle is ALWAYS invariable" }
       ],
       "explanation": "« Se plaire » derives from « plaire À quelqu'un », so the reflexive « se » is an INDIRECT object, never a direct one. The participle of « se plaire » — and likewise « se complaire », « se déplaire », « se rire », « se mentir », « se nuire », « se sourire », « se succéder » — is therefore ALWAYS INVARIABLE, whatever the gender and number of the subject: « les deux romancières se sont plu ». The adverbial « l'une à l'autre » confirms the indirect (à) construction. Grevisse, _Le Bon Usage_, lists these verbs among those whose reflexive pronoun is an indirect object, hence no agreement."
+    },
+    {
+      "text": "Les tartes qu'elle a {1} pour la kermesse ont disparu en quelques minutes.",
+      "blanks": [
+        { "cue": "préparer", "answer": ["préparées"], "hint": "avoir + preceding direct object: « que » = les tartes (f.pl.) placed before the verb forces agreement" }
+      ],
+      "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here the relative « que » refers to « les tartes » (feminine plural) and stands before the verb, so the participle agrees: « les tartes qu'elle a préparées ». Contrast « elle a préparé des tartes » (object following → no agreement)."
+    },
+    {
+      "text": "Les deux amies se sont {1} presque tous les jours pendant leur séjour à l'étranger.",
+      "blanks": [
+        { "cue": "téléphoner", "answer": ["téléphoné"], "hint": "pronominal verb where « se » is COI (téléphoner À quelqu'un): no agreement, participle stays invariable" }
+      ],
+      "explanation": "« Se téléphoner » comes from « téléphoner À quelqu'un », so the reflexive pronoun « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable despite the feminine plural subject: « elles se sont téléphoné ». (Compare « se parler », « se sourire », « se succéder », likewise built on « à » → no agreement.)"
+    },
+    {
+      "text": "Des romans policiers, il en a {1} des dizaines pendant ses vacances.",
+      "blanks": [
+        { "cue": "lire", "answer": ["lu"], "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable" }
+      ],
+      "explanation": "With « avoir », a preceding direct object normally forces agreement, but the pronoun « en » is a recognized EXCEPTION: it is treated as a neuter/partitive (« of them ») and never triggers agreement. So although « des romans policiers » is masculine plural, the participle stays invariable: « il en a lu des dizaines ». Contrast a true preceding object: « les romans qu'il a lus »."
+    },
+    {
+      "text": "Les enfants que nous avons {1} grandir sont aujourd'hui des adultes accomplis.",
+      "blanks": [
+        { "cue": "voir", "answer": ["vus"], "hint": "participe passé + infinitive: the preceding object 'les enfants' DOES the action of « grandir », so agreement applies" }
+      ],
+      "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les enfants » are the ones who grow — they are the SUBJECT of « grandir » — so the participle agrees with them (masculine plural): « les enfants que nous avons vus grandir ». Contrast « les airs que j'ai entendu jouer », where the object is played, not the doer, hence no agreement."
     }
   ]
 }

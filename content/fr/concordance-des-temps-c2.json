@@ -133,6 +133,27 @@
         { "cue": "obtenir", "answer": ["obtiendrait"], "hint": "futur dans le passé: « espérer que » + futur in direct speech becomes the conditionnel présent after a past main verb" }
       ],
       "explanation": "« Espérer que » is followed by the indicative (not the subjunctive), and the main verb « espérait » is in the past with a posterior subordinate action. The original « elle obtiendra enfin gain de cause » (futur simple) shifts to the conditionnel présent — the « futur dans le passé »: « elle obtiendrait ». Note the irregular future stem « obtiendr- » of « obtenir »."
+    },
+    {
+      "text": "Le témoin déclara qu'il {1} parfaitement l'homme qu'on avait aperçu sur les lieux.",
+      "blanks": [
+        { "cue": "connaître", "answer": ["connaissait"], "hint": "reported speech in a past frame: a present in direct speech becomes the imparfait (simultaneity)" }
+      ],
+      "explanation": "The main verb « déclara » (passé simple) sets a past frame. The original direct statement « Je connais parfaitement cet homme » is simultaneous with the act of testifying, so the present « connais » shifts to the imparfait: « il connaissait parfaitement ». The imparfait marks the concordance of simultaneity in the past."
+    },
+    {
+      "text": "Le guide nous avait prévenus que le groupe {1} le refuge bien avant la tombée de la nuit.",
+      "blanks": [
+        { "cue": "avoir atteint", "answer": ["aurait atteint"], "hint": "futur antérieur dans le passé: a futur antérieur in direct speech becomes the conditionnel passé after a past main verb" }
+      ],
+      "explanation": "The main verb « avait prévenus » is past, and the original direct statement contained a futur antérieur announcing an action completed before a deadline: « le groupe aura atteint le refuge avant la tombée de la nuit ». Under concordance, the futur antérieur « aura atteint » becomes the conditionnel passé « aurait atteint » — the « futur antérieur dans le passé », the anterior counterpart of the « futur dans le passé »."
+    },
+    {
+      "text": "L'inspecteur soupçonnait que le comptable {1} les registres depuis plusieurs mois.",
+      "blanks": [
+        { "cue": "falsifier", "answer": ["avait falsifié"], "hint": "anteriority in a past frame: a passé composé in direct thought becomes the plus-que-parfait" }
+      ],
+      "explanation": "The main verb « soupçonnait » is past, and the suspected action began BEFORE it (« depuis plusieurs mois »). A passé composé in the direct thought (« le comptable a falsifié les registres ») shifts to the plus-que-parfait to mark anteriority: « avait falsifié ». (The direct object « les registres » follows the verb, so the participle stays invariable.)"
     }
   ]
 }

@@ -168,6 +168,27 @@
         }
       ],
       "explanation": "Predictive 'will/'ll' expresses a confident assumption about a present situation ('That'll be the postman'). It is near-certainty based on expectation, distinct from deduction with 'must' and from the weaker expectation of 'should'."
+    },
+    {
+      "text": "As a child my brother was maddening: he {1} hide my things and then deny all knowledge of it.",
+      "blanks": [
+        { "answer": "would", "options": ["would", "should", "might"], "hint": "characteristic, often irritating, repeated past behaviour" }
+      ],
+      "explanation": "'Would' narrates typical, repeated past behaviour and often carries a note of exasperation about it ('he would hide my things'). 'Should' does not express past habit at all, and 'might' would express mere possibility rather than characteristic behaviour."
+    },
+    {
+      "text": "The pavements are strewn with broken branches this morning; the wind {1} fiercely all night.",
+      "blanks": [
+        { "answer": "must have been blowing", "options": ["must have been blowing", "must blow", "should have been blowing"], "hint": "near-certain deduction about an ongoing past situation (continuous)" }
+      ],
+      "explanation": "Deduction about a situation that was in progress over a past stretch of time uses the continuous 'must have been + -ing'. 'Must blow' is a present-tense generalisation, and 'should have been blowing' would express expectation or regret rather than a confident inference from the evidence."
+    },
+    {
+      "text": "Don't ring them now — they {1} landed by this time and will be collecting their luggage.",
+      "blanks": [
+        { "answer": "will have", "options": ["will have", "must have", "should have"], "hint": "confident prediction that something is complete by now ('will have + p.p.'), based on the expected schedule" }
+      ],
+      "explanation": "'Will have + past participle' voices a confident prediction that an event has by now been completed, reasoning from the expected timetable rather than from direct evidence ('they'll have landed by now'). 'Must have' would rest on present evidence of the landing, and 'should have' would weaken it to an expectation that leaves room for the plan to have gone wrong."
     }
   ]
 }

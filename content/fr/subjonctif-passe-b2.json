@@ -125,6 +125,27 @@
         { "cue": "rentrer", "answer": ["soient rentrés"], "hint": "subjonctif passé, ils, être verb: « quoique » + auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject" }
       ],
       "explanation": "« Quoique » (like « bien que ») expresses concession and triggers the subjunctive, and the action is prior to the main clause, so the past subjunctive is used. « Rentrer » here takes « être » (no direct object), and its participle agrees with the masculine plural subject « ils »: « qu'ils soient rentrés »."
+    },
+    {
+      "text": "Dépêchons-nous de rentrer avant que la nuit ne {1} tout à fait.",
+      "blanks": [
+        { "cue": "tomber", "answer": ["soit tombée"], "hint": "subjonctif passé, elle (la nuit), être verb: auxiliary « être » (subj. present) + participle agrees with the feminine subject; « ne » is explétif" }
+      ],
+      "explanation": "« Avant que » always triggers the subjunctive, and the past subjunctive presents the nightfall as a completed event we want to forestall. « Tomber » here takes « être », and the participle agrees with the feminine singular subject « la nuit »: « avant que la nuit ne soit tombée ». The « ne » is the « ne » explétif typical of « avant que », not a negation."
+    },
+    {
+      "text": "C'est la meilleure décision que nous {1} de toute l'année.",
+      "blanks": [
+        { "cue": "prendre", "answer": ["ayons prise"], "hint": "subjonctif passé after a superlative ('la meilleure'); avoir verb, preceding object « que » (= la décision, f.sg.) forces agreement" }
+      ],
+      "explanation": "A superlative antecedent (« la meilleure décision ») is a classic trigger of the subjunctive, and the deciding is viewed as already completed, so the past subjunctive applies. « Prendre » takes « avoir »; the relative « que » refers to « la décision » (feminine singular) and precedes the verb, so the participle agrees: « que nous ayons prise »."
+    },
+    {
+      "text": "Je doute qu'elle {1} à temps pour attraper sa correspondance à Paris.",
+      "blanks": [
+        { "cue": "arriver", "answer": ["soit arrivée"], "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject" }
+      ],
+      "explanation": "« Je doute que » expresses doubt and triggers the subjunctive, and the arrival is seen as prior to the connecting train, so the past subjunctive is used. « Arriver » takes « être », and the participle agrees with the feminine subject: « qu'elle soit arrivée »."
     }
   ]
 }
