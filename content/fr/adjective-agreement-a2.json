@@ -8,7 +8,7 @@
   "lesson": "In French, the adjective agrees in gender (masculine/feminine) and number (singular/plural) with the noun. Regular case: grand, grande, grands, grandes. You add -e for the feminine and -s for the plural. Common irregular adjectives: beau/belle, nouveau/nouvelle, blanc/blanche, heureux/heureuse, vieux/vieille. In the plural: beaux, nouveaux, blancs/blanches, heureux (invariable in the masculine plural), vieux.",
   "items": [
     {
-      "text": "C'est une {1} maison. (grand)",
+      "text": "C'est une {1} maison.",
       "blanks": [
         {
           "cue": "grand → feminine singular",
@@ -21,7 +21,7 @@
       "explanation": "Maison is feminine singular, so grand → grande (you add -e)."
     },
     {
-      "text": "Ce sont des livres {1}. (intéressant)",
+      "text": "Ce sont des livres {1}.",
       "blanks": [
         {
           "cue": "intéressant → masculine plural",
@@ -34,7 +34,7 @@
       "explanation": "Livres is masculine plural, so intéressant → intéressants (you add -s)."
     },
     {
-      "text": "Les voitures sont {1}. (petit)",
+      "text": "Les voitures sont {1}.",
       "blanks": [
         {
           "cue": "petit → feminine plural",
@@ -47,7 +47,7 @@
       "explanation": "Voitures is feminine plural: petit → petite → petites (feminine -e + plural -s)."
     },
     {
-      "text": "Elle porte une {1} robe. (beau)",
+      "text": "Elle porte une {1} robe.",
       "blanks": [
         {
           "cue": "beau → feminine singular",
@@ -60,7 +60,7 @@
       "explanation": "Beau is irregular: its feminine form is belle. Robe is feminine singular."
     },
     {
-      "text": "Nous avons une {1} voiture. (nouveau)",
+      "text": "Nous avons une {1} voiture.",
       "blanks": [
         {
           "cue": "nouveau → feminine singular",
@@ -73,7 +73,7 @@
       "explanation": "Nouveau is irregular: its feminine form is nouvelle. Voiture is feminine singular."
     },
     {
-      "text": "J'aime cette chemise {1}. (blanc)",
+      "text": "J'aime cette chemise {1}.",
       "blanks": [
         {
           "cue": "blanc → feminine singular",
@@ -86,7 +86,7 @@
       "explanation": "Blanc is irregular: its feminine form is blanche. Chemise is feminine singular."
     },
     {
-      "text": "Marie est très {1} aujourd'hui. (heureux)",
+      "text": "Marie est très {1} aujourd'hui.",
       "blanks": [
         {
           "cue": "heureux → feminine singular",
@@ -99,7 +99,7 @@
       "explanation": "Adjectives ending in -eux form their feminine in -euse: heureux → heureuse."
     },
     {
-      "text": "Ils ont de {1} amis. (vieux)",
+      "text": "Ils ont de {1} amis.",
       "blanks": [
         {
           "cue": "vieux → masculine plural",
@@ -112,7 +112,7 @@
       "explanation": "Vieux is invariable in the masculine plural: vieux. (In the feminine: vieille / vieilles.)"
     },
     {
-      "text": "Ce sont de {1} hôtels. (beau)",
+      "text": "Ce sont de {1} hôtels.",
       "blanks": [
         {
           "cue": "beau → masculine plural",
@@ -125,7 +125,7 @@
       "explanation": "In the masculine plural, beau becomes beaux (adjectives ending in -eau take -x)."
     },
     {
-      "text": "Les fleurs sont {1}. (blanc)",
+      "text": "Les fleurs sont {1}.",
       "blanks": [
         {
           "cue": "blanc → feminine plural",
@@ -138,7 +138,7 @@
       "explanation": "Fleurs is feminine plural: blanc → blanche → blanches."
     },
     {
-      "text": "Mon frère est plus {1} que moi. (grand)",
+      "text": "Mon frère est plus {1} que moi.",
       "blanks": [
         {
           "cue": "grand → masculine singular",
@@ -151,7 +151,7 @@
       "explanation": "Frère is masculine singular: the adjective stays in its base form, grand."
     },
     {
-      "text": "Elles sont toutes {1}. (heureux)",
+      "text": "Elles sont toutes {1}.",
       "blanks": [
         {
           "cue": "heureux → feminine plural",

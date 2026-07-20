@@ -38,7 +38,7 @@
       "explanation": "Irregular stem 'ser-' + 'ont' for 'ils': 'seront'."
     },
     {
-      "text": "Je {1} bientôt vingt ans.",
+      "text": "J'{1} bientôt vingt ans.",
       "blanks": [{ "cue": "avoir", "answer": ["aurai"] }],
       "explanation": "Irregular stem 'aur-' + 'ai' for 'je': 'aurai'."
     },
@@ -128,7 +128,7 @@
       "explanation": "Regular -ir: 'finir' + 'ont' for 'ils': 'finiront'."
     },
     {
-      "text": "Je {1} au cinéma avec toi demain.",
+      "text": "J'{1} au cinéma avec toi demain.",
       "blanks": [{ "cue": "aller", "answer": ["irai"] }],
       "explanation": "Irregular stem 'ir-' + 'ai' for 'je': 'irai'."
     },

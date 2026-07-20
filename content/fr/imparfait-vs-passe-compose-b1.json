@@ -8,12 +8,12 @@
   "lesson": "You use the imparfait for descriptions, past habits, and context (the backdrop of a scene). You use the passé composé for one-off, completed actions that move the story forward. Often, the imparfait sets the scene and the passé composé brings in the event that occurs: « Je dormais (context) quand le téléphone a sonné (action). » With the auxiliary être, the past participle agrees with the subject.",
   "items": [
     {
-      "text": "Quand j'étais petit, je {1} souvent au parc le dimanche.",
+      "text": "Quand j'étais petit, j'{1} souvent au parc le dimanche.",
       "blanks": [{ "cue": "aller", "answer": ["allais"], "hint": "imparfait, repeated habit" }],
       "explanation": "« souvent » and « quand j'étais petit » signal a past habit, so the imparfait is used: allais."
     },
     {
-      "text": "Hier soir, je {1} un film puis je me suis couché.",
+      "text": "Hier soir, j'{1} un film puis je me suis couché.",
       "blanks": [{ "cue": "regarder", "answer": ["ai regardé"], "hint": "one-off, completed action" }],
       "explanation": "« hier soir » and the sequence of finished actions call for the passé composé: ai regardé."
     },
@@ -24,8 +24,8 @@
     },
     {
       "text": "Soudain, un homme {1} dans la pièce.",
-      "blanks": [{ "cue": "entrer", "answer": ["est entré", "est entrée"], "hint": "auxiliary être, sudden action" }],
-      "explanation": "« soudain » marks a one-off action; entrer is conjugated with être, hence est entré (possible agreement: est entrée)."
+      "blanks": [{ "cue": "entrer", "answer": ["est entré"], "hint": "auxiliary être, sudden action" }],
+      "explanation": "« soudain » marks a one-off action; entrer is conjugated with être, and « un homme » is masculine: est entré."
     },
     {
       "text": "Nous {1} la télévision quand l'orage a éclaté.",
@@ -53,7 +53,7 @@
       "explanation": "« l'année dernière » and « pour la première fois » point to a specific, completed event: passé composé, ont voyagé."
     },
     {
-      "text": "Je {1} déjà fini mon travail quand tu m'as appelé.",
+      "text": "J'{1} déjà fini mon travail quand tu m'as appelé.",
       "blanks": [{ "cue": "avoir", "answer": ["avais"], "hint": "pluperfect: auxiliary in the imparfait" }],
       "explanation": "The action was finished before another past action: the pluperfect (plus-que-parfait) is used, whose auxiliary avoir is in the imparfait (avais fini)."
     },

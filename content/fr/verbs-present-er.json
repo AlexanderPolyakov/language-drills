@@ -38,7 +38,7 @@
       "explanation": "-er verbs: the 'il/elle' form ends in -e: marcher → elle marche."
     },
     {
-      "text": "Je {1} la musique.",
+      "text": "J'{1} la musique.",
       "blanks": [{ "cue": "écouter", "answer": ["écoute"] }],
       "explanation": "-er verbs: the 'je' form ends in -e: écouter → j'écoute (note the accent on é)."
     },

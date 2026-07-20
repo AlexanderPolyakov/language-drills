@@ -58,8 +58,8 @@
       "explanation": "The form 'sommes' corresponds to the pronoun 'nous' (nous sommes). At the start of a sentence, write 'Nous'."
     },
     {
-      "text": "J' {1} content.",
-      "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "j' + être" }],
+      "text": "Je {1} content.",
+      "blanks": [{ "cue": "être", "answer": ["suis"], "hint": "je + être" }],
       "explanation": "Before a vowel, 'je' is elided to 'j'' (j'ai, j'aime). With être, you say 'je suis': the form stays 'suis'."
     },
     {
