@@ -45,6 +45,250 @@
         { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "meals" }
       ],
       "explanation": "Meals take no article: have breakfast, have lunch, have dinner."
+    },
+    {
+      "text": "After the trial he was sent to {1} prison, while his lawyer drove to {2} work.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "there as an inmate, for its purpose"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'go to work' is fixed"
+        }
+      ],
+      "explanation": "'In/to prison' (as an inmate) and 'go to work' drop the article — use 'the prison' only when you mean the building itself."
+    },
+    {
+      "text": "She learned the whole poem by {1} heart for the recital.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'by ___' meaning from memory"
+        }
+      ],
+      "explanation": "'By heart' (meaning from memory) is a fixed expression with no article."
+    },
+    {
+      "text": "On {1} whole the plan worked, and in {2} end everyone agreed.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'on ___ whole' is fixed"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'in ___ end' meaning finally"
+        }
+      ],
+      "explanation": "'On the whole' (meaning generally) always keeps 'the'; 'in the end' (meaning finally) also keeps 'the' — contrast 'at the end of' a thing."
+    },
+    {
+      "text": "When she is in {1} hospital, she watches {2} television all day.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "BrE: there as a patient"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'watch ___ television' is fixed"
+        }
+      ],
+      "explanation": "In British English 'in hospital' (as a patient) takes no article, and 'watch television' takes no article — unlike 'the radio', which keeps 'the'."
+    },
+    {
+      "text": "We play {1} chess together about once {2} week.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'play' + a game"
+        },
+        {
+          "answer": "a",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "here it means 'per'"
+        }
+      ],
+      "explanation": "Games take no article with 'play' (play chess, play football); 'a' here means 'per' (once a week)."
+    },
+    {
+      "text": "After the accident he spent a month in {1} hospital, and the other driver ended up in {2} prison.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "BrE: there as a patient"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "there for its purpose"
+        }
+      ],
+      "explanation": "In British English 'in hospital' and 'in prison' take no article when someone is there for the institution's purpose (as a patient, as a prisoner) — American English prefers 'in the hospital'."
+    },
+    {
+      "text": "They play {1} football twice {2} week.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "sports and games"
+        },
+        {
+          "answer": "a",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "a = 'per'"
+        }
+      ],
+      "explanation": "Sports and games take no article ('play football', 'play chess'); in expressions of frequency 'a' means 'per' — 'twice a week'."
+    },
+    {
+      "text": "On {1} whole, she learned the poem by {2} heart before {3} end of term.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'on the whole' is fixed"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'by heart' is fixed"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'the end of ...'"
+        }
+      ],
+      "explanation": "'On the whole' (in general) and 'by heart' (from memory) are fixed: the first keeps 'the', the second takes no article, while 'the end of' always takes 'the'."
+    },
+    {
+      "text": "He plays {1} piano every night, skips {2} dinner, and then listens to {3} radio.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "musical instruments"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "meals"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'radio' here is a fixed expression that takes an article"
+        }
+      ],
+      "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
     }
   ]
 }

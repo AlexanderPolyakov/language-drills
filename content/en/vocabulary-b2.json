@@ -39,6 +39,10 @@
     { "text": "There is a growing {1} for sustainable products.", "blanks": [ { "options": ["demand", "detail", "defeat"], "answer": "demand" } ], "explanation": "Demand is the desire of people to buy something." },
     { "text": "The professor's lecture was both clear and {1}.", "blanks": [ { "options": ["insufficient", "inevitable", "insightful"], "answer": "insightful" } ], "explanation": "Insightful means showing deep understanding." },
     { "text": "The company hopes to {1} into new markets abroad.", "blanks": [ { "options": ["expire", "expose", "expand"], "answer": "expand" } ], "explanation": "To expand is to grow larger or cover more area." },
-    { "text": "We must {1} the risks before making a decision.", "blanks": [ { "options": ["assist", "assess", "assign"], "answer": "assess" } ], "explanation": "To assess something is to judge its nature or amount." }
+    { "text": "We must {1} the risks before making a decision.", "blanks": [ { "options": ["assist", "assess", "assign"], "answer": "assess" } ], "explanation": "To assess something is to judge its nature or amount." },
+    {"text": "The study was criticised for its clear political {1}.", "blanks": [{"options": ["bias", "budget", "border"], "answer": "bias"}], "explanation": "Bias is an unfair preference for or against something."},
+    {"text": "He could not {1} spending so much on a single meal.", "blanks": [{"options": ["juggle", "jeopardise", "justify"], "answer": "justify"}], "explanation": "To justify something is to show good reasons for it."},
+    {"text": "The author tried to {1} her main idea in the conclusion.", "blanks": [{"options": ["summarise", "sympathise", "specialise"], "answer": "summarise"}], "explanation": "To summarise is to state the main points briefly."},
+    {"text": "The two departments need to {1} their schedules.", "blanks": [{"options": ["calculate", "celebrate", "coordinate"], "answer": "coordinate"}], "explanation": "To coordinate is to organise things to work together well."}
   ]
 }

@@ -96,6 +96,2402 @@
         }
       ],
       "explanation": "A relative clause depending on a superlative (« le plus émouvant que ») takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The hearing is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « que l'assemblée eût entendu » — note the circumflex on « eût » (auxiliary), which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi voulut que son fidèle messager {1} sur-le-champ pour porter la nouvelle.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît, avec circonflexe), après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so the indicatif forms are excluded: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « voulut » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of partir: « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "On doutait fort qu'un simple apprenti {1} mener à bien une œuvre aussi délicate.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « douter que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are ungrammatical after this verb. The main verb « doutait » is a past tense and the ability is simultaneous, so literary concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which sets it apart from the indicative « put »."
+    },
+    {
+      "text": "Il céda enfin, à moins qu'il ne {1} la lassitude de prolonger une lutte inutile.",
+      "blanks": [
+        {
+          "answer": "craignît",
+          "options": [
+            "craignait",
+            "craignit",
+            "craignît"
+          ],
+          "hint": "subjonctif imparfait de « craindre » (-ît), après « à moins que », principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « craignait » (imparfait de l'indicatif) and « craignit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « céda » is in the past and the fear is simultaneous, so strict concordance requires the subjonctif imparfait of craindre: « qu'il craignît » — the circumflex distinguishes it from the indicative « craignit »."
+    },
+    {
+      "text": "C'était le seul guide qui {1} jamais affronté ce col avant la fonte des neiges.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The crossing is anterior to the past reference « c'était », so literary concordance requires the subjonctif plus-que-parfait « qui eût affronté » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître exigea que son disciple {1} sur-le-champ pour porter le message.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, without circumflex) are both ungrammatical after this verb. The main verb « exigea » is in the past (passé simple) and the departure is posterior to the demand, so literary concordance requires the subjonctif imparfait of partir: « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "Elle souhaitait ardemment que son fils {1} achever ses études malgré la guerre.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (-ût, avec circonflexe), 3e pers. sing., après « souhaiter que »"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « souhaitait » is a past tense (imparfait) and the wish is simultaneous, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le vieillard cacha la lettre de peur qu'on ne {1} d'en révéler le secret.",
+      "blanks": [
+        {
+          "answer": "craignît",
+          "options": [
+            "craignait",
+            "craignit",
+            "craignît"
+          ],
+          "hint": "subjonctif imparfait de « craindre » (-ît), 3e pers. sing., après « de peur que »"
+        }
+      ],
+      "explanation": "« de peur que » always governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « craignait » (imparfait de l'indicatif) and « craignit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « cacha » is in the past (passé simple) and the feared action is simultaneous/posterior, so literary concordance requires the subjonctif imparfait of craindre: « qu'on craignît » — built on the passé simple stem « craigni- » with the distinguishing circumflex."
+    },
+    {
+      "text": "Le capitaine donna l'ordre du départ sans qu'aucune sentinelle {1} de son poste.",
+      "blanks": [
+        {
+          "answer": "se fût éloignée",
+          "options": [
+            "s'était éloignée",
+            "se fut éloignée",
+            "se fût éloignée"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, accord du participe pronominal au féminin"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif forms are excluded: « s'était éloignée » (plus-que-parfait de l'indicatif) and « se fut éloignée » (passé antérieur de l'indicatif, no circumflex) are both wrong after this trigger. The leaving would be ANTERIOR to the past reference « donna l'ordre », so strict concordance requires the subjonctif plus-que-parfait of the pronominal « s'éloigner »: « qu'elle se fût éloignée » — note the circumflex on the auxiliary « fût » (vs indicatif « fut »), and the participle « éloignée » agrees with the reflexive direct object « se » (= « sentinelle », feminine)."
+    },
+    {
+      "text": "Le roi exigea que son ministre lui {1} toute la vérité sans rien dissimuler.",
+      "blanks": [
+        {
+          "answer": "dît",
+          "options": [
+            "disait",
+            "dit",
+            "dît"
+          ],
+          "hint": "subjonctif imparfait de « dire » (dît, avec circonflexe), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « disait » (imparfait de l'indicatif) and « dit » (passé simple / présent de l'indicatif, no circumflex) are ungrammatical after this verb. The main verb « exigea » is in the passé simple and the telling is posterior to the demand, so literary concordance requires the subjonctif imparfait of dire: « qu'il dît » — note the circumflex on « dît », which distinguishes it from the indicative « dit »."
+    },
+    {
+      "text": "Il était impensable qu'un homme de son rang {1} se conduire de la sorte en public.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « il était impensable que »"
+        }
+      ],
+      "explanation": "« il était impensable que » expresses doubt/impossibility and governs the subjunctive, so the indicatif is excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both wrong after this trigger. The main clause is in the past (« était ») and the action is simultaneous, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Elle aurait voulu que ses élèves {1} déjà par cœur toute la leçon avant l'examen.",
+      "blanks": [
+        {
+          "answer": "sussent",
+          "options": [
+            "savaient",
+            "surent",
+            "sussent"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (-ussent), 3e pers. plur., après « vouloir que », état simultané"
+        }
+      ],
+      "explanation": "« vouloir que » takes the subjunctive, so the indicatif forms are impossible: « savaient » (imparfait de l'indicatif) and « surent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « aurait voulu » is a conditionnel passé; here « savoir » expresses a continuing STATE of knowing, viewed as simultaneous with the desired situation, so literary concordance uses the subjonctif imparfait, 3rd plural: « qu'ils sussent » (built on the passé simple stem su- → -ussent)."
+    },
+    {
+      "text": "Le sage conseilla qu'ils {1} consulter l'oracle avant d'entreprendre un si long voyage.",
+      "blanks": [
+        {
+          "answer": "allassent",
+          "options": [
+            "allaient",
+            "allèrent",
+            "allassent"
+          ],
+          "hint": "subjonctif imparfait de « aller » (-assent), 3e pers. plur., après « conseiller que », postériorité"
+        }
+      ],
+      "explanation": "« conseiller que » triggers the subjunctive, so the indicatif is excluded: « allaient » (imparfait de l'indicatif) and « allèrent » (passé simple de l'indicatif) are both ungrammatical after this verb. The main verb « conseilla » is in the passé simple and the consulting is posterior to the advice, so literary concordance requires the subjonctif imparfait of aller, 3rd plural: « qu'ils allassent » (an -ER verb, hence the -assent ending)."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine marcher, le pèlerin poursuivit sa route vers le sanctuaire.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive (like « bien que »), so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this concessive trigger. The main verb « poursuivit » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le juge doutait que l'accusé {1} la portée exacte de ses propres aveux.",
+      "blanks": [
+        {
+          "answer": "eût compris",
+          "options": [
+            "avait compris",
+            "eut compris",
+            "eût compris"
+          ],
+          "hint": "subjonctif plus-que-parfait de « comprendre » (eût + participe), antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« douter que » expresses doubt and triggers the subjunctive, so the indicatif is excluded: « avait compris » (plus-que-parfait de l'indicatif) and « eut compris » (passé antérieur de l'indicatif, with « eut » sans circonflexe) are both ungrammatical after this trigger. The understanding is ANTERIOR to the past reference « doutait », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût compris » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Il tint la lanterne allumée toute la nuit, à moins que quelqu'un ne {1} le relayer avant l'aube.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, terminaison rare en -înt), après « à moins que »"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « tint » is in the past and the relieving is posterior, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — note that venir takes the rare ending « -înt » (not « -ît »), and the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Ce fut la seule lettre qu'elle {1} jamais de son père exilé.",
+      "blanks": [
+        {
+          "answer": "eût reçue",
+          "options": [
+            "avait reçue",
+            "eut reçue",
+            "eût reçue"
+          ],
+          "hint": "subjonctif plus-que-parfait de « recevoir » (eût + participe accordé), après « le seul/la seule … que », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul / la seule … que » takes the subjunctive, so the indicatif is excluded: « avait reçue » (plus-que-parfait de l'indicatif) and « eut reçue » (passé antérieur de l'indicatif, « eut » sans circonflexe) are both wrong after this trigger. The receiving is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qu'elle eût reçue ». With the auxiliary avoir, the participle agrees with the preceding direct object « que » (= « la lettre », féminin singulier), hence « reçue »; the circumflex on « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le père voulait que ses fils {1} le rejoindre dès le lever du jour.",
+      "blanks": [
+        {
+          "answer": "vinssent",
+          "options": [
+            "venaient",
+            "vinrent",
+            "vinssent"
+          ],
+          "hint": "subjonctif imparfait de « venir », 3e pers. plur. (-inssent), après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » impose le subjonctif : les formes de l'indicatif sont donc exclues : « venaient » (imparfait de l'indicatif) et « vinrent » (passé simple de l'indicatif) ne peuvent suivre ce déclencheur. Le verbe principal « voulait » est au passé et l'action est postérieure, d'où le subjonctif imparfait « qu'ils vinssent ». Attention : la 3e pers. plur. (-inssent) ne porte jamais d'accent circonflexe, contrairement à la 3e sing. « vînt »."
+    },
+    {
+      "text": "La gouvernante craignait que l'enfant ne {1} froid au cours de cette nuit glaciale.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prît",
+            "prit",
+            "prenait"
+          ],
+          "hint": "subjonctif imparfait de « prendre », 3e pers. sing. (-ît), après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » (avec le « ne » explétif) gouverne le subjonctif : l'indicatif est donc impossible : « prit » (passé simple de l'indicatif, sans circonflexe) et « prenait » (imparfait de l'indicatif) sont exclus par le déclencheur. Le principal « craignait » est au passé et l'action redoutée est postérieure, d'où le subjonctif imparfait « qu'il prît » — le circonflexe le distingue du passé simple « prit »."
+    },
+    {
+      "text": "Elle parla longuement afin que chacun {1} enfin la vérité tout entière.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir », 3e pers. sing. (sût, avec circonflexe), après « afin que »"
+        }
+      ],
+      "explanation": "« afin que » exige toujours le subjonctif : les formes de l'indicatif sont donc exclues : « savait » (imparfait de l'indicatif) et « sut » (passé simple de l'indicatif, sans circonflexe) ne conviennent pas après ce déclencheur de but. Le principal « parla » est au passé et le savoir visé est postérieur, d'où le subjonctif imparfait de savoir « qu'il sût » — le circonflexe distingue « sût » du passé simple « sut »."
+    },
+    {
+      "text": "Le juge exigea que l'accusé {1} les faits sans plus tarder.",
+      "blanks": [
+        {
+          "answer": "reconnût",
+          "options": [
+            "reconnaissait",
+            "reconnut",
+            "reconnût"
+          ],
+          "hint": "subjonctif imparfait de « reconnaître » (-ût), 3e pers. sing., après « exiger que », principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so any indicatif is excluded: « reconnaissait » (imparfait de l'indicatif) and « reconnut » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this verb. The main verb « exigea » is in the past and the admission is posterior to the demand, so literary concordance requires the subjonctif imparfait « reconnût » — note the circumflex on « reconnût », which distinguishes it from the indicative « reconnut »."
+    },
+    {
+      "text": "Je doutais fort qu'il {1} mener seul une entreprise aussi périlleuse.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « douter que »"
+        }
+      ],
+      "explanation": "« douter que » governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « doutais » is the imparfait, a past tense, and the ability is simultaneous, so literary concordance gives the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Elle aurait voulu que ses amis ne l'{1} jamais abandonnée en ces heures sombres.",
+      "blanks": [
+        {
+          "answer": "eussent",
+          "options": [
+            "avaient",
+            "eurent",
+            "eussent"
+          ],
+          "hint": "subjonctif plus-que-parfait (eussent + participe), antériorité, 3e pers. plur., après le conditionnel passé"
+        }
+      ],
+      "explanation": "« vouloir que » takes the subjunctive, so the indicatif forms are excluded: « avaient » (imparfait de l'indicatif) and « eurent » (passé simple de l'indicatif) cannot follow this trigger. The abandonment is ANTERIOR to the past reference point, so strict concordance after the conditionnel passé « aurait voulu » calls for the subjonctif plus-que-parfait « qu'ils l'eussent abandonnée » — at the 3rd plural the subjunctive « eussent » is distinguished from the indicative « eurent » by its ending (-ssent vs -rent), not by a circumflex (the circumflex marks only the singular, e.g. « eût »)."
+    },
+    {
+      "text": "Quoiqu'elle {1} la nouvelle depuis longtemps, elle feignit la surprise devant la cour.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this concessive trigger. The main verb « feignit » is in the past and the concessive knowledge is simultaneous (« depuis longtemps »), so literary concordance requires the subjonctif imparfait of savoir: « qu'elle sût » — note the distinguishing circumflex on « sût »."
+    },
+    {
+      "text": "Le roi voulut que ses ambassadeurs {1} avant l'aube pour porter sa réponse.",
+      "blanks": [
+        {
+          "answer": "partissent",
+          "options": [
+            "partaient",
+            "partirent",
+            "partissent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-issent), après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » always governs the subjunctive, so the indicatif forms are excluded: « partaient » (imparfait de l'indicatif) and « partirent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulut » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of « partir », 3rd plural « qu'ils partissent »."
+    },
+    {
+      "text": "Je doutais fort qu'il {1} jamais la vérité sur cette sombre affaire.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « douter que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the indicatif is impossible: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical here. The main verb « doutais » is a past tense and the knowing is simultaneous, so strict concordance calls for the subjonctif imparfait of « savoir »: « qu'il sût » — the circumflex distinguishes it from the indicative « sut »."
+    },
+    {
+      "text": "Elle resta calme, à moins que la peur ne l'{1} déjà gagnée à son insu.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « à moins que », antériorité"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both wrong. The fear's grip is anterior to the past reference « elle resta », so literary concordance requires the subjonctif plus-que-parfait « que la peur l'eût gagnée » — note the circumflex on « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "C'était le seul témoin qui {1} décrire la scène avec une telle précision.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « le seul … qui », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « était » is in the past and the ability is simultaneous, so literary concordance requires the subjonctif imparfait of « pouvoir »: « qui pût » — the circumflex distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le maître exigea que chaque élève {1} le poème à voix haute avant midi.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past (passé simple) and the recitation is posterior to the demand, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât » — note the circumflex on the -ât ending."
+    },
+    {
+      "text": "Le jury doutait que le candidat {1} véritablement la portée de sa découverte.",
+      "blanks": [
+        {
+          "answer": "saisît",
+          "options": [
+            "saisissait",
+            "saisît",
+            "saisit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « saisir », 3e pers. sing., après « douter que » au passé"
+        }
+      ],
+      "explanation": "« douter que » governs the subjunctive, so the indicatif is impossible: « saisissait » (imparfait de l'indicatif) and « saisit » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « doutait » is in the imparfait (a past tense) and the grasping is simultaneous, so concordance calls for the subjonctif imparfait of the -IR verb « saisir »: « qu'il saisît » — the circumflex on « saisît » distinguishes it from the indicative « saisit »."
+    },
+    {
+      "text": "Il aurait souhaité que ses adversaires {1} déjà {2} leurs torts avant l'audience.",
+      "blanks": [
+        {
+          "answer": "eussent",
+          "options": [
+            "avaient",
+            "eurent",
+            "eussent"
+          ],
+          "hint": "auxiliaire du subjonctif plus-que-parfait (eussent + participe), antériorité, 3e pers. plur."
+        },
+        {
+          "answer": "reconnu",
+          "options": [
+            "reconnu",
+            "reconnaissaient",
+            "reconnurent"
+          ],
+          "hint": "participe passé de « reconnaître », invariable ici (COD postposé)"
+        }
+      ],
+      "explanation": "« souhaiter que » takes the subjunctive, so the indicatif auxiliaries are excluded: « avaient » (imparfait de l'indicatif) and « eurent » (passé simple de l'indicatif) cannot follow this trigger, and only the past participle « reconnu » fits the compound tense (« reconnaissaient » / « reconnurent » are finite indicatif forms). The admission is ANTERIOR to the past reference, so after the conditionnel passé « aurait souhaité » strict concordance requires the subjonctif plus-que-parfait: « qu'ils eussent reconnu » — the auxiliary « eussent » bears the subjunctive, and « reconnu » stays invariable because its direct object « leurs torts » follows the verb."
+    },
+    {
+      "text": "Quoiqu'il {1} la tempête menaçante, le pêcheur poussa sa barque vers le large.",
+      "blanks": [
+        {
+          "answer": "prévît",
+          "options": [
+            "prévoyait",
+            "prévit",
+            "prévît"
+          ],
+          "hint": "subjonctif imparfait de « prévoir » (prévît, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are ungrammatical: « prévoyait » (imparfait de l'indicatif) and « prévit » (passé simple de l'indicatif, no circumflex) are both excluded by this concessive conjunction. The main verb « poussa » is in the passé simple and the foreseeing is simultaneous, so literary concordance requires the subjonctif imparfait of « prévoir », built on the passé simple stem « prévi- »: « qu'il prévît » — the circumflex on « prévît » marks the subjunctive against the indicative « prévit »."
+    },
+    {
+      "text": "Le capitaine voulait que chacun {1} à son poste avant que la tempête ne se levât.",
+      "blanks": [
+        {
+          "answer": "demeurât",
+          "options": [
+            "demeurât",
+            "demeurait",
+            "demeura"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « vouloir que », principal au passé"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so the indicatif is excluded: « demeurait » (imparfait de l'indicatif) and « demeura » (passé simple de l'indicatif) cannot follow this verb of volition. The main verb « voulait » is in the past and the staying is simultaneous/posterior to it, so literary concordance requires the subjonctif imparfait « qu'il demeurât »."
+    },
+    {
+      "text": "Le vieillard craignait que ses fils ne {1} jamais la sagesse de leurs aïeux.",
+      "blanks": [
+        {
+          "answer": "comprissent",
+          "options": [
+            "comprissent",
+            "comprenaient",
+            "comprirent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-issent), après « craindre que (ne) », principal au passé"
+        }
+      ],
+      "explanation": "« craindre que » (here with the « ne » explétif) governs the subjunctive, so both indicatif forms are excluded: « comprenaient » (imparfait de l'indicatif) and « comprirent » (passé simple de l'indicatif). The main verb « craignait » is in the past and the fear bears on something simultaneous/posterior, so literary concordance gives the subjonctif imparfait of « comprendre », 3rd plural « qu'ils comprissent »."
+    },
+    {
+      "text": "On fit taire l'assemblée afin que l'orateur {1} enfin développer sa thèse.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pût",
+            "pouvait",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « afin que », principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » always governs the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans circonflexe) are both ungrammatical. The main verb « fit » is in the past and the purpose is posterior, so literary concordance requires the subjonctif imparfait of « pouvoir »: « qu'il pût » — the circumflex distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Il était impossible qu'elle {1} la ville sans que personne ne s'en aperçût.",
+      "blanks": [
+        {
+          "answer": "eût quitté",
+          "options": [
+            "avait quitté",
+            "eût quitté",
+            "eut quitté"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « il était impossible que »"
+        }
+      ],
+      "explanation": "« il était impossible que » triggers the subjunctive, so the indicatif is excluded: « avait quitté » (plus-que-parfait de l'indicatif) and « eut quitté » (passé antérieur de l'indicatif, auxiliary sans circonflexe) are both wrong. The departure is ANTERIOR to the past reference, so strict concordance after the past « était » calls for the subjonctif plus-que-parfait « qu'elle eût quitté » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi souhaita que son fils {1} bien régner avant de monter sur le trône.",
+      "blanks": [
+        {
+          "answer": "voulût",
+          "options": [
+            "voulait",
+            "voulut",
+            "voulût"
+          ],
+          "hint": "subjonctif imparfait de « vouloir » (voulût, avec circonflexe), après « souhaiter que », principal au passé simple"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so both indicatif forms are excluded: « voulait » (imparfait de l'indicatif) and « voulut » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « souhaita » is in the past and the wish bears on a simultaneous/posterior state, so literary concordance gives the subjonctif imparfait of vouloir: « qu'il voulût » — the circumflex on the -ût ending distinguishes it from the passé simple « voulut »."
+    },
+    {
+      "text": "Le vieux maître expliqua la règle lentement, sans qu'aucun élève ne l'{1} vraiment comprise.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe accordé), après « sans que », antériorité"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif is impossible: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) are both excluded. The non-comprehension is anterior to the past narration « expliqua », so literary concordance requires the subjonctif plus-que-parfait of comprendre: « qu'il l'eût comprise ». Note the circumflex on the auxiliary « eût » (subjunctive vs. indicative « eut »), and that the past participle « comprise » agrees with the preceding direct object « l' » (= la règle, feminine singular)."
+    },
+    {
+      "text": "Le capitaine fit creuser une tranchée pour que la troupe {1} se mettre à l'abri.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « pour que », postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » triggers the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « fit » is in the past and the purpose is posterior, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'elle pût » — the circumflex on « pût » distinguishes the subjunctive from the passé simple « put »."
+    },
+    {
+      "text": "Quoiqu'il {1} le danger, le jeune lieutenant s'élança le premier vers la brèche.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connut",
+            "connût"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (connût), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (concessive) always governs the subjunctive, so the indicatif is excluded: « connaissait » (imparfait de l'indicatif) and « connut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « s'élança » is in the past and the concessive knowledge is simultaneous, so literary concordance requires the subjonctif imparfait of connaître: « qu'il connût » — built on the passé simple stem « connu- », with the circumflex of the -ût ending (the infinitive circumflex of « connaître » belongs only to forms before -t, not here)."
+    },
+    {
+      "text": "Quoiqu'elle {1} l'espagnol couramment, elle préféra s'adresser à eux en français.",
+      "blanks": [
+        {
+          "answer": "parlât",
+          "options": [
+            "parla",
+            "parlât",
+            "parlait"
+          ],
+          "hint": "subjonctif imparfait de « parler » (-ât), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « parla » (passé simple de l'indicatif) and « parlait » (imparfait de l'indicatif) are both impossible after this concessive trigger. The main verb « préféra » is in the past and the state is simultaneous, so literary concordance requires the subjonctif imparfait of parler: « qu'elle parlât » — note the circumflex on the -ât ending."
+    },
+    {
+      "text": "Le maître attendit longtemps sans qu'aucun élève ne {1} à répondre à la question.",
+      "blanks": [
+        {
+          "answer": "parvînt",
+          "options": [
+            "parvint",
+            "parvenait",
+            "parvînt"
+          ],
+          "hint": "subjonctif imparfait de « parvenir » (-înt, avec circonflexe), après « sans que »"
+        }
+      ],
+      "explanation": "« sans que » triggers the subjunctive, so the indicatif is impossible: « parvint » (passé simple de l'indicatif, no circumflex) and « parvenait » (imparfait de l'indicatif) are both excluded. The main verb « attendit » is in the past and the action is simultaneous, so literary concordance calls for the subjonctif imparfait of parvenir: « qu'il parvînt » — the circumflex on « parvînt » distinguishes it from the indicative « parvint »."
+    },
+    {
+      "text": "Le vieux roi souhaitait que ses fils {1} enfin leurs querelles avant sa mort.",
+      "blanks": [
+        {
+          "answer": "vidassent",
+          "options": [
+            "vidèrent",
+            "vidaient",
+            "vidassent"
+          ],
+          "hint": "subjonctif imparfait de « vider » (-assent), 3e pers. plur., après « souhaiter que »"
+        }
+      ],
+      "explanation": "« souhaiter que » governs the subjunctive, so the indicatif forms are excluded: « vidèrent » (passé simple de l'indicatif) and « vidaient » (imparfait de l'indicatif) cannot follow this verb of wish. The main verb « souhaitait » is in the past (imparfait) and the settling is posterior, so literary concordance requires the subjonctif imparfait of vider, 3rd plural in -assent: « qu'ils vidassent »."
+    },
+    {
+      "text": "Il eût fallu que le messager {1} avant que la nouvelle ne se répandît dans la ville.",
+      "blanks": [
+        {
+          "answer": "fût parti",
+          "options": [
+            "était parti",
+            "fut parti",
+            "fût parti"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, après « il eût fallu que »"
+        }
+      ],
+      "explanation": "« il eût fallu que » imposes the subjunctive, so the indicatif is excluded: « était parti » (plus-que-parfait de l'indicatif) and « fut parti » (passé antérieur de l'indicatif, no circumflex) are both wrong. The departure is ANTERIOR to the past reference, so strict concordance after the conditionnel passé « eût fallu » requires the subjonctif plus-que-parfait of partir with être: « qu'il fût parti » — note the circumflex on the auxiliary « fût » and the agreement of « parti » with the masculine subject."
+    },
+    {
+      "text": "Le maître exigea que chaque élève {1} le poème avant la fin de la semaine.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, sans accent) are ungrammatical after this trigger. The main verb « exigea » is a past tense and the action is posterior, so literary concordance requires the subjonctif imparfait of « savoir »: « qu'il sût » — the circumflex distinguishes it from the passé simple « sut »."
+    },
+    {
+      "text": "Je doutai fort que ces promesses {1} un jour tenues.",
+      "blanks": [
+        {
+          "answer": "fussent",
+          "options": [
+            "seraient",
+            "furent",
+            "fussent"
+          ],
+          "hint": "subjonctif imparfait de « être » (fussent), 3e pers. plur. (-ussent), après « douter que »"
+        }
+      ],
+      "explanation": "« douter que » triggers the subjunctive, so the conditionnel « seraient » and the passé simple de l'indicatif « furent » are both excluded. The main verb « doutai » is in the past, so literary concordance calls for the subjonctif imparfait of « être »: « qu'elles fussent tenues » — the 3rd plural ending is -ussent for être."
+    },
+    {
+      "text": "Elle craignait qu'il n'{1} déjà tout dépensé avant leur arrivée.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « craindre que »"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) cannot follow. The spending is ANTERIOR to the past reference, so strict concordance after the past « craignait » requires the subjonctif plus-que-parfait « qu'il eût dépensé » — the circumflex on the auxiliary « eût » marks the subjunctive."
+    },
+    {
+      "text": "Quoiqu'elle {1} de toutes ses forces, la barque dérivait toujours vers les récifs.",
+      "blanks": [
+        {
+          "answer": "ramât",
+          "options": [
+            "ramait",
+            "rama",
+            "ramât"
+          ],
+          "hint": "subjonctif imparfait (-ât), 3e pers. sing., après « quoique », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « ramait » (imparfait de l'indicatif) and « rama » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main clause is in the past (« dérivait ») and the concessive action is simultaneous, so literary concordance requires the subjonctif imparfait of the -ER verb « ramer »: « qu'elle ramât » (3rd singular ending -ât)."
+    },
+    {
+      "text": "Le roi voulut que son messager {1} sur-le-champ annoncer la nouvelle à la cour.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que », principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so both indicatif options are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this verb of volition. The main verb « voulut » is in the past and the coming is posterior to the wish, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — the circumflex on « vînt » is what distinguishes the subjunctive from the passé simple indicative « vint »."
+    },
+    {
+      "text": "Quoiqu'il {1} déjà la vérité tout entière, le juge feignit l'ignorance.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are impossible: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this concessive conjunction. The main verb « feignit » is in the past and the knowing is simultaneous, so strict concordance calls for the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "Il quitta la salle sans que personne {1} garde à son départ discret.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « sans que », principal au passé simple"
+        }
+      ],
+      "explanation": "« sans que » always requires the subjunctive, so the indicatif options are excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « quitta » is in the past and the action is simultaneous, so literary concordance gives the subjonctif imparfait of prendre: « que personne ne prît garde » — the circumflex on « prît » distinguishes the subjunctive from the passé simple indicative « prit »."
+    },
+    {
+      "text": "Le roi voulut que son ambassadeur {1} sans tarder pour négocier la paix.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « voulut » is in the past and the coming is posterior to the wish, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Quoiqu'il {1} la vérité depuis longtemps, il n'en souffla jamais un mot.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "sût",
+            "savait",
+            "sut"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « souffla » is in the past and the knowing is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "Elle ferma soigneusement les volets pour que nul ne {1} apercevoir la lueur de la bougie.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « pour que » au passé simple"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « ferma » is in the past and the purpose is posterior, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Quoique la tempête {1} de violence, les marins refusèrent de rentrer au port.",
+      "blanks": [
+        {
+          "answer": "redoublât",
+          "options": [
+            "redoublait",
+            "redoublât",
+            "redoubla"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « quoique », principal au passé simple, simultanéité"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif is excluded: « redoublait » (imparfait de l'indicatif) and « redoubla » (passé simple de l'indicatif) are both ungrammatical after this concessive conjunction. The main verb « refusèrent » is in the past and the storm's intensifying is simultaneous with it, so literary concordance requires the subjonctif imparfait « qu'elle redoublât » — note the circumflex on the ending -ât."
+    },
+    {
+      "text": "Le vieux marin regrettait amèrement que son fils {1} sans lui faire ses adieux.",
+      "blanks": [
+        {
+          "answer": "fût parti",
+          "options": [
+            "fût parti",
+            "était parti",
+            "fut parti"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, verbe de mouvement, après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » triggers the subjunctive, so the indicatif compound tenses are excluded: « était parti » (plus-que-parfait de l'indicatif) and « fut parti » (passé antérieur de l'indicatif) cannot follow this trigger. The departure is ANTERIOR to the past reference « regrettait », and since « partir » takes être, strict concordance requires the subjonctif plus-que-parfait « qu'il fût parti » — the circumflex on « fût » distinguishes the subjunctive auxiliary from the indicative « fut »."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} son frêle esquif avant l'aube.",
+      "blanks": [
+        {
+          "answer": "engloutît",
+          "options": [
+            "engloutissait",
+            "engloutit",
+            "engloutît"
+          ],
+          "hint": "subjonctif imparfait (-ît, avec circonflexe), après un verbe de crainte au passé (« craignait que … ne »)"
+        }
+      ],
+      "explanation": "« craindre que » is a verb of fear that governs the subjunctive (here with the « ne » explétif), so the indicatif forms are excluded: « engloutissait » (imparfait de l'indicatif) and « engloutit » (passé simple de l'indicatif, sans accent) are both ungrammatical after this trigger. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance requires the subjonctif imparfait « qu'elle engloutît » — note the distinguishing circumflex on « engloutît », which separates it from the identical-looking passé simple « engloutit »."
+    },
+    {
+      "text": "Ce fut le seul officier qui {1} jamais tenir tête au vieux maréchal.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « le seul … qui », principal au passé simple"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » (an exclusive/quasi-superlative antecedent) takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « fut » is in the past and the ability is presented as general/simultaneous, so literary concordance calls for the subjonctif imparfait of pouvoir: « qui pût » — note the circumflex on « pût », which distinguishes the subjunctive from the indicative passé simple « put »."
+    },
+    {
+      "text": "Le fugitif avançait à pas de loup, de peur que la sentinelle ne le {1} au détour du sentier.",
+      "blanks": [
+        {
+          "answer": "surprît",
+          "options": [
+            "surprenait",
+            "surprit",
+            "surprît"
+          ],
+          "hint": "subjonctif imparfait de « surprendre » (-ît, circonflexe), 3e pers. sing., après « de peur que »"
+        }
+      ],
+      "explanation": "« de peur que » always governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « surprenait » (imparfait de l'indicatif) and « surprit » (passé simple de l'indicatif, without circumflex) are both excluded by the trigger. The main verb « avançait » is a past (imparfait), and the feared event is posterior, so literary concordance requires the subjonctif imparfait of « surprendre »: « qu'il surprît » — the circumflex on « surprît » is precisely what distinguishes it from the passé simple « surprit »."
+    },
+    {
+      "text": "L'orateur simplifia longuement son propos pour que même les plus jeunes le {1} sans peine.",
+      "blanks": [
+        {
+          "answer": "comprissent",
+          "options": [
+            "comprenaient",
+            "comprissent",
+            "comprirent"
+          ],
+          "hint": "subjonctif imparfait de « comprendre » (-issent), 3e pers. plur., après « pour que »"
+        }
+      ],
+      "explanation": "« pour que » (final clause) always calls for the subjunctive, so the indicatif is excluded: « comprenaient » (imparfait de l'indicatif) and « comprirent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « simplifia » is in the passé simple and the understanding is posterior to it, so strict concordance gives the subjonctif imparfait 3rd plural of « comprendre »: « qu'ils comprissent » — the ending « -issent » marks the subjunctive against the passé simple « comprirent »."
+    },
+    {
+      "text": "Quoiqu'il ne {1} déchiffrer l'inscription gravée sur la stèle, l'archéologue en devina peu à peu le sens.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pût",
+            "pouvait",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » is a concessive conjunction that always governs the subjunctive, so no indicatif is admissible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans circonflexe) are both excluded by the trigger. The main verb « devina » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the distinguishing circumflex on « pût », which alone separates it from the indicative « put »."
+    },
+    {
+      "text": "Elle baissa la voix de peur que les domestiques n'{1} son secret et ne le colportassent.",
+      "blanks": [
+        {
+          "answer": "apprissent",
+          "options": [
+            "apprissent",
+            "apprenaient",
+            "apprirent"
+          ],
+          "hint": "subjonctif imparfait de « apprendre » (apprissent), 3e pers. plur., après « de peur que » avec « ne » explétif"
+        }
+      ],
+      "explanation": "« de peur que » expresses a feared, hence unrealized, outcome and governs the subjunctive, accompanied here by the « ne » explétif (which is not a negation). Any indicatif is therefore impossible: « apprenaient » (imparfait de l'indicatif) and « apprirent » (passé simple de l'indicatif) cannot follow this locution. The main verb « baissa » is a past and the dreaded action is posterior, so strict concordance gives the subjonctif imparfait, 3rd plural « qu'ils apprissent »."
+    },
+    {
+      "text": "Ce fut le seul explorateur qui {1} jamais revenu vivant de cette contrée maudite.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fût",
+            "fut"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antécédent restrictif « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on a restrictive antecedent such as « le seul … qui » (like « l'unique », « le premier », « le dernier ») takes the subjunctive, so the indicatif is excluded: « était revenu » (plus-que-parfait de l'indicatif) and « fut revenu » (passé antérieur de l'indicatif) are both ungrammatical here. The return is anterior to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qui fût revenu » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Le roi voulut qu'il {1} sur-le-champ défendre sa cause devant la cour.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vînt",
+            "vint"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » gouverne le subjonctif : les formes de l'indicatif sont donc exclues — « venait » est l'imparfait de l'indicatif et « vint » le passé simple de l'indicatif (sans circonflexe), tous deux impossibles après ce déclencheur. Le verbe principal « voulut » est au passé et l'action est postérieure, si bien que la concordance littéraire impose le subjonctif imparfait « qu'il vînt » ; le circonflexe le distingue de l'indicatif « vint »."
+    },
+    {
+      "text": "La mère craignit que l'enfant ne {1} de sa fièvre avant le lever du jour.",
+      "blanks": [
+        {
+          "answer": "mourût",
+          "options": [
+            "mourût",
+            "mourait",
+            "mourut"
+          ],
+          "hint": "subjonctif imparfait de « mourir » (mourût, -ût), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » (ici avec le « ne » explétif) déclenche le subjonctif : l'indicatif est donc proscrit — « mourait » est l'imparfait de l'indicatif et « mourut » le passé simple de l'indicatif (sans circonflexe), l'un et l'autre fautifs après ce verbe de crainte. Le principal « craignit » est au passé et le procès redouté lui est postérieur, d'où le subjonctif imparfait « qu'il mourût » ; le circonflexe l'oppose à l'indicatif « mourut »."
+    },
+    {
+      "text": "Le maître répéta la leçon pour que tous les élèves la {1} par cœur.",
+      "blanks": [
+        {
+          "answer": "connussent",
+          "options": [
+            "connaissaient",
+            "connurent",
+            "connussent"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (connussent, -ussent), 3e pers. plur., après « pour que »"
+        }
+      ],
+      "explanation": "« pour que » régit toujours le subjonctif : les formes de l'indicatif sont donc écartées — « connaissaient » est l'imparfait de l'indicatif et « connurent » le passé simple de l'indicatif, tous deux inacceptables après ce déclencheur de but. Le principal « répéta » est au passé et le but est postérieur, ce qui appelle le subjonctif imparfait 3e personne du pluriel « qu'ils connussent » (radical du passé simple « connu- », terminaison -ussent)."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} sa barque avant l'aube.",
+      "blanks": [
+        {
+          "answer": "emportât",
+          "options": [
+            "emportait",
+            "emportât",
+            "emporta"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « craindre que … ne », verbe régulier en -er"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif forms are impossible: « emportait » (imparfait de l'indicatif) and « emporta » (passé simple de l'indicatif) cannot follow this trigger. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance requires the subjonctif imparfait of the -ER verb emporter: « qu'elle emportât » — the circumflex on the -ât ending marks the subjunctive against the identical-looking passé simple « emporta »."
+    },
+    {
+      "text": "Elle attendit sur le quai jusqu'à ce que le train {1} enfin en gare.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vînt",
+            "vint"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « jusqu'à ce que »"
+        }
+      ],
+      "explanation": "« jusqu'à ce que » always governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « attendit » is in the past and the arrival is posterior, so strict concordance calls for the subjonctif imparfait of venir: « qu'il vînt » — note the circumflex, which is the only thing distinguishing the subjunctive « vînt » from the passé simple de l'indicatif « vint »."
+    },
+    {
+      "text": "Le vieux maître répéta la fable à voix haute afin que chaque élève la {1} par cœur.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût), après « afin que », principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » (like « pour que ») expresses purpose and always governs the subjunctive, so any indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « répéta » is in the past and the intended result is posterior, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which distinguishes it from the indicative passé simple « sut »."
+    },
+    {
+      "text": "C'était le seul conseiller qui {1} apaiser la colère du roi.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût), relative après « le seul », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on an exclusive antecedent like « le seul » takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both wrong. The main verb « était » is in the past, so strict literary concordance calls for the subjonctif imparfait of pouvoir: « qui pût » — the circumflex on « pût » marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Quoique la tempête {1} de violence, les marins poursuivirent vaillamment leur route.",
+      "blanks": [
+        {
+          "answer": "redoublât",
+          "options": [
+            "redoublait",
+            "redoublât",
+            "redoubla"
+          ],
+          "hint": "subjonctif imparfait (-ât) de « redoubler », après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (comme « bien que ») gouverne toujours le subjonctif : les formes indicatives sont donc exclues, « redoublait » (imparfait de l'indicatif) et « redoubla » (passé simple de l'indicatif, sans accent). Le verbe principal « poursuivirent » est au passé et l'action concessive est simultanée, d'où le subjonctif imparfait « qu'elle redoublât » — l'accent circonflexe sur le -a distingue la forme subjonctive de l'indicatif « redoubla »."
+    },
+    {
+      "text": "Le maître répéta patiemment sa démonstration pour que chaque élève la {1} sans peine.",
+      "blanks": [
+        {
+          "answer": "comprît",
+          "options": [
+            "comprenait",
+            "comprît",
+            "comprit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « comprendre », après « pour que », postériorité"
+        }
+      ],
+      "explanation": "« pour que » (but) déclenche le subjonctif : l'indicatif est impossible, « comprenait » (imparfait de l'indicatif) et « comprit » (passé simple de l'indicatif, sans circonflexe) sont fautifs après ce déclencheur. Le principal « répéta » est au passé et la compréhension est postérieure au but visé, donc la concordance littéraire impose le subjonctif imparfait « qu'il comprît » — le circonflexe le distingue de l'indicatif « comprit »."
+    },
+    {
+      "text": "Le veilleur attendit sur le rempart jusqu'à ce que le dernier convive {1} du château.",
+      "blanks": [
+        {
+          "answer": "sortît",
+          "options": [
+            "sortait",
+            "sortît",
+            "sortit"
+          ],
+          "hint": "subjonctif imparfait (-ît) de « sortir », après « jusqu'à ce que », postériorité"
+        }
+      ],
+      "explanation": "« jusqu'à ce que » régit le subjonctif : les formes de l'indicatif sont exclues, « sortait » (imparfait de l'indicatif) et « sortit » (passé simple de l'indicatif, sans circonflexe). Le verbe principal « attendit » est au passé et la sortie est postérieure à l'attente, si bien que la concordance des temps littéraire réclame le subjonctif imparfait « qu'il sortît » — l'accent circonflexe le sépare de l'indicatif homographe « sortit »."
+    },
+    {
+      "text": "Ce fut le seul juré qui {1} vraiment saisi toute la portée du témoignage.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), tour « le seul … qui », antériorité"
+        }
+      ],
+      "explanation": "Après « le seul … qui » (comme après un superlatif), la relative se met au subjonctif : l'indicatif est donc exclu, « avait » (plus-que-parfait de l'indicatif) et « eut » (passé antérieur de l'indicatif, sans circonflexe). La compréhension est antérieure à la référence passée « ce fut », d'où le subjonctif plus-que-parfait « qui eût saisi » — le circonflexe sur l'auxiliaire « eût » marque le subjonctif face à l'indicatif « eut »."
+    },
+    {
+      "text": "Le conseil décida de suspendre le procès, à moins que l'accusé ne {1} fournir de nouvelles preuves avant le soir.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « à moins que » (+ ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » always governs the subjunctive (here reinforced by the « ne » explétif), so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « décida » is in the past and the condition is posterior to it, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes the subjunctive « pût » from the indicative « put »."
+    },
+    {
+      "text": "L'hôte fit servir le vin le plus rare afin que chaque invité en {1} une coupe avant le toast.",
+      "blanks": [
+        {
+          "answer": "reçût",
+          "options": [
+            "recevait",
+            "reçut",
+            "reçût"
+          ],
+          "hint": "subjonctif imparfait de « recevoir » (reçût, avec circonflexe), après « afin que », postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » expresses purpose and always takes the subjunctive, so the indicatif is impossible: « recevait » (imparfait de l'indicatif) and « reçut » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « fit servir » is in the past and the receiving is posterior to it, so strict concordance calls for the subjonctif imparfait of recevoir: « qu'il reçût » — note the circumflex on « reçût », which separates it from the indicative « reçut »."
+    },
+    {
+      "text": "Quoiqu'il {1} parti bien avant l'aurore, les gardes retrouvèrent aisément sa trace dans la neige.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait de « partir » (fût + participe), antériorité, après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » (concessive) always governs the subjunctive, so the indicatif forms are excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The departure is ANTERIOR to the past reference « retrouvèrent », so literary concordance requires the subjonctif plus-que-parfait built with the auxiliary être: « qu'il fût parti » — the circumflex on the auxiliary « fût » marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Le vieux roi partagea son royaume pour que chacun de ses fils en {1} une part égale.",
+      "blanks": [
+        {
+          "answer": "reçût",
+          "options": [
+            "recevait",
+            "reçut",
+            "reçût"
+          ],
+          "hint": "subjonctif imparfait de « recevoir » (reçût, -ût avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (proposition de but) always governs the subjunctive, so the indicatif forms are excluded: « recevait » (imparfait de l'indicatif) and « reçut » (passé simple de l'indicatif, no circumflex) are both impossible after this trigger. The main verb « partagea » is in the past (passé simple) and the receiving is posterior to the sharing, so strict literary concordance calls for the subjonctif imparfait of recevoir: « qu'il en reçût une part » — the distinguishing circumflex on « reçût » marks the subjunctive against the passé simple de l'indicatif « reçut »."
+    },
+    {
+      "text": "Le capitaine craignit que la mutinerie n'{1} avant l'arrivée des renforts.",
+      "blanks": [
+        {
+          "answer": "éclatât",
+          "options": [
+            "éclatât",
+            "éclatait",
+            "éclata"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « craindre que … ne » (ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "A verb of fear, « craindre que », triggers the subjunctive (here with the « ne » explétif that follows verbs of fearing), so the indicatif is ruled out: « éclatait » (imparfait de l'indicatif) and « éclata » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « craignit » is in the past and the feared mutiny is posterior, so literary concordance requires the subjonctif imparfait « qu'elle éclatât » — note the distinctive circumflex on « éclatât », which alone separates it from the passé simple de l'indicatif « éclata »."
+    },
+    {
+      "text": "Le maître alluma toutes les lampes afin que chacun {1} lire à son aise.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « afin que », principal au passé simple"
+        }
+      ],
+      "explanation": "« afin que » (like « pour que ») expresses purpose and always governs the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by the trigger. The main verb « alluma » is in the past (passé simple) and the purpose is posterior to it, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the distinguishing circumflex on « pût », which alone separates the subjunctive from the indicative « put »."
+    },
+    {
+      "text": "Les conjurés quittèrent la salle sans que les gardes s'en {1}.",
+      "blanks": [
+        {
+          "answer": "aperçussent",
+          "options": [
+            "apercevaient",
+            "aperçussent",
+            "aperçurent"
+          ],
+          "hint": "subjonctif imparfait de « (s')apercevoir » (-ussent), 3e pers. plur., après « sans que », principal au passé simple"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive, so the indicatif forms are excluded: « apercevaient » (imparfait de l'indicatif) and « aperçurent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « quittèrent » is in the past and the (non-)perception is simultaneous with the leaving, so literary concordance calls for the subjonctif imparfait of apercevoir, 3rd person plural: « qu'ils s'en aperçussent » — built on the passé simple stem « aperçu- » with the ending « -ssent » (compare the indicative passé simple « aperçurent »)."
+    },
+    {
+      "text": "Le juge différa sa sentence, à moins que le messager ne {1} déjà remis la grâce du roi.",
+      "blanks": [
+        {
+          "answer": "eût remis",
+          "options": [
+            "avait remis",
+            "eût remis",
+            "eut remis"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, 3e pers. sing., après « à moins que » (+ ne explétif)"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif, as with « avant que »), so the indicatif is excluded: « avait remis » (plus-que-parfait de l'indicatif) and « eut remis » (passé antérieur de l'indicatif, no circumflex on « eut ») are both ungrammatical after this trigger. The delivery is ANTERIOR to the past main verb « différa », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût remis » — the circumflex on the auxiliary « eût » is what distinguishes the subjunctive from the indicative « eut »."
+    },
+    {
+      "text": "Le précepteur voulut que son jeune élève {1} par cœur toute la tirade avant le lever du jour.",
+      "blanks": [
+        {
+          "answer": "apprît",
+          "options": [
+            "apprenait",
+            "apprît",
+            "apprit"
+          ],
+          "hint": "subjonctif imparfait (-ît, avec circonflexe), 3e pers. sing., après « vouloir que » au passé simple ; postériorité"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so the indicatif forms are excluded: « apprenait » (imparfait de l'indicatif) and « apprit » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this trigger. The main verb « voulut » is in the passé simple and the learning is POSTERIOR to the wish, so literary concordance requires the subjonctif imparfait of « apprendre »: « qu'il apprît » — note the circumflex on « apprît », which distinguishes it from the indicative passé simple « apprit »."
+    },
+    {
+      "text": "Elle regretta que son frère {1} parti sans lui avoir laissé le moindre mot.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » governs the subjunctive, so the indicatif compound forms are excluded: the auxiliary « était » (→ plus-que-parfait de l'indicatif « était parti ») and « fut » (→ passé antérieur « fut parti ») cannot follow this trigger. The departure is ANTERIOR to the past reference « regretta », so strict literary concordance requires the subjonctif plus-que-parfait of « partir »: « qu'il fût parti » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Le vieux maître répéta la leçon afin que chaque élève la {1} par cœur avant le soir.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « afin que », postériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« afin que » expresses purpose and always governs the subjunctive, so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « répéta » is in the past and the goal (knowing the lesson) is POSTERIOR to it, so literary concordance calls for the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », which distinguishes the subjunctive from the passé simple « sut »."
+    },
+    {
+      "text": "Quoiqu'il {1} tout prévu de longue main, le stratège fut surpris par l'assaut nocturne.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « quoique », 3e pers. sing."
+        }
+      ],
+      "explanation": "« quoique » is concessive and always governs the subjunctive, so the indicatif is excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, no circumflex) cannot follow this trigger. The planning is ANTERIOR to the past reference « fut surpris », so strict concordance after a past main verb requires the subjonctif plus-que-parfait « qu'il eût prévu » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître répétait la leçon pour que chaque élève la {1} par cœur.",
+      "blanks": [
+        {
+          "answer": "retînt",
+          "options": [
+            "retenait",
+            "retint",
+            "retînt"
+          ],
+          "hint": "subjonctif imparfait de « retenir » (-înt), 3e pers. sing., après « pour que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive, so any indicatif is excluded: « retenait » (imparfait de l'indicatif) and « retint » (passé simple de l'indicatif, sans accent circonflexe) cannot follow this trigger. The main verb « répétait » is a past tense and the memorising is simultaneous/posterior to it, so literary concordance requires the subjonctif imparfait of « retenir »: « qu'il retînt » — the circumflex on « retînt » is precisely what distinguishes the subjunctive from the indicative « retint »."
+    },
+    {
+      "text": "Quoiqu'il {1} tout prévu, le vieux stratège fut surpris par la contre-attaque.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, dont l'auxiliaire « eut » ne porte pas de circonflexe) are both ungrammatical after this concessive trigger. The foreseeing is ANTERIOR to the past reference « fut surpris », so strict concordance calls for the subjonctif plus-que-parfait « qu'il eût prévu » — note the distinguishing circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi voulait que son fils {1} avec sagesse après lui.",
+      "blanks": [
+        {
+          "answer": "régnât",
+          "options": [
+            "régnait",
+            "régna",
+            "régnât"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « vouloir que » au passé"
+        }
+      ],
+      "explanation": "« vouloir que » always governs the subjunctive, so the indicatif forms are excluded: « régnait » (imparfait de l'indicatif) and « régna » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulait » is in the past and the reign is posterior to it, so literary concordance requires the subjonctif imparfait of the -ER verb « régner »: « qu'il régnât » — built on the passé simple stem, 3e pers. sing. ending -ât."
+    },
+    {
+      "text": "Le maître d'armes exigeait que son jeune élève lui {1} sans jamais discuter.",
+      "blanks": [
+        {
+          "answer": "obéît",
+          "options": [
+            "obéissait",
+            "obéit",
+            "obéît"
+          ],
+          "hint": "subjonctif imparfait d'un verbe du 2e groupe (-ît), après « exiger que »"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif is impossible: « obéissait » (imparfait de l'indicatif) and « obéit » (passé simple / présent de l'indicatif, without circumflex) are both wrong after this trigger. The main verb « exigeait » is in the past and the action is simultaneous, so concordance calls for the subjonctif imparfait of the 2nd-group verb « obéir »: « qu'il obéît » — the circumflex distinguishes it from the indicative « obéit »."
+    },
+    {
+      "text": "Il aurait fallu qu'il {1} deviner leurs intentions pour déjouer le complot.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (-ût), après « il aurait fallu que »"
+        }
+      ],
+      "explanation": "« il aurait fallu que » (conditionnel passé) governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow the trigger. After a past/conditional main verb, a simultaneous action takes the subjonctif imparfait of « pouvoir »: « qu'il pût » — 3e pers. sing. of the « -u » family, marked by the circumflex against the indicative « put »."
+    },
+    {
+      "text": "Il regrettait qu'elle {1} sans lui avoir dit adieu.",
+      "blanks": [
+        {
+          "answer": "fût partie",
+          "options": [
+            "était partie",
+            "fut partie",
+            "fût partie"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, sujet féminin singulier"
+        }
+      ],
+      "explanation": "« regretter que » takes the subjunctive, so the indicatif forms are excluded: « était partie » (plus-que-parfait de l'indicatif) and « fut partie » (passé antérieur de l'indicatif) are both ungrammatical after this trigger. Her leaving is ANTERIOR to the past reference « regrettait », so strict concordance requires the subjonctif plus-que-parfait « qu'elle fût partie » — « partir » takes être, so the participle agrees with the feminine subject (« partie »), and the circumflex on « fût » marks the subjunctive."
+    },
+    {
+      "text": "Le maître voulut que le jeune élève {1} sa leçon sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » triggers the subjunctive, so any indicatif is excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « voulut » is a passé simple (past) and the recitation is simultaneous, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât », built on the passé simple stem with the ending -ât."
+    },
+    {
+      "text": "Les anciens statuts exigeaient que tous les membres {1} à main levée.",
+      "blanks": [
+        {
+          "answer": "votassent",
+          "options": [
+            "votaient",
+            "votassent",
+            "votèrent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « exiger que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so the indicatif forms are excluded: « votaient » (imparfait de l'indicatif) and « votèrent » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « exigeaient » is in the past, so the -ER verb « voter » takes the subjonctif imparfait 3rd plural « qu'ils votassent » — ending in -assent, built on the passé simple stem."
+    },
+    {
+      "text": "Quoiqu'il {1} à contrecœur, le jeune lieutenant obéit sans un mot.",
+      "blanks": [
+        {
+          "answer": "partît",
+          "options": [
+            "partait",
+            "partît",
+            "partit"
+          ],
+          "hint": "subjonctif imparfait de « partir » (-ît, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif is impossible: « partait » (imparfait de l'indicatif) and « partit » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « obéit » is in the past and the concession is simultaneous, so literary concordance requires the subjonctif imparfait « qu'il partît » — the circumflex distinguishes it from the indicative « partit »."
+    },
+    {
+      "text": "Le capitaine craignait que la tempête n'{1} déjà emporté les dernières provisions.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eût",
+            "eut"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « craindre que » avec « ne » explétif, antériorité"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive (here with the « ne » explétif), so the indicatif auxiliary is excluded: « avait » (imparfait de l'indicatif) and « eut » (passé simple de l'indicatif, sans circonflexe) cannot follow it. The feared event is ANTERIOR to the past reference « craignait », so strict concordance requires the subjonctif plus-que-parfait « qu'elle eût emporté » — note the circumflex on « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi souhaita qu'un messager {1} sur-le-champ annoncer la victoire aux provinces.",
+      "blanks": [
+        {
+          "answer": "allât",
+          "options": [
+            "allait",
+            "alla",
+            "allât"
+          ],
+          "hint": "subjonctif imparfait d'« aller » (-ât), 3e pers. sing., après un principal au passé simple"
+        }
+      ],
+      "explanation": "« souhaiter que » triggers the subjunctive, so the indicatif forms are excluded: « allait » (imparfait de l'indicatif) and « alla » (passé simple de l'indicatif) cannot follow this trigger. The main verb « souhaita » is in the past and the departure is posterior to the wish, so literary concordance requires the subjonctif imparfait of aller: « qu'il allât » — the circumflex on « allât » distinguishes it from the indicative « alla »."
+    },
+    {
+      "text": "Le vieux marin craignait que la tempête ne {1} fondre sur eux avant l'aube.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), après « craindre que » + ne explétif"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif is impossible: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « craignait » is a past tense and the feared event is posterior, so strict concordance calls for the subjonctif imparfait of venir: « qu'elle vînt » — the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Le roi exigea que ses ministres {1} toute la nuit avant de rendre leur verdict.",
+      "blanks": [
+        {
+          "answer": "délibérassent",
+          "options": [
+            "délibéraient",
+            "délibérèrent",
+            "délibérassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « délibéraient » (imparfait de l'indicatif) and « délibérèrent » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past and the deliberation is posterior to the demand, so literary concordance requires the subjonctif imparfait of the -ER verb « délibérer », whose 3e personne du pluriel ends in -assent: « qu'ils délibérassent »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine se tenir debout, le vieux marin voulut hisser lui-même la voile.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so both indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans accent circonflexe) are excluded by the trigger. The main verb « voulut » is in the past and the concessive state is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » is exactly what distinguishes the subjunctive from the indicative « put »."
+    },
+    {
+      "text": "Le vieux maître alluma un grand feu pour que ses disciples {1} l'écouter jusqu'à l'aube.",
+      "blanks": [
+        {
+          "answer": "vinssent",
+          "options": [
+            "vinssent",
+            "venaient",
+            "vinrent"
+          ],
+          "hint": "subjonctif imparfait de « venir » (-inssent), 3e pers. plur., après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (a purpose clause) always governs the subjunctive, so the indicatif forms are excluded: « venaient » (imparfait de l'indicatif) and « vinrent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « alluma » is in the past and the coming is POSTERIOR to it (the aim of the fire), so literary concordance requires the subjonctif imparfait of venir: « qu'ils vinssent » — note the double « ss » that distinguishes it from the indicative « vinrent »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine tenir debout, le blessé poursuivit sa route vers le fort.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "pût",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans accent circonflexe) are both excluded by the trigger. The main verb « poursuivit » is in the past and the concessive state is simultaneous, so literary concordance gives the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes the subjunctive from the indicative « put »."
+    },
+    {
+      "text": "Le juge tint l'affaire pour perdue, à moins que le vieux notaire n'en {1} plus long.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), 3e pers. sing., après « à moins que » (avec « ne » explétif)"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « tint » is in the past and the state is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » (« en savoir plus long ») — the circumflex on « sût » marks the subjunctive against the indicative « sut »."
+    },
+    {
+      "text": "De tous ses maîtres, il n'y eut personne qui {1} vraiment deviné son génie.",
+      "blanks": [
+        {
+          "answer": "eût deviné",
+          "options": [
+            "avait deviné",
+            "eût deviné",
+            "eut deviné"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après un antécédent négatif « il n'y eut personne qui », antériorité"
+        }
+      ],
+      "explanation": "A relative clause depending on a NEGATIVE antecedent (« il n'y eut personne qui ») requires the subjunctive, so the indicatif is genuinely excluded: « avait deviné » (plus-que-parfait de l'indicatif) and « eut deviné » (passé antérieur de l'indicatif, no circumflex) are both wrong. The discerning of his genius is ANTERIOR to the past reference « il n'y eut », so strict concordance requires the subjonctif plus-que-parfait « qu'il eût deviné » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Nul n'aurait ouvert la porte à moins que le messager ne {1} de la part du roi.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « à moins que … ne »"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main clause « aurait ouvert » is a past/conditional reference and the coming is posterior to it, so literary concordance requires the subjonctif imparfait of venir: « qu'il vînt » — note the circumflex on « vînt », which distinguishes it from the passé simple « vint »."
+    },
+    {
+      "text": "Le vieux savant cacha ses notes afin que nul ne les {1} jamais déchiffrer.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « afin que »"
+        }
+      ],
+      "explanation": "« afin que » always governs the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded by this purpose conjunction. The main verb « cacha » is in the passé simple and the purpose is posterior, so strict concordance calls for the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » marks the subjunctive against the passé simple « put »."
+    },
+    {
+      "text": "Ce fut le seul soldat qui {1} jamais franchi seul les lignes ennemies.",
+      "blanks": [
+        {
+          "answer": "eût franchi",
+          "options": [
+            "avait franchi",
+            "eut franchi",
+            "eût franchi"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « le seul … qui »"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « avait franchi » (plus-que-parfait de l'indicatif) and « eut franchi » (passé antérieur de l'indicatif, no circumflex) are both wrong after this trigger. The crossing is ANTERIOR to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait « qu'il eût franchi » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le roi craignait que l'ennemi ne {1} la ville avant l'arrivée des renforts.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (with the « ne » explétif, which carries no negative meaning), so the indicatif is excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « craignait » is in the imparfait and the feared event is posterior, so literary concordance requires the subjonctif imparfait of prendre: « qu'il prît » — the circumflex distinguishes « prît » from the passé simple « prit »."
+    },
+    {
+      "text": "Il aurait fallu que chacun {1} son devoir avant de songer au repos.",
+      "blanks": [
+        {
+          "answer": "accomplît",
+          "options": [
+            "accomplissait",
+            "accomplit",
+            "accomplît"
+          ],
+          "hint": "subjonctif imparfait (-ît), 3e pers. sing., après « il aurait fallu que »"
+        }
+      ],
+      "explanation": "« il faut que » governs the subjunctive in every tense, so after the conditionnel passé « il aurait fallu que » the indicatif is impossible: « accomplissait » (imparfait de l'indicatif) and « accomplit » (passé simple de l'indicatif, no circumflex) are both excluded. The action is simultaneous with a past reference, so literary concordance requires the subjonctif imparfait of « accomplir » → « qu'il accomplît », the circumflex distinguishing it from the indicative « accomplit »."
+    },
+    {
+      "text": "On regretta qu'il n'{1} averti personne avant de disparaître.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « regretter que »"
+        }
+      ],
+      "explanation": "« regretter que » triggers the subjunctive, so the indicatif forms are excluded: « avait » (plus-que-parfait de l'indicatif) and « eut » (passé simple de l'indicatif, no circumflex) cannot follow the trigger. The warning is ANTERIOR to the past main verb « regretta », so strict concordance calls for the subjonctif plus-que-parfait « qu'il eût averti » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Quoiqu'il {1} parfaitement les lieux, le braconnier n'osa pas s'aventurer plus loin dans les ténèbres.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connut",
+            "connût"
+          ],
+          "hint": "subjonctif imparfait de « connaître » (-ût), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « connaissait » (imparfait de l'indicatif) and « connut » (passé simple de l'indicatif, no circumflex) cannot follow this concessive conjunction. The main verb « n'osa pas » is in the past and the knowledge is simultaneous, so literary concordance requires the subjonctif imparfait of « connaître »: « qu'il connût » — note the circumflex on « connût », which distinguishes it from the indicative « connut »."
+    },
+    {
+      "text": "La gouvernante verrouilla toutes les issues de peur qu'un rôdeur ne {1} dans le manoir endormi.",
+      "blanks": [
+        {
+          "answer": "pénétrât",
+          "options": [
+            "pénétrait",
+            "pénétra",
+            "pénétrât"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « de peur que » (+ ne explétif), postériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« de peur que » triggers the subjunctive and is accompanied by the « ne » explétif, so the indicatif is impossible: « pénétrait » (imparfait de l'indicatif) and « pénétra » (passé simple de l'indicatif) are both ungrammatical here. The main verb « verrouilla » is in the past and the feared intrusion is posterior to it, so strict concordance calls for the subjonctif imparfait « qu'il pénétrât » — the circumflex distinguishes it from the indicative « pénétra »."
+    },
+    {
+      "text": "L'entreprise tout entière aurait sombré à moins que chaque associé n'y {1} toute son énergie.",
+      "blanks": [
+        {
+          "answer": "mît",
+          "options": [
+            "mettait",
+            "mit",
+            "mît"
+          ],
+          "hint": "subjonctif imparfait de « mettre » (mît), après « à moins que » (+ ne explétif), principal au conditionnel passé"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive and takes the « ne » explétif, so the indicatif forms are excluded: « mettait » (imparfait de l'indicatif) and « mit » (passé simple de l'indicatif) cannot follow it. The main clause is in the conditionnel passé (« aurait sombré »), a tense with past value, so literary concordance requires the subjonctif imparfait of « mettre »: « qu'il mît » — note the circumflex on « mît », absent from the indicative « mit »."
+    },
+    {
+      "text": "Sa mère craignait qu'il n'{1} déjà commis quelque imprudence irréparable.",
+      "blanks": [
+        {
+          "answer": "eût",
+          "options": [
+            "avait",
+            "eut",
+            "eût"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), verbe de crainte au passé, antériorité"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « avait » (plus-que-parfait de l'indicatif) and « eut » (passé antérieur de l'indicatif, no circumflex) are both wrong after this verb of fear. The main verb « craignait » is in the past and the feared act is anterior to it, so strict concordance requires the subjonctif plus-que-parfait « qu'il eût commis » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le maître baissa la voix pour que son secret {1} caché à tous les présents.",
+      "blanks": [
+        {
+          "answer": "demeurât",
+          "options": [
+            "demeurait",
+            "demeura",
+            "demeurât"
+          ],
+          "hint": "subjonctif imparfait (-ât) de « demeurer », après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » always governs the subjunctive, so the indicatif is excluded: « demeurait » (imparfait de l'indicatif) and « demeura » (passé simple de l'indicatif) cannot follow this trigger. The main verb « baissa » is in the past and the purpose clause is posterior to it, so strict literary concordance requires the subjonctif imparfait « qu'il demeurât » — the -ât ending marks the subjunctive in this registre soutenu."
+    },
+    {
+      "text": "Le capitaine craignait que la tempête ne {1} avant que le navire eût atteint le port.",
+      "blanks": [
+        {
+          "answer": "survînt",
+          "options": [
+            "survenait",
+            "survint",
+            "survînt"
+          ],
+          "hint": "subjonctif imparfait (-înt) de « survenir », après « craindre que … ne », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive, here with the « ne » explétif (a stylistic marker, not a negation), so the indicatif is impossible: « survenait » (imparfait de l'indicatif) and « survint » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « craignait » is in the past and the feared event is posterior, so literary concordance calls for the subjonctif imparfait of « survenir » (nasal « vin- » family): « qu'elle survînt » — the circumflex distinguishes it from the indicative « survint »."
+    },
+    {
+      "text": "Le maître de chapelle voulut que tous les enfants {1} d'une seule voix.",
+      "blanks": [
+        {
+          "answer": "chantassent",
+          "options": [
+            "chantaient",
+            "chantèrent",
+            "chantassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après un verbe principal au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so both indicatif forms are excluded: « chantaient » (imparfait de l'indicatif) and « chantèrent » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « voulut » is a past (passé simple) and the singing is simultaneous, so literary concordance demands the subjonctif imparfait; for an -ER verb the 3rd person plural ends in -assent: « qu'ils chantassent »."
+    },
+    {
+      "text": "Le colonel craignit que personne ne {1} déchiffrer le message avant l'aube.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « craindre que … ne »"
+        }
+      ],
+      "explanation": "« craindre que » takes the subjunctive, so the indicatif is impossible: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both excluded. Note that the « ne » here is not the explétif « ne » (which appears with an affirmative subordinate, « je crains qu'il ne vienne ») but the ordinary negation correlated with the negative subject « personne » (personne… ne = « nobody »). The main verb « craignit » is in the past and the fear bears on a simultaneous possibility, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Il attendait avec anxiété que son fils lui {1} enfin des nouvelles du front.",
+      "blanks": [
+        {
+          "answer": "écrivît",
+          "options": [
+            "écrivait",
+            "écrivit",
+            "écrivît"
+          ],
+          "hint": "subjonctif imparfait de « écrire » (-ît), 3e pers. sing., postériorité, après un principal à l'imparfait"
+        }
+      ],
+      "explanation": "« attendre que » governs the subjunctive, so the indicatif forms are excluded: « écrivait » (imparfait de l'indicatif) and « écrivit » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « attendait » is in the past and the awaited letter is posterior to the waiting, so literary concordance requires the subjonctif imparfait of écrire: « qu'il écrivît » — the circumflex on « écrivît » distinguishes it from the indicative « écrivit »."
+    },
+    {
+      "text": "Le veilleur ne croyait pas qu'un seul soldat {1} rentré au camp avant l'aurore.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., auxiliaire être"
+        }
+      ],
+      "explanation": "« ne pas croire que » triggers the subjunctive, so the indicatif is excluded: « était rentré » (plus-que-parfait de l'indicatif) and « fut rentré » (passé antérieur de l'indicatif, no circumflex) are both ungrammatical after this trigger. The return is ANTERIOR to the past reference « avant l'aurore », so strict concordance after the past « croyait » calls for the subjonctif plus-que-parfait « qu'il fût rentré » — « rentrer » takes être and the participle agrees with the masculine singular subject; the circumflex on « fût » marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Quoiqu'il {1} à peine marcher, le vieux soldat tint à suivre le cortège jusqu'au bout.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » après « quoique », en concordance avec « tint » (passé simple)"
+        }
+      ],
+      "explanation": "« Quoique » régit le subjonctif ; le verbe principal « tint » étant au passé, la concordance des temps littéraire impose le subjonctif imparfait. À la 3e personne du singulier, la terminaison -ût porte toujours l'accent circonflexe (pût), ce qui le distingue du passé simple « put »."
+    },
+    {
+      "text": "C'était le seul homme qui {1} vraiment la vérité, et tous se turent lorsqu'il prit la parole.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » après le superlatif relatif « le seul … qui »"
+        }
+      ],
+      "explanation": "Une relative introduite par « le seul … qui » (valeur superlative) appelle le subjonctif ; comme la principale « C'était » est à l'imparfait de l'indicatif, la concordance littéraire requiert le subjonctif imparfait « sût », à distinguer du passé simple « sut » par le circonflexe de la 3e personne du singulier."
+    },
+    {
+      "text": "Il relut chaque phrase, de peur qu'une erreur ne se {1} glissée dans le manuscrit.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "fut",
+            "était",
+            "fût"
+          ],
+          "hint": "auxiliaire « être » au subjonctif imparfait pour former le subjonctif plus-que-parfait (antériorité)"
+        }
+      ],
+      "explanation": "« De peur que » régit le subjonctif ; l'antériorité par rapport à « relut » (passé) s'exprime au subjonctif plus-que-parfait « ne se fût glissée ». Le verbe pronominal « se glisser » se conjugue avec l'auxiliaire « être », d'où l'accord du participe « glissée » avec « une erreur » (féminin) ; l'auxiliaire « fût » porte le circonflexe de la 3e personne du singulier."
+    },
+    {
+      "text": "Le guide ralentit le pas pour que chacun {1} le sentier escarpé sans peine.",
+      "blanks": [
+        {
+          "answer": "gravît",
+          "options": [
+            "gravissait",
+            "gravît",
+            "gravit"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing., verbe en -ir → -ît (avec accent circonflexe)"
+        }
+      ],
+      "explanation": "The main verb « ralentit » is a past narrative tense (passé simple), so in the literary sequence of tenses the subordinate clause introduced by « pour que » — which ALWAYS governs the subjunctive — takes the imperfect subjunctive for an action simultaneous with or posterior to the main one. « gravir » is an -ir verb, giving « qu'il gravît » (ending -ît with a circumflex). « gravissait » is the indicative imperfect, which is impossible after « pour que » (that conjunction never admits the indicative). « gravit » is the passé simple of the indicative — its ONLY spelling difference from the subjunctive is the missing circumflex, and the indicative cannot appear here because « pour que » demands the subjunctive."
+    },
+    {
+      "text": "Quoiqu'il {1} déjà la nouvelle, le vieux notaire feignit l'étonnement devant l'assemblée.",
+      "blanks": [
+        {
+          "answer": "connût",
+          "options": [
+            "connaissait",
+            "connût",
+            "connut"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing., famille en -u → -ût (avec accent circonflexe)"
+        }
+      ],
+      "explanation": "« quoique » is a concessive conjunction that ALWAYS requires the subjunctive. Because the main verb « feignit » is in the passé simple (a past tense), literary concordance calls for the imperfect subjunctive to mark simultaneity. « connaître » belongs to the « -u » family, so the 3rd singular imperfect subjunctive is « connût » (ending -ût with a circumflex). « connaissait » is the indicative imperfect, excluded because « quoique » forbids the indicative. « connut » is the passé simple of the indicative — identical to « connût » except for the missing circumflex — and is likewise ruled out, since only the subjunctive can follow « quoique »."
+    },
+    {
+      "text": "Le vieux roi craignait que son favori ne le {1} avant la fin de son règne.",
+      "blanks": [
+        {
+          "answer": "trahît",
+          "options": [
+            "trahissait",
+            "trahît",
+            "trahit"
+          ],
+          "hint": "subjonctif imparfait (-ît), après « craindre que » (ne explétif), principal à l'imparfait"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here reinforced by the « ne » explétif), so no indicatif is possible: « trahissait » (imparfait de l'indicatif) and « trahit » (passé simple de l'indicatif, sans circonflexe) are both excluded. The main verb « craignait » is in the past and the betrayal is posterior to the fear, so literary concordance requires the subjonctif imparfait « qu'il le trahît » — the circumflex on « trahît » distinguishes it from the indicative « trahit »."
+    },
+    {
+      "text": "Le maître d'armes voulait que chaque page {1} le règlement à la lettre.",
+      "blanks": [
+        {
+          "answer": "respectât",
+          "options": [
+            "respectât",
+            "respectait",
+            "respecta"
+          ],
+          "hint": "subjonctif imparfait (-ât), verbe en -ER, après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » always takes the subjunctive, so the indicatif forms are impossible: « respectait » (imparfait de l'indicatif) and « respecta » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulait » is a past tense and the obedience is simultaneous, so strict concordance calls for the subjonctif imparfait of this -ER verb: « qu'il respectât » (3e pers. sing. en -ât)."
+    },
+    {
+      "text": "Quoiqu'elle {1} tout prévu de longue main, la conjuration échoua lamentablement.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « quoique »"
+        }
+      ],
+      "explanation": "« quoique » governs the subjunctive, so the indicatif is excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, auxiliaire sans circonflexe) are both wrong after this concessive. The planning is ANTERIOR to the past failure « échoua », so literary concordance requires the subjonctif plus-que-parfait « qu'elle eût tout prévu » — the circumflex on the auxiliary « eût » marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le prince attendit que ses conseillers se {1} avant d'annoncer sa décision.",
+      "blanks": [
+        {
+          "answer": "retirassent",
+          "options": [
+            "retirassent",
+            "retiraient",
+            "retirèrent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « attendre que », principal au passé simple"
+        }
+      ],
+      "explanation": "« attendre que » governs the subjunctive, so the indicatif forms are excluded: « retiraient » (imparfait de l'indicatif) and « retirèrent » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main verb « attendit » is in the past and the withdrawal is posterior to it, so literary concordance requires the subjonctif imparfait of an -ER verb, 3rd plural in -assent: « qu'ils se retirassent »."
+    },
+    {
+      "text": "Elle déplorait que son frère {1} déjà parti quand elle arriva à la gare.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fût",
+            "fut"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "« déplorer que » takes the subjunctive, so the indicatif forms are excluded: « était » (plus-que-parfait de l'indicatif, auxiliaire) and « fut » (passé antérieur de l'indicatif, sans circonflexe) cannot follow this trigger. The departure is ANTERIOR to the past reference « quand elle arriva », so strict concordance after the past « déplorait » calls for the subjonctif plus-que-parfait « qu'il fût parti » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Le vieux roi voulut que son fils aîné lui {1} sans tarder sur le trône.",
+      "blanks": [
+        {
+          "answer": "succédât",
+          "options": [
+            "succédait",
+            "succéda",
+            "succédât"
+          ],
+          "hint": "subjonctif imparfait de « succéder » (-ât), 3e pers. sing., après « vouloir que » au passé simple"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so both indicatif forms are excluded: « succédait » (imparfait de l'indicatif) and « succéda » (passé simple de l'indicatif) cannot follow this trigger. The main verb « voulut » is a past tense and the succession is posterior to the wish, so strict literary concordance requires the subjonctif imparfait « qu'il succédât » — note the circumflex on the 3rd-singular ending -ât."
+    },
+    {
+      "text": "Elle craignit que l'orage ne {1} en une seule nuit toute la récolte de l'année.",
+      "blanks": [
+        {
+          "answer": "détruisît",
+          "options": [
+            "détruisait",
+            "détruisit",
+            "détruisît"
+          ],
+          "hint": "subjonctif imparfait de « détruire » (-ît), 3e pers. sing., après « craindre que » + ne explétif, principal au passé simple"
+        }
+      ],
+      "explanation": "« craindre que » triggers the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif is impossible: « détruisait » (imparfait de l'indicatif) and « détruisit » (passé simple de l'indicatif, without circumflex) are both ungrammatical after this verb. The main verb « craignit » is past and the feared event is posterior, so concordance calls for the subjonctif imparfait « qu'il détruisît » — the circumflex distinguishes it from the indicative « détruisit »."
+    },
+    {
+      "text": "Il était juste que chaque soldat {1} sa part du butin après la victoire.",
+      "blanks": [
+        {
+          "answer": "reçût",
+          "options": [
+            "recevait",
+            "reçut",
+            "reçût"
+          ],
+          "hint": "subjonctif imparfait de « recevoir » (reçût, avec circonflexe et cédille), 3e pers. sing., après « il était juste que »"
+        }
+      ],
+      "explanation": "The impersonal construction « être + adjectif + que » (« il était juste que ») imposes the subjunctive, so the indicatif forms are excluded: « recevait » (imparfait de l'indicatif) and « reçut » (passé simple de l'indicatif, no circumflex) are both wrong. The main verb « était » is past and the action is simultaneous, so literary concordance requires the subjonctif imparfait of recevoir: « qu'il reçût » — note both the cédille (ç before u) and the distinguishing circumflex against the indicative « reçut »."
+    },
+    {
+      "text": "Le magistrat exigea que les accusés {1} sur-le-champ devant le tribunal.",
+      "blanks": [
+        {
+          "answer": "comparussent",
+          "options": [
+            "comparaissaient",
+            "comparurent",
+            "comparussent"
+          ],
+          "hint": "subjonctif imparfait de « comparaître » (-ussent), 3e pers. plur., après « exiger que » au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so both indicatif forms are excluded: « comparaissaient » (imparfait de l'indicatif) and « comparurent » (passé simple de l'indicatif) cannot follow this trigger. The main verb « exigea » is past and the appearance is posterior to the order, so literary concordance requires the subjonctif imparfait, 3rd plural, built on the passé simple stem « comparu- »: « qu'ils comparussent »."
+    },
+    {
+      "text": "Le maître exigea que l'élève {1} son poème sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récita",
+            "récitât"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), verbe en -ER, après « exigea » (passé simple)"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) cannot follow this verb. The main verb « exigea » is in the past and the reciting is posterior to the order, so literary concordance requires the subjonctif imparfait of this -ER verb: « qu'il récitât » — note the circumflex on the « â »."
+    },
+    {
+      "text": "Il n'y avait personne qui {1} résoudre une énigme aussi ardue.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "puisse",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., relative après un antécédent négatif"
+        }
+      ],
+      "explanation": "A relative clause depending on a negative antecedent (« il n'y avait personne qui ») takes the subjunctive, so the indicatif « pouvait » (imparfait de l'indicatif) is excluded. « puisse » is the subjonctif présent — the right mood but the wrong tense here, since the main verb « il n'y avait » is in the past: strict concordance calls for the subjonctif imparfait « qu'il pût » — note the circumflex on « û », which also distinguishes it from the passé simple « put »."
+    },
+    {
+      "text": "Personne ne croyait qu'il {1} son chef-d'œuvre à un âge si tendre.",
+      "blanks": [
+        {
+          "answer": "eût achevé",
+          "options": [
+            "avait achevé",
+            "ait achevé",
+            "eût achevé"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), antériorité, après « ne croyait pas que » (principal négatif au passé)"
+        }
+      ],
+      "explanation": "A negated « croire que » governs the subjunctive, so the indicatif « avait achevé » (plus-que-parfait de l'indicatif) is excluded. « ait achevé » is the subjonctif passé — the correct mood but the wrong tense after a PAST main verb (« croyait »): literary concordance for an ANTERIOR action requires the subjonctif plus-que-parfait « qu'il eût achevé » — note the circumflex on the auxiliary « eût », which marks the subjunctive against the indicative « eut »."
+    },
+    {
+      "text": "Le vieux roi voulut que son héritier {1} régner seul avant l'hiver.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « vouloir que »"
+        }
+      ],
+      "explanation": "« vouloir que » governs the subjunctive, so both indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, sans circonflexe) are ungrammatical after this trigger. The main verb « voulut » is in the past and the reign is posterior to the wish, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — note the circumflex on « pût », which distinguishes it from the indicative « put »."
+    },
+    {
+      "text": "Le veilleur craignait que l'assaillant ne {1} par la poterne mal gardée.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « craindre que » avec le « ne » explétif"
+        }
+      ],
+      "explanation": "« craindre que » triggers the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif is impossible: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, sans circonflexe) cannot follow it. The main verb « craignait » is in the past and the feared arrival is posterior, so strict concordance calls for the subjonctif imparfait « qu'il vînt » — the circumflex distinguishes it from the indicative « vint »."
+    },
+    {
+      "text": "Il quitta la salle sans que personne ne {1} garde à son départ.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « sans que »"
+        }
+      ],
+      "explanation": "« sans que » always governs the subjunctive (here reinforced by the « ne » explétif), so the indicatif forms are excluded: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, sans circonflexe) are both wrong. The main verb « quitta » is in the past and the action is simultaneous, so literary concordance requires the subjonctif imparfait of prendre: « qu'il prît garde » — note the circumflex on « prît »."
+    },
+    {
+      "text": "Ce fut le seul des naufragés qui {1} mort avant l'arrivée des secours.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), tournure « le seul … qui », antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "A relative clause after « le seul … qui » takes the subjunctive, so the indicatif is excluded: « était » (plus-que-parfait de l'indicatif « était mort ») and « fut » (passé antérieur de l'indicatif « fut mort », sans circonflexe) are both wrong. The death is ANTERIOR to the past reference « ce fut », so literary concordance requires the subjonctif plus-que-parfait of mourir: « qui fût mort » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Nul ne s'étonna que le messager {1} si tard, tant les routes de montagne étaient périlleuses.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "vint",
+            "vienne",
+            "venait",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), 3e pers. sing., après « s'étonner que », principal au passé simple"
+        }
+      ],
+      "explanation": "« s'étonner que » gouverne le subjonctif : l'indicatif est donc exclu. « vint » est le passé simple de l'indicatif (aucun circonflexe à la 3e pers. sing.) et « venait » l'imparfait de l'indicatif ; ni l'un ni l'autre ne peut suivre ce déclencheur. « vienne » est le subjonctif présent, incorrect ici car le verbe principal « s'étonna » est au passé : la concordance littéraire impose alors le subjonctif imparfait « vînt » pour l'action simultanée, dont le circonflexe le distingue du passé simple « vint »."
+    },
+    {
+      "text": "Le règlement exigeait que chaque candidat {1} place en silence avant le début de l'épreuve.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenne",
+            "prît",
+            "prit",
+            "prenait"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît, avec circonflexe), 3e pers. sing., après « exiger que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« exiger que » appelle le subjonctif, ce qui exclut l'indicatif : « prit » est le passé simple de l'indicatif (sans circonflexe à la 3e pers. sing.) et « prenait » l'imparfait de l'indicatif. « prenne » est le subjonctif présent, inadapté car le verbe principal « exigeait » est au passé et l'action est postérieure : la concordance des temps littéraire réclame le subjonctif imparfait « prît » (« prendre place »), dont le circonflexe le sépare du passé simple « prit »."
+    },
+    {
+      "text": "Quoiqu'il {1} depuis longtemps la vérité, le vieux serviteur garda le silence jusqu'à sa mort.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût, avec circonflexe), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » always governs the subjunctive, so the indicatif forms are excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif, without circumflex) are both ungrammatical after this concessive conjunction. The main verb « garda » is in the past and the knowing is simultaneous, so literary concordance requires the subjonctif imparfait of savoir: « qu'il sût » — note the circumflex on « sût », the only graphic mark that distinguishes it from the passé simple « sut »."
+    },
+    {
+      "text": "Elle marchait sur la pointe des pieds, de peur que l'enfant ne s'{1}.",
+      "blanks": [
+        {
+          "answer": "éveillât",
+          "options": [
+            "éveillait",
+            "éveilla",
+            "éveillât"
+          ],
+          "hint": "subjonctif imparfait (-ât), après « de peur que » avec « ne » explétif, principal à l'imparfait"
+        }
+      ],
+      "explanation": "« de peur que » triggers the subjunctive, here reinforced by the « ne » explétif, which carries no negative value: the indicatif is therefore impossible, and « éveillait » (imparfait de l'indicatif) and « éveilla » (passé simple de l'indicatif) cannot follow it. The main verb « marchait » is in the past and the feared waking is posterior, so concordance calls for the subjonctif imparfait of a first-group verb: « qu'il s'éveillât » (-ât) — distinct from the passé simple « s'éveilla »."
+    },
+    {
+      "text": "Le maître répétait chaque maxime pour que ses disciples la {1} un jour sans la moindre hésitation.",
+      "blanks": [
+        {
+          "answer": "récitassent",
+          "options": [
+            "récitaient",
+            "récitèrent",
+            "récitassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « pour que », principal à l'imparfait"
+        }
+      ],
+      "explanation": "« pour que » expresses purpose and always governs the subjunctive, so the indicatif forms are excluded: « récitaient » (imparfait de l'indicatif) and « récitèrent » (passé simple de l'indicatif) are both wrong after this conjunction. The main verb « répétait » is in the past and the reciting is posterior, so literary concordance requires the subjonctif imparfait; for a first-group verb the 3rd person plural ends in -assent: « qu'ils récitassent »."
+    },
+    {
+      "text": "Le capitaine exigea que chaque homme {1} rentré à bord avant le coucher du soleil.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, 3e pers. sing., après un verbe de volonté au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » is a verb of volition that governs the subjunctive, so the indicatif forms are excluded: « était rentré » (plus-que-parfait de l'indicatif) and « fut rentré » (passé antérieur de l'indicatif, without circumflex) are both ungrammatical after this trigger. The main verb « exigea » is in the past and the return is ANTERIOR to the deadline, so strict concordance requires the subjonctif plus-que-parfait of être: « qu'il fût rentré » — the circumflex on « fût » is the sole mark distinguishing it from the indicative « fut »."
+    },
+    {
+      "text": "Elle alluma une lampe à la fenêtre pour que le voyageur égaré {1} jusqu'à la ferme.",
+      "blanks": [
+        {
+          "answer": "vînt",
+          "options": [
+            "venait",
+            "vint",
+            "vînt"
+          ],
+          "hint": "subjonctif imparfait de « venir » (vînt, avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » (a clause of purpose) always governs the subjunctive, so the indicatif forms are excluded: « venait » (imparfait de l'indicatif) and « vint » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « alluma » is in the passé simple and the hoped-for arrival is posterior to it, so strict literary concordance requires the subjonctif imparfait of « venir »: « qu'il vînt » — note the circumflex on « vînt », which alone distinguishes the subjunctive from the passé simple « vint »."
+    },
+    {
+      "text": "Il était le seul officier qui {1} déchiffrer les messages codés de l'ennemi.",
+      "blanks": [
+        {
+          "answer": "sût",
+          "options": [
+            "savait",
+            "sut",
+            "sût"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (sût), relative après « le seul qui », principal à l'imparfait"
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul (qui) » takes the subjunctive (like relatives after « le premier / le dernier / le seul » and after superlatives), so the indicatif is excluded: « savait » (imparfait de l'indicatif) and « sut » (passé simple de l'indicatif) cannot follow this trigger. The main verb « était » is a past tense and the ability is simultaneous with it, so literary concordance calls for the subjonctif imparfait of « savoir »: « qu'il sût » — note the circumflex on « sût », which marks the subjunctive against the passé simple « sut »."
+    },
+    {
+      "text": "Le notaire refusa de conclure la vente, à moins que l'acheteur ne {1} l'entière responsabilité du domaine.",
+      "blanks": [
+        {
+          "answer": "prît",
+          "options": [
+            "prenait",
+            "prit",
+            "prît"
+          ],
+          "hint": "subjonctif imparfait de « prendre » (prît), après « à moins que » (+ ne explétif), principal au passé simple"
+        }
+      ],
+      "explanation": "« à moins que » always governs the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif forms are impossible: « prenait » (imparfait de l'indicatif) and « prit » (passé simple de l'indicatif, no circumflex) are both excluded. The main verb « refusa » is in the passé simple and the condition is posterior to it, so literary concordance requires the subjonctif imparfait of « prendre »: « qu'il prît » — the circumflex distinguishes it from the passé simple « prit »."
+    },
+    {
+      "text": "Quoiqu'il {1} tout prévu dans les moindres détails, le vieux stratège fut surpris par l'assaut nocturne.",
+      "blanks": [
+        {
+          "answer": "eût prévu",
+          "options": [
+            "avait prévu",
+            "eut prévu",
+            "eût prévu"
+          ],
+          "hint": "subjonctif plus-que-parfait (eût + participe), après « quoique », antériorité, principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » (like « bien que ») always governs the subjunctive, so the indicatif forms are excluded: « avait prévu » (plus-que-parfait de l'indicatif) and « eut prévu » (passé antérieur de l'indicatif, auxiliary « eut » without circumflex) are both ungrammatical after this trigger. Foreseeing everything is ANTERIOR to the past reference « fut surpris », so strict concordance calls for the subjonctif plus-que-parfait « qu'il eût prévu » — note the circumflex on the auxiliary « eût », which alone marks the subjunctive against the passé antérieur « eut prévu »."
+    },
+    {
+      "text": "L'instituteur écrivit la règle au tableau pour que chaque élève la {1} recopier sans faute.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pouvait",
+            "put",
+            "pût"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), après « pour que », principal au passé simple"
+        }
+      ],
+      "explanation": "« pour que » expresses purpose and always governs the subjunctive, so the indicatif forms are excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) cannot follow this trigger. The main verb « écrivit » is in the past (passé simple) and the ability to copy is posterior to the writing, so literary concordance requires the subjonctif imparfait of « pouvoir »: « qu'il pût » — note the distinguishing circumflex on « pût » (3e pers. sing. -ût), which separates it from the indicative « put »."
+    },
+    {
+      "text": "Quoique les soldats {1} de fatigue, ils poursuivirent leur marche jusqu'à l'aube.",
+      "blanks": [
+        {
+          "answer": "tombassent",
+          "options": [
+            "tombaient",
+            "tombèrent",
+            "tombassent"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. plur. (-assent), après « quoique », principal au passé simple"
+        }
+      ],
+      "explanation": "« quoique » is concessive and always takes the subjunctive, so the indicatif is impossible: « tombaient » (imparfait de l'indicatif) and « tombèrent » (passé simple de l'indicatif) are both ungrammatical after this trigger. The main verb « poursuivirent » is in the past and the concessive state is simultaneous, so strict concordance calls for the subjonctif imparfait, 3rd plural: « qu'ils tombassent » (ending -assent, built on the passé simple stem), to be distinguished from the indicative passé simple « tombèrent »."
+    },
+    {
+      "text": "Il avait juré qu'il ne renoncerait jamais, à moins que la mort elle-même ne l'{1}.",
+      "blanks": [
+        {
+          "answer": "arrêtât",
+          "options": [
+            "arrêtait",
+            "arrêta",
+            "arrêtât"
+          ],
+          "hint": "subjonctif imparfait de « arrêter » (arrêtât, avec circonflexe), après « à moins que … ne », principal au conditionnel"
+        }
+      ],
+      "explanation": "« à moins que » governs the subjunctive (here with the « ne » explétif, which is not a negation), so the indicatif is excluded: « arrêtait » (imparfait de l'indicatif) and « arrêta » (passé simple de l'indicatif) cannot appear after it. The governing verb « renoncerait » is a conditionnel and the hypothetical interruption is posterior, so literary concordance requires the subjonctif imparfait « qu'elle l'arrêtât » — the circumflex on « arrêtât » (3e pers. sing. -ât) distinguishes it from the indicative passé simple « arrêta »."
+    },
+    {
+      "text": "Ce fut le seul officier qui {1} revenu vivant de cette expédition désastreuse.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), après « le seul … qui », antériorité, 3e pers. sing."
+        }
+      ],
+      "explanation": "A relative clause depending on « le seul … qui » takes the subjunctive, so the indicatif is excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both wrong. The return is ANTERIOR to the past reference « ce fut », and « revenir » uses the auxiliary être, so strict concordance requires the subjonctif plus-que-parfait « qui fût revenu » — note the circumflex on the auxiliary « fût », which marks the subjunctive against the indicative « fut »."
+    },
+    {
+      "text": "Le maître exigea que chaque élève lui {1} par cœur les vers du poète avant l'aube.",
+      "blanks": [
+        {
+          "answer": "récitât",
+          "options": [
+            "récitait",
+            "récitât",
+            "récita"
+          ],
+          "hint": "subjonctif imparfait, 3e pers. sing. (-ât), après un principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » governs the subjunctive, so both indicatif forms are excluded: « récitait » (imparfait de l'indicatif) and « récita » (passé simple de l'indicatif) are ungrammatical after this trigger. The main verb « exigea » is in the past and the recitation is posterior to the order, so literary concordance requires the subjonctif imparfait of the -ER verb « réciter »: « qu'il récitât » — 3rd singular in -ât with the circumflex."
+    },
+    {
+      "text": "On redoutait que l'orateur ne {1} son plaidoyer par quelque provocation maladroite.",
+      "blanks": [
+        {
+          "answer": "finît",
+          "options": [
+            "finissait",
+            "finît",
+            "finit"
+          ],
+          "hint": "subjonctif imparfait de « finir » (finît), 3e pers. sing. (-ît), avec « ne » explétif"
+        }
+      ],
+      "explanation": "« redouter que » triggers the subjunctive and, being a verb of fearing, takes the « ne » explétif (unelided « ne » here, since « finît » begins with a consonant), so the indicatif is impossible: « finissait » (imparfait de l'indicatif) and « finit » (passé simple de l'indicatif, no circumflex) cannot follow it. The main verb « redoutait » is in the past and the action is simultaneous/posterior, so concordance calls for the subjonctif imparfait of « finir »: « qu'il finît » — the circumflex distinguishes it from the indicative « finit »."
+    },
+    {
+      "text": "Elle eût souhaité que son fils aîné {1} devenu médecin plutôt que comédien.",
+      "blanks": [
+        {
+          "answer": "fût",
+          "options": [
+            "était",
+            "fut",
+            "fût"
+          ],
+          "hint": "subjonctif plus-que-parfait (fût + participe), antériorité, auxiliaire être (devenir)"
+        }
+      ],
+      "explanation": "« souhaiter que » takes the subjunctive, so the indicatif forms are excluded: « était » (imparfait de l'indicatif) and « fut » (passé simple de l'indicatif, no circumflex) are both wrong. The becoming is ANTERIOR to the past reference of « eût souhaité » (conditionnel passé), so strict concordance requires the subjonctif plus-que-parfait; « devenir » is conjugated with être, giving « qu'il fût devenu » — note the circumflex on the auxiliary « fût »."
+    },
+    {
+      "text": "Le vieux monarque craignait que nul ne {1} lui succéder dignement sur le trône.",
+      "blanks": [
+        {
+          "answer": "pût",
+          "options": [
+            "pût",
+            "pouvait",
+            "put"
+          ],
+          "hint": "subjonctif imparfait de « pouvoir » (pût, avec circonflexe), 3e pers. sing., après « craindre que »"
+        }
+      ],
+      "explanation": "« craindre que » governs the subjunctive (here with the « ne » explétif), so the indicatif is excluded: « pouvait » (imparfait de l'indicatif) and « put » (passé simple de l'indicatif, no circumflex) are both ungrammatical after this trigger. The main verb « craignait » is in the past and the ability is simultaneous, so literary concordance requires the subjonctif imparfait of pouvoir: « qu'il pût » — the circumflex on « pût » marks the subjunctive against the indicative « put »."
+    },
+    {
+      "text": "Le maître exigea que tous ses disciples {1} le poème par cœur avant le crépuscule.",
+      "blanks": [
+        {
+          "answer": "sussent",
+          "options": [
+            "savaient",
+            "sussent",
+            "surent"
+          ],
+          "hint": "subjonctif imparfait de « savoir » (-ussent), 3e pers. plur., après « exiger que », principal au passé simple"
+        }
+      ],
+      "explanation": "« exiger que » triggers the subjunctive, so the indicatif forms are impossible: « savaient » (imparfait de l'indicatif) and « surent » (passé simple de l'indicatif) cannot follow it. The main verb « exigea » is in the past (passé simple) and the mastering of the poem is posterior to the order, so strict literary concordance calls for the subjonctif imparfait of savoir, 3rd plural: « qu'ils sussent » (built on the passé simple stem « su- » → -ussent)."
     }
   ]
 }

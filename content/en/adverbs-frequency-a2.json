@@ -40,6 +40,7 @@
     { "text": "She is {1} on time for class (100%).", "blanks": [ { "options": ["always", "never", "rarely"], "answer": "always" } ], "explanation": "100% with 'to be': adverb after 'is'." },
     { "text": "My phone {1} works without charging (0%).", "blanks": [ { "options": ["always", "usually", "never"], "answer": "never" } ], "explanation": "0% means 'never'." },
     { "text": "We {1} chat after lunch (about 60%).", "blanks": [ { "options": ["rarely", "never", "often"], "answer": "often" } ], "explanation": "About 60% is 'often'." },
-    { "text": "He {1} takes sugar in his tea (about 90%).", "blanks": [ { "options": ["never", "usually", "rarely"], "answer": "usually" } ], "explanation": "About 90% is 'usually'." }
+    { "text": "He {1} takes sugar in his tea (about 90%).", "blanks": [ { "options": ["never", "usually", "rarely"], "answer": "usually" } ], "explanation": "About 90% is 'usually'." },
+    {"text": "I {1} drink fizzy drinks; I prefer water (about 10%).", "blanks": [{"options": ["often", "rarely", "always"], "answer": "rarely"}], "explanation": "About 10% is 'rarely'."}
   ]
 }

@@ -40,6 +40,8 @@
     { "text": "La maison est {1}.", "blanks": [ { "cue": "empty", "answer": ["vide"] } ], "explanation": "vide = empty (same in masculine and feminine)." },
     { "text": "Le verre est {1}.", "blanks": [ { "cue": "full", "answer": ["plein"] } ], "explanation": "plein = full (masculine singular)." },
     { "text": "Cette robe est {1}.", "blanks": [ { "cue": "expensive", "answer": ["chère"] } ], "explanation": "cher becomes 'chère' (feminine) to agree with 'robe'." },
-    { "text": "Ce restaurant est {1}.", "blanks": [ { "cue": "cheap", "answer": ["bon marché"] } ], "explanation": "bon marché = cheap (invariable)." }
+    { "text": "Ce restaurant est {1}.", "blanks": [ { "cue": "cheap", "answer": ["bon marché"] } ], "explanation": "bon marché = cheap (invariable)." },
+    {"text": "Je suis {1} de te voir.", "blanks": [{"cue": "happy", "answer": ["content", "contente", "heureux", "heureuse"]}], "explanation": "content = happy. « je » is not gender-marked here, so a masculine ('content'/'heureux') or feminine ('contente'/'heureuse') speaker is equally correct."},
+    {"text": "Je suis très {1} ce matin.", "blanks": [{"cue": "tired", "answer": ["fatigué", "fatiguée"]}], "explanation": "fatigué = tired. « je » is not gender-marked here, so both the masculine 'fatigué' and the feminine 'fatiguée' are accepted."}
   ]
 }

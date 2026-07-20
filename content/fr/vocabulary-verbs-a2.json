@@ -40,6 +40,7 @@
     { "text": "Je veux {1} une carte postale.", "blanks": [ { "cue": "to send", "answer": ["envoyer"] } ], "explanation": "envoyer = to send (infinitive)." },
     { "text": "Tu peux {1} la radio, s'il te plaît ?", "blanks": [ { "cue": "to turn off", "answer": ["éteindre"] } ], "explanation": "éteindre = to turn off (infinitive)." },
     { "text": "Il faut {1} la lumière, il fait noir.", "blanks": [ { "cue": "to turn on", "answer": ["allumer"] } ], "explanation": "allumer = to turn on (infinitive)." },
-    { "text": "Je dois {1} mes parents ce week-end.", "blanks": [ { "cue": "to help", "answer": ["aider"] } ], "explanation": "aider = to help (infinitive)." }
+    { "text": "Je dois {1} mes parents ce week-end.", "blanks": [ { "cue": "to help", "answer": ["aider"] } ], "explanation": "aider = to help (infinitive)." },
+    {"text": "Je veux {1} mes affaires avant de partir.", "blanks": [{"cue": "to tidy / put away", "answer": ["ranger"]}], "explanation": "ranger = to tidy/put away (infinitive)."}
   ]
 }

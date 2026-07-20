@@ -45,6 +45,198 @@
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "deserts" }
       ],
       "explanation": "Deserts take 'the' (the Sahara Desert, the Gobi Desert)."
+    },
+    {
+      "text": "They spent the summer island-hopping around {1} Philippines.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "the name is plural"
+        }
+      ],
+      "explanation": "Groups of islands take 'the' (the Philippines, the Canary Islands, the Maldives) because the name is plural."
+    },
+    {
+      "text": "We sailed across {1} Pacific and then into {2} Mediterranean.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "oceans"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "named seas"
+        }
+      ],
+      "explanation": "Oceans and seas take 'the' (the Pacific, the Atlantic, the Mediterranean, the Red Sea)."
+    },
+    {
+      "text": "Although it is a large island, {1} Cyprus is much smaller than {2} Sicily.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "a single island country"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "a single named island"
+        }
+      ],
+      "explanation": "Single islands take no article (Cyprus, Sicily, Madagascar) — unlike groups of islands, which take 'the'."
+    },
+    {
+      "text": "Our ship passed through {1} Suez Canal on its way to {2} Gulf.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "canals"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "gulfs"
+        }
+      ],
+      "explanation": "Canals and gulfs take 'the' (the Suez Canal, the Panama Canal, the Gulf, the Gulf of Mexico)."
+    },
+    {
+      "text": "Most reporters were stationed in {1} Middle East, covering {2} north of {3} Iraq.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "this region"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'... of' a country"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "most single countries"
+        }
+      ],
+      "explanation": "Some regions take 'the' (the Middle East); 'the north/south of' + a country takes 'the' (the north of Iraq); but the country itself takes no article (Iraq)."
+    },
+    {
+      "text": "We sailed across {1} Mediterranean to {2} Sicily and then on to {3} Canary Islands.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "seas and oceans"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "a single island"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "a group of islands"
+        }
+      ],
+      "explanation": "Seas and oceans take 'the' (the Mediterranean); a single island takes no article (Sicily); but groups of islands take 'the' (the Canary Islands)."
+    },
+    {
+      "text": "{1} Lake Geneva lies in {2} west of Switzerland.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "—"
+          ],
+          "hint": "lakes named with 'Lake'"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "points of the compass"
+        }
+      ],
+      "explanation": "Lakes take no article when named with 'Lake' (Lake Geneva, Lake Como); regions defined by a compass point take 'the' (the west, the north)."
     }
   ]
 }

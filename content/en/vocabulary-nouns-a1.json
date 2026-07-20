@@ -40,6 +40,7 @@
     { "text": "At night the {1} and the stars are in the sky.", "blanks": [ { "options": ["moon", "sun", "cloud"], "answer": "moon" } ], "explanation": "The moon shines in the sky at night." },
     { "text": "We cut the vegetables with a sharp {1}.", "blanks": [ { "options": ["cup", "plate", "knife"], "answer": "knife" } ], "explanation": "A knife is the tool used to cut food." },
     { "text": "I unlock the front door with my {1}.", "blanks": [ { "options": ["card", "phone", "key"], "answer": "key" } ], "explanation": "A key unlocks a door." },
-    { "text": "The fish swim in the {1} near the boat.", "blanks": [ { "options": ["road", "sea", "wall"], "answer": "sea" } ], "explanation": "Fish swim in the sea." }
+    { "text": "The fish swim in the {1} near the boat.", "blanks": [ { "options": ["road", "sea", "wall"], "answer": "sea" } ], "explanation": "Fish swim in the sea." },
+    {"text": "My {1} is a girl with the same parents as me.", "blanks": [{"options": ["uncle", "cousin", "sister"], "answer": "sister"}], "explanation": "A sister is a female with the same parents."}
   ]
 }

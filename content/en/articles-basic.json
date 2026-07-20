@@ -94,6 +94,30 @@
         { "answer": "—", "options": ["a", "the", "—"], "hint": "a fixed time expression" }
       ],
       "explanation": "Meals take no article (have breakfast), and the time expression 'eight o'clock' needs no article here."
+    },
+    {
+      "text": "In general, {1} children love {2} chocolate.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "A",
+            "The",
+            "—"
+          ],
+          "hint": "people in general"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "the",
+            "—"
+          ],
+          "hint": "things in general"
+        }
+      ],
+      "explanation": "When we talk about people or things in general, plural and uncountable nouns take no article: children (in general), chocolate (in general)."
     }
   ]
 }

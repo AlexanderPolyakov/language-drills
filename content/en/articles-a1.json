@@ -92,6 +92,38 @@
         { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
       ],
       "explanation": "Use 'an' before a vowel sound (an orange) and 'a' before a consonant sound (a banana)."
+    },
+    {
+      "text": "In general, I like {1} dogs.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "plural noun in general"
+        }
+      ],
+      "explanation": "Use no article for plural nouns talked about in general: I like dogs."
+    },
+    {
+      "text": "In general, I drink {1} water every morning.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "uncountable noun in general"
+        }
+      ],
+      "explanation": "Use no article with uncountable nouns talked about in general: I drink water."
     }
   ]
 }

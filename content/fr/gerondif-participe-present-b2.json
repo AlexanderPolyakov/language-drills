@@ -116,6 +116,131 @@
         { "cue": "s'être épuisé", "answer": ["s'étant épuisé"], "hint": "participe présent composé of a pronominal verb (« s'étant » + participe passé) expressing an anterior cause = « comme il s'était épuisé »" }
       ],
       "explanation": "The COMPOUND present participle of a pronominal verb is « s'étant » + past participle, marking an action ANTERIOR to the main verb and expressing cause: « s'étant épuisé » = « comme il s'était épuisé » (he first exhausted himself, then gave up). Pronominal verbs form the compound participle with « être », so the participle « épuisé » agrees with the subject « le coureur » (masculine singular). It is a bare participle (no « en »), and it shares the subject of the main verb."
+    },
+    {
+      "text": "Le chien a renversé deux passants {1} après le ballon.",
+      "blanks": [
+        {
+          "cue": "courir",
+          "answer": [
+            "en courant"
+          ],
+          "hint": "gérondif of simultaneity with a verb of MOTION; same subject as « a renversé » (« le chien »)"
+        }
+      ],
+      "explanation": "The gérondif « en + -ant » expresses an action SIMULTANEOUS with the main verb and shares its subject — here a verb of MOTION: it is the dog (subject of « a renversé ») that runs after the ball. « Courir » → « en courant »: the dog knocked the passers-by over WHILE running. A bare participle « courant » would risk attaching to « passants »; the gérondif « en courant » keeps the action tied to the dog."
+    },
+    {
+      "text": "{1} qu'il avait tort, il a maintenu sa position jusqu'au bout.",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "tout en sachant"
+          ],
+          "hint": "concession: « tout en » + present participle = 'even though he knew'; new verb, not « reconnaître »"
+        }
+      ],
+      "explanation": "« Tout en + gérondif » reinforces simultaneity and here carries a clear nuance of CONCESSION (= bien qu'il sache / alors même qu'il savait). « Savoir » → « tout en sachant »: even though he knew he was wrong, he stood his ground. The gérondif shares the subject of the main verb (« il »)."
+    },
+    {
+      "text": "{1} les consignes de sécurité, les ouvriers ont pu reprendre le chantier sans crainte.",
+      "blanks": [
+        {
+          "cue": "avoir relu",
+          "answer": [
+            "ayant relu"
+          ],
+          "hint": "participe présent composé (« ayant » + participe passé) expressing an anterior CAUSE = « comme ils avaient relu »"
+        }
+      ],
+      "explanation": "The COMPOUND present participle (« ayant » + past participle) marks an action ANTERIOR to the main verb and expresses CAUSE: « ayant relu les consignes » = « comme ils avaient relu les consignes » (they first re-read the rules, then resumed work). It is a bare participle (no « en »), stays invariable, and shares the subject of the main verb (« les ouvriers »). The compound form orders the two actions, unlike the simultaneous « relisant »."
+    },
+    {
+      "text": "C'est l'argument le plus {1} de tout le débat, {2} l'auditoire par sa clarté.",
+      "blanks": [
+        {
+          "cue": "convaincre — adjectif",
+          "answer": [
+            "convaincant"
+          ],
+          "hint": "adjectif verbal: agrees and is spelled « -cant » → convaincant(e)"
+        },
+        {
+          "cue": "convaincre — participe",
+          "answer": [
+            "convainquant"
+          ],
+          "hint": "participe présent: invariable and keeps the « qu » of the verb → convainquant"
+        }
+      ],
+      "explanation": "« Convaincre » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « convaincant » (a convincing argument) is spelled with « -c- » and agrees like an adjective; the participe présent « convainquant » keeps the « qu » of the verb (« convaincre » → « convainquant »), stays invariable, and governs an object (« convainquant l'auditoire » = persuading the audience). Compare also précédent/précédant and adhérent/adhérant."
+    },
+    {
+      "text": "{1} le moindre obstacle, tu franchiras ce col sans difficulté.",
+      "blanks": [
+        {
+          "cue": "éviter",
+          "answer": [
+            "en évitant"
+          ],
+          "hint": "gérondif of CONDITION = 'if you avoid'; note the futur in the main clause"
+        }
+      ],
+      "explanation": "Here the gérondif expresses a CONDITION equivalent to a « si » clause: « en évitant le moindre obstacle » = « si tu évites le moindre obstacle ». The futur « franchiras » in the main clause signals this hypothetical/conditional value (a real, not contrary-to-fact, condition). « Éviter » → « en évitant »; the gérondif shares the subject « tu »."
+    },
+    {
+      "text": "Il a présenté un argument {1}, {2} finalement l'auditoire de voter la réforme.",
+      "blanks": [
+        {
+          "cue": "convaincre — adjectif",
+          "answer": [
+            "convaincant"
+          ],
+          "hint": "adjectif verbal: agrees (m.sg. with « argument ») and changes « qu » to « c » → convaincant(e)"
+        },
+        {
+          "cue": "convaincre — participe",
+          "answer": [
+            "convainquant"
+          ],
+          "hint": "participe présent: invariable and keeps the « qu » of the verb → convainquant"
+        }
+      ],
+      "explanation": "« Convaincre » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « convaincant » (a convincing argument) changes « qu » to « c » and agrees like an adjective — here masculine singular with « argument ». The participe présent « convainquant » keeps the « qu » of the verb, stays invariable, and governs a complement (« convainquant l'auditoire de voter » = qui convainquit l'auditoire). Compare provocant/provoquant and communicant/communiquant."
+    },
+    {
+      "text": "C'est une élève {1}, {2} particulièrement dans les matières scientifiques.",
+      "blanks": [
+        {
+          "cue": "exceller — adjectif",
+          "answer": [
+            "excellente"
+          ],
+          "hint": "adjectif verbal: agrees (f.sg. with « élève ») → excellent(e)"
+        },
+        {
+          "cue": "exceller — participe",
+          "answer": [
+            "excellant"
+          ],
+          "hint": "participe présent: invariable, spelled « excellant » (with « -ant ») = qui excelle"
+        }
+      ],
+      "explanation": "« Exceller » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « excellent » (an excellent pupil) agrees like an adjective — here feminine singular with « élève »: « excellente ». The participe présent « excellant » (= qui excelle) keeps the « -ant » spelling, stays invariable, and replaces a relative clause: « excellant particulièrement dans les matières scientifiques ». Compare différent/différant and négligent/négligeant."
+    },
+    {
+      "text": "{1} de la gare, nous avons été surpris par une violente averse.",
+      "blanks": [
+        {
+          "cue": "sortir",
+          "answer": [
+            "en sortant"
+          ],
+          "hint": "gérondif of time; its implied subject MUST be the subject of the main verb (« nous »), not « l'averse »"
+        }
+      ],
+      "explanation": "The gérondif « en sortant » can only refer to the SUBJECT of the main verb. Here that subject is « nous » (« nous avons été surpris »), so it is indeed « nous » who leave the station — the sentence is well formed. This is the classic same-subject trap: one must NOT write « En sortant de la gare, l'averse nous a surpris », because the gérondif would then dangle and wrongly attribute the leaving to « l'averse ». To respect the same-subject rule, the main clause is built around « nous ». « Sortir » → « en sortant »."
     }
   ]
 }

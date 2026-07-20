@@ -166,6 +166,2964 @@
         }
       ],
       "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the underlying problem will not disappear.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "However",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "___ + much + subject + verb = no amount of it helps"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no quantity of something (here, spending) changes the outcome: 'However much the government spends' = 'no matter how much it spends'. 'For all' and 'Notwithstanding' must be followed by a noun phrase, not by 'much + clause'; 'Much as' takes a verb of feeling directly ('Much as I dislike it'), not the quantifier 'much' plus another clause."
+    },
+    {
+      "text": "The treatment proved effective, {1} slower to take hold than the doctors had hoped.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "even so",
+            "much as",
+            "albeit",
+            "while"
+          ],
+          "hint": "introduces a concessive phrase (here an adjective), not a finite clause"
+        }
+      ],
+      "explanation": "'Albeit' qualifies a preceding statement with a concessive adjective or adverbial phrase: 'effective, albeit slower to take hold'. 'Even so' is a free-standing conjunct that links whole sentences and would need its own main clause; 'Much as' and 'While' both require a following finite clause with a subject and verb, not the bare adjective phrase 'slower to take hold'."
+    },
+    {
+      "text": "{1} as he might, he could not persuade the committee to reconsider.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "However",
+            "Despite",
+            "Try",
+            "Much"
+          ],
+          "hint": "fixed pattern: bare verb + as + subject + verb = 'although he tried'"
+        }
+      ],
+      "explanation": "'Try as + subject + verb' is a fixed concessive idiom ('Try as he might/did') meaning 'however hard he tried'. It fronts the bare verb 'Try' before 'as'. 'However' would itself front the clause and take an adverb ('However hard he tried'); 'Despite' governs a noun or -ing, not a finite clause; 'Much' does not begin this fronted 'as'-pattern, which requires the verb in the gap."
+    },
+    {
+      "text": "{1} much we cut costs, the project will still run well over budget.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "Albeit",
+            "However",
+            "Much as"
+          ],
+          "hint": "___ + 'much' + subject + verb = no degree of it changes the outcome"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no amount of the action alters the result: 'However much we cut costs' = 'No matter how much we cut costs'. 'For all' is a preposition taking a noun phrase ('For all our cost-cutting'), not 'much' + a clause; 'Albeit' cannot introduce a finite clause with its own subject and verb; 'Much as' is followed directly by the verb ('Much as we cut costs'), so adding 'much' after it is ungrammatical."
+    },
+    {
+      "text": "The results were encouraging, {1} preliminary and based on a small sample.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "even so",
+            "much as",
+            "albeit",
+            "despite"
+          ],
+          "hint": "introduces a bare concessive adjective phrase qualifying what precedes"
+        }
+      ],
+      "explanation": "'Albeit' introduces a reduced concessive phrase — here the bare adjectives 'preliminary and based on a small sample' — qualifying the preceding clause; it is equivalent to 'although they were'. 'Even so' is a free-standing conjunct that begins a new main clause, not a phrase tagged on after a comma; 'much as' requires a following subject and verb ('much as they were preliminary'); 'despite' is a preposition that must govern a noun or -ing form ('despite their preliminary nature'), not a bare predicative adjective."
+    },
+    {
+      "text": "{1} as he might, he could not budge the rusted bolt a single millimetre.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Much",
+            "Albeit"
+          ],
+          "hint": "fronted bare verb + 'as' + subject + 'might' = an emphatic 'no matter how hard he tried'"
+        }
+      ],
+      "explanation": "The fixed idiom 'Try as he might' fronts the bare verb before 'as + subject + might', meaning 'however hard he tried'. The slot requires a verb, so only 'Try' fits the pattern '[verb] as he might'. 'However' would be followed by an adjective/adverb, not stand before 'as he might'; 'Much as' takes a verb of feeling directly ('Much as he tried') without the modal 'might' construction; 'Albeit' cannot govern a finite clause at all."
+    },
+    {
+      "text": "The forecast points to a sharp downturn. {1}, the board has approved an ambitious expansion.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as it is",
+            "Be that as it may",
+            "However it be",
+            "Granted that"
+          ],
+          "hint": "a fixed formal conjunct: 'even if that is true / in spite of that'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, formal sentence conjunct meaning 'even if that is so / in spite of that'; it stands alone before a comma and concedes the previous sentence while introducing a contrasting one. 'Much as it is' is not an idiomatic concessive opener and leaves the verb dangling; 'However it be' is archaic and ungrammatical in modern usage; 'Granted that' must be followed by a clause it concedes ('Granted that the forecast is grim'), not used as a free-standing reference back to the previous sentence."
+    },
+    {
+      "text": "{1} the obstacles, the expedition was determined to reach the pole.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Much as",
+            "However",
+            "While",
+            "Whatever"
+          ],
+          "hint": "___ + noun phrase = 'no matter what'; concedes any/every member of a set"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive determiner meaning 'no matter what': 'Whatever the obstacles' = 'No matter what the obstacles were'. It licenses a bare noun phrase with the verb 'be' understood. 'Much as' and 'While' require a finite clause with subject and verb ('Much as obstacles arose'); 'However' would need a following adjective/adverb ('However many obstacles'), not the bare noun 'the obstacles'."
+    },
+    {
+      "text": "{1} as he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Despite",
+            "Albeit"
+          ],
+          "hint": "fixed pattern: bare verb + as + subject + 'might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive inversion 'verb + as + subject + might/may', meaning 'however hard he tried'. The slot needs the bare verb 'Try'. 'However' would have to front the whole clause and take an adverb ('However hard he tried'); 'Despite' governs a noun or -ing, not 'as he might'; 'Albeit' introduces a phrase, not a finite 'as'-clause with a modal."
+    },
+    {
+      "text": "Your reservations are understandable. {1}, the board has decided that the project must proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However that is",
+            "Albeit so"
+          ],
+          "hint": "a fixed conjunct meaning 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / that may be true, but', standing alone before a comma and linking back to the previous sentence. 'Much as it may' is incomplete (it needs a following verb of feeling, e.g. 'Much as it may pain me'); 'However that is' is not an idiomatic connector; 'Albeit so' is not standard English, as 'albeit' introduces a phrase, not a free-standing sentence opener."
+    },
+    {
+      "text": "{1} though I respect his experience, I cannot accept his conclusion on this point.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "However",
+            "Despite",
+            "As"
+          ],
+          "hint": "intensifier + 'though' + subject + verb of feeling"
+        }
+      ],
+      "explanation": "'Much though + subject + verb' is an emphatic concessive equivalent of 'Much as I respect his experience' / 'although I greatly respect'. The slot needs the intensifier 'Much' before 'though'. 'However' would replace 'though' and take an adjective/adverb, not precede it; 'Despite' takes a noun or -ing, not 'though + clause'; 'As' would produce 'As though', which means 'as if', not concession."
+    },
+    {
+      "text": "{1} you decide, you can be sure the team will stand behind you completely.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "Despite",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + subject + verb (object understood) = 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + subject + verb' is the concessive 'no matter what (thing)': 'Whatever you decide' = 'no matter what you decide'. The verb 'decide' here lacks an object, so the pronoun 'Whatever' supplies it and functions as its object. 'Despite' is a preposition taking a noun or -ing, so it cannot head the finite clause 'you decide'; 'Much as' takes a verb of feeling directly and adds no 'no matter what' sense; 'Albeit' cannot head a finite clause with its own subject. (Note 'However' is avoided as a distractor here: 'However you decide' = 'in whatever manner you decide' would also be acceptable, so it is not clearly wrong.)"
+    },
+    {
+      "text": "{1} the fact that costs had tripled, the council refused to cancel the festival.",
+      "blanks": [
+        {
+          "answer": "In spite of",
+          "options": [
+            "In spite of",
+            "Even though",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "preposition phrase + 'the fact that' + clause = despite"
+        }
+      ],
+      "explanation": "'In spite of' is a prepositional phrase, so to govern a finite clause it must take the noun 'the fact' followed by a 'that'-clause: 'In spite of the fact that costs had tripled'. 'Even though' introduces a finite clause directly and cannot stand before 'the fact that' here ('Even though the fact that...' is ungrammatical); 'Much as' takes subject + verb, not 'the fact that'; 'Albeit' introduces a phrase, not 'the fact that' + clause."
+    },
+    {
+      "text": "{1} as he might, he could not prise the rusted lid from the jar.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Trying",
+            "However",
+            "Much"
+          ],
+          "hint": "bare verb + 'as he might' = no matter how hard he tried"
+        }
+      ],
+      "explanation": "The fixed emphatic concessive 'Try as he might' uses a bare verb + 'as + subject + might/may' to mean 'however hard he tried'. 'Trying as he might' is ungrammatical because the pattern demands the bare infinitive form, not the -ing participle; 'However' would need a following adverb ('However hard he tried') and no 'as'; 'Much' fits the different frame 'Much as he tried' (verb of feeling/effort) but not before the 'as he might' already supplied here."
+    },
+    {
+      "text": "The route is longer and the tolls are higher. {1}, I would still rather drive than face the airport.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Such as it is",
+            "As it were",
+            "Come what may"
+          ],
+          "hint": "fixed conjunct conceding the previous point: 'even if all that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is so', standing alone before a comma and conceding the whole preceding statement. 'Such as it is' qualifies a noun ('the food, such as it is'), not a previous sentence; 'As it were' softens a figurative expression ('a digital nomad, as it were') and is not concessive; 'Come what may' means 'whatever happens' and looks to the future rather than conceding an established fact."
+    },
+    {
+      "text": "{1} how persuasively they argue, the committee is unlikely to reverse its decision.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "Whatever",
+            "Much as"
+          ],
+          "hint": "___ + how + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter + how + adverb + subject + verb' ('No matter how persuasively they argue') concedes that the degree of an action changes nothing. 'However' carries the same meaning but takes the adverb directly without 'how' ('However persuasively they argue'), so it clashes with the 'how' already in the sentence; 'Whatever' precedes a noun or clause, not 'how'; 'Much as' is followed straight by subject + verb, not by 'how'."
+    },
+    {
+      "text": "{1} as it may seem, the quietest applicant turned out to be the most demanding negotiator.",
+      "blanks": [
+        {
+          "answer": "Strange",
+          "options": [
+            "Strange",
+            "Strangely",
+            "However",
+            "Albeit"
+          ],
+          "hint": "bare adjective + 'as it may seem' = though it seems strange"
+        }
+      ],
+      "explanation": "'Strange as it may seem' is a concessive inversion of the form 'adjective + as + subject + may + seem', meaning 'although it may seem strange'. The slot requires the bare adjective 'Strange' because 'seem' is a copular verb that takes an adjective complement, so the adverb 'Strangely' is wrong; 'However' would need to precede the adjective and drop 'as' ('However strange it may seem'); 'Albeit' introduces a phrase, not this inverted clause with its own subject and modal."
+    },
+    {
+      "text": "The northern branch posted record profits this quarter, {1} the southern branch barely broke even.",
+      "blanks": [
+        {
+          "answer": "whereas",
+          "options": [
+            "whereas",
+            "albeit",
+            "notwithstanding",
+            "much as"
+          ],
+          "hint": "subordinator of direct contrast between two clauses: 'while by contrast'"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinator of direct contrast, introducing a finite clause that is set against the main clause: '..., whereas the southern branch barely broke even'. 'Albeit' introduces a concessive phrase, not a full clause with its own subject and verb; 'Notwithstanding' is a preposition taking a noun phrase ('notwithstanding the figures'); 'Much as' is followed by a verb of feeling and means 'although', not the balanced 'by contrast' relationship needed here."
+    },
+    {
+      "text": "{1} he might, he could never persuade the committee to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "However",
+            "Much as",
+            "Granted"
+          ],
+          "hint": "fronts a bare verb of effort: ___ + subject + modal (might/would)"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive pattern 'Try as + subject + might/would', fronting the bare verb 'try' for emphasis and meaning 'however hard he tried'. 'However' requires a following adjective or adverb ('However hard he tried'), not the bare verb 'try'; 'Much as' is followed by a verb of feeling or attitude expressing degree ('Much as he admired'), not by the modal pattern 'try as ... might'; 'Granted' concedes a point and must be followed by a noun or a (that-)clause ('Granted his effort'), not by 'as he might'."
+    },
+    {
+      "text": "The risks are considerable, and the timing is poor. {1}, the board has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Be that as it may",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a fixed concessive conjunct linking back: 'that may be so, but...'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive concessive conjunct meaning 'even though that is so', standing alone before a comma and a full main clause that follows. 'Even though' must introduce a subordinate finite clause within the sentence, not stand free before a main clause; 'Much as' requires a following subject + verb of feeling ('Much as the board regrets it'); 'For all' must be followed by a noun phrase ('For all the risks'), not used as a free-standing connector."
+    },
+    {
+      "text": "{1} carefully you phrase the request, he is bound to take offence at it.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "Even if",
+            "No matter how",
+            "Despite"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree, it makes no difference"
+        }
+      ],
+      "explanation": "'No matter how + adverb (carefully) + subject + verb' concedes that no degree of care will change the outcome, exactly parallel to 'However carefully'. 'Whatever' takes a noun or noun phrase ('Whatever words you use'), not the adverb 'carefully'; 'Even if' introduces a conditional finite clause and cannot govern a fronted adverb of degree; 'Despite' is a preposition requiring a noun or -ing form, never an adverb followed by subject + verb."
+    },
+    {
+      "text": "{1} as he might, he could not budge the rusted bolt.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Much",
+            "Despite"
+          ],
+          "hint": "bare infinitive + 'as' + subject + 'might' = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive pattern 'bare verb + as + subject + might', meaning 'however hard he tried', and is followed by a negative main clause. 'However' would itself head the clause ('However hard he tried') rather than sit before 'as'; 'Much' begins 'Much as he tried' but cannot combine with the modal 'might' in this slot; 'Despite' is a preposition taking a noun or '-ing', not this inverted clause."
+    },
+    {
+      "text": "The scheme carries obvious risks. {1}, the potential rewards are too great to ignore.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as",
+            "Albeit",
+            "No matter"
+          ],
+          "hint": "a free-standing formal conjunct = 'in spite of that', before a comma and a full clause"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formal conjunct meaning 'in spite of that', which stands alone before a comma and links back to the previous sentence while introducing a full main clause. 'Much as' must be followed directly by subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing clause; 'No matter' is incomplete without 'how/what' and a following clause ('No matter how risky')."
+    },
+    {
+      "text": "{1} how carefully you phrase it, the message will offend someone.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "Despite",
+            "For all"
+          ],
+          "hint": "___ + 'how' + adverb + subject + verb = it makes no difference"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that no degree of care changes the outcome and requires the following 'how'. 'However' carries the same meaning but is not itself followed by a separate 'how' ('However carefully you phrase it'), so it cannot precede 'how' here; 'Despite' and 'For all' take a noun phrase, not the finite clause 'how carefully you phrase it'."
+    },
+    {
+      "text": "{1} reservations he may privately harbour, in public he supports the policy without question.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Albeit",
+            "Much as"
+          ],
+          "hint": "___ + noun + subject + 'may' + verb = no matter what"
+        }
+      ],
+      "explanation": "'Whatever + noun + subject + may + verb' is a concessive pattern meaning 'no matter what', here governing the noun 'reservations' ('Whatever reservations he may harbour'). 'However' would take an adjective/adverb, not the noun 'reservations'; 'Albeit' cannot head a finite clause with its own subject and modal; 'Much as' is followed directly by a verb of feeling, not by a noun object."
+    },
+    {
+      "text": "Strange {1} it may seem, the smallest department returned the largest profit that year.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "as",
+            "though as",
+            "however",
+            "despite"
+          ],
+          "hint": "fronted adjective + ___ + subject + verb = concessive 'as'"
+        }
+      ],
+      "explanation": "'Adjective + as + subject + verb' ('Strange as it may seem') is a concessive inversion meaning 'although it may seem strange', a fixed pattern in formal and literary English. 'Though as' doubles the connector and is ungrammatical; 'however' would precede the adjective ('However strange it may seem'); 'despite' cannot govern the finite clause 'it may seem'."
+    },
+    {
+      "text": "The costs are admittedly high. {1}, the long-term benefits more than justify the investment.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct conceding the previous point: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', standing alone before a comma and conceding the preceding sentence before countering it. 'Much as it may' and 'However it may' are incomplete fragments that demand a following verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} as he might, he could not prise the lid off the jar.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Trying",
+            "Tried",
+            "However"
+          ],
+          "hint": "fixed pattern: bare verb + 'as he might' = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('Bare verb + as + subject + might') meaning 'however hard he tried'. The verb must be the bare infinitive form 'Try'; the participles 'Trying'/'Tried' break the fixed pattern, and 'However' would require an adverb and a different structure ('However hard he tried')."
+    },
+    {
+      "text": "I see no reason to change course now. {1}, I am willing to review the decision in six months.",
+      "blanks": [
+        {
+          "answer": "That said",
+          "options": [
+            "That said",
+            "Said that",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a conjunct qualifying one's own previous statement: 'having said that'"
+        }
+      ],
+      "explanation": "'That said' is a fixed conjunct ('having said that') used to introduce a qualification or partial concession to one's own preceding statement, standing alone before a comma. 'Said that' reverses the fixed order and is ungrammatical here; 'Much as' needs a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a main clause."
+    },
+    {
+      "text": "{1} though I respect his judgement, I cannot agree on this occasion.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "However",
+            "Despite",
+            "As"
+          ],
+          "hint": "fronted intensifier + 'though' + subject + verb"
+        }
+      ],
+      "explanation": "'Much though I respect his judgement' uses the pattern 'Much + though + subject + verb', an emphatic equivalent of 'although I greatly respect'. 'However' would itself head the clause ('However much I respect'), not sit before 'though'; 'Despite' takes a noun/-ing, not a finite clause; 'As' would require the intensifier to precede it ('Much as I respect'), not follow with 'though'."
+    },
+    {
+      "text": "The evidence against him was overwhelming. {1}, the jury chose to acquit.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all that",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct meaning 'in spite of that / nevertheless'"
+        }
+      ],
+      "explanation": "'For all that' is a fixed concessive conjunct meaning 'in spite of that / nevertheless', linking back to the preceding sentence and standing alone before a comma. It differs from 'For all + noun phrase' ('For all his talent'): 'For all' alone cannot stand before a comma without a following noun; 'Much as' demands a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "Try {1} he might, he could not persuade the panel to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "as",
+            "though",
+            "however",
+            "much"
+          ],
+          "hint": "fixed emphatic pattern: 'Try ___ + subject + might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('verb + as + subject + might/may') meaning 'however hard he tried'. 'Though' does not occur in this frozen pattern after the bare verb 'Try'; 'however' would have to stand at the front of the clause ('However hard he tried'); 'much' does not link the fronted verb to the modal here."
+    },
+    {
+      "text": "The forecast is gloomy. {1}, the board has decided to press ahead with the expansion.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "However much",
+            "Granted that",
+            "Much as"
+          ],
+          "hint": "a fixed subjunctive conjunct meaning 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic concession (a fossilised subjunctive) meaning 'even if that is so', standing alone before a comma and a full main clause. 'However much' and 'Much as' require a following clause within the same sentence; 'Granted that' must be followed by the conceded clause itself, not used as a free-standing link back to the previous sentence."
+    },
+    {
+      "text": "{1} I am to criticise a colleague, I cannot let this error pass unremarked.",
+      "blanks": [
+        {
+          "answer": "Loath as",
+          "options": [
+            "Loath as",
+            "Loath that",
+            "However loath",
+            "Much as"
+          ],
+          "hint": "fronted adjective + ___ + subject + be = 'although I am reluctant'"
+        }
+      ],
+      "explanation": "The pattern 'Adjective + as + subject + be' ('Loath as I am') fronts the adjective for an emphatic concession meaning 'although I am reluctant'. 'Loath that' is ungrammatical, as 'that' cannot link a fronted predicative adjective to its clause; 'However loath' would require no second connector and a different word order ('However loath I am'); 'Much as' takes a verb of feeling, not the predicative adjective 'loath'."
+    },
+    {
+      "text": "{1} how eloquently he argues, the facts are simply not on his side.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "For all",
+            "Albeit",
+            "Notwithstanding"
+          ],
+          "hint": "___ + how/what/who + clause = it makes no difference that"
+        }
+      ],
+      "explanation": "'No matter how + adverb + clause' concedes that the degree of eloquence is irrelevant to the outcome: 'No matter how eloquently he argues'. 'For all' and 'Notwithstanding' take a noun phrase, not 'how + clause'; 'Albeit' introduces a concessive phrase, not a 'how'-clause with its own finite verb."
+    },
+    {
+      "text": "{1} though I value your loyalty, I must ask you to report the matter honestly.",
+      "blanks": [
+        {
+          "answer": "Much",
+          "options": [
+            "Much",
+            "As",
+            "However",
+            "For all"
+          ],
+          "hint": "___ + though + subject + verb (of feeling) = 'although I greatly...'"
+        }
+      ],
+      "explanation": "'Much though + subject + verb' ('Much though I value your loyalty') is a variant of 'Much as', fronting the degree word before 'though' to mean 'although I greatly value'. 'As though' would mean 'as if', changing the sense entirely; 'However' needs an adjective/adverb directly after it, not 'though'; 'For all' must govern a noun phrase, not a finite clause introduced by 'though'."
+    },
+    {
+      "text": "{1} he might, he could not persuade them to reconsider the verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Try though",
+            "As try",
+            "Much as"
+          ],
+          "hint": "fronts a bare verb: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive pattern in which a bare verb is fronted and followed by 'as', the subject, and the modal 'might'/'may' ('Try as he might' = 'However hard he tried'). 'Try though' is impossible because 'though' does not take a fronted bare verb plus a modal in this slot; 'As try' simply reverses the words and is ungrammatical; 'Much as' must be followed directly by a finite verb of feeling ('Much as he tries'), not by a fronted infinitive plus 'might'."
+    },
+    {
+      "text": "The road ahead will be difficult. {1}, the government intends to press ahead with the reforms.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "However that may be it",
+            "As that may be",
+            "Be as it may that",
+            "Be that as it may"
+          ],
+          "hint": "fixed subjunctive conjunct = 'even granting all that'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive idiom using the subjunctive 'be'; it stands alone as a conjunct meaning 'even granting that' and links back to the preceding sentence. The distractors all scramble the fixed word order: 'However that may be it' adds a stray 'it'; 'As that may be' drops the obligatory subjunctive 'be' opening; and 'Be as it may that' mislinearises the components, since the idiom is frozen in exactly the order 'Be that as it may'."
+    },
+    {
+      "text": "{1} how forcefully they argue their case, the outcome has already been decided.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "No matter",
+            "Whatever",
+            "Despite"
+          ],
+          "hint": "___ + how/what/who + clause = 'it makes no difference'"
+        }
+      ],
+      "explanation": "'No matter + how/what/who + clause' concedes that the circumstance is irrelevant to the result, and here 'No matter how forcefully they argue' fits because 'how' supplies the adverb. 'However' cannot precede 'how' ('However how' is ungrammatical, as 'however' would itself replace 'how forcefully'); 'Whatever' takes a noun or noun-clause, not the adverbial 'how forcefully'; 'Despite' is a preposition requiring a noun phrase or -ing, not the finite clause 'how forcefully they argue'."
+    },
+    {
+      "text": "{1} reservations the panel may harbour, they are obliged to publish their findings in full.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "No matter",
+            "Much as",
+            "Whatever"
+          ],
+          "hint": "___ + noun + subject + may + verb = 'any ... that'"
+        }
+      ],
+      "explanation": "'Whatever' here functions as a concessive determiner before the noun 'reservations' ('Whatever reservations the panel may harbour' = 'any reservations that they may have, it makes no difference'). 'However' modifies an adjective or adverb, not a bare noun like 'reservations'; 'No matter' would require a following 'what' ('No matter what reservations'), so it cannot stand directly before the noun; 'Much as' must be followed by a subject and a finite verb, not by a noun phrase."
+    },
+    {
+      "text": "{1} as it may seem, the quietest applicant turned out to be the most persuasive of all.",
+      "blanks": [
+        {
+          "answer": "Strange",
+          "options": [
+            "Strangely",
+            "Though strange",
+            "Strange",
+            "However strange"
+          ],
+          "hint": "bare adjective + as + it + may seem = concessive comment"
+        }
+      ],
+      "explanation": "The frozen concessive comment 'Strange as it may seem' fronts the bare adjective 'Strange' before 'as it may seem', meaning 'although it may seem strange'. The adverb 'Strangely' cannot fill an adjective slot governed by the linking 'seem'; 'Though strange' doubles the concessive marker, since 'as' already carries the concessive force; 'However strange' belongs to a different pattern ('However strange it may seem') that has no room for the following 'as'."
+    },
+    {
+      "text": "Try {1} he might, he could not push the boulder even an inch.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though",
+            "as",
+            "however",
+            "much"
+          ],
+          "hint": "fixed pattern: Try ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom built on the inverted pattern 'verb + as + subject + may/might', meaning 'however hard he tried'. The slot requires 'as': 'though' does not occur in this fronted-verb formula ('Try though he might' is not idiomatic standard English); 'however' would itself begin the clause and take an adverb ('However hard he tried'); 'much' cannot link the fronted bare verb 'Try' to the subject. The pattern is noted in the Cambridge Grammar of English as a literary/emphatic concessive (compare 'Search as they would')."
+    },
+    {
+      "text": "The scheme is expensive and the timing is poor. {1}, the council voted to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as that",
+            "However that",
+            "Be that as it may",
+            "Albeit so"
+          ],
+          "hint": "a fixed clause-conjunct meaning 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct (a subjunctive formula) meaning 'even if that is so / in spite of that', standing alone before a comma and linking back to the previous sentence. The distractors are all non-existent or ill-formed: 'Much as that' lacks the required following subject + verb; 'However that' is not a standard connector and needs an adjective/adverb; 'Albeit so' is not idiomatic and 'albeit' cannot stand as a free sentence-opener before a full main clause. The formula is listed in Swan, Practical English Usage, among fixed subjunctive expressions."
+    },
+    {
+      "text": "{1} I respect the tradition, I believe the rule has outlived its usefulness.",
+      "blanks": [
+        {
+          "answer": "Much though",
+          "options": [
+            "As much",
+            "For all",
+            "Albeit",
+            "Much though"
+          ],
+          "hint": "'___ + subject + verb', an emphatic variant of 'much as'"
+        }
+      ],
+      "explanation": "'Much though I respect the tradition' is the emphatic concessive pattern 'Much though + subject + verb', a near-synonym of the more familiar 'Much as I respect…', both meaning 'although I greatly respect'. The fronted 'much' carries the degree and 'though' is the concessive linker. 'As much' simply inverts the words of 'much as' and is ungrammatical in this fronted position; 'For all' requires a bare noun phrase ('For all my respect for the tradition'), not the finite clause 'I respect the tradition'; 'Albeit' cannot head a full finite clause with its own subject and verb. The 'Adverb + though + subject + verb' inversion is described in the Cambridge Grammar of English."
+    },
+    {
+      "text": "The new policy is controversial; many staff dislike it. {1}, it has measurably cut waiting times.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all",
+            "For all that",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a conjunct meaning 'in spite of that', standing before a comma"
+        }
+      ],
+      "explanation": "'For all that' is a sentence conjunct meaning 'in spite of all that / nevertheless', referring back to the previous statement and standing alone before a comma. Plain 'For all' is a preposition needing a following noun phrase ('For all its faults'), so it cannot stand alone before a comma here; 'Much as' must be followed directly by a subject + verb in the same sentence; 'Albeit' introduces a concessive phrase qualifying a preceding element, not a free-standing connector before a new main clause. The conjunct use of 'for all that' is recorded in the Cambridge Grammar of English."
+    },
+    {
+      "text": "{1} how carefully we plan, some unforeseen problem always arises on the day.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "Whatever",
+            "No matter",
+            "Much as"
+          ],
+          "hint": "___ + how + adverb + subject + verb = 'it makes no difference how…'"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' ('No matter how carefully we plan') is a concessive of indifference meaning 'it makes no difference how carefully we plan'. The slot is followed by the existing word 'how', and only 'No matter' combines with 'how' in this frame. 'However' already contains the sense of 'how' and so cannot precede a second 'how' ('However how carefully' is ungrammatical — one says 'However carefully we plan'); 'Whatever' pairs with a noun, not with 'how + adverb'; 'Much as' is followed directly by subject + verb, not by 'how'. The 'No matter + wh-word' construction is treated as a universal concessive conditional in the Cambridge Grammar of English."
+    },
+    {
+      "text": "Try {1} he might, he could not shift the boulder from the path.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "much",
+            "as",
+            "however",
+            "despite"
+          ],
+          "hint": "fixed concessive: Try ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might' = 'No matter how hard he tried'. 'Much' does not fit this frozen slot ('Try much he might' is not English); 'however' would front the whole clause ('However hard he tried'); 'despite' cannot govern the finite verb 'might'."
+    },
+    {
+      "text": "{1} how carefully you plan, some things will always go wrong on the day.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "For all",
+            "Much as",
+            "No matter",
+            "Albeit"
+          ],
+          "hint": "___ + how/what/who + clause = it makes no difference that"
+        }
+      ],
+      "explanation": "'No matter how + adverb + clause' concedes that the outcome is unaffected by any degree: 'No matter how carefully you plan' = 'However carefully you plan'. 'For all' takes a noun phrase, not 'how + clause'; 'Much as' is followed directly by subject + verb; 'Albeit' cannot introduce a finite clause with its own subject."
+    },
+    {
+      "text": "Your objections are noted. {1}, the board has decided to proceed with the plan.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as it is",
+            "Be that as it may",
+            "However it be",
+            "Albeit so"
+          ],
+          "hint": "a fixed formal conjunct: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formal conjunct (a subjunctive fossil) meaning 'even if that is true' / 'nevertheless', standing alone before a comma and linking back to the previous sentence. The other options are invented, ungrammatical strings; none is an established English connector."
+    },
+    {
+      "text": "Strange {1} it may seem, the two rivals became the closest of friends.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though as",
+            "however",
+            "as",
+            "that"
+          ],
+          "hint": "fronted adjective + ___ + it + may + seem = concessive inversion"
+        }
+      ],
+      "explanation": "'Adjective + as + it may + verb' ('Strange as it may seem') is a concessive inversion meaning 'although it may seem strange'. 'Though as' doubles the connector and is ungrammatical; 'however' would precede the adjective ('However strange it may seem'); 'that' would make a noun clause, losing the concessive sense."
+    },
+    {
+      "text": "The scheme is expensive and slow to set up. {1}, the long-term savings more than justify it.",
+      "blanks": [
+        {
+          "answer": "That said",
+          "options": [
+            "Much as",
+            "That said",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "a conjunct meaning 'in spite of what was just said'"
+        }
+      ],
+      "explanation": "'That said' is a sentence conjunct meaning 'in spite of what has just been said', standing alone before a comma and conceding the previous point before countering it. 'Much as' and 'For all' must be followed by a clause or noun phrase within the same sentence; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fronted bare verb + ___ + subject + modal = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may/do' is a fixed concessive inversion in which the bare verb is fronted: 'Try as he might' = 'however hard he tried'. 'As try' inverts the words and is ungrammatical; 'However' would need a following adjective/adverb ('However hard'); 'Much as' takes a verb of feeling with its own subject ('Much as he tried'), not the fronted bare verb + subject + modal pattern."
+    },
+    {
+      "text": "{1} late it was, the shops on the main square were still crowded with tourists.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = 'regardless of how'"
+        }
+      ],
+      "explanation": "'No matter how + adjective/adverb + subject + verb' means 'regardless of how': 'No matter how late it was'. 'Much as' takes a verb directly, not the adjective 'late'; 'For all' takes a bare noun phrase; 'Albeit' cannot head a finite clause with its own subject ('it was')."
+    },
+    {
+      "text": "{1} the reasons for the delay, the customers deserve a full refund.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = 'no matter what' / 'irrespective of'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' has a concessive sense of 'no matter what' / 'irrespective of': 'Whatever the reasons for the delay' = 'no matter what the reasons were'. 'However' would need a following adjective/adverb; 'Much as' takes a subject + verb; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "The scheme may well save money in the short term. {1}, the long-term costs could be crippling.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "a fixed conjunct conceding the previous sentence: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive conjunct meaning 'even if that is true', which concedes the preceding sentence before countering it and stands alone before a comma. 'Even though' must introduce a subordinate clause within the same sentence; 'Much as' needs a following subject + verb; 'Notwithstanding' is a preposition requiring a following noun phrase, not a free-standing connector."
+    },
+    {
+      "text": "{1} the risks involved, the surgeon judged that operating was the only realistic option.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "For all",
+            "Even though",
+            "While",
+            "Much as"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all the risks involved' = 'despite the risks'. 'Even though' and 'While' introduce a finite clause, not a bare noun phrase; 'Much as' must be followed by a subject and verb ('Much as the risks worried her'), not by the bare noun phrase 'the risks involved'."
+    },
+    {
+      "text": "{1} how carefully you phrase the criticism, someone on the committee is bound to take offence.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "For all",
+            "Whatever"
+          ],
+          "hint": "___ + how + adverb + finite clause = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' is a concessive structure meaning 'to whatever degree', so 'No matter how carefully you phrase it' fits before the following 'how'. 'However' cannot precede 'how': it would itself replace it ('However carefully you phrase it'), making 'However how' ungrammatical. 'For all' must be followed by a noun phrase ('For all your care'), not by 'how'. 'Whatever' also takes a noun ('Whatever the wording'), not the adverbial 'how carefully'."
+    },
+    {
+      "text": "The scheme is costly and its long-term benefits remain unproven. {1}, the board has resolved to press ahead with it.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much though",
+            "As it may"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma + main clause = 'even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so' or 'granting all that', which stands alone before a comma and a full main clause, linking back to the preceding sentence. 'Even though' must introduce a subordinate clause within the sentence, not stand on its own before an independent clause. 'Much though' requires a following verb or adjective ('Much though I admire it'), so it cannot stand alone. 'As it may' is only a fragment of the idiom and is ungrammatical in isolation."
+    },
+    {
+      "text": "{1}, he could not persuade the rusty lock to open.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Much as he might",
+            "Try as he might",
+            "However he might",
+            "As much he might"
+          ],
+          "hint": "fronted bare verb + as + subject + modal = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as he might' is the fronted-verb concessive inversion 'Verb + as + subject + might/would', meaning 'however hard he tried'. 'Much as he might' and 'However he might' leave the modal 'might' with no infinitive to complete it and no adverb after 'However', so both are incomplete; 'As much he might' simply scrambles the word order and is ungrammatical."
+    },
+    {
+      "text": "The scheme is costly and the timeline dangerously tight. {1}, the board has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Much as",
+            "Even though",
+            "Be that as it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct linking back: 'even so / that notwithstanding'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed conjunct meaning 'even so', standing alone before a comma and referring back to the previous sentence. 'Much as' requires a following subject + verb; 'Even though' must introduce a subordinate clause within the same sentence, not stand free before a comma; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} carefully we planned each stage, something always went wrong at the last minute.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "No matter what",
+            "No matter how",
+            "Much as"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb (carefully) + subject + verb' concedes that no degree of care changed the outcome. 'Whatever' and 'No matter what' govern a noun or clause, not the adverb 'carefully', so 'Whatever carefully' / 'No matter what carefully' are ungrammatical; 'Much as' is followed directly by a subject and verb, not by an adverb."
+    },
+    {
+      "text": "{1} as they might, the investigators could not establish how the intruder had entered the building.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Hard",
+            "Much",
+            "Try",
+            "Even"
+          ],
+          "hint": "fixed idiom: ___ as + subject + might/would = however hard they tried"
+        }
+      ],
+      "explanation": "'Try as they might' is a fixed concessive idiom — fronted bare verb + 'as' + subject + 'might/would' — meaning 'however hard they tried'. Since the modal 'might' already follows the subject, the fronted slot must hold the lexical verb 'Try'. 'Hard' and 'Much' are an adverb and a quantifier that would each still need a following verb ('Hard as they might try', 'Much as they tried'), so neither completes 'as they might'; 'Even as they might' is temporal or ungrammatical, not concessive."
+    },
+    {
+      "text": "{1} much the authorities invest in flood defences, the low-lying villages remain vulnerable.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "For all",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of investment alters the result (= 'no matter how much they invest'). 'For all' takes a bare noun phrase ('For all their investment'), not 'much + clause'; 'Much as' would double the quantifier ('Much as much') and is in any case followed directly by a verb, not by 'much'; 'Albeit' cannot head a finite clause with its own subject and verb ('the authorities invest')."
+    },
+    {
+      "text": "The board's reservations {1}, the chief executive pushed the acquisition through.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "although",
+            "despite",
+            "however",
+            "notwithstanding"
+          ],
+          "hint": "used post-nominally, after its noun phrase: [noun phrase] ___, ... = in spite of"
+        }
+      ],
+      "explanation": "Here 'notwithstanding' is used post-nominally: it follows the noun phrase it governs ('The board's reservations notwithstanding'), a formal alternative to the fronted 'Notwithstanding the board's reservations'. 'Despite' is also a preposition but can only precede its noun, never follow it; 'although' is a subordinating conjunction that must introduce a finite clause, not sit after a bare noun phrase; 'however' requires a following adjective or adverb and an altogether different structure."
+    },
+    {
+      "text": "{1} she might, she could not persuade the committee to reconsider its decision.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fixed idiom: verb + ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as she might' is a fixed concessive idiom of the form 'verb + as + subject + might/may', meaning 'however hard she tried'. 'As try' merely reverses the words and is ungrammatical; 'However' must be followed by an adjective or adverb ('However hard she tried'), not stand bare before the subject; 'Much as' takes a verb of feeling or opinion directly after the subject ('Much as I admire her') and cannot supply the fronted lexical verb 'try' that this idiom needs before the modal 'might'."
+    },
+    {
+      "text": "The early results are certainly encouraging. {1}, we must not allow ourselves to become complacent.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Albeit",
+            "Whereas"
+          ],
+          "hint": "fixed subjunctive conjunct standing alone before a comma = 'even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic conjunct using the subjunctive 'be', meaning 'even so' or 'that may be true, but'; it stands alone before a comma and concedes the previous sentence before countering it. 'Even though' is a subordinator that must introduce a finite clause inside the same sentence, not stand alone before a main clause; 'Albeit' introduces a reduced concessive phrase (an adjective or adverbial), not a free-standing sentence connector; 'Whereas' is likewise a subordinating conjunction of contrast that must join two clauses within one sentence and cannot stand alone before a comma."
+    },
+    {
+      "text": "{1} the outcome of tomorrow's vote, the government has already forfeited much of its credibility.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase (+ may be) = no matter what"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' forms a concessive clause meaning 'no matter what ... may be': 'Whatever the outcome (may be)', with 'may be' commonly omitted to leave a verbless concessive. 'However' must be followed by an adjective or adverb ('However close the vote'), not a bare noun; 'Much as' requires a following subject and verb ('Much as we hoped'); 'Albeit' introduces a subordinate concessive phrase attached to an already-stated point and cannot head an independent 'no matter what' clause."
+    },
+    {
+      "text": "The scheme is expensive and logistically complex. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Be that as it may",
+            "For all"
+          ],
+          "hint": "a fixed conjunct = 'even so / nevertheless', standing alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands alone before a comma and is followed by an independent main clause that concedes the previous sentence. 'Even though' must introduce a subordinate finite clause, not stand alone before a comma; 'Much as' requires a following subject + verb ('Much as it costs'); 'For all' must be followed by a noun phrase ('For all its expense')."
+    },
+    {
+      "text": "{1} of his proposal, the timing could hardly have been worse.",
+      "blanks": [
+        {
+          "answer": "Whatever the merits",
+          "options": [
+            "However",
+            "Much as",
+            "Even though",
+            "Whatever the merits"
+          ],
+          "hint": "elliptical concession: ___ [may be] + 'of' + noun"
+        }
+      ],
+      "explanation": "'Whatever the merits (of his proposal)' is an elliptical concessive clause — 'whatever the merits may be' — conceding the point regardless of how the argument is judged, and is uniquely able to be followed by 'of + noun'. 'However' needs a following adjective or adverb, not 'of'; 'Much as' requires a subject + finite verb; 'Even though' must introduce a complete finite clause, not the fragment 'of his proposal'."
+    },
+    {
+      "text": "{1} as she might, she could never persuade him to change his mind.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "However",
+            "Even"
+          ],
+          "hint": "fixed concessive idiom: ___ + 'as' + subject + 'might/may' = 'however hard she tried'"
+        }
+      ],
+      "explanation": "'Try as she might' is a fixed concessive inversion of the pattern '[lexical verb] + as + subject + may/might', meaning 'however hard she tried'. 'Much as' must be followed by a verb of feeling or degree ('Much as she admires him') and cannot stand with only the bare modal 'might'; 'However' is not followed by 'as' but by an adjective or adverb ('However hard she tried'); 'Even as' is temporal ('at the very moment that'), not concessive. Only 'Try' completes the idiom."
+    },
+    {
+      "text": "The scheme is costly and its benefits far from certain. {1}, the council has resolved to press ahead.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a free-standing concessive formula meaning 'nevertheless', complete in itself before the comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive formula equivalent to 'nevertheless' or 'even so'; it is complete in itself and stands alone before the comma introducing a full main clause. 'Even though' is a subordinator that must be followed immediately by a finite clause, not left standing before an independent one; 'Much as' requires a subject and verb ('Much as it costs'); 'For all' must govern a noun phrase ('For all its cost'). None of the three can occupy a free-standing conjunct slot, so only 'Be that as it may' fits."
+    },
+    {
+      "text": "{1} he might, he could never persuade the committee to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "However",
+            "Try as",
+            "Even if"
+          ],
+          "hint": "fronts a lexical verb so end-stranded 'might' is licensed: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive pattern 'Try as + subject + might/may', where the fronted verb 'try' is what allows the modal 'might' to stand with no following infinitive (= 'however hard he might try'). Every distractor leaves 'might' stranded because none fronts a lexical verb: 'Much as' must be followed directly by a verb of feeling ('Much as he admires'), not a bare modal; 'However' requires an immediately following gradable adjective/adverb ('However hard he might try'); 'Even if' introduces an ordinary conditional clause and cannot license a verbless 'he might'."
+    },
+    {
+      "text": "{1} carefully she explained the rules, the students remained thoroughly confused.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "No matter how",
+            "Much as",
+            "Regardless"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that no degree of an action changes the outcome: 'No matter how carefully she explained'. The distractors all fail before the adverb 'carefully': 'Whatever' governs a noun phrase, not a manner adverb ('Whatever carefully' is ungrammatical); 'Much as' is followed directly by subject + verb with no adverb slot ('Much as she explained'); 'Regardless' is not a conjunction here and would require 'regardless of' plus a noun phrase."
+    },
+    {
+      "text": "The prototype exceeded every performance target. {1}, the board still refused to fund full production.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "For all",
+            "Much as",
+            "Be that as it may"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma: 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands complete before a comma and is followed by an independent main clause. The distractors cannot stand alone in this slot: 'Even though' is a subordinator that must introduce its own finite clause, not sit isolated before a comma and a separate main clause; 'For all' requires a following noun phrase ('For all its success'); 'Much as' requires a following subject + verb ('Much as it impressed us')."
+    },
+    {
+      "text": "{1} obstacles they encountered on the way, the team pressed on regardless.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun + subject + verb = no matter what/which"
+        }
+      ],
+      "explanation": "'Whatever + noun + subject + verb' ('Whatever obstacles they encountered') is a concessive nominal relative meaning 'no matter what obstacles they encountered'. 'However' requires a following adjective or adverb ('However many obstacles'), not a bare noun; 'Much as' is followed directly by a subject and verb ('Much as they struggled'); 'Albeit' cannot head a finite clause with its own subject and verb."
+    },
+    {
+      "text": "{1} as she might, she could not remember where she had left the documents.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "However",
+            "Despite",
+            "Whatever"
+          ],
+          "hint": "fronted bare verb + as + subject + might = however hard she tried"
+        }
+      ],
+      "explanation": "'Verb + as + subject + might/may' ('Try as she might') is an emphatic concessive meaning 'however hard she tried'. The bare verb is fronted before 'as ... might'; only a verb fits this slot. 'However' would need a following adjective/adverb and its own clause; 'Despite' governs a noun or -ing, not 'as she might'; 'Whatever' introduces a noun or nominal clause, not the fixed 'as she might' frame."
+    },
+    {
+      "text": "The consultants have raised a number of legitimate concerns. {1}, we have neither the time nor the budget to revisit the design now.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "a fixed concessive conjunct standing alone: 'even if that is so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', standing alone before a comma and referring back to the previous sentence. 'Much as' must be followed immediately by a subject and a verb of feeling ('Much as we respect them'); 'For all' requires a following noun phrase ('For all their concerns'); 'Albeit' introduces a concessive phrase such as an adjective or adverbial, never a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} many times the safety procedure is rehearsed, someone always freezes in a real emergency.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "No matter that",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + quantifier/adverb + clause = to whatever degree"
+        }
+      ],
+      "explanation": "'No matter how + quantifier/adverb + clause' concedes that to any degree the outcome is unchanged: 'No matter how many times it is rehearsed, someone always freezes.' 'No matter that' takes a bare fact ('No matter that it is rehearsed'), not the fronted quantifier 'many times'; 'Much as' is followed directly by a subject and a verb of feeling, not by 'many times'; 'For all' requires a bare noun phrase ('For all the rehearsals'), not this fronted-quantifier clause."
+    },
+    {
+      "text": "The pilot scheme was scrapped after only six months, {1} it had exceeded every target set for it.",
+      "blanks": [
+        {
+          "answer": "despite the fact that",
+          "options": [
+            "despite the fact that",
+            "despite",
+            "notwithstanding",
+            "albeit"
+          ],
+          "hint": "lets a preposition govern a finite clause: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Despite the fact that' allows the preposition 'despite' to govern a finite clause: the noun 'the fact' serves as its object and 'that + clause' completes it, giving 'despite the fact that it had exceeded every target'. Bare 'despite' cannot be followed directly by a finite clause ('despite it had exceeded'); 'notwithstanding' likewise takes a noun phrase, not a subject + verb; 'albeit' introduces only a concessive phrase (an adjective or adverbial), not a full clause with its own subject and verb."
+    },
+    {
+      "text": "{1} as he might, he could never remember where he had put his keys.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "Hard",
+            "However"
+          ],
+          "hint": "fixed idiom: ___ as + subject + might/could = 'however hard he tried'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('___ as + subject + might/could') meaning 'however hard he tried'. 'Much' gives 'Much as he might', which is incomplete because 'much as' needs a verb of feeling ('Much as he loves it'), not a bare modal; 'Hard as he might' is nonstandard — the collocation is 'Hard as he tried', with a lexical verb, not 'might'; 'However' cannot stand before 'as' and would itself open the clause ('However hard he tried')."
+    },
+    {
+      "text": "The treatment is costly and far from guaranteed. {1}, it offers the only real hope of a cure.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a fixed conjunct = 'even so / nevertheless', standing alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless'; it stands alone before a comma and links back to the preceding sentence. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone; 'Much as' requires a following subject + verb ('Much as it costs'); 'For all' must be followed by a noun phrase ('For all its cost')."
+    },
+    {
+      "text": "{1} the true reason for his resignation, the timing could hardly have been worse for the party.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Albeit",
+            "For all"
+          ],
+          "hint": "___ + noun phrase (+ may be) = 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the true reason') is a universal concessive meaning 'no matter what the reason was'. 'However' must be followed by an adjective or adverb ('However genuine the reason'), not a bare noun phrase; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted subject noun phrase; 'For all' would mean 'in spite of', which clashes with a reason presented as unknown ('no matter what it was')."
+    },
+    {
+      "text": "{1} it should cost me my job, I intend to make these findings public.",
+      "blanks": [
+        {
+          "answer": "Even if",
+          "options": [
+            "Even if",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "introduces a hypothetical concession (it may or may not happen) + finite clause"
+        }
+      ],
+      "explanation": "'Even if' introduces a hypothetical, as-yet-unrealised concession: the speaker does not know whether it will cost the job, only that the decision stands regardless. 'Even though' would assert the cost as an established fact, contradicting the hypothetical 'should cost'; 'Much as' needs a verb of feeling and a plain subject + verb ('Much as I value my job'); 'Notwithstanding' is a preposition and must govern a noun phrase ('Notwithstanding the risk'), not a finite clause."
+    },
+    {
+      "text": "I have made my decision, and I shall stand by it, {1}.",
+      "blanks": [
+        {
+          "answer": "come what may",
+          "options": [
+            "come what may",
+            "even so",
+            "albeit",
+            "much as"
+          ],
+          "hint": "a fixed end-placed idiom = 'whatever happens'"
+        }
+      ],
+      "explanation": "'Come what may' is a fixed universal-concessive idiom meaning 'whatever happens', naturally placed at the end after a comma. 'Even so' is a conjunct that introduces its own main clause ('Even so, I shall stand by it'), not a trailing tag; 'Albeit' must be followed by a concessive phrase (an adjective or prepositional phrase), not left dangling; 'Much as' requires a following subject + verb and cannot close the sentence."
+    },
+    {
+      "text": "{1} he might, he could never quite earn his father's unconditional approval.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Much as",
+            "However",
+            "For all"
+          ],
+          "hint": "fronted verb + ___ + subject + might/may = 'although he tried hard'"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed literary concessive in which the lexical verb is fronted and followed by 'as' + subject + the modal 'might/may', meaning 'however hard he tried'. 'Much as' must be followed directly by a lexical verb of feeling ('Much as he admires'), not by the bare modal 'might'; 'However' would require a following adjective or adverb ('However hard he might try'); 'For all' governs a noun phrase, not the sequence 'he might'."
+    },
+    {
+      "text": "{1}, the board's decision is final and will not be reopened for debate.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as",
+            "For all",
+            "Notwithstanding"
+          ],
+          "hint": "a self-contained concessive conjunct standing alone before a full main clause"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, self-contained concessive conjunct meaning 'even if that is true', and it stands complete before a comma and a full main clause. 'Much as' cannot stand alone: it demands an immediately following subject + verb ('Much as I sympathise'); 'For all' requires a following noun phrase ('For all its merits'); 'Notwithstanding' as an adverb ('nevertheless') is placed at the end of its clause, not fronted before a comma, and as a preposition it must govern a noun phrase — so none of the distractors can occupy this free-standing slot."
+    },
+    {
+      "text": "{1} she might, she could not persuade the committee to reconsider its verdict.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As much",
+            "However",
+            "Much as"
+          ],
+          "hint": "lexical verb + ___ + subject + might/may = however hard she tries"
+        }
+      ],
+      "explanation": "'Try as she might' is the fixed concessive pattern 'Verb + as + subject + might/may', meaning 'however hard she tries'; the lexical verb ('try') is fronted before 'as'. 'As much' merely inverts words and leaves no verb of effort; 'However' would require an adverb and its own verb ('However hard she tried'); 'Much as' places a verb of feeling directly after it ('Much as I admire her') and cannot govern the bare modal 'might' with no following lexical verb."
+    },
+    {
+      "text": "The scheme is undeniably costly. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "a fixed subjunctive conjunct meaning 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fossilised subjunctive concessive conjunct meaning 'that may well be true, but even so'; it stands alone before a comma and refers back to the previous sentence. 'Even though' must introduce a subordinate finite clause inside a single sentence, not stand free; 'Much as' requires a following subject and verb of feeling; 'For all' must be followed by a noun phrase ('For all its cost'), not used as a free-standing connector."
+    },
+    {
+      "text": "{1} the cost, the government is determined to see the flood-defence project through to completion.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Albeit",
+            "Much as"
+          ],
+          "hint": "___ + noun phrase = no matter what the ... may be"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the cost') is an elliptical concessive meaning 'no matter what the cost may be', where 'may be' is understood. 'However' governs an adjective or adverb, not a bare noun ('However high the cost'); 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted noun heading a new main clause; 'Much as' requires a following subject and verb."
+    },
+    {
+      "text": "{1} they might, the negotiators could not reach a settlement acceptable to both parties.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Much as",
+            "However"
+          ],
+          "hint": "fixed inversion: bare verb + as + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as they might' is a fixed concessive inversion, 'bare verb + as + subject + might/may', meaning 'however hard they tried': the fronted infinitive 'try' is picked up by the modal 'might'. 'As try' reverses the two opening words and is ungrammatical. 'Much as' needs its own lexical verb ('Much as they wanted to' / 'Much as they might wish'); here it would leave the modal 'might' stranded with no verb, so 'Much as they might,' is incomplete. 'However' must be followed by an adjective or adverb ('However hard they tried'), not by a bare subject."
+    },
+    {
+      "text": "The scheme is admittedly costly to launch. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Be it as that may",
+            "Much as that may",
+            "However may that be"
+          ],
+          "hint": "fixed formulaic conjunct = 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic conjunct (a fossilised subjunctive) meaning 'even so / nevertheless', standing alone before a comma and conceding the previous statement. 'Be it as that may' scrambles the fixed word order and is ungrammatical. 'Much as that may' is incomplete: 'Much as' demands a following verb of feeling and a full clause ('Much as that may cost us'). 'However may that be' misplaces the modal and, in any case, 'however' would need a following adjective or adverb."
+    },
+    {
+      "text": "{1} the northern branch consistently exceeds its targets, the southern office continues to fall short.",
+      "blanks": [
+        {
+          "answer": "Whereas",
+          "options": [
+            "Whereas",
+            "Whereby",
+            "Whereupon",
+            "Wherein"
+          ],
+          "hint": "subordinator of contrast: ___ + finite clause set against a second fact"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinator of contrast meaning 'while, by contrast', introducing a finite clause and setting one fact against another. 'Whereby' means 'by means of which' and needs an antecedent it relates to; 'Whereupon' means 'immediately after which' and signals temporal sequence, not contrast; 'Wherein' means 'in which' and functions as a relative of place or respect. None of the three can head a free-standing clause of contrast."
+    },
+    {
+      "text": "{1} tempting the offer may seem, accepting it would compromise our independence.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'However + adjective (tempting) + subject + verb' concedes that no degree of the quality changes the outcome ('no matter how tempting the offer seems'). This adjective-fronting slot is exactly where the near-synonyms fail: 'Much as' is followed directly by a verb of feeling ('Much as the offer tempts us'), not by an adjective; 'For all' governs a noun phrase ('For all its appeal'); and 'Albeit' introduces a concessive phrase, not a finite clause with its own subject and modal ('the offer may seem')."
+    },
+    {
+      "text": "{1} I sympathise with their predicament, I cannot in good conscience waive the rules for them.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "For all",
+            "However",
+            "Despite"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' fronts a verb of feeling for emphasis and means 'although I greatly sympathise'. The distractors differ precisely in what must follow: 'For all' requires a noun phrase ('For all my sympathy'); 'However' requires a following adjective or adverb ('However much I sympathise'), not a bare verb; and 'Despite' is a preposition taking a noun or -ing form, so it cannot govern the finite clause 'I sympathise'."
+    },
+    {
+      "text": "{1} he might, he could not persuade the committee to reconsider its decision.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fixed idiom: ___ + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' ('Try as he might') is a fixed concessive idiom that fronts the verb, meaning 'however hard he tried'. 'As try' merely inverts the two words and is ungrammatical; 'However' must be followed by an adjective or adverb ('However hard he tried'), not run straight into the subject; 'Much as' requires a lexical verb after the subject ('Much as he tries'), whereas here only the bare modal 'might' follows, leaving no verb for it to govern."
+    },
+    {
+      "text": "The costs are undeniably high and the timetable ambitious. {1}, the board has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "For all"
+          ],
+          "hint": "free-standing conjunct meaning 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, free-standing concessive conjunct (a fossilised subjunctive) meaning 'even if that is so / nevertheless'; it stands alone before a comma and a complete main clause. 'Even though' must introduce a subordinate clause inside the sentence rather than stand alone; 'Much as' needs a following subject + verb ('Much as it may cost'); 'For all' must be followed by a noun phrase ('For all its cost'), not a bare main clause."
+    },
+    {
+      "text": "{1} the obstacles may be, the expedition is determined to reach the summit.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "No matter",
+            "Much as"
+          ],
+          "hint": "___ + noun phrase + 'may be' = of whatever kind or degree"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase + may be' ('Whatever the obstacles may be') is a concessive meaning 'no matter what the obstacles are'. 'However' must be followed by an adjective or adverb ('However great the obstacles'), not a bare noun phrase; 'No matter' needs 'what' before it can take this clause ('No matter what the obstacles may be'); 'Much as' takes a subject and a lexical verb, whereas 'the obstacles may be' leaves the copula 'be' stranded without a complement."
+    },
+    {
+      "text": "{1} he might, he simply could not remember where he had left the keys.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As much",
+            "However",
+            "Even though"
+          ],
+          "hint": "fixed concessive idiom: ___ + subject + might/may"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom (fronted bare verb + 'as' + subject + 'might/may') meaning 'however hard he tried'. 'As much' inverts the words and cannot precede 'he might'; 'However' requires a following adjective or adverb ('However hard'); 'Even though' introduces an ordinary finite clause and cannot licence the fronted bare verb 'try' that the idiom depends on."
+    },
+    {
+      "text": "The scheme is expensive and technically risky. {1}, the board has decided to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "fixed concessive disjunct standing alone before a comma: 'that may be so, but'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive disjunct meaning 'even so / that may be true, but', which stands alone before a comma and links back to the previous sentence. 'Even though' is a subordinator that must introduce a finite clause within the same sentence, not stand alone; 'Much as' requires a following subject + verb; 'Notwithstanding', used as a preposition here, would need a following noun phrase, and its adverbial 'nevertheless' sense is not used in this fronted position."
+    },
+    {
+      "text": "{1} carefully the instructions were written, some users still managed to misread them.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "However much",
+            "For all",
+            "Much as"
+          ],
+          "hint": "___ + adverb + subject + verb = to no degree did it help"
+        }
+      ],
+      "explanation": "'No matter how + adverb (carefully) + subject + verb' concedes that no degree of care changed the outcome; it is the direct equivalent of 'However carefully…'. 'However much' pairs with a quantity or a bare verb ('However much they tried'), not with the manner adverb 'carefully'; 'For all' must be followed by a noun phrase ('For all their care'); 'Much as' is followed directly by a lexical verb of feeling, not by 'how carefully'."
+    },
+    {
+      "text": "{1} they might, the investigators never uncovered the source of the leak.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "Much as",
+            "However",
+            "Notwithstanding"
+          ],
+          "hint": "fixed verb-fronting concessive: ___ + subject + might/could…"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may/could' is a fixed verb-fronting concessive (a lexical cousin of 'Much as I admire her') meaning 'however hard they tried'. 'Much as' must be followed directly by a lexical verb of feeling or degree, so 'Much as they might' is incomplete; 'However' needs a following adjective or adverb ('However hard they tried'); 'Notwithstanding' is a preposition taking a noun phrase, not a fronted verb."
+    },
+    {
+      "text": "{1} the outcome of the appeal, the company's reputation has already suffered.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "However",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = no matter what / regardless of"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive meaning 'no matter what / regardless of': 'Whatever the outcome' = 'It makes no difference what the outcome is'. 'However' must be followed by an adjective or adverb, not a bare noun; 'Much as' is followed directly by subject + verb; 'Albeit' introduces a short concessive adjective or adverbial phrase ('albeit briefly'), not a fronted noun phrase standing in for a whole clause."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the poverty figures stubbornly refuse to fall.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "Much as",
+            "For all",
+            "Whatever",
+            "However"
+          ],
+          "hint": "___ + much + subject + verb = no amount of it changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of spending alters the result. 'Much as' is followed directly by a verb of feeling ('Much as I sympathise'), so it cannot precede 'much'; 'For all' governs a bare noun phrase, not 'much + clause'; 'Whatever' selects a noun ('Whatever sum'), not the degree adverb 'much', so only 'However' fits the 'much + subject + verb' complementation."
+    },
+    {
+      "text": "{1} I sympathise with your predicament, the regulations leave me no discretion whatsoever.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "As much",
+            "Albeit",
+            "Notwithstanding",
+            "Much as"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' ('Much as I sympathise') fronts the verb of feeling and means 'although I greatly sympathise'. 'As much' merely inverts the words and cannot open a concessive clause; 'Albeit' introduces a phrase, not a finite clause with its own subject and verb; 'Notwithstanding' governs a noun phrase ('Notwithstanding my sympathy'), not the clause 'I sympathise'."
+    },
+    {
+      "text": "{1} its impressive specifications on paper, the device proved hopelessly unreliable in daily use.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "Much as",
+            "For all",
+            "However",
+            "Granted"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all its impressive specifications' = 'despite its specifications'. 'Much as' requires a following subject + verb, not a bare noun phrase; 'However' needs a following adjective/adverb ('However impressive'); 'Granted' introduces a conceded clause ('Granted that its specifications are impressive'), not a fronted noun phrase."
+    },
+    {
+      "text": "{1} that the early results were disappointing, the trial still yielded data of lasting value.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Albeit",
+            "Despite",
+            "Granted",
+            "Much as"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point before the counter-argument: 'Granted that the early results were disappointing, the trial still…'. 'Albeit' cannot take a finite 'that'-clause; 'Despite' governs a noun phrase or -ing form, never a 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the results disappointed'), not by the complementiser 'that'."
+    },
+    {
+      "text": "The surgery brought her a marked improvement in mobility, {1} a hard-won and gradual one.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "albeit",
+            "much as",
+            "granted",
+            "notwithstanding"
+          ],
+          "hint": "introduces a concessive phrase (no finite verb), here 'a … one'"
+        }
+      ],
+      "explanation": "'Albeit' introduces a concessive phrase qualifying what precedes it: 'a marked improvement…, albeit a hard-won and gradual one'. 'Much as' and 'granted' both require a following subject + finite verb, which the bare noun phrase 'a hard-won and gradual one' lacks; 'notwithstanding' would need to govern that noun phrase as a plain preposition meaning 'in spite of', which reverses the intended 'though it was' sense."
+    },
+    {
+      "text": "{1} as he might, he could not force the rusted lock to turn.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Hard",
+            "Much",
+            "However"
+          ],
+          "hint": "fronted bare verb + as + subject + might/could = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the pattern 'bare verb + as + subject + might/could', meaning 'however hard he tried'. 'Hard' would need 'though' or a preceding 'However' ('However hard he tried'), not a following 'as he might'; 'Much as' is followed directly by a verb of feeling ('Much as he tried'), not by 'as he might'; 'However' takes an adjective/adverb ('However hard'), not this verb-fronting slot."
+    },
+    {
+      "text": "{1} how carefully you plan the itinerary, something is bound to go wrong.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However much",
+            "For all",
+            "Much as"
+          ],
+          "hint": "___ + wh-word (how/what/who) + clause = regardless of"
+        }
+      ],
+      "explanation": "'No matter + wh-word (how/what/who) + clause' means 'regardless of': 'No matter how carefully you plan'. 'However much' takes a quantity or verb ('However much you plan'), not the adverb sequence 'how carefully'; 'For all' is followed by a noun phrase, not a wh-clause; 'Much as' needs a subject + verb directly, not the wh-word 'how'."
+    },
+    {
+      "text": "The scheme is costly and legally complex. {1}, the board is determined to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Granted that"
+          ],
+          "hint": "fixed conjunct = 'even so / nevertheless', standing before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless', which stands alone before a comma and concedes the previous sentence while introducing a contrasting main clause. 'Even though' and 'Granted that' must introduce a subordinate clause, not stand as a free-standing conjunct; 'Much as' requires a following subject + verb ('Much as the board wishes')."
+    },
+    {
+      "text": "{1} the board disliked the proposal, they could find no legal grounds to reject it.",
+      "blanks": [
+        {
+          "answer": "However much",
+          "options": [
+            "However much",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + subject + verb = to no matter what degree"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no degree of an attitude changes the outcome: 'However much the board disliked it' = 'no matter how much they disliked it'. 'For all' must be followed by a noun phrase ('For all their dislike'), not a finite clause; 'Albeit' introduces a reduced concessive phrase (an adjective or adverbial), never a full clause with its own subject and verb like 'the board disliked'."
+    },
+    {
+      "text": "The strenuous objections of the minority {1}, the assembly proceeded to an immediate vote.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "despite",
+            "albeit"
+          ],
+          "hint": "postposed after its noun phrase: NP + ___ = in spite of that NP"
+        }
+      ],
+      "explanation": "'Notwithstanding' is the one option that can be POSTPOSED, standing after the noun phrase it governs: 'The objections of the minority notwithstanding' = 'in spite of those objections'. 'Despite' is a preposition that must PRECEDE its noun ('despite the objections'), so it cannot sit after it; 'Albeit' introduces a following concessive phrase and can neither govern a preceding noun nor mean 'in spite of'."
+    },
+    {
+      "text": "{1} he might, he simply could not recall where he had seen her before.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "Try as",
+            "However",
+            "As hard"
+          ],
+          "hint": "fixed idiom: ___ + subject + might/may = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as + subject + might (or may)' is a fixed concessive idiom meaning 'however hard he tried': 'Try as he might, he could not recall...'. 'Much as' must be followed by a lexical verb of feeling ('Much as I admire'), not the bare modal 'might'; 'However' requires a following adjective or adverb ('However hard'); 'As hard' reverses the required word order and cannot head the clause here."
+    },
+    {
+      "text": "The scheme is admittedly expensive. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Albeit",
+            "Be that as it may"
+          ],
+          "hint": "fixed conjunct linking back: 'even so / in spite of that', stands alone before a comma"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed sentence conjunct meaning 'even so / in spite of that', standing alone before a comma and pointing back to the previous sentence. 'Even though' and 'Much as' must introduce a subordinate clause within the same sentence (a subject and verb have to follow); 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} how meticulously the itinerary is planned, some delay always seems to creep in.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However much",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + how + adverb + subject + verb = irrespective of degree"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that the degree makes no difference to the outcome: 'No matter how meticulously... some delay creeps in'. 'However much' cannot precede 'how', since 'however' already incorporates it ('However meticulously'); 'Much as' must be followed directly by a verb of feeling, not by 'how'; 'For all' governs a noun phrase ('For all the planning'), not a 'how'-clause."
+    },
+    {
+      "text": "{1} the design were flawless, we would still lack the budget to bring it to market.",
+      "blanks": [
+        {
+          "answer": "Even if",
+          "options": [
+            "Much as",
+            "For all",
+            "Even if",
+            "Even though"
+          ],
+          "hint": "hypothetical concession pairing with 'still': ___ + subject + past-subjunctive verb"
+        }
+      ],
+      "explanation": "'Even if + clause' introduces a hypothetical concession, here signalled by the past-subjunctive 'were' and reinforced by 'still' in the main clause: 'Even if the design were flawless, we would still lack the budget'. 'Even though' marks a factual, not hypothetical, concession and clashes with the counterfactual 'were'; 'Much as' needs a following verb of feeling; 'For all' requires a noun phrase, not a finite clause."
+    },
+    {
+      "text": "The critics savaged the novel; it became, {1}, the best-selling book of the decade.",
+      "blanks": [
+        {
+          "answer": "for all that",
+          "options": [
+            "much as",
+            "for all that",
+            "even though",
+            "albeit"
+          ],
+          "hint": "parenthetical conjunct = 'nonetheless / in spite of that', sits between commas"
+        }
+      ],
+      "explanation": "'for all that' is an adverbial conjunct meaning 'nonetheless / in spite of that', inserted parenthetically between commas: 'it became, for all that, the best-selling book'. 'much as' and 'even though' must introduce a finite clause (subject + verb), so neither can sit as a bare parenthetical; 'albeit' has to introduce its own concessive phrase ('albeit reluctantly'), not stand alone as a conjunct."
+    },
+    {
+      "text": "{1} he might, he could never quite bring himself to apologise.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "However",
+            "Much as"
+          ],
+          "hint": "fixed idiom of futile effort: ___ + might/may"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive idiom expressing that maximum effort fails: 'Try as he might' = 'however hard he tried'. 'As try' inverts the idiom and is ungrammatical; 'However' needs a following adjective or adverb ('However hard he tried'); 'Much as' fronts a verb of feeling ('Much as he admires her') and does not combine with the modal 'might' to convey effort."
+    },
+    {
+      "text": "The scheme is costly and its benefits far from certain. {1}, the council has resolved to press ahead.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Even though",
+            "Much as",
+            "Notwithstanding"
+          ],
+          "hint": "fixed conjunct: 'that may be true, but even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic conjunct that concedes the truth of the previous statement before setting it aside ('that may be so, but nevertheless'); it stands alone before a comma and a full main clause. 'Even though' must introduce a subordinate clause within the sentence, not stand alone; 'Much as' requires a following subject + verb; 'Notwithstanding' requires a following noun phrase."
+    },
+    {
+      "text": "{1} persuasive the argument may seem, it rests on a single unverified assumption.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adjective + subject + verb = to whatever degree"
+        }
+      ],
+      "explanation": "'However + adjective (persuasive) + subject + verb' concedes that no degree of a quality changes the outcome, with the adjective pulled up next to 'However': 'However persuasive the argument may seem'. 'Much as' takes a verb of feeling directly, not an adjective; 'For all' takes a noun phrase ('For all its persuasiveness'); 'Albeit' introduces a reduced concessive phrase, not a finite clause with 'may seem'."
+    },
+    {
+      "text": "{1} how meticulously he checked the accounts, small errors kept surfacing.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "No matter",
+            "However",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + how + adverb + subject + verb = regardless of degree"
+        }
+      ],
+      "explanation": "'No matter + how + adverb + subject + verb' concedes that no degree changes the result: 'No matter how meticulously he checked'. 'However' cannot stand before 'how' — it would itself replace it ('However meticulously he checked'); 'Whatever' cannot precede 'how' either and needs a noun ('Whatever errors he found'); 'Albeit' introduces a phrase, not a finite clause with its own subject and verb."
+    },
+    {
+      "text": "He had trained for months and knew every metre of the course. {1}, he finished well outside the medals.",
+      "blanks": [
+        {
+          "answer": "For all that",
+          "options": [
+            "For all that",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "conjunct = 'in spite of all that', standing before a comma"
+        }
+      ],
+      "explanation": "'For all that' is a conjunct meaning 'in spite of everything just said / nevertheless'; it links back to the previous sentence and stands alone before a comma and a full clause. Bare 'For all' must be followed immediately by a noun phrase ('For all his training'); 'Much as' needs a following subject + verb; 'Albeit' attaches a concessive phrase to a clause rather than acting as a free-standing sentence connector."
+    },
+    {
+      "text": "{1} much he earns, he never seems to have enough to clear his debts.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "Much as",
+            "However",
+            "For all",
+            "Whatever"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no amount of something (here, earning) alters the result: 'However much he earns'. 'Much as' is followed directly by the verb of feeling ('Much as I admire'), not by the quantifier 'much'; 'For all' requires a noun phrase ('For all his earnings'), not 'much + clause'; 'Whatever' cannot precede 'much' in this slot, since 'Whatever much he earns' is ungrammatical."
+    },
+    {
+      "text": "Financial constraints {1}, the museum somehow managed to acquire the entire private collection.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "albeit",
+            "however",
+            "notwithstanding",
+            "for all"
+          ],
+          "hint": "a formal preposition placed AFTER its noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'Notwithstanding' may follow the noun phrase it governs ('Financial constraints notwithstanding' = 'in spite of the financial constraints'), a formal, semi-legal postposed usage. 'Albeit' introduces a concessive phrase and cannot mean 'in spite of' after a noun; 'however' needs a following adjective or adverb; 'for all' must precede its noun phrase ('For all the financial constraints'), never follow it."
+    },
+    {
+      "text": "{1} as he might, he could never make the old engine start on a cold morning.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "Hard",
+            "However"
+          ],
+          "hint": "fronted bare verb + as + subject + might/would = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom that fronts the bare verb 'try' before 'as + subject + might/would', meaning 'however hard he tried'. 'Much' would give 'Much as', which must be followed by a lexical verb of feeling with its own subject ('Much as he loved it'), not by the modal 'might' standing alone; 'Hard as' requires a following lexical verb ('Hard as he tried'), not the bare 'might'; 'However' must be followed immediately by an adjective or adverb ('However hard he tried'), never by 'as'."
+    },
+    {
+      "text": "{1} that as it may, the underlying problem has still not been addressed.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "However",
+            "Be",
+            "Even",
+            "Much"
+          ],
+          "hint": "fixed subjunctive formula: ___ that as it may = 'granting that may be so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive formula built on the fronted subjunctive 'be', meaning 'even though that may be true'; it stands alone before a comma and a full main clause. 'However' requires a following adjective/adverb or a different clause structure; 'Even' would need a partner word ('Even so', 'Even though') and cannot head 'that as it may'; 'Much' needs 'as + subject + verb' and cannot fill the subjunctive slot of this frozen phrase."
+    },
+    {
+      "text": "{1} the outcome of tomorrow's vote, the reforms will take years to implement in full.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase = 'no matter what', with 'may be' understood"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the outcome') is a concessive meaning 'no matter what the outcome may be', with the verb ellipted. 'However' must be followed directly by an adjective or adverb ('However uncertain the outcome'), not by a bare noun phrase; 'Much as' requires a subject and verb ('Much as we speculate'); 'Albeit' introduces a concessive phrase that qualifies something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "I have decided to turn the offer down. {1} that I doubt my own ability — I simply want a fresh challenge.",
+      "blanks": [
+        {
+          "answer": "Not",
+          "options": [
+            "Albeit",
+            "Much as",
+            "Even",
+            "Not"
+          ],
+          "hint": "qualifier forestalling a wrong inference: ___ that + clause"
+        }
+      ],
+      "explanation": "'Not that + clause' is a concessive qualifier that heads off an inference the listener might otherwise draw: 'Not that I doubt my own ability' = 'I do not mean to suggest that I doubt it'. 'Albeit' cannot take a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as I doubt'), not by 'that'; 'Even' needs a partner such as 'though' or 'if' to introduce a clause and cannot govern a bare 'that'-clause."
+    },
+    {
+      "text": "The software is remarkably powerful and flexible. {1} said, its learning curve is undeniably steep.",
+      "blanks": [
+        {
+          "answer": "That",
+          "options": [
+            "That",
+            "Even",
+            "Much",
+            "However"
+          ],
+          "hint": "participial conjunct linking back: ___ said, = 'having conceded that'"
+        }
+      ],
+      "explanation": "'That said' is a fixed participial conjunct (equivalent to 'having said that' / 'even so') that concedes the preceding statement before adding a qualifying contrast; it stands before a comma and a full main clause. 'Even said' is not an English collocation; 'Much' requires 'as + subject + verb'; 'However' either stands alone as a conjunct ('However,') or takes a following adjective/adverb, but it does not combine with 'said'."
+    },
+    {
+      "text": "{1} as he might, he could never quite silence his critics.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "However",
+            "Hard"
+          ],
+          "hint": "fixed idiom: bare verb + 'as + subject + might' = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom, 'verb + as + subject + might', meaning 'however hard he tried' / 'no matter how much he tried'. 'Much' would need a verb of feeling ('Much as I admire…'), not 'as he might'; 'However' must be followed by an adjective or adverb ('However hard'), not stand before 'as'; 'Hard' cannot precede 'as he might', since the modal 'might' requires a bare verb in this frame."
+    },
+    {
+      "text": "{1} that as it may, the board is unlikely to reverse its decision now.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "Be",
+            "Even",
+            "Much",
+            "Granted"
+          ],
+          "hint": "frozen subjunctive formula: '___ that as it may' = however that may be"
+        }
+      ],
+      "explanation": "'Be that as it may' is a frozen concessive formula built on the subjunctive 'be', meaning 'even if that is true' / 'however that may be'; it concedes the preceding point before countering it. The slot requires the subjunctive verb 'Be': 'Even', 'Much' and 'Granted' cannot open this fixed idiom, which admits no substitution."
+    },
+    {
+      "text": "{1}, he simply could not commit the long sequence of numbers to memory.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Try as he might",
+            "Much as he might",
+            "However he might",
+            "Despite he might"
+          ],
+          "hint": "a fixed fronted-verb idiom = 'although he tried very hard'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the type 'Verb + as + subject + may/might', meaning 'however hard he tried'. 'Much as' must be followed directly by a verb of feeling ('Much as he admired'), so 'Much as he might' is left dangling with no verb; 'However' needs a following adjective or adverb ('However hard he might try'), not a bare modal; 'Despite' is a preposition taking a noun phrase or -ing form, never a finite clause with a subject ('he might')."
+    },
+    {
+      "text": "The scheme is costly and its long-term benefits remain uncertain. {1}, the council has resolved to proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Much as it may",
+            "However it may",
+            "Albeit"
+          ],
+          "hint": "a fixed conjunct standing alone before a comma = 'even so', 'nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so' / 'nevertheless'; it stands alone before a comma and links back to the preceding sentence. 'Much as it may' is incomplete, since 'Much as' demands a following verb ('Much as it may cost'); 'However it may' likewise needs a completing adjective/adverb and clause ('However costly it may be'); 'Albeit' introduces a subordinate concessive phrase within a sentence, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} he might, he could never quite recapture the effortless style of his early work.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Trying as",
+            "Even though"
+          ],
+          "hint": "fixed frame: ___ + subject + might/may + bare verb"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive frame 'Try as + subject + might/may', meaning 'however hard he tried'. 'As try' merely reverses the words and is ungrammatical; 'Trying as' is impossible because the pattern requires the bare infinitive 'try', not the -ing form; 'Even though' would need a full finite clause ('Even though he tried') and cannot govern the fronted verb followed by 'might'."
+    },
+    {
+      "text": "The evidence against him is admittedly circumstantial. {1}, a jury may well find it persuasive enough to convict.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Being that as it may",
+            "However that may be so",
+            "As it may be"
+          ],
+          "hint": "fixed sentence-initial marker conceding the previous statement"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive concessive discourse marker meaning 'even so; granting all that', used to concede the preceding sentence before stating a contrasting point. 'Being that as it may' wrongly substitutes the -ing form for the subjunctive 'be'; 'However that may be so' is redundant and non-idiomatic because 'however...so' doubles the concession; 'As it may be' is an incomplete fragment that does not function as a standalone concessive connector."
+    },
+    {
+      "text": "The proposal is undeniably expensive and slow to implement. {1} that as it may, it remains the only realistic option on the table.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "Be",
+            "Being",
+            "Been",
+            "Is"
+          ],
+          "hint": "fixed subjunctive concessive formula meaning 'even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formulaic concessive using the present subjunctive 'be' (= 'however that may be / even so'); it concedes the preceding point while asserting the main clause. The base form 'Be' is frozen in this idiom, so the inflected or gerundive alternatives ('Being', 'Been', 'Is') are all ungrammatical here."
+    },
+    {
+      "text": "{1} he might, he could not silence the nagging suspicion that something was badly wrong.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "As try",
+            "Much as",
+            "However"
+          ],
+          "hint": "fronted bare verb + 'as' + subject + modal (might/may)"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed emphatic-concessive frame 'Try as + subject + might/may', equivalent to 'no matter how hard he tried'; the lexical verb 'try' is fronted and its force is carried by the modal 'might'. 'As try' reverses the obligatory word order of the idiom, which fixes the bare verb first, so 'As try he might' is ungrammatical. 'Much as' is followed directly by a lexical verb of feeling or opinion ('Much as I admire'); placed here it leaves the modal 'might' stranded with no main verb to complete it. 'However' demands a following adjective or adverb plus subject and verb ('However hard he tried'); with only the bare modal 'he might' it has no gradable word to quantify and is ungrammatical."
+    },
+    {
+      "text": "The panel dismissed the design as impractical. {1}, the client adopted it and it won a national award.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "Be as it may",
+            "Much as it may",
+            "Even though that"
+          ],
+          "hint": "fixed subjunctive concessive conjunct = 'even granting that is so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fossilised subjunctive conjunct meaning 'even if that is true', standing complete before a comma and looking back to the previous sentence. 'Be as it may' drops the obligatory pronoun 'that', which is the subject of the fronted subjunctive 'be'; the idiom is fixed and cannot be reduced, so the truncation is ungrammatical. 'Much as it may' requires a following lexical verb ('Much as it may seem impractical'); left with the bare modal 'may' it is incomplete and cannot function as a free-standing conjunct before a full clause. 'Even though that' opens a subordinate clause that needs a subject and finite verb after it; a bare demonstrative 'that' with no verb cannot stand alone before a comma as a concessive linker."
+    },
+    {
+      "text": "{1} as she might, she could not persuade the committee to reconsider its decision.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Much",
+            "Hard",
+            "Try",
+            "However"
+          ],
+          "hint": "fixed frame: ___ as + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as she might' is a fixed concessive idiom meaning 'however hard she tried', where 'try' is the lexical verb inside the 'as ... might' frame. 'Much as she might' and 'Hard as she might' leave the auxiliary 'might' without a following verb, so they are incomplete; 'However' precedes an adjective/adverb ('However hard she tried') and cannot stand before 'as'."
+    },
+    {
+      "text": "The scheme is undoubtedly expensive. {1}, the long-term savings more than justify the initial outlay.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Be that as it may",
+            "Much as",
+            "For all"
+          ],
+          "hint": "fixed conjunct linking back: 'that may be true, but even so'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'granting all that, nevertheless'; it stands alone before a comma and refers back to the previous sentence. 'Even though' must introduce a subordinate finite clause within its own sentence; 'Much as' requires a following subject + verb; 'For all' must be followed by a noun phrase, not left standing alone."
+    },
+    {
+      "text": "I've decided to sell the car. {1} I ever really needed it, but the running costs have simply become too high.",
+      "blanks": [
+        {
+          "answer": "Not that",
+          "options": [
+            "Much as",
+            "Albeit",
+            "Granted",
+            "Not that"
+          ],
+          "hint": "qualifying afterthought: ___ + clause = 'it's not as if'"
+        }
+      ],
+      "explanation": "'Not that + clause' is a concessive qualifier meaning 'it is not the case / not as if': 'Not that I ever really needed it' concedes a point in passing. 'Much as' needs a positive verb of feeling directly after it; 'Albeit' cannot head a full finite clause with its own subject; 'Granted' would concede that I DID need the car, contradicting the intended 'not' meaning."
+    },
+    {
+      "text": "{1} might, he could not persuade the committee to reconsider its decision.",
+      "blanks": [
+        {
+          "answer": "Try as he",
+          "options": [
+            "Try as he",
+            "As he tried",
+            "However he",
+            "Much as he"
+          ],
+          "hint": "fixed concessive idiom: verb + as + subject, followed by 'might/may'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the form 'bare verb + as + subject + might/may', meaning 'however hard he tried'. 'As he tried' is not concessive but temporal ('while/because he tried') and leaves 'might' stranded; 'However he' would require 'However hard he tried' with no 'might'; 'Much as he' takes a verb of feeling directly ('Much as he wanted to') and cannot be completed by the bare 'might' that this pattern demands."
+    },
+    {
+      "text": "The scheme is undeniably expensive and logistically fraught. {1}, it remains the only realistic option open to us.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "However it may be",
+            "As it may be",
+            "Much as it may"
+          ],
+          "hint": "fixed conceding formula linking back to the previous sentence: 'even if that is true'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed subjunctive concessive formula meaning 'even if that is true / nevertheless'; it stands before a comma and a full main clause, conceding the preceding statement. 'However it may be' and 'As it may be' are not idiomatic standalone conjuncts in this slot; 'Much as it may' requires a following verb ('Much as it may cost us') and cannot stand alone before the comma."
+    },
+    {
+      "text": "{1} I sympathize with their plight, I cannot condone the methods they have used.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Much as",
+            "As much",
+            "However",
+            "Notwithstanding"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as + subject + verb' fronts a verb of feeling for emphasis, meaning 'although I greatly sympathize'. 'As much' reverses the words and cannot head the clause; bare 'However I sympathize' forces a 'in whatever way' manner reading rather than the intended concession, which needs 'However much'; 'Notwithstanding' is a preposition and must be followed by a noun phrase, not the finite clause 'I sympathize'."
+    },
+    {
+      "text": "{1} much the government spends on the scheme, the underlying problem stubbornly remains.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "For all",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + much + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However + much + subject + verb' concedes that no quantity of spending alters the result. 'For all' takes a bare noun phrase ('For all the spending'), not 'much + clause'; 'Much as' is followed directly by the verb, not by 'much'; 'Albeit' cannot introduce a finite clause with its own subject and verb like 'the government spends'."
+    },
+    {
+      "text": "{1} its impressive specifications, the device proved thoroughly unreliable in everyday use.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "For all",
+            "Much as",
+            "Albeit",
+            "However"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of': 'For all its impressive specifications' = 'despite them'. 'Much as' and 'However' require a following clause or adjective, not a bare noun phrase; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'in spite of' phrase before the main clause."
+    },
+    {
+      "text": "{1} that the evidence is largely circumstantial, it nonetheless points firmly in one direction.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Granted",
+            "Albeit",
+            "Despite",
+            "Much as"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point one is about to argue against: 'Granted that the evidence is circumstantial, it nonetheless...'. 'Albeit' cannot take a 'that'-clause; 'Despite' governs a noun phrase or -ing form, never a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the evidence is circumstantial'), not by 'that'."
+    },
+    {
+      "text": "The appeal was ultimately dismissed, the compelling new evidence {1}.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "despite",
+            "however",
+            "albeit"
+          ],
+          "hint": "a formal preposition that may FOLLOW its noun phrase = in spite of it"
+        }
+      ],
+      "explanation": "'Notwithstanding' is the one concessive preposition here that can be postposed, standing after the noun phrase it governs: 'the compelling new evidence notwithstanding' = 'in spite of the compelling new evidence'. 'Despite' is also a preposition but must precede its noun phrase and cannot follow it; 'however' would need a following adjective or adverb; 'albeit' introduces a concessive phrase and cannot be postposed after a noun in this way."
+    },
+    {
+      "text": "{1} she earns, she always seems to be short of money before the month is out.",
+      "blanks": [
+        {
+          "answer": "However much",
+          "options": [
+            "However much",
+            "Despite",
+            "Albeit",
+            "Notwithstanding"
+          ],
+          "hint": "___ + subject + verb = no amount changes the outcome"
+        }
+      ],
+      "explanation": "'However much + subject + verb' concedes that no quantity or degree alters the result: 'However much she earns' = 'no matter how much she earns'. 'Despite' and 'Notwithstanding' are prepositional and must be followed by a noun phrase ('Despite her earnings'), not the finite clause 'she earns'; 'Albeit' introduces a reduced concessive phrase and cannot head a full finite clause with its own subject and verb."
+    },
+    {
+      "text": "The minority's strenuous objections {1}, the resolution was adopted without a single amendment.",
+      "blanks": [
+        {
+          "answer": "notwithstanding",
+          "options": [
+            "notwithstanding",
+            "albeit",
+            "for all",
+            "even so"
+          ],
+          "hint": "the one connector that may FOLLOW its noun phrase, not only precede it"
+        }
+      ],
+      "explanation": "'Notwithstanding' is unusual in that it can either precede or, more formally, follow its noun phrase; here it is postposed, so 'The minority's strenuous objections notwithstanding' means 'in spite of the minority's objections'. 'For all' can only precede its noun phrase ('For all the objections'), never follow it; 'albeit' introduces a reduced concessive phrase and cannot govern a preceding noun as 'in spite of'; 'even so' is a sentence conjunct ('in spite of that') that links back to a previous statement and does not attach to a noun phrase inside the clause."
+    },
+    {
+      "text": "{1} as he might, he could not prise the rusted lock open.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "However",
+            "Much",
+            "Try",
+            "Even"
+          ],
+          "hint": "bare-infinitive verb fronted: '___ as + subject + might/may'"
+        }
+      ],
+      "explanation": "'[Verb] as + subject + might/may' ('Try as he might') is an emphatic concessive meaning 'however hard he tried' or 'although he tried'; the verb stands in the bare infinitive at the front. 'However' needs a following adjective or adverb ('However hard he tried'); 'Much' belongs to the frame 'Much as + subject + finite verb', not the bare 'as he might' pattern; 'Even' does not form this fronted concessive."
+    },
+    {
+      "text": "The scheme is costly and the schedule punishing. {1} that as it may, the board is determined to proceed.",
+      "blanks": [
+        {
+          "answer": "Be",
+          "options": [
+            "However",
+            "Much",
+            "Granted",
+            "Be"
+          ],
+          "hint": "fixed subjunctive idiom: '___ that as it may' = even so"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed formal idiom using the subjunctive 'be', meaning 'even so / nonetheless'; it concedes the previous statement before countering it. None of the alternatives completes this frozen expression: 'However that as it may', 'Much that as it may' and 'Granted that as it may' are all ungrammatical, and 'Granted' would instead be followed by '(that) + clause'."
+    },
+    {
+      "text": "The novel is overlong and its plot implausible. {1} said, it contains some of the finest prose she has ever written.",
+      "blanks": [
+        {
+          "answer": "That",
+          "options": [
+            "However",
+            "That",
+            "Granted",
+            "Much"
+          ],
+          "hint": "conjunct '___ said,' concedes the prior point before a contrast"
+        }
+      ],
+      "explanation": "'That said' is a conjunct — a reduced form of 'that having been said' — meaning 'nevertheless / even so', acknowledging a preceding criticism before offering a counterpoint. The other words cannot precede 'said' in this fixed phrase: 'However' requires a following adjective or adverb, 'Granted' takes a '(that)-'clause, and 'Much' needs the frame 'Much as + subject + verb'."
+    },
+    {
+      "text": "{1} the cost, the government insists that the flood defences must be built.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "'___ + noun phrase' concedes every possibility: 'no matter what'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' ('Whatever the cost') is an elliptical concessive meaning 'no matter what the cost may be'. 'However' must be followed by an adjective or adverb ('However great the cost'), not a bare noun phrase; 'Much as' requires a subject and finite verb; 'Albeit' introduces a concessive phrase qualifying something already stated, not a fronted 'no-matter-what' condition."
+    },
+    {
+      "text": "The evidence against him was largely circumstantial. The jury, {1}, returned a verdict of guilty.",
+      "blanks": [
+        {
+          "answer": "nonetheless",
+          "options": [
+            "even though",
+            "nonetheless",
+            "much as",
+            "albeit"
+          ],
+          "hint": "parenthetical conjunct between commas = 'in spite of that'"
+        }
+      ],
+      "explanation": "'Nonetheless' (like 'nevertheless') is a conjunct meaning 'in spite of that / even so'; it can sit parenthetically between commas inside the clause and points back to the previous sentence. 'Even though' and 'much as' must each introduce their own subordinate clause with a subject and verb, which the bare parenthetical slot does not provide; 'albeit' introduces a concessive phrase, not a free-standing sentence connector."
+    },
+    {
+      "text": "{1}, he could never persuade the committee to overturn its original verdict.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "Much as he might",
+            "Try as he might",
+            "However he might",
+            "As much he tried"
+          ],
+          "hint": "fixed emphatic pattern: bare verb + 'as' + subject + 'might/would'"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed concessive pattern 'Verb + as + subject + might/would', meaning 'however hard he tried' or 'no matter how he tried'. 'Much as he might' strands the modal: 'Much as' must be followed directly by a verb of feeling or effort ('Much as he tried'), not by a bare 'might'. 'However he might' needs a following adjective or adverb ('However hard he might try'), not a stranded modal. 'As much he tried' misorders the words: the pattern requires the fronted verb ('Try as...'), not 'As much' before the subject."
+    },
+    {
+      "text": "The report was undoubtedly drafted in haste. {1}, its central recommendation deserves serious consideration.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "However that be",
+            "Much as it may",
+            "Be that as it may",
+            "Even though"
+          ],
+          "hint": "fixed conjunct meaning 'nevertheless', standing alone before a comma and a full main clause"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct (with the subjunctive 'be') meaning 'even so' / 'nevertheless'; it links back to the preceding sentence and stands alone before a comma and an independent main clause. 'However that be' is not an idiomatic English formula. 'Much as it may' strands the modal and requires a following verb ('Much as it may seem...'), so it cannot stand alone. 'Even though' must introduce a subordinate finite clause within the same sentence, not stand by itself before a separate main clause."
+    },
+    {
+      "text": "{1}, he could not for the life of him recall where he had left his passport.",
+      "blanks": [
+        {
+          "answer": "Try as he might",
+          "options": [
+            "However hard",
+            "Try as he might",
+            "Much as trying",
+            "For all trying"
+          ],
+          "hint": "fixed idiom: verb + as + subject + might/may = however hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom of the pattern 'verb + as + subject + might/may', meaning 'however hard he tried'. 'However hard' cannot stand alone here: it needs a following gradable clause ('However hard he tried'), so on its own before the comma it is ungrammatical; 'Much as trying' is ungrammatical because 'Much as' must be followed by a subject and finite verb, not by an -ing form; 'For all trying' fails because 'For all' governs a full noun phrase ('For all his efforts'), not a bare gerund."
+    },
+    {
+      "text": "The scheme is undeniably imaginative. {1}, it remains wholly unfunded and cannot proceed.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Much as",
+            "Albeit",
+            "Be that as it may"
+          ],
+          "hint": "a free-standing conjunct meaning 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed conjunct meaning 'even so' or 'that notwithstanding', standing alone before a comma and conceding the previous sentence before countering it. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone; 'Much as' requires a following subject and verb ('Much as we admire it'); 'Albeit' introduces a reduced concessive phrase, not a free-standing sentence connector before a full main clause."
+    },
+    {
+      "text": "{1} carefully you plan a live broadcast, something will always go wrong on the night.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "No matter how",
+            "Much as",
+            "For all",
+            "Albeit"
+          ],
+          "hint": "___ + adverb + subject + verb = to whatever degree, it makes no difference"
+        }
+      ],
+      "explanation": "'No matter how + adverb + subject + verb' concedes that no degree of care changes the outcome: 'No matter how carefully you plan…'. 'Much as' is followed directly by a subject and verb, not by the adverb 'carefully'; 'For all' must govern a noun phrase ('For all your planning'); 'Albeit' introduces a concessive phrase and cannot head a finite clause with its own subject and verb ('you plan')."
+    },
+    {
+      "text": "{1} the obstacles that lie ahead, the expedition is now committed to reaching the summit.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "However",
+            "Much as",
+            "Whatever",
+            "Albeit"
+          ],
+          "hint": "___ + noun phrase (+ may be) = no matter what"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' works concessively to mean 'no matter what', with an understood 'may be': 'Whatever the obstacles (may be)…'. 'However' requires a following adjective or adverb ('However great the obstacles'), not a bare noun; 'Much as' must be followed by a subject and finite verb; 'Albeit' introduces a reduced concessive phrase qualifying something already stated, not a fronted 'no matter what' phrase."
+    },
+    {
+      "text": "The setback did nothing to dampen their enthusiasm; {1}, it only hardened their resolve.",
+      "blanks": [
+        {
+          "answer": "if anything",
+          "options": [
+            "even though",
+            "if anything",
+            "much as",
+            "albeit"
+          ],
+          "hint": "a conjunct conceding the opposite tendency: 'on the contrary, to some degree'"
+        }
+      ],
+      "explanation": "'If anything' is a concessive conjunct meaning 'on the contrary, if there was any effect at all', used to correct an expectation in the opposite direction: far from dampening enthusiasm, the setback strengthened it. 'Even though' must introduce a subordinate clause, not stand alone between clauses; 'much as' requires a following subject and verb; 'albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} he might, he simply could not shake off the feeling that something was badly wrong.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Much as",
+            "However",
+            "Try as",
+            "Even though"
+          ],
+          "hint": "fronted verb + as + subject + might/may = however hard he tried"
+        }
+      ],
+      "explanation": "'Try as + subject + might/may' is a fixed concessive pattern in which the bare verb is fronted for emphasis: 'Try as he might' = 'However hard he tried'. 'Much as' is followed directly by a verb of feeling ('Much as he liked it'), not by the modal 'might' with the verb elided, so 'Much as he might' leaves no verb and is ungrammatical. 'However' would itself begin the clause with a following adjective/adverb ('However hard he tried'), not sit before 'he might'. 'Even though he might' produces an incomplete, unidiomatic clause, since 'even though' expects a full finite verb phrase, not a stranded 'might'."
+    },
+    {
+      "text": "The evidence against the defendant is admittedly circumstantial. {1}, the jury may still find the argument compelling enough to convict.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Even though",
+            "Be that as it may",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "a stand-alone conjunct meaning 'even so / that notwithstanding'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed, free-standing concessive conjunct meaning 'even so' or 'that notwithstanding'; it links back to the previous sentence and is set off by a comma before a full main clause. 'Even though' must introduce a subordinate clause within the same sentence, not stand alone before an independent clause. 'Much as' requires a following subject + verb ('Much as the jury doubts it'). 'Albeit' introduces a reduced concessive phrase (an adjective or adverbial), never a stand-alone connector heading a complete main clause."
+    },
+    {
+      "text": "{1} the firm's northern division went from strength to strength, its southern counterpart declined year after year.",
+      "blanks": [
+        {
+          "answer": "Whereas",
+          "options": [
+            "Notwithstanding",
+            "For all",
+            "Albeit",
+            "Whereas"
+          ],
+          "hint": "subordinator drawing an explicit contrast between two finite clauses"
+        }
+      ],
+      "explanation": "'Whereas' is a subordinating conjunction that introduces a finite clause and draws an explicit contrast between two situations: 'Whereas the northern division flourished, the southern one declined'. 'Notwithstanding' and 'For all' are followed by a noun phrase, not a finite clause with its own subject and verb ('the northern division went'). 'Albeit' can only introduce a reduced concessive phrase, so it cannot head the full finite clause 'the firm's northern division went from strength to strength'."
+    },
+    {
+      "text": "She knew perfectly well that the venture might ruin her financially; {1}, she pressed ahead without a moment's hesitation.",
+      "blanks": [
+        {
+          "answer": "for all that",
+          "options": [
+            "much as",
+            "albeit",
+            "for all that",
+            "granted"
+          ],
+          "hint": "a conjunct meaning 'in spite of that / nevertheless'"
+        }
+      ],
+      "explanation": "'For all that' used as a conjunct means 'in spite of that' or 'nevertheless', referring back to the whole preceding clause and standing before a comma and a full main clause. It is distinct from 'for all + noun phrase' ('for all her wealth'). 'Much as' needs a following subject + verb ('much as she feared it'). 'Albeit' introduces a reduced concessive phrase, not a free-standing connector before an independent clause. 'Granted' concedes a point that is then countered and is normally followed by '(that) + clause', not used alone in this mid-sentence conjunct slot."
+    },
+    {
+      "text": "{1} how daunting the challenge became, she refused to let her team see a flicker of doubt.",
+      "blanks": [
+        {
+          "answer": "No matter",
+          "options": [
+            "However",
+            "No matter",
+            "Much as",
+            "For all"
+          ],
+          "hint": "___ + how + adjective + clause = it made no difference"
+        }
+      ],
+      "explanation": "'No matter how + adjective + clause' concedes that the degree of difficulty made no difference to the outcome: 'No matter how daunting the challenge became'. 'However' expresses the same idea but attaches directly to the adjective ('However daunting the challenge became') and cannot precede 'how'. 'Much as' takes a verb of feeling, not 'how' plus an adjective. 'For all' is followed by a noun phrase ('For all its difficulty'), so it cannot govern the 'how + adjective + clause' structure here."
+    },
+    {
+      "text": "{1} I admire her courage, I simply cannot support such a reckless decision.",
+      "blanks": [
+        {
+          "answer": "Much as",
+          "options": [
+            "Despite",
+            "However",
+            "Much as",
+            "As much"
+          ],
+          "hint": "fronts a verb of feeling: ___ + subject + verb"
+        }
+      ],
+      "explanation": "'Much as I admire her courage' is the fixed concessive pattern 'Much as + subject + verb' meaning 'although I greatly admire'. 'As much' inverts the words and is ungrammatical here; 'Despite' must be followed by a noun or -ing, not a finite clause; 'However' would need an adjective/adverb ('However much')."
+    },
+    {
+      "text": "{1} hard she tried, she could never quite master the pronunciation.",
+      "blanks": [
+        {
+          "answer": "However",
+          "options": [
+            "However",
+            "Whatever",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "___ + adverb + subject + verb = no degree of effort helped"
+        }
+      ],
+      "explanation": "'However + adverb (hard) + subject + verb' concedes that no degree of trying changed the result. 'Much as' takes a verb directly, not an adverb; 'Whatever' takes a noun/clause, not the adverb 'hard'; 'Albeit' cannot introduce a finite clause like 'she tried'."
+    },
+    {
+      "text": "{1} his undeniable talent, he never achieved the recognition he deserved.",
+      "blanks": [
+        {
+          "answer": "For all",
+          "options": [
+            "For all",
+            "Albeit",
+            "However",
+            "Much as"
+          ],
+          "hint": "___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'For all + noun phrase' means 'in spite of' / 'despite': 'For all his talent' = 'despite his talent'. 'Much as' and 'However' require a following clause/adjective, not a bare noun phrase; 'Albeit' introduces a concessive phrase that qualifies something already stated, not a fronted 'in spite of' phrase."
+    },
+    {
+      "text": "{1} that the proposal has merit, we still lack the funds to implement it this year.",
+      "blanks": [
+        {
+          "answer": "Granted",
+          "options": [
+            "Granted",
+            "Albeit",
+            "Despite",
+            "Much as"
+          ],
+          "hint": "concede a point before countering: ___ (that) + clause"
+        }
+      ],
+      "explanation": "'Granted (that) + clause' concedes a point you are about to argue against: 'Granted that the proposal has merit, we still...'. 'Albeit' cannot take a 'that'-clause; 'Despite' takes a noun phrase or -ing, never a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the proposal has merit'), not by 'that'."
+    },
+    {
+      "text": "The committee approved the revised budget, {1} with considerable reluctance.",
+      "blanks": [
+        {
+          "answer": "albeit",
+          "options": [
+            "however",
+            "much as",
+            "albeit",
+            "granted"
+          ],
+          "hint": "introduces a concessive phrase (no finite verb), here 'with reluctance'"
+        }
+      ],
+      "explanation": "'Albeit' introduces a concessive phrase qualifying what precedes it: 'approved..., albeit with considerable reluctance'. The other options all require a following clause or different structure ('much as'/'granted' need a subject and verb; 'however' would need an adjective/adverb), so none fits a bare prepositional phrase."
+    },
+    {
+      "text": "{1} the strenuous objections of the board, the merger went ahead as planned.",
+      "blanks": [
+        {
+          "answer": "Notwithstanding",
+          "options": [
+            "Notwithstanding",
+            "However",
+            "Even though",
+            "Much as"
+          ],
+          "hint": "a formal preposition: ___ + noun phrase = in spite of"
+        }
+      ],
+      "explanation": "'Notwithstanding' is a formal preposition meaning 'in spite of', so it is followed directly by the noun phrase 'the strenuous objections'. 'Much as' requires a subject + verb ('Much as the board objected'); 'However' needs a following adjective/adverb; 'Even though' introduces a finite clause, not a bare noun phrase."
+    },
+    {
+      "text": "Hard {1} he tried, he never managed to win her approval.",
+      "blanks": [
+        {
+          "answer": "though",
+          "options": [
+            "though",
+            "much",
+            "however",
+            "despite"
+          ],
+          "hint": "fronted adjective/adverb + ___ + subject + verb"
+        }
+      ],
+      "explanation": "The fronted concessive pattern 'Adjective/Adverb + though + subject + verb' ('Hard though he tried') is an emphatic equivalent of 'although he tried hard'. 'Despite' takes a noun/-ing, not a clause; 'however' would itself stand at the front ('However hard he tried'), not after the fronted word; 'much' does not link a fronted adverb to a clause in this slot."
+    },
+    {
+      "text": "The plan is undeniably bold. {1}, I remain convinced it can be made to work.",
+      "blanks": [
+        {
+          "answer": "Even so",
+          "options": [
+            "Much as",
+            "Even so",
+            "Even though",
+            "Albeit"
+          ],
+          "hint": "a conjunct linking back to the previous sentence: 'in spite of that'"
+        }
+      ],
+      "explanation": "'Even so' is a sentence conjunct meaning 'in spite of that', linking back to the preceding sentence and standing alone before a comma. 'Even though' must introduce a subordinate clause within the same sentence; 'Much as' needs a following subject + verb; 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
+    },
+    {
+      "text": "{1} the figures may look discouraging, they conceal a genuine improvement in efficiency.",
+      "blanks": [
+        {
+          "answer": "While",
+          "options": [
+            "For all",
+            "Notwithstanding",
+            "While",
+            "Albeit"
+          ],
+          "hint": "subordinator used concessively: ___ + finite clause = although"
+        }
+      ],
+      "explanation": "'While' (or 'Whilst') used concessively introduces a finite clause and means 'although': 'While the figures may look discouraging'. 'For all' and 'Notwithstanding' are followed by a noun phrase, not a finite clause; 'Albeit' cannot head a full finite clause with its own subject and modal ('the figures may look')."
+    },
+    {
+      "text": "{1} he might, the old locksmith could not persuade the rusted mechanism to turn.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "As try",
+            "Try as",
+            "Much as",
+            "However"
+          ],
+          "hint": "emphatic concession: Verb + ___ + subject + might/could"
+        }
+      ],
+      "explanation": "'Try as he might' is the fixed emphatic pattern 'Verb + as + subject + might/could', meaning 'however hard he tried'. 'As try' reverses the word order and is ungrammatical; 'Much as' takes a verb of feeling and would need a following main verb ('Much as he might wish'), not a bare 'might'; 'However' must be completed by an adjective or adverb ('However hard'), so it cannot stand before 'he might' alone."
+    },
+    {
+      "text": "The critics have raised some fair points about the budget. {1}, the project must proceed on schedule.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "That being so",
+            "Come what may",
+            "As it may be",
+            "Be that as it may"
+          ],
+          "hint": "fixed conjunct: 'even granting that, ...'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even if that is true', conceding the previous sentence before overriding it. 'That being so' is causal ('because that is the case'), the opposite relation; 'As it may be' is not an idiomatic conjunct and hangs incomplete; 'Come what may' means 'whatever happens' and points to the future, not back at a conceded point."
+    },
+    {
+      "text": "{1} the reasons for the delay, the final outcome remains wholly unacceptable to the client.",
+      "blanks": [
+        {
+          "answer": "Whatever",
+          "options": [
+            "Whatever",
+            "Much as",
+            "Whichever",
+            "However"
+          ],
+          "hint": "___ + noun phrase = 'no matter what ... may be'"
+        }
+      ],
+      "explanation": "'Whatever + noun phrase' is a concessive with an elided copula: 'Whatever the reasons (may be)' = 'no matter what the reasons are'. 'However' requires a following adjective or adverb ('However good the reasons'); 'Whichever' selects from a defined, closed set and cannot govern an open noun like 'the reasons'; 'Much as' demands a subject and verb ('Much as we sympathise'), not a bare noun phrase."
+    },
+    {
+      "text": "Her arguments were widely regarded as flawed. {1}, they carried the day at the meeting.",
+      "blanks": [
+        {
+          "answer": "Nevertheless",
+          "options": [
+            "Even though",
+            "Much as",
+            "Nevertheless",
+            "Whereas"
+          ],
+          "hint": "stand-alone conjunct linking back: 'in spite of that'"
+        }
+      ],
+      "explanation": "'Nevertheless' is a sentence conjunct meaning 'in spite of that'; it stands alone before a comma and a full main clause, referring back to the previous sentence. 'Even though' is a subordinator that must introduce a dependent clause within its own sentence, not stand alone; 'Much as' needs a following subject and verb; 'Whereas' is a subordinating conjunction of contrast and likewise cannot function as a free-standing conjunct before a comma."
+    },
+    {
+      "text": "{1} persuasive his rhetoric, the facts stubbornly refused to bear out his conclusion.",
+      "blanks": [
+        {
+          "answer": "No matter how",
+          "options": [
+            "Whatever",
+            "No matter how",
+            "No matter that",
+            "However much"
+          ],
+          "hint": "___ + adjective + subject (+ verb) = 'to whatever degree'"
+        }
+      ],
+      "explanation": "'No matter how + adjective + subject' ('No matter how persuasive his rhetoric [was]') concedes that no degree of the quality changes the result. 'However much' modifies quantity or a verb, not a predicative adjective ('However much persuasive' is ungrammatical); 'Whatever' governs a noun, not the adjective 'persuasive'; 'No matter that' takes a full finite clause ('No matter that his rhetoric was persuasive'), so it cannot precede the bare 'persuasive his rhetoric'."
+    },
+    {
+      "text": "{1} he might, he could not rid himself of the nagging suspicion that he had been deceived.",
+      "blanks": [
+        {
+          "answer": "Try as",
+          "options": [
+            "Try as",
+            "However",
+            "Much as",
+            "Even though"
+          ],
+          "hint": "fixed concessive idiom: ___ + subject + 'might/may' = no matter how hard one tries"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom built on the pattern 'Try as + subject + might/may', meaning 'however hard he tried'. 'However' would need a following adjective/adverb ('However hard he tried') and cannot precede the bare 'he might'; 'Much as' is followed by a verb of feeling ('Much as he tried'), not the modal-final 'he might'; 'Even though' introduces an ordinary finite clause and does not license the fronted 'might'."
+    },
+    {
+      "text": "Exhausted {1} she was, she insisted on finishing the marathon.",
+      "blanks": [
+        {
+          "answer": "as",
+          "options": [
+            "though as",
+            "as",
+            "however",
+            "despite"
+          ],
+          "hint": "fronted adjective + ___ + subject + be (concessive inversion)"
+        }
+      ],
+      "explanation": "'Adjective + as + subject + be' ('Exhausted as she was') is a concessive inversion meaning 'although she was exhausted', common in formal and literary English. 'Though as' doubles the connector and is ungrammatical; 'however' would precede the adjective ('However exhausted she was'); 'despite' cannot govern the finite clause 'she was'."
+    },
+    {
+      "text": "{1} as he might, he simply could not remember where he had left the keys.",
+      "blanks": [
+        {
+          "answer": "Try",
+          "options": [
+            "Try",
+            "Much",
+            "However",
+            "Even"
+          ],
+          "hint": "fixed idiom: ___ + as + subject + might/may = 'however hard one tries'"
+        }
+      ],
+      "explanation": "'Try as he might' is a fixed concessive idiom ('verb + as + subject + may/might') meaning 'however hard he tried'. 'Much as' must be followed directly by a verb of feeling ('Much as I admire'), not by 'as he might'; 'However' would need a following adjective/adverb ('However hard he tried'), not a bare 'as'; 'Even as' is temporal ('at the very moment that'), not concessive."
+    },
+    {
+      "text": "The scheme is costly and largely untested. {1}, the board has resolved to proceed with it.",
+      "blanks": [
+        {
+          "answer": "Be that as it may",
+          "options": [
+            "Be that as it may",
+            "As that may be",
+            "Much as",
+            "Albeit"
+          ],
+          "hint": "fixed concessive conjunct = 'even so / nevertheless'"
+        }
+      ],
+      "explanation": "'Be that as it may' is a fixed concessive conjunct meaning 'even so / nevertheless', standing alone before a comma and linking back to the previous sentence. 'As that may be' garbles the frozen idiom and is ungrammatical; 'Much as' requires a following subject + verb ('Much as it is costly'); 'Albeit' introduces a concessive phrase, not a free-standing connector before a full main clause."
     }
   ]
 }
