@@ -108,16 +108,6 @@
       "explanation": "The absolute construction 'With + noun + -ing participle' supplies attendant circumstances and, crucially, has its own subject ('the two sides'), so it does not need to share the subject of the main clause. This is why it does not dangle even though its subject differs from 'the negotiations'."
     },
     {
-      "prompt": "Because she had spent years abroad, she found her home town strangely unfamiliar.",
-      "instruction": "Rewrite the reason clause as a perfect (active) participle clause expressing cause, beginning with 'Having'.",
-      "answer": [
-        "Having spent years abroad, she found her home town strangely unfamiliar.",
-        "Having spent years abroad she found her home town strangely unfamiliar"
-      ],
-      "placeholder": "Having spent…",
-      "explanation": "When the reason for the main event lies in a completed earlier action, the perfect participle 'Having + past participle' expresses both the cause and its priority in time: 'Having spent years abroad' = 'Because she had spent years abroad'. A plain -ing clause ('Spending years abroad') would wrongly suggest the two events were simultaneous rather than one preceding the other."
-    },
-    {
       "prompt": "The novel was translated into thirty languages. It made its author a household name.",
       "instruction": "Combine using an -ed (passive) reduced relative clause modifying 'novel', placed between commas (', translated into thirty languages,').",
       "answer": [
@@ -126,16 +116,6 @@
       ],
       "placeholder": "The novel, translated…",
       "explanation": "A non-defining relative clause ('which was translated into thirty languages') reduces to the bare past participle 'translated into thirty languages', here embedded mid-sentence between commas as a reduced relative modifying 'the novel'. This is adnominal (it modifies the noun), not adverbial, which is why the commas of the relative clause are kept and the participle sits next to its noun."
-    },
-    {
-      "prompt": "Once it has been switched on, the machine calibrates itself automatically.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
-      "answer": [
-        "Once switched on, the machine calibrates itself automatically.",
-        "Once switched on the machine calibrates itself automatically"
-      ],
-      "placeholder": "Once switched on…",
-      "explanation": "The conjunction 'Once' can be retained in front of a reduced participle clause for temporal precision: 'Once it has been switched on' reduces to 'Once switched on', dropping the subject and the forms of 'be'. The understood subject is 'the machine', the subject of the main clause, so the clause does not dangle."
     },
     {
       "prompt": "The storm raged for hours. Rain lashed the windows the whole time.",
@@ -148,46 +128,6 @@
       "explanation": "The 'With + noun + -ing participle' absolute construction adds simultaneous attendant detail and carries its own subject ('rain'), which need not match the main subject ('the storm'). Because the participle has an explicit subject of its own, it does not dangle despite describing a different agent from the main clause."
     },
     {
-      "prompt": "She had spent a decade working in Tokyo. She found the move back to London surprisingly difficult.",
-      "instruction": "Combine using a perfect active participle clause to give the completed background reason, beginning with 'Having spent'.",
-      "answer": [
-        "Having spent a decade working in Tokyo, she found the move back to London surprisingly difficult.",
-        "Having spent a decade working in Tokyo she found the move back to London surprisingly difficult"
-      ],
-      "placeholder": "Having spent…",
-      "explanation": "The perfect active participle 'Having spent' reduces a completed prior clause ('Because she had spent a decade…') and here conveys both anteriority and reason: the years in Tokyo were over before, and account for, the difficulty of the move. Unlike a plain -ing clause ('Spending a decade…'), the perfect form makes the action explicitly finished before the main verb. The understood subject is 'she', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The novel was translated into more than forty languages. It made its author a global celebrity.",
-      "instruction": "Combine using a non-defining reduced relative clause built on an -ed participle, placed mid-sentence after the subject (', translated into…,').",
-      "answer": [
-        "The novel, translated into more than forty languages, made its author a global celebrity.",
-        "The novel translated into more than forty languages made its author a global celebrity"
-      ],
-      "placeholder": "The novel, translated…,",
-      "explanation": "A non-defining relative clause ('which was translated into more than forty languages') reduces to the bare past participle 'translated', set off by paired commas because it adds non-essential information about 'the novel'. Embedded between the subject and its verb, the participle phrase modifies the noun it follows; the commas signal that it is a reduced relative clause, not an adverbial one."
-    },
-    {
-      "prompt": "As soon as it is switched on, the device begins recording automatically.",
-      "instruction": "Rewrite keeping a subordinating conjunction but reducing the clause to a past (passive) participle, beginning with 'Once switched on'.",
-      "answer": [
-        "Once switched on, the device begins recording automatically.",
-        "Once switched on the device begins recording automatically"
-      ],
-      "placeholder": "Once switched on…",
-      "explanation": "A subordinator such as 'once', 'when', 'until' or 'if' can be retained in front of a reduced passive clause for precision: 'As soon as it is switched on' becomes 'Once switched on', dropping the subject 'it' and the form of 'be'. The retained conjunction keeps the temporal meaning explicit, while the understood subject stays 'the device', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "Because it is situated on a steep hillside, the village is almost inaccessible by car.",
-      "instruction": "Rewrite the reason clause as a present participle clause of an underlying passive, beginning with 'Being'.",
-      "answer": [
-        "Being situated on a steep hillside, the village is almost inaccessible by car.",
-        "Being situated on a steep hillside the village is almost inaccessible by car"
-      ],
-      "placeholder": "Being situated…",
-      "explanation": "A causal clause whose verb is stative-passive ('Because it is situated…') reduces to 'Being + past participle', which expresses reason: 'Being situated on a steep hillside' = 'Because it is situated…'. 'Being' carries the present, ongoing state, and 'situated' supplies the passive meaning. The understood subject is 'the village', the subject of the main clause, so there is no dangling modifier."
-    },
-    {
       "prompt": "The hikers pressed on towards the summit. Their boots were caked with mud.",
       "instruction": "Combine using a 'with + noun + -ed (past) participle' absolute construction giving the attendant circumstances, placed after the main clause (', with their boots…').",
       "answer": [
@@ -198,36 +138,6 @@
       "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances using a passive (-ed) participle: 'with their boots caked with mud' = 'and their boots were caked with mud'. Like its -ing counterpart, it carries its own subject ('their boots'), so it need not share the subject of the main clause ('the hikers') and therefore does not dangle, even though the two subjects differ."
     },
     {
-      "prompt": "Because she had lived in Tokyo for a decade, she spoke the language like a native.",
-      "instruction": "Rewrite the reason clause as a perfect participle clause to show the prior, completed situation, beginning with 'Having'.",
-      "answer": [
-        "Having lived in Tokyo for a decade, she spoke the language like a native.",
-        "Having lived in Tokyo for a decade she spoke the language like a native"
-      ],
-      "placeholder": "Having lived…",
-      "explanation": "A causal clause referring to a completed prior stretch of time reduces to the perfect participle 'Having + past participle': 'Because she had lived' becomes 'Having lived'. The perfect form (rather than plain 'Living') makes clear the decade of residence preceded and explains the present skill. The understood subject is 'she', the subject of the main clause."
-    },
-    {
-      "prompt": "The weather was fine, so the whole family decided to eat lunch in the garden.",
-      "instruction": "Combine using an absolute construction (a participle clause that keeps its own subject) for the reason, beginning with 'The weather'.",
-      "answer": [
-        "The weather being fine, the whole family decided to eat lunch in the garden.",
-        "The weather being fine the whole family decided to eat lunch in the garden"
-      ],
-      "placeholder": "The weather being fine,…",
-      "explanation": "An absolute construction keeps its own subject ('the weather') and attaches a participle ('being') to it, modifying the whole main clause as a reason. Because it has a subject of its own, it does not need to share the subject of the main clause ('the whole family') and so does not dangle. This is the present-participle absolute, distinct from a 'with + noun + participle' phrase."
-    },
-    {
-      "prompt": "I picked up the parcel that was waiting for me at the front desk.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) modifying the object 'the parcel', dropping 'that was'.",
-      "answer": [
-        "I picked up the parcel waiting for me at the front desk.",
-        "I picked up the parcel waiting for me at the front desk"
-      ],
-      "placeholder": "…the parcel waiting…",
-      "explanation": "A defining relative clause with 'that/which + be + -ing' reduces to the bare present participle even when the noun it modifies is the object of the main verb: 'the parcel that was waiting' becomes 'the parcel waiting'. The participle attaches directly to 'parcel', not to the subject 'I', so no dangling occurs. This is a reduced relative clause, not an adverbial one."
-    },
-    {
       "prompt": "As soon as it is completed, the new terminal will double the airport's capacity.",
       "instruction": "Rewrite keeping a conjunction but reducing the time clause to a past (passive) participle, beginning with 'Once'.",
       "answer": [
@@ -236,26 +146,6 @@
       ],
       "placeholder": "Once completed,…",
       "explanation": "A subordinating conjunction of time can be kept before a participle clause for precision: 'As soon as it is completed' reduces to 'Once completed', dropping the subject and the form of 'be'. The understood subject of the participle is 'the new terminal', the subject of the main clause, so the modifier does not dangle. 'Once' here means 'as soon as / when'."
-    },
-    {
-      "prompt": "If it is handled with care, this antique clock will outlast its owner.",
-      "instruction": "Rewrite the conditional clause as a past (passive) participle clause of condition, beginning with 'Handled'.",
-      "answer": [
-        "Handled with care, this antique clock will outlast its owner.",
-        "Handled with care this antique clock will outlast its owner"
-      ],
-      "placeholder": "Handled with care,…",
-      "explanation": "A conditional 'if'-clause in the passive can reduce to a bare past participle expressing condition: 'If it is handled with care' becomes 'Handled with care' = 'If/Provided it is handled with care'. The understood subject is 'this antique clock', the main-clause subject, so the participle does not dangle. Context (the modal 'will') signals that the meaning is conditional rather than purely temporal."
-    },
-    {
-      "prompt": "Because she was short of time, she decided to skip the introduction entirely.",
-      "instruction": "Rewrite the reason clause as a fronted present (-ing) participle clause expressing cause, beginning with 'Being'.",
-      "answer": [
-        "Being short of time, she decided to skip the introduction entirely.",
-        "Being short of time she decided to skip the introduction entirely"
-      ],
-      "placeholder": "Being short of time…",
-      "explanation": "A causal clause ('Because she was short of time') reduces to an -ing participle clause expressing reason, with the participle 'being' standing in for 'was': 'Being short of time' = 'As/Since she was short of time'. This fronted -ing clause states the cause of the main action, and its understood subject is 'she', the subject of the main clause."
     },
     {
       "prompt": "She arrived at the station. She immediately realised she had left her ticket at home.",
@@ -278,36 +168,6 @@
       "explanation": "A relative clause in the continuous passive ('that is being renovated') reduces to 'being + past participle': 'being renovated'. Unlike a bare past participle ('the stadium renovated', which reads as already finished), the 'being' form preserves the sense that the action is still in progress."
     },
     {
-      "prompt": "The harvest was safely gathered in. The villagers began their week-long celebration.",
-      "instruction": "Combine using an absolute construction of the form 'noun + past participle' at the front, beginning with 'The harvest'.",
-      "answer": [
-        "The harvest safely gathered in, the villagers began their week-long celebration.",
-        "The harvest safely gathered in the villagers began their week-long celebration"
-      ],
-      "placeholder": "The harvest safely gathered in…",
-      "explanation": "An absolute construction of the form 'noun + past participle' ('The harvest safely gathered in') has its own subject ('the harvest') and so does not share the subject of the main clause. It supplies the background circumstance — here, the completed condition — against which the main event takes place, and is largely confined to formal or literary writing."
-    },
-    {
-      "prompt": "Reading the email, he sensed at once that something was badly wrong.",
-      "instruction": "Make the participle clause more precise by inserting the conjunction 'On' before an -ing form to mean 'at the moment of', beginning with 'On reading'.",
-      "answer": [
-        "On reading the email, he sensed at once that something was badly wrong.",
-        "On reading the email he sensed at once that something was badly wrong"
-      ],
-      "placeholder": "On reading the email…",
-      "explanation": "The pattern 'On + -ing' means 'at the moment of doing / as soon as one does': 'On reading the email' = 'As soon as he read the email'. Keeping the preposition 'On' in front of the participle pins the action to the precise instant, which a bare -ing clause leaves vaguer; the understood subject remains 'he', the subject of the main clause."
-    },
-    {
-      "prompt": "His task was finally completed. He allowed himself to relax for the first time in weeks.",
-      "instruction": "Combine using a nominative absolute construction with its own noun subject + past participle (no 'with'), beginning with 'His task'.",
-      "answer": [
-        "His task completed, he allowed himself to relax for the first time in weeks.",
-        "His task completed he allowed himself to relax for the first time in weeks"
-      ],
-      "placeholder": "His task completed,…",
-      "explanation": "The nominative absolute 'His task completed' carries its own subject ('His task') followed by a past participle, equivalent to 'Now that his task was completed'. Because the absolute supplies its own subject, it need not share the subject of the main clause ('he'), and unlike the 'with'-absolute it takes no introductory preposition."
-    },
-    {
       "prompt": "She had never studied the local dialect. She struggled to follow the villagers' conversations.",
       "instruction": "Combine using a negative perfect participle clause to express the cause/reason for the main clause, beginning with 'Never'.",
       "answer": [
@@ -316,16 +176,6 @@
       ],
       "placeholder": "Never having studied…",
       "explanation": "A negative perfect participle places the negator before the perfect participle: 'Never having studied' (= 'Because she had never studied'). It marks the cause as prior to and completed before the main clause, with the understood subject 'she' matching the main subject, so it does not dangle."
-    },
-    {
-      "prompt": "Walking down the street, the trees were a beautiful sight. (The intended subject is 'I', not 'the trees'.)",
-      "instruction": "Correct the dangling modifier by rewriting so that the understood subject of 'Walking' is also the subject of the main clause, beginning with 'Walking down the street, I'.",
-      "answer": [
-        "Walking down the street, I thought the trees were a beautiful sight.",
-        "Walking down the street I thought the trees were a beautiful sight"
-      ],
-      "placeholder": "Walking down the street, I…",
-      "explanation": "The original dangles because 'Walking' has no logical subject in the main clause: as written, the trees are doing the walking. A participle clause must share its subject with the main clause, so the fix is to make 'I' the subject of the main verb ('I thought…'). Adding a separate subject to the main clause, rather than the participle, is what removes the dangle."
     },
     {
       "prompt": "Because we know how strongly you feel about this, we have decided to postpone the vote.",
@@ -348,46 +198,6 @@
       "explanation": "An absolute construction has its own overt subject ('The weather') followed by a participle ('being'), and stands grammatically apart from the main clause, supplying a reason or attendant circumstance. Because it carries its own subject, it does not need to share the subject of the main clause and therefore cannot dangle, unlike a bare '-ing' clause."
     },
     {
-      "prompt": "After the contract had been signed, there was no way for either party to withdraw.",
-      "instruction": "Rewrite the time clause as a participle clause keeping the conjunction 'Once' and a past participle, beginning with 'Once'.",
-      "answer": [
-        "Once signed, the contract left neither party any way to withdraw.",
-        "Once signed the contract left neither party any way to withdraw"
-      ],
-      "placeholder": "Once signed…",
-      "explanation": "The conjunction 'Once' can be kept in front of a reduced passive clause: 'Once it had been signed' becomes 'Once signed', dropping the subject and the form of 'be'. The understood subject of the participle must be the subject of the main clause, so the main clause is recast around 'the contract' ('the contract left…') to avoid a dangling modifier."
-    },
-    {
-      "prompt": "Anyone who is found cheating in the examination will be disqualified.",
-      "instruction": "Rewrite using a reduced relative clause with a past (passive) participle in place of 'who is found'.",
-      "answer": [
-        "Anyone found cheating in the examination will be disqualified.",
-        "Anyone found cheating in the examination will be disqualified"
-      ],
-      "placeholder": "Anyone found…",
-      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare past participle: 'who is found' becomes 'found'. This is a reduced relative clause modifying the pronoun 'anyone', not an adverbial participle clause, so no comma is used and the word order of the noun phrase is preserved."
-    },
-    {
-      "prompt": "Once it has been translated into English, the manual will reach a far wider audience.",
-      "instruction": "Reduce the time clause to a participle clause, keeping the conjunction 'Once' and beginning 'Once translated'.",
-      "answer": [
-        "Once translated into English, the manual will reach a far wider audience.",
-        "Once translated into English the manual will reach a far wider audience"
-      ],
-      "placeholder": "Once translated…",
-      "explanation": "As with 'when', 'while' and 'until', the conjunction 'once' can be kept directly in front of a reduced passive participle: 'Once it has been translated' becomes 'Once translated', dropping the subject and the auxiliary 'has been'. The understood subject is still 'the manual', the subject of the main clause, so the participle does not dangle."
-    },
-    {
-      "prompt": "She spoke quietly. She did not want to wake the baby.",
-      "instruction": "Combine using a negative perfect-less present participle clause of reason placed after the main clause, ending '…, not wanting to…'.",
-      "answer": [
-        "She spoke quietly, not wanting to wake the baby.",
-        "She spoke quietly not wanting to wake the baby"
-      ],
-      "placeholder": "She spoke quietly, not wanting…",
-      "explanation": "An -ing clause after the main clause can give the reason or motive behind it: 'not wanting to wake the baby' explains why she spoke quietly. The negative is formed by placing 'not' before the participle, and the shared subject 'she' is understood as the subject of 'wanting'."
-    },
-    {
       "prompt": "The candidate gave a polished speech. As a result, she impressed the entire panel.",
       "instruction": "Combine using a present participle clause introduced by 'thereby' to express the deliberate result, ending '…, thereby impressing…'.",
       "answer": [
@@ -396,26 +206,6 @@
       ],
       "placeholder": "…, thereby impressing…",
       "explanation": "A result -ing clause can be reinforced with the formal adverb 'thereby' ('by that means / as a result of that'): 'thereby impressing the entire panel' = 'and by doing so impressed them'. The participle's understood subject is 'the candidate', the main subject, and 'thereby' makes the cause-and-effect link explicit."
-    },
-    {
-      "prompt": "The samples were stored at the wrong temperature. They were therefore useless for analysis.",
-      "instruction": "Combine using a perfect passive participle clause of reason, beginning 'Having been stored'.",
-      "answer": [
-        "Having been stored at the wrong temperature, the samples were useless for analysis.",
-        "Having been stored at the wrong temperature the samples were useless for analysis"
-      ],
-      "placeholder": "Having been stored…",
-      "explanation": "When the reason is both passive and prior in time, it reduces to the perfect passive participle 'Having been + past participle': 'Having been stored at the wrong temperature' = 'Because they had been stored…'. The understood subject is 'the samples', the subject of the main clause."
-    },
-    {
-      "prompt": "Anyone who is wishing to apply must submit references by Friday.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'who is wishing', beginning 'Anyone wishing'.",
-      "answer": [
-        "Anyone wishing to apply must submit references by Friday.",
-        "Anyone wishing to apply must submit references by Friday"
-      ],
-      "placeholder": "Anyone wishing…",
-      "explanation": "A defining relative clause of the form 'who/that + be + -ing' reduces to the bare present participle: 'who is wishing' becomes 'wishing'. This postmodifying participle ('Anyone wishing to apply') is a reduced relative clause, not an adverbial one, and is standard in formal and official register."
     },
     {
       "prompt": "If it is treated promptly, the infection rarely causes lasting damage.",
@@ -428,86 +218,6 @@
       "explanation": "A conditional clause can be reduced to a participle while the conjunction is kept for clarity: 'If it is treated promptly' becomes 'If treated promptly', dropping the subject and 'is'. The understood subject is 'the infection', the subject of the main clause, so the reduced conditional does not dangle."
     },
     {
-      "prompt": "As soon as he arrived at the station, he realised he had forgotten his ticket.",
-      "instruction": "Rewrite the time clause using 'On + -ing', beginning with 'On arriving'.",
-      "answer": [
-        "On arriving at the station, he realised he had forgotten his ticket.",
-        "On arriving at the station he realised he had forgotten his ticket"
-      ],
-      "placeholder": "On arriving…",
-      "explanation": "'On + -ing' expresses an action immediately followed by another: 'On arriving at the station' = 'As soon as he arrived'. The understood subject of the gerund is 'he', the subject of the main clause, so the construction is well formed."
-    },
-    {
-      "prompt": "Because she had missed the last train, she was forced to take a taxi home.",
-      "instruction": "Rewrite the reason clause as a perfect participle clause of reason, beginning with 'Having'.",
-      "answer": [
-        "Having missed the last train, she was forced to take a taxi home.",
-        "Having missed the last train she was forced to take a taxi home"
-      ],
-      "placeholder": "Having missed…",
-      "explanation": "A causal clause referring to an earlier completed action reduces to a perfect participle: 'Because she had missed' becomes 'Having missed', which conveys both the reason and the fact that the action was finished before the main event. The shared subject 'she' is the subject of the main clause."
-    },
-    {
-      "prompt": "The old factory stood at the edge of town. Its windows were boarded up against intruders.",
-      "instruction": "Combine using a 'with + noun + -ed participle' absolute construction for the attendant state, placed after the main clause (', with its windows…').",
-      "answer": [
-        "The old factory stood at the edge of town, with its windows boarded up against intruders.",
-        "The old factory stood at the edge of town with its windows boarded up against intruders"
-      ],
-      "placeholder": "…, with its windows boarded up…",
-      "explanation": "The absolute construction 'With + noun + -ed (passive) participle' describes an attendant state and has its own subject ('its windows'). Because the windows were acted upon (they were boarded up), the past participle is used rather than the -ing form, and the separate subject means the clause does not dangle."
-    },
-    {
-      "prompt": "Hoping to find a bargain, the shelves were searched thoroughly by the customer.",
-      "instruction": "Correct the dangling modifier so that the -ing clause attaches to its true subject; keep the opening 'Hoping to find a bargain,'.",
-      "answer": [
-        "Hoping to find a bargain, the customer searched the shelves thoroughly.",
-        "Hoping to find a bargain the customer searched the shelves thoroughly"
-      ],
-      "placeholder": "Hoping to find a bargain, the customer…",
-      "explanation": "In the original, the participle 'Hoping' dangles because its understood subject (the one hoping) is not 'the shelves', the grammatical subject of the passive main clause. The fix makes the human agent 'the customer' the subject of an active main clause, so the participle now correctly attaches to the person who is hoping."
-    },
-    {
-      "prompt": "The villa had been abandoned for decades. It was finally restored to its original splendour.",
-      "instruction": "Combine into one sentence using a perfect passive participle clause for the completed prior state, beginning with 'Having been'.",
-      "answer": [
-        "Having been abandoned for decades, the villa was finally restored to its original splendour.",
-        "Having been abandoned for decades the villa was finally restored to its original splendour"
-      ],
-      "placeholder": "Having been abandoned…",
-      "explanation": "A passive clause that is also prior in time reduces to the perfect passive participle 'Having been + past participle': 'Having been abandoned for decades' marks the state as both passive (the villa was acted upon) and completed before the restoration. The understood subject is 'the villa', the subject of the main clause, so the participle does not dangle."
-    },
-    {
-      "prompt": "The documents were stored in a damp cellar. They had deteriorated beyond repair.",
-      "instruction": "Combine using a past (-ed passive) participle clause for the cause, beginning with 'Stored'.",
-      "answer": [
-        "Stored in a damp cellar, the documents had deteriorated beyond repair.",
-        "Stored in a damp cellar the documents had deteriorated beyond repair"
-      ],
-      "placeholder": "Stored…",
-      "explanation": "A passive clause ('Because they had been stored in a damp cellar') reduces to the bare past participle 'Stored', which here carries a causal sense as well as describing the documents. The understood subject is 'the documents', the subject of the main clause, so the modifier attaches correctly and does not dangle."
-    },
-    {
-      "prompt": "The candidates who are shortlisted for the post will be contacted next week.",
-      "instruction": "Rewrite using a reduced relative clause (a past participle) instead of 'who are shortlisted'.",
-      "answer": [
-        "The candidates shortlisted for the post will be contacted next week.",
-        "The candidates shortlisted for the post will be contacted next week"
-      ],
-      "placeholder": "The candidates shortlisted…",
-      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare participle: 'who are shortlisted' becomes 'shortlisted'. This is a reduced relative clause modifying 'the candidates', not an adverbial one, so no commas are added."
-    },
-    {
-      "prompt": "Having reviewed all the evidence. The jury reached a unanimous verdict.",
-      "instruction": "Combine into one sentence using a perfect participle clause for the completed first action, beginning with 'Having'.",
-      "answer": [
-        "Having reviewed all the evidence, the jury reached a unanimous verdict.",
-        "Having reviewed all the evidence the jury reached a unanimous verdict"
-      ],
-      "placeholder": "Having reviewed…",
-      "explanation": "The perfect participle 'Having reviewed' signals that the reviewing was completed before the verdict was reached, making the sequence explicit. The understood subject of the participle must match the subject of the main clause: it is 'the jury' that did the reviewing, so the shared subject keeps the clause from dangling."
-    },
-    {
       "prompt": "While he was recovering from surgery, the author dictated his final novel.",
       "instruction": "Rewrite keeping the conjunction 'While' but reducing the clause to a present (-ing) participle.",
       "answer": [
@@ -516,50 +226,6 @@
       ],
       "placeholder": "While recovering…",
       "explanation": "A subordinating conjunction (while, when, once, before, after) may be kept in front of a participle clause for precision: 'While he was recovering' reduces to 'While recovering', dropping the subject and the form of 'be'. The understood subject remains 'the author', the subject of the main clause, so the reduced clause does not dangle."
-    },
-    {
-      "prompt": "Because she lived only a short walk from the office, she rarely took the bus.",
-      "instruction": "Rewrite the reason clause as a positive present (-ing) participle clause of cause at the front, beginning with 'Living'.",
-      "answer": [
-        "Living only a short walk from the office, she rarely took the bus.",
-        "Living only a short walk from the office she rarely took the bus"
-      ],
-      "placeholder": "Living…",
-      "explanation": "A 'because'-clause of reason reduces to a fronted -ing participle clause expressing cause: 'Because she lived…' becomes 'Living…'. The participle here does not describe a simultaneous physical action but states the reason for the main clause, a recognised use of the -ing clause (Swan, Practical English Usage, 'participle clauses'). The understood subject is 'she', the subject of the main clause, so the modifier is correctly attached and does not dangle."
-    },
-    {
-      "prompt": "Driving to work this morning, the traffic was the worst I had seen in years.",
-      "instruction": "The fronted participle clause dangles because its subject is not the main-clause subject. Rewrite to correct it, keeping 'Driving to work this morning,' and supplying a proper subject ('I').",
-      "answer": [
-        "Driving to work this morning, I saw the worst traffic in years.",
-        "Driving to work this morning I saw the worst traffic in years.",
-        "Driving to work this morning, I found the traffic the worst I had seen in years.",
-        "Driving to work this morning I found the traffic the worst I had seen in years"
-      ],
-      "placeholder": "Driving to work this morning, I…",
-      "explanation": "The original is a classic dangling (or 'unattached') participle: 'Driving to work' has no stated subject, so by rule it attaches to the main-clause subject 'the traffic' — yet traffic does not drive. The correction makes the human agent 'I' the subject of the main clause, so the understood subject of 'Driving' matches it (Swan, Practical English Usage, 'misrelated/dangling participles'). Any rewrite is acceptable provided the person who was driving is the grammatical subject of the main clause."
-    },
-    {
-      "prompt": "The decision had been taken. The board turned to the question of how to announce it.",
-      "instruction": "Combine using an absolute construction of the form 'noun + past participle' at the front (no conjunction, no 'with'), beginning with 'The decision'.",
-      "answer": [
-        "The decision taken, the board turned to the question of how to announce it.",
-        "The decision taken the board turned to the question of how to announce it"
-      ],
-      "placeholder": "The decision taken,…",
-      "explanation": "An absolute construction may consist of a noun plus a past (passive) participle with no introductory word: 'The decision taken' = 'Once/After the decision had been taken'. Unlike an ordinary participle clause, the absolute has its own overt subject ('the decision'), distinct from the main-clause subject ('the board'), so it cannot dangle (Cambridge Grammar of English, 'absolute clauses'). It compresses a completed, passive prior event into a noun + -ed phrase."
-    },
-    {
-      "prompt": "After the software had been installed, the technician restarted the machine.",
-      "instruction": "Rewrite reducing the time clause to a past (passive) participle but keeping the conjunction 'Once'.",
-      "answer": [
-        "Once installed, the software prompted the technician to restart the machine.",
-        "Once installed the software prompted the technician to restart the machine",
-        "Once installed, the software let the technician restart the machine.",
-        "Once installed the software let the technician restart the machine"
-      ],
-      "placeholder": "Once installed,…",
-      "explanation": "A conjunction of time (once, when, until, after) can be kept before a reduced passive participle: 'Once the software had been installed' becomes 'Once installed'. Because the participle has no subject of its own, the noun it modifies must become the subject of the main clause — here 'the software' — otherwise the clause would dangle (the original main subject 'the technician' was not installed). The rewrite therefore promotes 'the software' to subject. 'Once + past participle' is a common reduced temporal clause (Swan, Practical English Usage)."
     },
     {
       "prompt": "The path that leads down to the harbour is steep and badly lit.",
@@ -582,67 +248,6 @@
       "explanation": "A causal clause ('Because it stands…') reduces to a present participle clause expressing reason: 'Standing on a hill' = 'Because it stands on a hill'. The understood subject is 'the castle', the subject of the main clause, so the modifier is correctly attached and does not dangle."
     },
     {
-      "prompt": "The weather was fine, so we decided to eat lunch outside on the terrace.",
-      "instruction": "Rewrite the first clause as a bare absolute construction (noun + participle, no 'with'), beginning with 'The weather'.",
-      "answer": [
-        "The weather being fine, we decided to eat lunch outside on the terrace.",
-        "The weather being fine we decided to eat lunch outside on the terrace"
-      ],
-      "placeholder": "The weather being fine, …",
-      "explanation": "A bare absolute construction keeps its own subject and links it to the main clause through a participle: 'The weather being fine' has the subject 'the weather', distinct from 'we'. Because the absolute clause carries its own subject, it does not need to share the subject of the main clause and so does not dangle."
-    },
-    {
-      "prompt": "Driving to the coast, the sea suddenly came into view.",
-      "instruction": "This sentence contains a dangling modifier (the sea was not driving). Rewrite it so the participle clause has a proper subject, beginning with 'Driving to the coast, we'.",
-      "answer": [
-        "Driving to the coast, we suddenly saw the sea come into view.",
-        "Driving to the coast, we suddenly saw the sea.",
-        "Driving to the coast we suddenly saw the sea"
-      ],
-      "placeholder": "Driving to the coast, we…",
-      "explanation": "The original dangles: the understood subject of 'Driving' must be the subject of the main clause, but 'the sea' cannot drive. Supplying a human subject ('we') for the main clause makes 'we' the shared subject of the participle, so the modifier no longer dangles."
-    },
-    {
-      "prompt": "He had lost his passport. He was unable to board the flight.",
-      "instruction": "Combine using a perfect participle clause with an object, beginning with 'Having'.",
-      "answer": [
-        "Having lost his passport, he was unable to board the flight.",
-        "Having lost his passport he was unable to board the flight"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "The perfect participle 'Having lost his passport' marks the loss as completed before the main event and, here, expresses its cause ('Because he had lost…'). A plain -ing clause ('Losing his passport') would wrongly suggest the two events were simultaneous."
-    },
-    {
-      "prompt": "If the weather permits, the ceremony will take place in the garden.",
-      "instruction": "Rewrite the condition as an absolute participle phrase using 'permitting', placed after the main clause.",
-      "answer": [
-        "The ceremony will take place in the garden, weather permitting.",
-        "The ceremony will take place in the garden weather permitting"
-      ],
-      "placeholder": "…, weather permitting.",
-      "explanation": "'Weather permitting' is a fixed absolute construction (noun + -ing participle) meaning 'if the weather permits'. Like other absolutes it carries its own subject ('weather'), distinct from 'the ceremony', so it attaches without a shared subject and does not dangle."
-    },
-    {
-      "prompt": "The results had been checked twice. They were sent to the editor.",
-      "instruction": "Combine using a perfect passive participle clause for the completed prior action, beginning with 'Having'.",
-      "answer": [
-        "Having been checked twice, the results were sent to the editor.",
-        "Having been checked twice the results were sent to the editor"
-      ],
-      "placeholder": "Having been checked…",
-      "explanation": "'Having been + past participle' reduces a clause that is both passive and prior in time: 'The results had been checked twice' becomes 'Having been checked twice'. The understood subject is 'the results', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The tourists did not have a map. They wandered the old town for hours.",
-      "instruction": "Rewrite the first idea as a negative present participle clause of reason, beginning with 'Not'.",
-      "answer": [
-        "Not having a map, the tourists wandered the old town for hours.",
-        "Not having a map the tourists wandered the old town for hours"
-      ],
-      "placeholder": "Not having…",
-      "explanation": "A reason clause reduces to a participle clause with 'not' placed before the participle: 'Because they did not have a map' becomes 'Not having a map'. The subject 'the tourists' is shared with the main clause."
-    },
-    {
       "prompt": "Once it is opened, the medicine must be used within a month.",
       "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
       "answer": [
@@ -651,16 +256,6 @@
       ],
       "placeholder": "Once opened…",
       "explanation": "A subordinating conjunction can be retained in front of a reduced clause for precision: 'Once it is opened' drops the subject and the form of 'be' to give 'Once opened'. The understood subject remains 'the medicine', the subject of the main clause."
-    },
-    {
-      "prompt": "The candidate had lost the previous three elections. She was written off by the pundits.",
-      "instruction": "Combine using a perfect (active) participle clause for the completed prior situation, beginning with 'Having'.",
-      "answer": [
-        "Having lost the previous three elections, the candidate was written off by the pundits.",
-        "Having lost the previous three elections the candidate was written off by the pundits"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "The perfect participle 'Having lost' marks the losses as complete before the main event, in a way a plain -ing clause ('Losing') could not. The shared subject 'the candidate' is understood as the subject of the participle, so the modifier does not dangle even though the main clause is passive."
     },
     {
       "prompt": "The storm knocked out the power lines. It left thousands of homes in darkness.",
@@ -683,56 +278,6 @@
       "explanation": "A present participle clause can express an open (real) condition equivalent to an 'if'-clause: 'Turning left at the old church' = 'If you turn left at the old church'. The understood subject of 'Turning' is 'you', the subject of the main clause, so the modifier does not dangle. This conditional use is distinct from a merely simultaneous -ing clause because it names the circumstance under which the main clause becomes true."
     },
     {
-      "prompt": "She calmed the frightened child by singing softly to him.",
-      "instruction": "Rewrite so that the means/manner is expressed by a fronted present (-ing) participle clause, beginning with 'Singing'.",
-      "answer": [
-        "Singing softly to him, she calmed the frightened child.",
-        "Singing softly to him she calmed the frightened child"
-      ],
-      "placeholder": "Singing…",
-      "explanation": "A fronted -ing clause can express the means or manner by which the main action is carried out: 'Singing softly to him' answers 'how' she calmed the child, corresponding to 'by singing softly to him'. Because the singing and the calming are performed by the same subject at the same time and 'she' is understood as the subject of the participle, no separate subject is needed."
-    },
-    {
-      "prompt": "He had lost his keys. As a result, he had to climb in through the kitchen window.",
-      "instruction": "Combine using a perfect participle clause expressing the prior cause, beginning with 'Having'.",
-      "answer": [
-        "Having lost his keys, he had to climb in through the kitchen window.",
-        "Having lost his keys he had to climb in through the kitchen window"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having lost' marks an action completed before the main verb and presents it as the cause of what follows: 'Having lost his keys' = 'Because he had lost his keys'. Unlike a plain -ing clause of simultaneous action, the perfect form makes the earlier, causative event explicit, and the understood subject 'he' matches the subject of the main clause."
-    },
-    {
-      "prompt": "The weather was fine. We set off early for the summit.",
-      "instruction": "Combine using a nominative absolute construction (a noun with a present participle) to give the attendant circumstance, beginning with 'The weather'.",
-      "answer": [
-        "The weather being fine, we set off early for the summit.",
-        "The weather being fine we set off early for the summit"
-      ],
-      "placeholder": "The weather being fine, …",
-      "explanation": "In a nominative absolute the participle keeps its own explicit subject: 'The weather was fine' becomes 'The weather being fine', with the finite 'was' turning into the participle 'being'. Because the construction carries its own subject ('the weather'), it does not need to match the main-clause subject ('we') and so does not dangle."
-    },
-    {
-      "prompt": "Once it has been signed by both parties, the contract becomes legally binding.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
-      "answer": [
-        "Once signed by both parties, the contract becomes legally binding.",
-        "Once signed by both parties the contract becomes legally binding"
-      ],
-      "placeholder": "Once signed…",
-      "explanation": "The subordinating conjunction 'Once' can be kept in front of a reduced passive participle for precision: 'Once it has been signed' loses its subject and the auxiliary 'has been', leaving 'Once signed'. The understood subject remains 'the contract', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "She had not received a reply. She wrote to the company again.",
-      "instruction": "Combine using a negative perfect participle clause to show the prior (non-)event, beginning with 'Not having'.",
-      "answer": [
-        "Not having received a reply, she wrote to the company again.",
-        "Not having received a reply she wrote to the company again"
-      ],
-      "placeholder": "Not having received…",
-      "explanation": "The negative perfect participle 'Not having + past participle' combines two features at once: 'having received' marks the action as completed before the main verb, and 'not' negates the whole clause. 'Not having received a reply' = 'Since she had not received a reply'. The negator 'not' is placed before the participle, and the understood subject stays 'she', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
       "prompt": "The evidence that was gathered during the raid proved crucial at the trial.",
       "instruction": "Rewrite using a reduced defining relative clause built on a past (passive) participle (drop 'that was').",
       "answer": [
@@ -751,46 +296,6 @@
       ],
       "placeholder": "Exhausted…",
       "explanation": "A stative/passive reason clause ('Because they were exhausted by the long journey') reduces to the bare past participle 'Exhausted by the long journey', which here expresses cause rather than mere description. The understood subject is 'they', the subject of the main clause, so the modifier does not dangle. Unlike a reduced relative such as 'Built in 1890', this clause modifies the whole main clause adverbially (explaining why they fell asleep), not just a preceding noun."
-    },
-    {
-      "prompt": "She had already read the book twice. She saw no reason to buy another copy.",
-      "instruction": "Combine using a perfect participle clause expressing the reason, beginning with 'Having'.",
-      "answer": [
-        "Having already read the book twice, she saw no reason to buy another copy.",
-        "Having already read the book twice she saw no reason to buy another copy"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having already read' marks the action as completed before the main verb and, in this context, supplies the reason for it: because she had read the book twice, she saw no reason to buy another. This causal use of 'Having + past participle' differs from the purely temporal sequence in 'Having finished the report, he went home'; the shared subject 'she' keeps the clause from dangling."
-    },
-    {
-      "prompt": "Because she lives near the office, she walks to work every day.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Living'.",
-      "answer": [
-        "Living near the office, she walks to work every day.",
-        "Living near the office she walks to work every day"
-      ],
-      "placeholder": "Living…",
-      "explanation": "A causal clause expressing an ongoing state ('Because she lives near the office') reduces to a present participle clause of reason: 'Living near the office'. The understood subject is 'she', the subject of the main clause, so the modifier does not dangle. Unlike a simultaneous -ing clause, this one answers 'why', not 'when'."
-    },
-    {
-      "prompt": "Once it has been opened, the medicine must be used within four weeks.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
-      "answer": [
-        "Once opened, the medicine must be used within four weeks.",
-        "Once opened the medicine must be used within four weeks"
-      ],
-      "placeholder": "Once opened…",
-      "explanation": "The conjunction 'Once' can be retained in front of a reduced participle clause for precision: 'Once it has been opened' becomes 'Once opened', dropping the subject and the passive auxiliary 'has been'. The understood subject stays 'the medicine', the subject of the main clause, so the clause does not dangle."
-    },
-    {
-      "prompt": "The report was finally finished. She turned her attention to her overflowing inbox.",
-      "instruction": "Combine using a 'with + noun + past participle' absolute construction for the completed circumstance, beginning with 'With'.",
-      "answer": [
-        "With the report finally finished, she turned her attention to her overflowing inbox.",
-        "With the report finally finished she turned her attention to her overflowing inbox"
-      ],
-      "placeholder": "With the report…",
-      "explanation": "The absolute construction 'With + noun + past participle' supplies a completed attendant circumstance and has its own subject ('the report'), so it need not share the subject of the main clause ('she'). The past participle 'finished' carries a passive, resultative sense — 'now that the report had been finished' — distinguishing it from the -ing absolute, which describes an ongoing circumstance."
     },
     {
       "prompt": "After he had signed the contract, he immediately regretted it.",
@@ -833,68 +338,6 @@
       "explanation": "A causal clause with the copula ('Because/As he was a doctor') reduces to the present participle of 'be' plus its complement: 'Being a doctor' expresses reason. The understood subject of 'Being' is 'he', the subject of the main clause, so the modifier does not dangle."
     },
     {
-      "prompt": "His work was finished. He left the office and headed straight home.",
-      "instruction": "Combine using a nominative absolute construction (a noun followed by a past participle, with no 'with'), beginning 'His work finished,'.",
-      "answer": [
-        "His work finished, he left the office and headed straight home.",
-        "His work finished he left the office and headed straight home"
-      ],
-      "placeholder": "His work finished…",
-      "explanation": "The nominative absolute 'His work finished' (= 'When/Once his work was finished') pairs a noun with a past participle and, crucially, carries its own subject, 'his work'. Because that subject is stated within the absolute rather than borrowed from the main clause, the construction supplies the attendant circumstance without dangling, even though the main subject is the different 'he'."
-    },
-    {
-      "prompt": "Once the report has been finalised, it will be circulated to all members.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the subordinate clause to a past (passive) participle, making 'the report' the subject of the main clause.",
-      "answer": [
-        "Once finalised, the report will be circulated to all members.",
-        "Once finalised the report will be circulated to all members"
-      ],
-      "placeholder": "Once finalised…",
-      "explanation": "The conjunction 'Once' can be retained in front of a reduced clause for precision: 'Once it has been finalised' becomes 'Once finalised', dropping the subject and the passive 'has been'. The understood subject must then surface as the subject of the main clause ('the report'), or the modifier would dangle."
-    },
-    {
-      "prompt": "Because he had lost his keys, he had to climb in through the window.",
-      "instruction": "Rewrite the reason clause as a perfect participle clause expressing cause, beginning with 'Having'.",
-      "answer": [
-        "Having lost his keys, he had to climb in through the window.",
-        "Having lost his keys he had to climb in through the window"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "A perfect participle can express cause as well as mere sequence: 'Having lost his keys' = 'Because he had lost his keys'. The 'Having + past participle' form marks the losing as complete and prior, and the shared subject 'he' licenses the reduction."
-    },
-    {
-      "prompt": "The road that leads to the village is closed for repairs.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that leads'.",
-      "answer": [
-        "The road leading to the village is closed for repairs.",
-        "The road leading to the village is closed for repairs"
-      ],
-      "placeholder": "The road leading…",
-      "explanation": "A defining relative clause whose verb is a simple active present ('that leads') reduces directly to an -ing participle: 'that leads' becomes 'leading'. Unlike the reduction of 'who is sitting' (be + -ing), here the participle replaces an ordinary finite verb, a pattern reserved for permanent or characterising facts."
-    },
-    {
-      "prompt": "He had lost his passport somewhere in the terminal. He was unable to board the flight.",
-      "instruction": "Combine into one sentence using a perfect participle clause to express the reason for the second event, beginning with 'Having'.",
-      "answer": [
-        "Having lost his passport, he was unable to board the flight.",
-        "Having lost his passport he was unable to board the flight",
-        "Having lost his passport somewhere in the terminal, he was unable to board the flight.",
-        "Having lost his passport somewhere in the terminal he was unable to board the flight"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "The perfect participle 'Having lost' here expresses cause rather than mere sequence: 'Having lost his passport' means 'Because he had lost his passport'. The same 'Having + past participle' form that can mark a completed prior action also serves to give the reason for the main clause, and the understood subject stays 'he', the subject of the main clause, so nothing dangles."
-    },
-    {
-      "prompt": "The path that leads to the village winds steeply through dense forest.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that leads'.",
-      "answer": [
-        "The path leading to the village winds steeply through dense forest.",
-        "The path leading to the village winds steeply through dense forest"
-      ],
-      "placeholder": "The path leading…",
-      "explanation": "A defining relative clause whose verb is in the simple present ('that leads') can still be reduced to an -ing participle: 'that leads' becomes 'leading', even though the original is not a progressive 'is leading'. This is a reduced relative clause modifying 'the path', so the participle stands in for the whole finite verb and its understood subject is 'the path', the noun it describes."
-    },
-    {
       "prompt": "He drove along the coast road. He admired the spectacular view.",
       "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Driving'.",
       "answer": [
@@ -903,16 +346,6 @@
       ],
       "placeholder": "Driving…",
       "explanation": "Two simultaneous actions by the same subject combine with an -ing clause: 'Driving along the coast road' replaces 'While he was driving along the coast road'. The subject 'he' is shared by both clauses, so the participle does not dangle."
-    },
-    {
-      "prompt": "She had spent twenty years abroad. She found her home town strangely unfamiliar.",
-      "instruction": "Combine using a perfect participle clause to show the first situation preceded the second, beginning with 'Having'.",
-      "answer": [
-        "Having spent twenty years abroad, she found her home town strangely unfamiliar.",
-        "Having spent twenty years abroad she found her home town strangely unfamiliar"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having spent' marks the twenty years abroad as completed before the moment of finding the town unfamiliar. A plain -ing clause ('Spending twenty years abroad') would wrongly imply the two were simultaneous; the shared subject 'she' keeps the clause from dangling."
     },
     {
       "prompt": "The palace was destroyed by fire in 1698. It was never rebuilt.",
@@ -925,76 +358,6 @@
       "explanation": "A passive clause ('which was destroyed by fire in 1698') reduces to the bare past participle 'Destroyed by fire in 1698'. The understood subject is 'the palace', the subject of the main clause, so the fronted participle does not dangle."
     },
     {
-      "prompt": "The documents that were seized in the raid have still not been returned.",
-      "instruction": "Rewrite using a reduced relative clause (a past participle) in place of 'that were seized'.",
-      "answer": [
-        "The documents seized in the raid have still not been returned.",
-        "The documents seized in the raid have still not been returned"
-      ],
-      "placeholder": "The documents seized…",
-      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were seized' becomes 'seized'. This is a reduced relative clause modifying 'the documents', not an adverbial one, so no commas are used and the participle sits directly after the noun it defines."
-    },
-    {
-      "prompt": "Because he lacked any formal training, he taught himself to paint.",
-      "instruction": "Rewrite the reason clause as a present participle clause, beginning with 'Lacking'.",
-      "answer": [
-        "Lacking any formal training, he taught himself to paint.",
-        "Lacking any formal training he taught himself to paint"
-      ],
-      "placeholder": "Lacking…",
-      "explanation": "A causal clause ('Because he lacked any formal training') reduces to a present participle clause of reason: 'Lacking any formal training'. The stative verb 'lack' takes the -ing form even though it denotes no continuous action, and the shared subject 'he' prevents the modifier from dangling."
-    },
-    {
-      "prompt": "Because they lived far from the nearest town, they rarely received visitors.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause at the front, beginning with 'Living'.",
-      "answer": [
-        "Living far from the nearest town, they rarely received visitors.",
-        "Living far from the nearest town they rarely received visitors"
-      ],
-      "placeholder": "Living…",
-      "explanation": "A causal clause ('Because they lived far from the nearest town') reduces to a fronted -ing clause of reason: 'Living far from the nearest town'. The conjunction and the subject are dropped, and the finite verb 'lived' becomes the participle 'living'. Because the understood subject is 'they', the subject of the main clause, the modifier does not dangle."
-    },
-    {
-      "prompt": "As soon as she arrived at the office, she realised she had left her laptop at home.",
-      "instruction": "Rewrite the time clause using 'On' + an -ing participle to mean 'immediately after', beginning with 'On'.",
-      "answer": [
-        "On arriving at the office, she realised she had left her laptop at home.",
-        "On arriving at the office she realised she had left her laptop at home"
-      ],
-      "placeholder": "On arriving…",
-      "explanation": "The pattern 'On/Upon + -ing' reduces a time clause and means 'immediately after' the action: 'As soon as she arrived' becomes 'On arriving'. Unlike a conjunction kept in front of a past participle ('When questioned'), the preposition 'on' governs a gerund-participle here. The understood subject stays 'she', the subject of the main clause."
-    },
-    {
-      "prompt": "He listened to the whole speech. His arms were folded the entire time.",
-      "instruction": "Combine using a 'with + noun + past participle' absolute construction for the accompanying state, ending with ', with his arms folded'.",
-      "answer": [
-        "He listened to the whole speech, with his arms folded.",
-        "He listened to the whole speech with his arms folded"
-      ],
-      "placeholder": "…, with his arms folded",
-      "explanation": "The absolute construction 'With + noun + past participle' describes an accompanying state passively: 'his arms were folded' becomes 'with his arms folded'. Like the -ing absolute, it carries its own subject ('his arms'), so it need not share the subject of the main clause ('he') and does not dangle; the past participle marks the state as passive rather than an ongoing action."
-    },
-    {
-      "prompt": "He had never travelled abroad before. He found the airport's noise and bustle overwhelming.",
-      "instruction": "Combine using a negative perfect participle clause for the prior lack of experience, beginning with 'Never having'.",
-      "answer": [
-        "Never having travelled abroad before, he found the airport's noise and bustle overwhelming.",
-        "Never having travelled abroad before he found the airport's noise and bustle overwhelming"
-      ],
-      "placeholder": "Never having travelled…",
-      "explanation": "A perfect participle ('Having travelled') reduces a prior completed situation; a perfect participle is negated by placing the negator before it, and 'never' is fronted for emphasis, giving 'Never having travelled abroad' = 'As he had never travelled abroad'. The understood subject is 'he', the subject of the main clause, so the participle does not dangle. This differs from the plain negative present participle 'Not knowing', because the perfect form marks the experience as completed (or, here, never accomplished) before the main verb."
-    },
-    {
-      "prompt": "The weather was fine. We decided to set out at dawn.",
-      "instruction": "Combine using a nominative absolute construction (a participle clause that keeps its own subject and uses no 'with'), beginning with 'The weather being'.",
-      "answer": [
-        "The weather being fine, we decided to set out at dawn.",
-        "The weather being fine we decided to set out at dawn"
-      ],
-      "placeholder": "The weather being…",
-      "explanation": "The nominative absolute 'The weather being fine' consists of a subject ('the weather') plus a participle ('being'), forming a clause that is grammatically independent of the main clause. Because it carries its own explicit subject, it need not share the main-clause subject 'we' and therefore cannot dangle. It expresses the attendant circumstance by the same logic as the 'with + noun + -ing' absolute, but without the introductory 'with'."
-    },
-    {
       "prompt": "The chairman's speech had ended. The delegates filed out of the hall.",
       "instruction": "Combine using a nominative absolute construction (with its OWN subject and a perfect participle, and no 'with'), beginning with 'The chairman's speech having ended, …'.",
       "answer": [
@@ -1003,66 +366,6 @@
       ],
       "placeholder": "The chairman's speech having ended…",
       "explanation": "A nominative (or free) absolute construction keeps its own overt subject — 'The chairman's speech' — followed by a participle, and stands grammatically independent of the main clause. Because it supplies its own subject, it does not need to share the subject of the main clause and cannot dangle: the delegates are not the ones ending. The perfect participle 'having ended' marks the speech as finished before they filed out; the whole phrase is set off by a comma and reads like a compressed 'When/After the chairman's speech had ended'."
-    },
-    {
-      "prompt": "If you turn left at the second set of traffic lights, you will see the museum on your right.",
-      "instruction": "Rewrite the conditional 'if' clause as a present (-ing) participle clause expressing the condition, beginning with 'Turning'.",
-      "answer": [
-        "Turning left at the second set of traffic lights, you will see the museum on your right.",
-        "Turning left at the second set of traffic lights you will see the museum on your right"
-      ],
-      "placeholder": "Turning left…",
-      "explanation": "An open conditional ('If you turn left…') can be reduced to a present participle clause when its subject is the same as that of the main clause: 'Turning left' = 'If you turn left'. Here the -ing clause expresses a condition rather than a simultaneous action or reason — the fulfilment of 'turning left' is the circumstance under which 'you will see the museum' holds. The understood subject is 'you', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The weather was fine. We decided to walk to the coast.",
-      "instruction": "Combine into one sentence using an absolute (nominative) participle construction that keeps its own subject, beginning with 'The weather being fine'.",
-      "answer": [
-        "The weather being fine, we decided to walk to the coast.",
-        "The weather being fine we decided to walk to the coast"
-      ],
-      "placeholder": "The weather being fine,…",
-      "explanation": "This is a nominative absolute construction: 'The weather being fine' has its own overt subject ('the weather') plus the participle 'being', and is only loosely attached to the main clause, supplying a reason or attendant circumstance ('since/as the weather was fine'). Because the participle carries its own subject, it need not share the subject of the main clause, and so, unlike an ordinary -ing clause, it cannot dangle even though its subject ('the weather') differs from the main subject ('we')."
-    },
-    {
-      "prompt": "Because she was a qualified physician, she knew exactly what to do.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause of cause, beginning with 'Being'.",
-      "answer": [
-        "Being a qualified physician, she knew exactly what to do.",
-        "Being a qualified physician she knew exactly what to do"
-      ],
-      "placeholder": "Being…",
-      "explanation": "A causal clause ('Because she was a qualified physician') reduces to the participle of stative 'be' plus its complement: 'Being a qualified physician'. Here the -ing clause expresses reason or circumstance rather than a simultaneous action, which is why the normally dynamic '-ing' can attach to the state verb 'be'. The understood subject of 'Being' must be the subject of the main clause ('she'); were the main subject different, the sentence would dangle."
-    },
-    {
-      "prompt": "He had lost all his savings in the crash. He was forced to sell the family home.",
-      "instruction": "Combine using a perfect participle clause that expresses the cause of the second event, beginning with 'Having'.",
-      "answer": [
-        "Having lost all his savings in the crash, he was forced to sell the family home.",
-        "Having lost all his savings in the crash he was forced to sell the family home"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "The perfect participle 'Having lost' does two things at once: it marks the action as completed before the main verb, and, because it precedes an unavoidable consequence, it is read as its cause ('Because/Since he had lost all his savings'). This causal reading is what distinguishes it from a merely sequential 'Having finished..., he went home'. The shared subject 'he' is understood as the subject of the participle, so the modifier does not dangle."
-    },
-    {
-      "prompt": "Because he lived so far from the town centre, he rarely went out in the evenings.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause expressing cause, beginning with 'Living'.",
-      "answer": [
-        "Living so far from the town centre, he rarely went out in the evenings.",
-        "Living so far from the town centre he rarely went out in the evenings"
-      ],
-      "placeholder": "Living…",
-      "explanation": "A causal clause built on a stative verb ('Because he lived so far…') reduces to an -ing participle that expresses reason rather than a simultaneous action: 'Living so far from the town centre' = 'Because he lived so far…'. Even though 'live' names a state and not an event, the -ing form is still used, and the understood subject stays 'he', the subject of the main clause, so the fronted modifier does not dangle."
-    },
-    {
-      "prompt": "After she had locked all the doors, she went upstairs to bed.",
-      "instruction": "Rewrite reducing the time clause to a participle after the conjunction 'After', dropping the subject and 'had'.",
-      "answer": [
-        "After locking all the doors, she went upstairs to bed.",
-        "After locking all the doors she went upstairs to bed"
-      ],
-      "placeholder": "After locking…",
-      "explanation": "A time clause introduced by 'after' (also 'before', 'since', 'on' or 'while') can be reduced to conjunction + -ing form: 'After she had locked all the doors' becomes 'After locking all the doors'. Here the participle follows the conjunction directly as an active -ing form, unlike the passive 'When questioned', and because 'after' already signals that one action precedes the other, a plain -ing is enough without the perfect 'having locked'. The understood subject remains 'she', the subject of the main clause."
     },
     {
       "prompt": "After she had submitted her doctoral thesis, she finally took a long holiday.",
@@ -1085,290 +388,6 @@
       "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were discovered' becomes 'discovered'. This is a reduced relative clause modifying 'the paintings', not an adverbial one, and because it is defining no commas are used."
     },
     {
-      "prompt": "Because it stands on a steep hill, the castle is visible for miles around.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Standing'.",
-      "answer": [
-        "Standing on a steep hill, the castle is visible for miles around.",
-        "Standing on a steep hill the castle is visible for miles around"
-      ],
-      "placeholder": "Standing…",
-      "explanation": "A causal clause ('Because it stands on a hill') reduces to an -ing participle clause expressing reason: 'Standing on a steep hill'. The understood subject of the participle is 'the castle', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "She was sitting by the window. She watched the storm roll in.",
-      "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Sitting'.",
-      "answer": [
-        "Sitting by the window, she watched the storm roll in.",
-        "Sitting by the window she watched the storm roll in"
-      ],
-      "placeholder": "Sitting…",
-      "explanation": "Two actions performed by the same subject at the same time collapse into an -ing clause: 'Sitting by the window' replaces 'While she was sitting by the window'. The shared subject 'she' is not repeated, so the participle does not dangle."
-    },
-    {
-      "prompt": "They had locked all the doors. Then they left for the airport.",
-      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
-      "answer": [
-        "Having locked all the doors, they left for the airport.",
-        "Having locked all the doors they left for the airport"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having locked' makes explicit that the locking was finished before they left; a plain -ing clause ('Locking all the doors') would wrongly suggest the two actions overlapped rather than one preceding the other."
-    },
-    {
-      "prompt": "The statue was carved from a single block of marble. It has survived for two thousand years.",
-      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Carved'.",
-      "answer": [
-        "Carved from a single block of marble, the statue has survived for two thousand years.",
-        "Carved from a single block of marble the statue has survived for two thousand years"
-      ],
-      "placeholder": "Carved…",
-      "explanation": "A passive clause ('which was carved from a single block of marble') reduces to the bare past participle 'Carved…'. The understood subject is 'the statue', the subject of the main clause, so the modifier attaches correctly and does not dangle."
-    },
-    {
-      "prompt": "The candidates who were shortlisted for the post will be interviewed next week.",
-      "instruction": "Rewrite using a reduced relative clause (an -ed participle) instead of 'who were shortlisted'.",
-      "answer": [
-        "The candidates shortlisted for the post will be interviewed next week.",
-        "The candidates shortlisted for the post will be interviewed next week"
-      ],
-      "placeholder": "The candidates shortlisted…",
-      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare past participle: 'who were shortlisted' becomes 'shortlisted'. This is a reduced relative clause modifying 'the candidates', so no commas are added."
-    },
-    {
-      "prompt": "Because she lived only a short walk from the office, she rarely bothered with the bus.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Living'.",
-      "answer": [
-        "Living only a short walk from the office, she rarely bothered with the bus.",
-        "Living only a short walk from the office she rarely bothered with the bus"
-      ],
-      "placeholder": "Living…",
-      "explanation": "A causal clause ('Because she lived…') reduces to a present participle clause expressing reason: 'Living only a short walk from the office' = 'Because/Since she lived…'. The subject 'she' is shared with the main clause, so the participle does not dangle; a present participle is used because the state is contemporaneous with the main verb, not prior to it."
-    },
-    {
-      "prompt": "She had locked every door and window. Only then did she feel able to relax.",
-      "instruction": "Combine using a perfect participle clause to show the locking was completed first, beginning with 'Having'.",
-      "answer": [
-        "Having locked every door and window, she finally felt able to relax.",
-        "Having locked every door and window she finally felt able to relax"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having locked' marks the securing of the house as complete before the main event, capturing the 'only then' sequence. A plain -ing clause ('Locking every door and window') would wrongly suggest the two happened at once rather than one after the other."
-    },
-    {
-      "prompt": "The novel was translated into more than thirty languages. It brought its author sudden international fame.",
-      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Translated'.",
-      "answer": [
-        "Translated into more than thirty languages, the novel brought its author sudden international fame.",
-        "Translated into more than thirty languages the novel brought its author sudden international fame"
-      ],
-      "placeholder": "Translated…",
-      "explanation": "A passive clause ('which was translated into more than thirty languages') reduces to the bare past participle 'Translated'. The understood subject is 'the novel', the subject of the main clause, so the modifier does not dangle; the -ed form carries the passive meaning that the novel was translated, not that it translated anything."
-    },
-    {
-      "prompt": "The train which is arriving at platform four is the delayed express to Edinburgh.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) instead of 'which is arriving'.",
-      "answer": [
-        "The train arriving at platform four is the delayed express to Edinburgh.",
-        "The train arriving at platform four is the delayed express to Edinburgh"
-      ],
-      "placeholder": "The train arriving…",
-      "explanation": "A defining relative clause with 'which/who + be + -ing' can be reduced to the bare participle: 'which is arriving' becomes 'arriving'. This is a reduced relative clause modifying 'the train', not an adverbial one, so no comma is introduced and the active -ing form is kept because the train is doing the arriving."
-    },
-    {
-      "prompt": "The documents that were leaked to the press have forced the company onto the defensive.",
-      "instruction": "Rewrite using a reduced relative clause built on a past (passive) participle (drop 'that were').",
-      "answer": [
-        "The documents leaked to the press have forced the company onto the defensive.",
-        "The documents leaked to the press have forced the company onto the defensive"
-      ],
-      "placeholder": "The documents leaked…",
-      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare past participle: 'that were leaked' becomes 'leaked'. This reduced relative modifies 'the documents' and, being defining, takes no commas; the -ed form preserves the passive sense that the documents were leaked by someone."
-    },
-    {
-      "prompt": "He was the youngest of five children. He was often overlooked at family gatherings.",
-      "instruction": "Combine using a present participle clause expressing reason (cause), reducing 'be' to its participle and beginning with 'Being'.",
-      "answer": [
-        "Being the youngest of five children, he was often overlooked at family gatherings.",
-        "Being the youngest of five children he was often overlooked at family gatherings"
-      ],
-      "placeholder": "Being the youngest…",
-      "explanation": "A causal clause ('Because he was the youngest') reduces to an -ing clause built on the copula: 'be' becomes 'Being'. Unlike a simultaneous -ing clause, this one gives the reason for the main clause, and the understood subject 'he' is shared with the main clause, so it does not dangle."
-    },
-    {
-      "prompt": "The soldiers stood rigidly to attention. Their eyes were fixed on the horizon.",
-      "instruction": "Combine using a 'with + noun + past participle' absolute construction to give the attendant circumstances, placed after the main clause (', with their eyes…').",
-      "answer": [
-        "The soldiers stood rigidly to attention, with their eyes fixed on the horizon.",
-        "The soldiers stood rigidly to attention with their eyes fixed on the horizon"
-      ],
-      "placeholder": "…, with their eyes fixed…",
-      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances from a passive idea ('their eyes were fixed'): the form of 'be' is dropped, leaving the bare past participle 'fixed'. Because the construction carries its own subject ('their eyes'), it does not need to share the subject of the main clause and so does not dangle."
-    },
-    {
-      "prompt": "He realised that he was running dangerously late. He hailed the first taxi he saw.",
-      "instruction": "Combine into one sentence using a present (-ing) participle clause for the reason, beginning with 'Realising'.",
-      "answer": [
-        "Realising he was running dangerously late, he hailed the first taxi he saw.",
-        "Realising he was running dangerously late he hailed the first taxi he saw"
-      ],
-      "placeholder": "Realising…",
-      "explanation": "A causal clause ('Because he realised…') reduces to a present participle clause of reason: 'Realising he was running dangerously late' means 'Since he realised he was running late'. The understood subject of 'Realising' is 'he', the subject of the main clause, so the modifier attaches to the right noun and does not dangle."
-    },
-    {
-      "prompt": "The researchers had gathered enough evidence. They began to draft their conclusions.",
-      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
-      "answer": [
-        "Having gathered enough evidence, the researchers began to draft their conclusions.",
-        "Having gathered enough evidence the researchers began to draft their conclusions"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having gathered' makes explicit that the evidence had been collected before the drafting started, a sequence a plain -ing clause ('Gathering enough evidence') would blur. The shared subject 'the researchers' is named once in the main clause, so the participle is not left dangling."
-    },
-    {
-      "prompt": "The paintings were discovered in a dusty attic. They fetched millions at auction.",
-      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Discovered'.",
-      "answer": [
-        "Discovered in a dusty attic, the paintings fetched millions at auction.",
-        "Discovered in a dusty attic the paintings fetched millions at auction"
-      ],
-      "placeholder": "Discovered…",
-      "explanation": "A passive clause ('which were discovered in a dusty attic') reduces to the past participle alone: 'Discovered in a dusty attic'. The understood subject is 'the paintings', the subject of the main clause, so the participle modifies the right noun and does not dangle."
-    },
-    {
-      "prompt": "While he was waiting for the bus, he skimmed through the morning paper.",
-      "instruction": "Rewrite keeping the conjunction 'While' but reducing the time clause to a present (-ing) participle.",
-      "answer": [
-        "While waiting for the bus, he skimmed through the morning paper.",
-        "While waiting for the bus he skimmed through the morning paper"
-      ],
-      "placeholder": "While waiting…",
-      "explanation": "A subordinating conjunction (while, before, after, since) may be kept in front of an -ing participle: 'While he was waiting' reduces to 'While waiting', dropping the subject and the form of 'be'. The understood subject stays 'he', the subject of the main clause, so the clause does not dangle. Unlike a bare -ing clause, the retained conjunction makes the temporal relation explicit."
-    },
-    {
-      "prompt": "As soon as she saw the exam results, she phoned her parents.",
-      "instruction": "Rewrite the time clause as an 'On + -ing' participle clause meaning 'as soon as / the moment that', beginning with 'On' (or 'Upon').",
-      "answer": [
-        "On seeing the exam results, she phoned her parents.",
-        "On seeing the exam results she phoned her parents",
-        "Upon seeing the exam results, she phoned her parents.",
-        "Upon seeing the exam results she phoned her parents"
-      ],
-      "placeholder": "On seeing…",
-      "explanation": "'On (or Upon) + -ing' reduces an 'as soon as / the moment that' clause and stresses that the second action followed immediately: 'On seeing the results' = 'As soon as she saw the results'. The understood subject is 'she', shared with the main clause. Unlike a plain simultaneous -ing clause, 'On + -ing' specifically marks immediate temporal succession rather than overlap."
-    },
-    {
-      "prompt": "The weather was fine, so we decided to walk to the coast.",
-      "instruction": "Combine using a nominative absolute construction (its own subject + an -ing participle, with no 'with' and no conjunction), beginning with 'The weather'.",
-      "answer": [
-        "The weather being fine, we decided to walk to the coast.",
-        "The weather being fine we decided to walk to the coast"
-      ],
-      "placeholder": "The weather being fine…",
-      "explanation": "The nominative (or 'absolute') construction 'noun + -ing participle' carries its own subject ('the weather'), distinct from the main-clause subject ('we'), so it does not dangle even though the subjects differ. 'The weather being fine' reduces 'As/Because the weather was fine' and supplies the reason or attendant circumstance. Unlike the 'with + noun + participle' pattern, the bare absolute takes no introductory 'with'."
-    },
-    {
-      "prompt": "Because he was a newcomer to the village, he was unfamiliar with its unwritten rules.",
-      "instruction": "Rewrite the reason clause as a participle clause built on 'being', beginning with 'Being'.",
-      "answer": [
-        "Being a newcomer to the village, he was unfamiliar with its unwritten rules.",
-        "Being a newcomer to the village he was unfamiliar with its unwritten rules"
-      ],
-      "placeholder": "Being a newcomer…",
-      "explanation": "A clause of the form 'Because + subject + be + complement' reduces to 'Being + complement': 'Because he was a newcomer' becomes 'Being a newcomer'. The -ing participle of 'be' carries the causal sense, and the understood subject remains 'he', the subject of the main clause. Because it reduces a stative be-clause rather than an action, no perfect or passive alternative is available here."
-    },
-    {
-      "prompt": "She had not received any reply to her first letter. She therefore wrote again.",
-      "instruction": "Combine using a negative perfect participle clause to show the prior circumstance, beginning with 'Not having'.",
-      "answer": [
-        "Not having received any reply to her first letter, she wrote again.",
-        "Not having received any reply to her first letter she wrote again",
-        "Not having received any reply to her first letter, she therefore wrote again.",
-        "Not having received any reply to her first letter she therefore wrote again"
-      ],
-      "placeholder": "Not having received…",
-      "explanation": "The negative perfect participle 'Not having + past participle' combines anteriority with negation: 'Not having received any reply' = 'Because she had not received any reply'. The perfect form ('having received') is required because the non-receipt was already established before she wrote again, and 'not' is placed before 'having' to negate the whole participle. The understood subject is 'she', shared with the main clause."
-    },
-    {
-      "prompt": "She had lived abroad for many years. She found the local customs easy to adapt to.",
-      "instruction": "Combine using a perfect participle clause expressing the reason, beginning with 'Having'.",
-      "answer": [
-        "Having lived abroad for many years, she found the local customs easy to adapt to.",
-        "Having lived abroad for many years she found the local customs easy to adapt to"
-      ],
-      "placeholder": "Having lived abroad…",
-      "explanation": "The perfect participle 'Having lived' reduces the prior clause and here expresses cause or reason ('Because she had lived abroad'), not mere sequence: her long residence abroad is offered as the explanation for the main clause. The form marks the experience as completed and relevant, and the shared subject 'she' lets the participle stand with no subject of its own."
-    },
-    {
-      "prompt": "Once it has been switched on, the device calibrates itself automatically.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
-      "answer": [
-        "Once switched on, the device calibrates itself automatically.",
-        "Once switched on the device calibrates itself automatically"
-      ],
-      "placeholder": "Once switched on…",
-      "explanation": "A subordinating conjunction other than 'when' can be retained in front of a reduced participle clause for precision: 'Once it has been switched on' reduces to 'Once switched on', dropping the subject and the form of 'be'. The understood subject remains 'the device', the subject of the main clause, so the reduced clause does not dangle."
-    },
-    {
-      "prompt": "Walking through the door, the smell of fresh bread greeted us.",
-      "instruction": "This participle clause dangles: the smell was not walking through the door. Rewrite it so the understood subject of 'walking' matches the main clause, beginning with 'Walking through the door, we'.",
-      "answer": [
-        "Walking through the door, we were greeted by the smell of fresh bread.",
-        "Walking through the door we were greeted by the smell of fresh bread"
-      ],
-      "placeholder": "Walking through the door, we…",
-      "explanation": "The understood subject of a participle clause must be the subject of the main clause. In the original the main subject is 'the smell', which implies the smell walked in — a dangling modifier. Recasting the main clause in the passive so that 'we' becomes its subject ('we were greeted') makes 'we' the doer of 'walking', repairing the broken link."
-    },
-    {
-      "prompt": "His work was finished. He allowed himself a long walk by the river.",
-      "instruction": "Combine using a nominative absolute construction (noun + past participle, with no 'with' and no conjunction), beginning with 'His work'.",
-      "answer": [
-        "His work finished, he allowed himself a long walk by the river.",
-        "His work finished he allowed himself a long walk by the river"
-      ],
-      "placeholder": "His work finished, he…",
-      "explanation": "The nominative absolute 'His work finished' pairs a noun ('his work') with a past participle ('finished') and carries its own subject, so it need not share the subject of the main clause ('he'). It supplies the circumstances ('once his work was finished') with no conjunction and no form of 'be' — unlike the 'with + noun + participle' variant, which adds 'with'."
-    },
-    {
-      "prompt": "The house, which is being renovated at the moment, has been in the family for generations.",
-      "instruction": "Reduce the relative clause to a participle clause using 'being' (drop 'which is').",
-      "answer": [
-        "The house, being renovated at the moment, has been in the family for generations.",
-        "The house being renovated at the moment has been in the family for generations"
-      ],
-      "placeholder": "The house, being renovated…",
-      "explanation": "A relative clause containing a progressive passive ('which is being renovated') reduces by dropping the relative pronoun and the finite 'is', leaving the participle 'being renovated'. 'Being' is the -ing participle of 'be' and carries the passive-progressive sense here; the reduced clause modifies 'the house' and keeps the commas of the non-defining original."
-    },
-    {
-      "prompt": "He realized he was already late. He sprinted for the last train.",
-      "instruction": "Combine using a present (-ing) participle clause expressing the reason, beginning with 'Realizing'.",
-      "answer": [
-        "Realizing he was already late, he sprinted for the last train.",
-        "Realizing he was already late he sprinted for the last train"
-      ],
-      "placeholder": "Realizing…",
-      "explanation": "A present participle clause can express reason or cause as well as simultaneous action: 'Realizing he was already late' = 'Because he realized he was already late'. The understood subject is 'he', the subject of the main clause, so the participle attaches correctly and does not dangle."
-    },
-    {
-      "prompt": "The path that winds up to the summit becomes treacherous after heavy rain.",
-      "instruction": "Rewrite using a reduced relative clause (an -ing participle) in place of 'that winds', keeping the rest of the sentence unchanged.",
-      "answer": [
-        "The path winding up to the summit becomes treacherous after heavy rain.",
-        "The path winding up to the summit becomes treacherous after heavy rain"
-      ],
-      "placeholder": "The path winding…",
-      "explanation": "A defining relative clause with an active verb ('that/which winds') reduces to a bare -ing participle: 'that winds up to the summit' becomes 'winding up to the summit'. This is a reduced relative clause modifying 'the path', not an adverbial clause, so no comma is added."
-    },
-    {
-      "prompt": "He had lost everything in the market crash. He was forced to rebuild his career from nothing.",
-      "instruction": "Combine using a perfect participle clause expressing the reason for the second event, beginning with 'Having'.",
-      "answer": [
-        "Having lost everything in the market crash, he was forced to rebuild his career from nothing.",
-        "Having lost everything in the market crash he was forced to rebuild his career from nothing"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having lost' here expresses reason as well as prior time: it reduces 'Because he had lost everything' to a participle clause. The completed sense of 'Having + past participle' shows the loss preceded and caused the situation in the main clause. The understood subject is 'he', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
       "prompt": "The cathedral, which dominates the old town, attracts thousands of visitors each summer.",
       "instruction": "Rewrite using a reduced non-defining relative clause with a present (-ing) participle instead of 'which dominates', keeping the commas.",
       "answer": [
@@ -1377,76 +396,6 @@
       ],
       "placeholder": "The cathedral, dominating…",
       "explanation": "A non-defining relative clause with an active verb ('which dominates') can be reduced to a present participle even when there is no form of 'be' to drop: 'which dominates' becomes 'dominating'. This is a reduced relative clause modifying 'the cathedral', not an adverbial one, so the commas of the original non-defining clause are retained."
-    },
-    {
-      "prompt": "Once it is exposed to sunlight, the compound loses its distinctive colour within minutes.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the clause to a past (passive) participle.",
-      "answer": [
-        "Once exposed to sunlight, the compound loses its distinctive colour within minutes.",
-        "Once exposed to sunlight the compound loses its distinctive colour within minutes"
-      ],
-      "placeholder": "Once exposed…",
-      "explanation": "The subordinating conjunction 'once' can be kept in front of a reduced participle clause for precision: 'Once it is exposed' reduces to 'Once exposed', dropping the subject and the form of 'be'. The understood subject remains 'the compound', the subject of the main clause, so the clause does not dangle."
-    },
-    {
-      "prompt": "As he was a meticulous planner, he had already anticipated every possible objection.",
-      "instruction": "Rewrite the reason clause as a present participle clause of reason at the front, beginning with 'Being'.",
-      "answer": [
-        "Being a meticulous planner, he had already anticipated every possible objection.",
-        "Being a meticulous planner he had already anticipated every possible objection"
-      ],
-      "placeholder": "Being…",
-      "explanation": "A causal clause built on the verb 'be' ('As he was a meticulous planner') reduces to the present participle 'Being': 'Being a meticulous planner' expresses the reason for the main clause. The understood subject is 'he', the subject of the main clause, so no dangling modifier results."
-    },
-    {
-      "prompt": "His work was finished at last. He allowed himself a rare evening off.",
-      "instruction": "Combine using an absolute construction WITHOUT 'with' — a noun phrase followed by a past participle — placed at the front, beginning with 'His work'.",
-      "answer": [
-        "His work finished at last, he allowed himself a rare evening off.",
-        "His work finished at last he allowed himself a rare evening off"
-      ],
-      "placeholder": "His work finished…,",
-      "explanation": "The absolute construction 'noun phrase + past participle' ('His work finished') carries its own subject ('his work'), which is different from the main-clause subject ('he'). Because it supplies that subject itself, it is not a dangling modifier even though its subject differs from that of the main clause; it means 'His work being finished / Now that his work was finished'."
-    },
-    {
-      "prompt": "Because he had already seen the exhibition, he offered to be our guide.",
-      "instruction": "Rewrite the reason clause as a perfect participle clause, beginning with 'Having'.",
-      "answer": [
-        "Having already seen the exhibition, he offered to be our guide.",
-        "Having already seen the exhibition he offered to be our guide"
-      ],
-      "placeholder": "Having already seen…",
-      "explanation": "The perfect participle 'Having + past participle' expresses not only sequence but also REASON: 'Having already seen the exhibition' = 'Because he had already seen it'. The completed prior action supplies the motive for the main verb, and because the understood subject is 'he', the subject of the main clause, the clause does not dangle."
-    },
-    {
-      "prompt": "Turning the corner, the old station suddenly came into view.",
-      "instruction": "This sentence has a dangling modifier — the station did not turn the corner. Correct it so that 'we' governs both actions, beginning 'Turning the corner, we saw…'.",
-      "answer": [
-        "Turning the corner, we saw the old station come into view.",
-        "Turning the corner we saw the old station come into view"
-      ],
-      "placeholder": "Turning the corner, we saw…",
-      "explanation": "A participle clause dangles when its implied subject is not the subject of the main clause. As originally written, 'Turning' attaches to 'the old station', absurdly implying the station turned the corner. Restoring the real subject 'we' to the main clause makes 'Turning the corner' modify the people who actually turned it, so the modifier no longer dangles."
-    },
-    {
-      "prompt": "The weather was fine, so we decided to have lunch in the garden.",
-      "instruction": "Combine using a nominative absolute construction — noun + the present participle of 'be' — to give the reason, beginning 'The weather being fine'.",
-      "answer": [
-        "The weather being fine, we decided to have lunch in the garden.",
-        "The weather being fine we decided to have lunch in the garden"
-      ],
-      "placeholder": "The weather being fine, …",
-      "explanation": "The nominative absolute 'The weather being fine' has its own subject ('the weather') and, like the 'with + noun + participle' construction, therefore does not need to share the subject of the main clause. Built on the present participle of 'be', it supplies the attendant circumstance or reason ('since the weather was fine') without any conjunction, and so does not dangle despite its subject differing from 'we'."
-    },
-    {
-      "prompt": "The weather was fine. We set out early the next morning.",
-      "instruction": "Combine using a bare absolute construction (a noun + present participle, with no 'with' and no conjunction) to give the attendant circumstance, beginning with 'The weather being'.",
-      "answer": [
-        "The weather being fine, we set out early the next morning.",
-        "The weather being fine we set out early the next morning"
-      ],
-      "placeholder": "The weather being…",
-      "explanation": "A nominative absolute has its own overt subject and a participle, standing outside the main clause: 'The weather being fine' = 'Since/As the weather was fine'. Unlike an ordinary participle clause, its subject ('the weather') is different from the subject of the main clause ('we'), yet it does not dangle precisely because that subject is stated. No 'with' is needed; the bare absolute belongs to a formal, slightly literary register."
     },
     {
       "prompt": "He had spent all his savings on the failed venture. He could not afford to travel that summer.",
@@ -1479,181 +428,6 @@
       "explanation": "The 'Having been + past participle' form is the perfect passive participle, reducing 'After she had been rejected twice before' to 'Having been rejected twice before'. It marks an action completed before the main clause and preserves the passive meaning, with 'the candidate' understood as the subject of both clauses."
     },
     {
-      "prompt": "The documents were signed by both parties. They were then lodged with the court.",
-      "instruction": "Combine into one sentence using a past (-ed) participle clause to reduce the passive relative clause, beginning with 'Signed'.",
-      "answer": [
-        "Signed by both parties, the documents were then lodged with the court.",
-        "Signed by both parties the documents were then lodged with the court"
-      ],
-      "placeholder": "Signed…",
-      "explanation": "A past participle reduces a passive relative clause, so 'The documents, which had been signed by both parties' becomes 'Signed by both parties'. The -ed participle carries passive meaning on its own, and 'the documents' remains the shared subject of the main clause, avoiding any dangling modifier."
-    },
-    {
-      "prompt": "The weather was fine. We set off early for the coast.",
-      "instruction": "Combine the two ideas using a nominative absolute construction (noun + present participle, WITHOUT 'with'), beginning with 'The'.",
-      "answer": [
-        "The weather being fine, we set off early for the coast.",
-        "The weather being fine we set off early for the coast"
-      ],
-      "placeholder": "The weather being…",
-      "explanation": "Unlike an ordinary participle clause, an absolute construction keeps its own subject ('the weather'), which differs from the main-clause subject ('we'). The participle 'being' links the two, expressing reason or attendant circumstance ('Since the weather was fine…'). Because the absolute supplies its own subject, there is no dangling modifier."
-    },
-    {
-      "prompt": "As soon as she arrived at the office, she realised she had left the documents at home.",
-      "instruction": "Reduce the time clause to an 'On + -ing' participle phrase of immediate sequence, beginning with 'On'.",
-      "answer": [
-        "On arriving at the office, she realised she had left the documents at home.",
-        "On arriving at the office she realised she had left the documents at home",
-        "On arriving at the office, she realised that she had left the documents at home.",
-        "On arriving at the office she realised that she had left the documents at home"
-      ],
-      "placeholder": "On arriving…",
-      "explanation": "'On/Upon + -ing' reduces a clause of immediate time ('as soon as / the moment that…'), stressing that the second event followed at once. The understood subject of 'arriving' is 'she', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The novel was translated into more than forty languages. It became a worldwide phenomenon.",
-      "instruction": "Combine using a past (-ed) passive participle clause that reduces the passive clause, beginning with 'Translated'.",
-      "answer": [
-        "Translated into more than forty languages, the novel became a worldwide phenomenon.",
-        "Translated into more than forty languages the novel became a worldwide phenomenon"
-      ],
-      "placeholder": "Translated…",
-      "explanation": "A passive clause ('which was translated into more than forty languages') reduces to the bare past participle 'Translated into more than forty languages'. The understood subject of the participle is 'the novel', which is also the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The jury had weighed all the evidence carefully. It then returned a unanimous verdict.",
-      "instruction": "Combine using a perfect participle clause to show the first action was completed before the second, beginning with 'Having'.",
-      "answer": [
-        "Having weighed all the evidence carefully, the jury returned a unanimous verdict.",
-        "Having weighed all the evidence carefully the jury returned a unanimous verdict"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having weighed' makes explicit that the deliberation was completed before the verdict was returned, a sequence a plain -ing clause ('Weighing the evidence') would blur into simultaneity. The shared subject 'the jury' is the subject of both the participle and the main clause, so there is no dangling modifier."
-    },
-    {
-      "prompt": "Once it had been translated into English, the novel reached a much wider audience.",
-      "instruction": "Rewrite keeping the conjunction 'Once' but reducing the passive clause to a past participle (drop 'it had been').",
-      "answer": [
-        "Once translated into English, the novel reached a much wider audience.",
-        "Once translated into English the novel reached a much wider audience"
-      ],
-      "placeholder": "Once translated…",
-      "explanation": "A subordinating conjunction can be retained in front of a reduced participle clause for precision: the passive 'Once it had been translated' reduces to 'Once translated', dropping the subject and 'had been'. The understood subject stays 'the novel', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "She had not read the instructions. She assembled the cabinet incorrectly.",
-      "instruction": "Combine using a NEGATIVE perfect participle clause to show the omission preceded the result, beginning with 'Not having'.",
-      "answer": [
-        "Not having read the instructions, she assembled the cabinet incorrectly.",
-        "Not having read the instructions she assembled the cabinet incorrectly"
-      ],
-      "placeholder": "Not having read…",
-      "explanation": "The perfect participle 'having read' marks the reading as prior to the assembling, while the negative is formed by placing 'not' before the participle: 'Not having read'. This combines negation and anteriority in one clause, expressing the reason ('because she had not read')."
-    },
-    {
-      "prompt": "All the preparations had been completed. The team waited nervously for the launch.",
-      "instruction": "Combine using a 'With + noun + past participle' absolute construction for the attendant circumstances, beginning with 'With'.",
-      "answer": [
-        "With all the preparations completed, the team waited nervously for the launch.",
-        "With all the preparations completed the team waited nervously for the launch"
-      ],
-      "placeholder": "With all the preparations completed…",
-      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances and carries its own subject ('all the preparations'), so it need not share the main subject ('the team'). The past (passive) participle 'completed' reduces 'which had been completed', so the phrase does not dangle despite the differing subject."
-    },
-    {
-      "prompt": "Any student who is found using a phone during the exam will be disqualified.",
-      "instruction": "Rewrite using a reduced DEFINING relative clause built on a past participle, dropping 'who is' (keep it defining, so no commas).",
-      "answer": [
-        "Any student found using a phone during the exam will be disqualified.",
-        "Any student found using a phone during the exam will be disqualified"
-      ],
-      "placeholder": "Any student found…",
-      "explanation": "A defining relative clause with 'who/which + be + past participle' reduces to the bare past participle: 'who is found' becomes 'found'. Because the clause is defining (it identifies which students), no commas are used, unlike a reduced non-defining relative."
-    },
-    {
-      "prompt": "He had already read the novel twice. He found the film adaptation deeply disappointing.",
-      "instruction": "Combine using a perfect participle clause to give the completed prior reason, beginning with 'Having'.",
-      "answer": [
-        "Having already read the novel twice, he found the film adaptation deeply disappointing.",
-        "Having already read the novel twice, he found the film adaptation deeply disappointing",
-        "Having already read the novel twice he found the film adaptation deeply disappointing"
-      ],
-      "placeholder": "Having already read…",
-      "explanation": "The perfect participle 'Having + past participle' can express a reason rooted in a completed prior event: 'Having already read the novel twice' = 'Because he had already read it twice'. It is the completedness of that earlier reading (marked by 'Having') that explains his later reaction, so a plain -ing clause ('Reading the novel twice') would blur the time relationship."
-    },
-    {
-      "prompt": "She was unfamiliar with the local customs. She hesitated to speak first at the meeting.",
-      "instruction": "Combine using an -ing participle clause with 'Being' to express the reason, beginning with 'Being'.",
-      "answer": [
-        "Being unfamiliar with the local customs, she hesitated to speak first at the meeting.",
-        "Being unfamiliar with the local customs, she hesitated to speak first at the meeting",
-        "Being unfamiliar with the local customs she hesitated to speak first at the meeting"
-      ],
-      "placeholder": "Being unfamiliar…",
-      "explanation": "A causal clause describing a state ('Because she was unfamiliar with the local customs') reduces to a participle clause with 'Being + complement': 'Being unfamiliar with the local customs'. Here the -ing participle expresses reason rather than a simultaneous action, and the understood subject stays 'she', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "He sat by the fire. He read a novel until midnight.",
-      "instruction": "Combine into one sentence using a present (-ing) participle clause for the simultaneous action, beginning with 'Sitting'.",
-      "answer": [
-        "Sitting by the fire, he read a novel until midnight.",
-        "Sitting by the fire he read a novel until midnight"
-      ],
-      "placeholder": "Sitting…",
-      "explanation": "Two simultaneous actions by the same subject are joined by an -ing clause: 'Sitting by the fire' replaces 'While he sat by the fire'. The shared subject 'he' is not repeated, and because that understood subject is also the subject of the main clause the participle does not dangle."
-    },
-    {
-      "prompt": "She had already seen the film twice. She declined the invitation to the cinema.",
-      "instruction": "Combine using a perfect participle clause to show the first action was completed first, beginning with 'Having'.",
-      "answer": [
-        "Having already seen the film twice, she declined the invitation to the cinema.",
-        "Having already seen the film twice she declined the invitation to the cinema"
-      ],
-      "placeholder": "Having…",
-      "explanation": "The perfect participle 'Having already seen' makes explicit that the seeing was completed before she declined; here it also carries a causal sense ('because she had already seen it'). A plain -ing form ('Seeing the film twice') would wrongly suggest the two events coincided."
-    },
-    {
-      "prompt": "The palace was destroyed during the war. It was never rebuilt.",
-      "instruction": "Combine using an -ed (passive) participle clause, beginning with 'Destroyed'.",
-      "answer": [
-        "Destroyed during the war, the palace was never rebuilt.",
-        "Destroyed during the war the palace was never rebuilt"
-      ],
-      "placeholder": "Destroyed…",
-      "explanation": "A passive clause ('which was destroyed during the war') reduces to the bare past participle 'Destroyed'. The understood subject is 'the palace', the subject of the main clause, so the fronted modifier attaches correctly and does not dangle."
-    },
-    {
-      "prompt": "The documents that were seized during the raid have now been returned to their owners.",
-      "instruction": "Rewrite using a reduced relative clause (a past/-ed participle) instead of 'that were seized'.",
-      "answer": [
-        "The documents seized during the raid have now been returned to their owners.",
-        "The documents seized during the raid have now been returned to their owners"
-      ],
-      "placeholder": "The documents seized…",
-      "explanation": "A defining relative clause with 'that/which + be + past participle' reduces to the bare participle: 'that were seized' becomes 'seized'. This is a reduced relative clause modifying 'the documents', not an adverbial one, so no commas are added."
-    },
-    {
-      "prompt": "Because he lacked the necessary experience, he was passed over for promotion.",
-      "instruction": "Rewrite the reason clause as a present (-ing) participle clause, beginning with 'Lacking'.",
-      "answer": [
-        "Lacking the necessary experience, he was passed over for promotion.",
-        "Lacking the necessary experience he was passed over for promotion"
-      ],
-      "placeholder": "Lacking…",
-      "explanation": "A causal clause ('Because he lacked') reduces to an -ing participle expressing reason: 'Lacking the necessary experience' = 'As he lacked it'. The stative verb 'lack' appears as a participle even though it is not normally used in the progressive, because a reason participle marks cause, not an action in progress."
-    },
-    {
-      "prompt": "She had lived in Japan for a decade. She spoke the language fluently.",
-      "instruction": "Combine into one sentence using a perfect participle clause for the completed prior situation, beginning with 'Having'.",
-      "answer": [
-        "Having lived in Japan for a decade, she spoke the language fluently.",
-        "Having lived in Japan for a decade she spoke the language fluently",
-        "Having lived in Japan for a decade, she spoke the language fluently"
-      ],
-      "placeholder": "Having lived…",
-      "explanation": "The perfect participle 'Having lived' reduces 'She had lived in Japan for a decade' and marks that situation as completed and relevant before the main verb: 'Having lived in Japan for a decade' = 'Because/After she had lived in Japan for a decade'. The understood subject of the participle is 'she', the subject of the main clause, so the modifier does not dangle. A plain -ing clause ('Living in Japan for a decade') would lose the sense that the residence preceded and explains her fluency."
-    },
-    {
       "prompt": "As soon as she opened the letter, she knew the news was bad.",
       "instruction": "Combine using an 'On + -ing' participle clause of time, beginning with 'On'.",
       "answer": [
@@ -1662,16 +436,6 @@
       ],
       "placeholder": "On opening…",
       "explanation": "'On + -ing' is a formal way of saying 'as soon as' or 'immediately when': 'On opening the letter' = 'The moment she opened the letter'. The construction stresses that the main event follows instantly, and its understood subject is 'she', the subject of the main clause."
-    },
-    {
-      "prompt": "The medicine will be distributed nationwide as soon as it is approved.",
-      "instruction": "Rewrite the time clause as a reduced clause using 'Once + past participle', beginning with 'Once'.",
-      "answer": [
-        "Once approved, the medicine will be distributed nationwide.",
-        "Once approved the medicine will be distributed nationwide"
-      ],
-      "placeholder": "Once approved…",
-      "explanation": "The subordinator 'once' can be kept in front of a bare past participle when the reduced clause is passive: 'once it is approved' becomes 'once approved', dropping the subject and the form of 'be'. The understood subject is 'the medicine', the subject of the main clause, so the clause does not dangle."
     },
     {
       "prompt": "She financed her degree. She did so by tutoring younger pupils.",
@@ -1684,76 +448,6 @@
       "explanation": "A 'by + -ing' clause expresses means — the method by which the main action was accomplished: 'by tutoring younger pupils' answers 'how did she finance it?'. Unlike a simultaneous or result -ing clause, this one is introduced by 'by' and names the instrument or method, with 'she' understood as its subject."
     },
     {
-      "prompt": "Passengers who hold a valid ticket may board the train at any door.",
-      "instruction": "Rewrite using a reduced relative clause (present participle) in place of 'who hold'.",
-      "answer": [
-        "Passengers holding a valid ticket may board the train at any door.",
-        "Passengers holding a valid ticket may board the train at any door"
-      ],
-      "placeholder": "Passengers holding…",
-      "explanation": "A defining relative clause reduces to an -ing participle even when the verb is habitual or stative rather than progressive: 'who hold a valid ticket' becomes 'holding a valid ticket'. Reduced relatives use the present participle regardless of aspect, so 'holding' here means 'who habitually hold', not 'who are in the act of holding'."
-    },
-    {
-      "prompt": "Consider the faulty sentence: 'Walking through the park, the flowers seemed especially beautiful.'",
-      "instruction": "Rewrite so the participle clause no longer dangles, keeping 'Walking through the park,' and giving the main clause the subject 'I' with the verb 'found'.",
-      "answer": [
-        "Walking through the park, I found the flowers especially beautiful.",
-        "Walking through the park I found the flowers especially beautiful"
-      ],
-      "placeholder": "Walking through the park, I found…",
-      "explanation": "The original dangles because the understood subject of 'Walking' would be 'the flowers', yet flowers do not walk. The fix is to make the person who walked the subject of the main clause: with 'I found the flowers…', the implied subject of 'Walking' now matches the main subject 'I', so the modifier attaches correctly."
-    },
-    {
-      "prompt": "She was a doctor. She immediately recognised the symptoms.",
-      "instruction": "Combine using a present participle clause of the verb 'be' to express the reason, beginning with 'Being'.",
-      "answer": [
-        "Being a doctor, she immediately recognised the symptoms.",
-        "Being a doctor she immediately recognised the symptoms"
-      ],
-      "placeholder": "Being a doctor…",
-      "explanation": "The verb 'be' can itself head a participle clause: 'Being a doctor' reduces 'Because she was a doctor' and gives the reason for the main clause. The understood subject of 'Being' is 'she', which is also the subject of the main clause, so the modifier does not dangle. This causal 'Being + noun/adjective' pattern is distinct from a simultaneous action clause; it explains why the main event happens rather than describing something occurring at the same time."
-    },
-    {
-      "prompt": "The weather was fine. They decided to set off at dawn.",
-      "instruction": "Combine using a nominative absolute construction (a participle clause carrying its own noun subject, with no 'with'), beginning with 'The weather being'.",
-      "answer": [
-        "The weather being fine, they decided to set off at dawn.",
-        "The weather being fine they decided to set off at dawn"
-      ],
-      "placeholder": "The weather being fine…",
-      "explanation": "A nominative absolute construction has its own explicit subject ('the weather') followed by a participle ('being'), and is grammatically independent of the main clause. Because it carries its own subject, it is not required to share the subject of the main clause ('they') and therefore does not dangle — unlike an ordinary -ing clause, whose understood subject must match that of the main clause. 'The weather being fine' conveys the attendant circumstance 'as/since the weather was fine'."
-    },
-    {
-      "prompt": "If it is used sparingly, a single tube of this cream lasts for months.",
-      "instruction": "Rewrite the conditional clause as a past (passive) participle clause of condition, beginning with 'Used'.",
-      "answer": [
-        "Used sparingly, a single tube of this cream lasts for months.",
-        "Used sparingly a single tube of this cream lasts for months"
-      ],
-      "placeholder": "Used sparingly…",
-      "explanation": "A conditional clause ('If it is used sparingly') can reduce to a bare past participle that carries a conditional sense: 'Used sparingly' = 'If/When it is used sparingly'. The understood subject of the participle must be the subject of the main clause, here 'a single tube of this cream', which is indeed what is used, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The work was finally finished. The exhausted team left the office well after midnight.",
-      "instruction": "Combine using an absolute construction with a past participle (its own subject, no 'with'), beginning with 'The work'.",
-      "answer": [
-        "The work finally finished, the exhausted team left the office well after midnight.",
-        "The work finally finished the exhausted team left the office well after midnight"
-      ],
-      "placeholder": "The work finished, the team…",
-      "explanation": "The nominative absolute 'The work finally finished' has its own subject ('the work') separate from the subject of the main clause ('the team'), which is exactly why it does not dangle even though the two subjects differ. Unlike a reduced relative clause, an absolute modifies the whole main clause, supplying the circumstance under which the team left, and a past participle is used because the work was finished (passive) rather than doing the finishing."
-    },
-    {
-      "prompt": "Driving to work this morning, the traffic was so heavy that I was an hour late.",
-      "instruction": "The participle clause dangles, since the traffic was not driving. Correct it by making the person the subject of the main clause, keeping 'Driving to work this morning'.",
-      "answer": [
-        "Driving to work this morning, I found the traffic so heavy that I was an hour late.",
-        "Driving to work this morning I found the traffic so heavy that I was an hour late"
-      ],
-      "placeholder": "Driving to work this morning, I…",
-      "explanation": "A participle clause takes its subject from the subject of the main clause, so 'Driving to work this morning, the traffic was heavy' wrongly implies the traffic was driving. The repair is to recast the main clause so that its subject ('I') is the one performing the participle's action: 'Driving to work this morning, I found the traffic so heavy…'. The participle itself does not change; only the main clause is rebuilt around the correct subject."
-    },
-    {
       "prompt": "Because he could see that no one was listening to him any longer, he abandoned his speech.",
       "instruction": "Reduce the reason clause to a present participle clause of reason, beginning with 'Seeing'.",
       "answer": [
@@ -1762,56 +456,6 @@
       ],
       "placeholder": "Seeing that…",
       "explanation": "A causal clause introduced by 'because' can be reduced to an -ing participle expressing reason, and 'Seeing (that)…' is the idiomatic way to render 'because he could see/realised that…'. The participle retains its own 'that'-complement clause, while its understood subject stays 'he', the subject of the main clause. This is an adverbial participle clause of cause, not a reduced relative."
-    },
-    {
-      "prompt": "The old mill could not be saved. Its timbers had been rotted through by decades of damp.",
-      "instruction": "Combine using an absolute construction of the form 'possessive + noun + past participle', beginning with 'Its'.",
-      "answer": [
-        "Its timbers rotted through by decades of damp, the old mill could not be saved.",
-        "Its timbers rotted through by decades of damp the old mill could not be saved"
-      ],
-      "placeholder": "Its timbers rotted through…, the old mill…",
-      "explanation": "This is an absolute construction whose subject is a possessive noun phrase, 'Its timbers', governing the past participle 'rotted through'. Because the absolute carries its own subject, it need not share the subject of the main clause ('the old mill'), so no dangling modifier arises. The past participle is passive in force, showing that the timbers were rotted by the damp rather than doing the rotting themselves."
-    },
-    {
-      "prompt": "Because he had lost his passport, he was unable to board the flight.",
-      "instruction": "Rewrite the reason clause as a perfect participle clause expressing cause, beginning with 'Having'.",
-      "answer": [
-        "Having lost his passport, he was unable to board the flight.",
-        "Having lost his passport he was unable to board the flight"
-      ],
-      "placeholder": "Having lost…",
-      "explanation": "A causal clause referring to a completed prior event ('Because he had lost his passport') reduces to a perfect participle clause 'Having + past participle': 'Having lost his passport'. The perfect form makes clear the loss happened before, and is the cause of, the inability to board. The understood subject 'he' is shared with the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The sun had set behind the mountains. The travellers decided to make camp for the night.",
-      "instruction": "Combine using an absolute (nominative absolute) participle construction that keeps its own subject at the front, beginning with 'The sun having set'.",
-      "answer": [
-        "The sun having set behind the mountains, the travellers decided to make camp for the night.",
-        "The sun having set behind the mountains the travellers decided to make camp for the night"
-      ],
-      "placeholder": "The sun having set…",
-      "explanation": "An absolute construction places a noun ('The sun') immediately before a participle ('having set'), giving the participle clause its own subject that differs from the main clause's subject ('the travellers'). Because the participle carries its own explicit subject, no dangling modifier results even though the subjects differ. The perfect participle 'having set' also marks the setting of the sun as completed before the main action."
-    },
-    {
-      "prompt": "As he was new to the company, he was unsure of the correct procedures.",
-      "instruction": "Rewrite the reason clause as a present participle clause using the participle of 'be', beginning with 'Being'.",
-      "answer": [
-        "Being new to the company, he was unsure of the correct procedures.",
-        "Being new to the company he was unsure of the correct procedures"
-      ],
-      "placeholder": "Being new…",
-      "explanation": "A causal clause describing a state ('As he was new to the company') reduces to a present participle clause built on 'being': 'Being new to the company'. Unlike the perfect participle 'Having + past participle', which marks a completed prior event, 'Being + adjective' expresses an ongoing state that is the reason for the main clause. The understood subject is 'he', shared with the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "If you look at it closely, you will notice tiny cracks running through the varnish.",
-      "instruction": "Rewrite the conditional 'if' clause as a present (-ing) participle clause of condition, beginning with 'Looking'.",
-      "answer": [
-        "Looking at it closely, you will notice tiny cracks running through the varnish.",
-        "Looking at it closely you will notice tiny cracks running through the varnish"
-      ],
-      "placeholder": "Looking at it closely…",
-      "explanation": "A conditional clause ('If you look at it closely') can reduce to an -ing participle clause when the condition and the main clause share the same subject: 'Looking at it closely' = 'If you look at it closely'. The shared subject 'you' is understood as the subject of the participle, so the clause does not dangle; the conditional (rather than purely simultaneous) reading comes from the context and the modal 'will' in the main clause."
     },
     {
       "prompt": "If the weather permits, we will hold the graduation ceremony outdoors.",
@@ -1824,46 +468,6 @@
       "explanation": "'Weather permitting' is a fixed idiomatic absolute construction ('noun + -ing participle') meaning 'if the weather allows it'. Like other absolutes, it carries its own subject ('weather'), distinct from the main clause's 'we', so it does not dangle. The set phrase compresses the whole conditional 'If the weather permits' into two words and is used only in this frozen form."
     },
     {
-      "prompt": "When it is seen from above, the city resembles a vast circuit board.",
-      "instruction": "Rewrite by fronting a past (passive) participle clause, dropping 'When it is', beginning with 'Seen' and keeping 'the city' as the subject of the main clause.",
-      "answer": [
-        "Seen from above, the city resembles a vast circuit board.",
-        "Seen from above the city resembles a vast circuit board"
-      ],
-      "placeholder": "Seen from above…",
-      "explanation": "A passive time clause ('When it is seen from above') reduces to the bare past participle 'Seen from above'. The understood subject of 'Seen' must be the subject of the main clause, 'the city' — the thing that is seen — so the fronted modifier attaches correctly and does not dangle."
-    },
-    {
-      "prompt": "Once the project has been completed, it will supply clean water to half a million people.",
-      "instruction": "Reduce the time clause to a past participle while keeping the conjunction 'Once', beginning with 'Once completed' and restoring 'the project' as the subject of the main clause.",
-      "answer": [
-        "Once completed, the project will supply clean water to half a million people.",
-        "Once completed the project will supply clean water to half a million people"
-      ],
-      "placeholder": "Once completed, the project…",
-      "explanation": "The subordinating conjunction 'Once' can be kept in front of a participle clause for precision: 'Once the project has been completed' reduces to 'Once completed', dropping the subject and the passive 'has been'. The understood subject of 'completed' must head the main clause, so the pronoun 'it' is restored to the noun 'the project' to keep the participle from dangling."
-    },
-    {
-      "prompt": "Walking through the door, the smell of fresh bread greeted her.",
-      "instruction": "This sentence dangles: the -ing clause 'Walking through the door' wrongly attaches to 'the smell', which cannot walk. Rewrite it so the person who walks is the subject of the main clause, beginning with 'Walking through the door, she' and using the passive 'was greeted by'.",
-      "answer": [
-        "Walking through the door, she was greeted by the smell of fresh bread.",
-        "Walking through the door she was greeted by the smell of fresh bread"
-      ],
-      "placeholder": "Walking through the door, she…",
-      "explanation": "The understood subject of a fronted participle must be the subject of the main clause. In the original, that subject is 'the smell of fresh bread', which cannot walk — a classic dangling modifier. Recasting the main clause in the passive ('she was greeted by the smell') puts 'she', the one who actually walks, into subject position, so 'Walking through the door' now attaches to the correct subject."
-    },
-    {
-      "prompt": "If the weather permits, the ceremony will be held in the garden.",
-      "instruction": "Rewrite the condition as an absolute participle construction that keeps its own subject, beginning with 'Weather permitting'.",
-      "answer": [
-        "Weather permitting, the ceremony will be held in the garden.",
-        "Weather permitting the ceremony will be held in the garden"
-      ],
-      "placeholder": "Weather permitting…",
-      "explanation": "'Weather permitting' is an absolute construction meaning 'if the weather permits'. Unlike an ordinary participle clause, an absolute clause retains its OWN subject ('weather'), which differs from the main-clause subject ('the ceremony'). It is precisely this licensed independent subject that stops the participle from dangling."
-    },
-    {
       "prompt": "The new regulations take effect next month, which means all suppliers must be recertified.",
       "instruction": "Reduce the sentential relative clause 'which means' to a present participle clause, ending with '…, meaning…'.",
       "answer": [
@@ -1872,37 +476,6 @@
       ],
       "placeholder": "…, meaning…",
       "explanation": "A sentential relative clause ('which means…') that comments on the whole preceding statement reduces to the -ing participle 'meaning…'. Here the participle's understood subject is the entire preceding fact rather than a single noun — a recognised use of the -ing clause to express a consequence, parallel to the result use of 'forcing…'."
-    },
-    {
-      "prompt": "The last train had already left. The stranded passengers had no choice but to walk home.",
-      "instruction": "Combine using a nominative absolute construction (a noun with its own perfect participle) for the prior event, beginning with 'The last train having'.",
-      "answer": [
-        "The last train having already left, the stranded passengers had no choice but to walk home.",
-        "The last train having already left the stranded passengers had no choice but to walk home",
-        "The last train having left, the stranded passengers had no choice but to walk home."
-      ],
-      "placeholder": "The last train having…",
-      "explanation": "A nominative absolute construction keeps its OWN subject ('the last train') and attaches a participle to it, so unlike an ordinary participle clause it need not share the subject of the main clause. The perfect participle 'having left' marks the departure as completed before the main event, and because the absolute has an explicit subject there is no dangling modifier even though the main subject is 'the passengers'."
-    },
-    {
-      "prompt": "Because he was shocked by the sudden news, he could barely speak.",
-      "instruction": "Rewrite reducing the reason clause to a past (passive) participle clause, beginning with 'Shocked'.",
-      "answer": [
-        "Shocked by the sudden news, he could barely speak.",
-        "Shocked by the sudden news he could barely speak"
-      ],
-      "placeholder": "Shocked…",
-      "explanation": "A causal passive clause reduces to a bare past participle expressing reason: 'Because he was shocked' becomes 'Shocked'. The form of 'be' and the repeated subject are dropped; the understood subject stays 'he', the subject of the main clause, so the modifier does not dangle."
-    },
-    {
-      "prompt": "The soldiers marched into the square. Their rifles were slung across their backs.",
-      "instruction": "Combine using a 'with + noun + past participle' absolute construction for the attendant circumstances, placed after the main clause (', with their rifles…').",
-      "answer": [
-        "The soldiers marched into the square, with their rifles slung across their backs.",
-        "The soldiers marched into the square with their rifles slung across their backs"
-      ],
-      "placeholder": "…, with their rifles slung…",
-      "explanation": "The absolute construction 'With + noun + past participle' supplies attendant circumstances using a passive participle: 'with their rifles slung across their backs' = 'and their rifles were slung across their backs'. Like the -ing absolute, it carries its own subject ('their rifles'), so it need not share the subject of the main clause and does not dangle."
     }
   ]
 }
