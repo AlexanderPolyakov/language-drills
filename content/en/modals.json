@@ -45,15 +45,6 @@
       "explanation": "'must' expresses strong obligation or a rule."
     },
     {
-      "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights, and you {3} exceed the speed limit.",
-      "blanks": [
-        { "answer": "should", "options": ["might", "could", "should"], "hint": "advice" },
-        { "answer": "must", "options": ["should", "might", "must"], "hint": "obligation" },
-        { "answer": "mustn't", "options": ["might", "must", "mustn't"], "hint": "prohibition" }
-      ],
-      "explanation": "'should' for advice (drive carefully); 'must' for obligation (use headlights — it's required); 'mustn't' for prohibition (exceeding the limit is forbidden)."
-    },
-    {
       "text": "{1} I open the window? It's hot in here.",
       "blanks": [
         { "answer": "Can", "options": ["Can", "Must", "Should"], "hint": "asking for permission" }
@@ -87,21 +78,6 @@
         { "answer": "could", "options": ["could", "can", "must"], "hint": "past ability" }
       ],
       "explanation": "'could' expresses ability in the past — the past form of 'can'."
-    },
-    {
-      "text": "I {1} get up early tomorrow because I start work at seven.",
-      "blanks": [
-        {
-          "answer": "have to",
-          "options": [
-            "have to",
-            "mustn't",
-            "might"
-          ],
-          "hint": "external necessity"
-        }
-      ],
-      "explanation": "'have to' expresses necessity that comes from outside — circumstances or rules require it."
     },
     {
       "text": "It's getting dark; you {1} drive carefully, you {2} use your headlights because the law requires it, and you {3} exceed the speed limit.",

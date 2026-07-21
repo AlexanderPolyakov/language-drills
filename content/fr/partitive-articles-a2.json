@@ -123,7 +123,7 @@
       "explanation": "'salade' is feminine with a consonant, so 'de la'."
     },
     {
-      "text": "Tu as besoin {1} argent pour le voyage.",
+      "text": "Tu as {1} argent pour le voyage.",
       "blanks": [{ "options": ["du", "de la", "de l'", "des"], "answer": "de l'" }],
       "explanation": "'argent' is masculine but starts with a vowel, so 'de l''."
     },

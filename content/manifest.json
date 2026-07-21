@@ -34,7 +34,7 @@
           "level": "A1",
           "title": "Possessive adjectives: my, your, his, her, its, our, their",
           "file": "en/possessive-adjectives-a1.json",
-          "count": 36
+          "count": 34
         },
         {
           "id": "en-present-continuous-a1",
@@ -82,7 +82,7 @@
           "level": "A1",
           "title": "Everyday nouns: choose the right word",
           "file": "en/vocabulary-nouns-a1.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "en-vocabulary-verbs-a1",
@@ -130,7 +130,7 @@
           "level": "A2",
           "title": "Modal verbs: choose the right modal",
           "file": "en/modals.json",
-          "count": 13
+          "count": 11
         },
         {
           "id": "en-verbs-past-simple",
@@ -178,7 +178,7 @@
           "level": "A2",
           "title": "Adjectives in context (A2)",
           "file": "en/vocabulary-adjectives-a2.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "en-vocabulary-nouns-a2",
@@ -194,7 +194,7 @@
           "level": "A2",
           "title": "Verbs in context (A2)",
           "file": "en/vocabulary-verbs-a2.json",
-          "count": 36
+          "count": 34
         },
         {
           "id": "en-articles-expressions",
@@ -218,13 +218,13 @@
           "level": "B1",
           "title": "Conditionals: choose the correct verb form",
           "file": "en/conditionals.json",
-          "count": 21
+          "count": 19
         },
         {
           "id": "en-passive-voice-b1",
           "topic": "passive-voice",
           "level": "B1",
-          "title": "Passive voice: present and past simple",
+          "title": "Passive voice: common forms",
           "file": "en/passive-voice-b1.json",
           "count": 17
         },
@@ -306,7 +306,7 @@
           "level": "B2",
           "title": "Vocabulary in context (B2)",
           "file": "en/vocabulary-b2.json",
-          "count": 38
+          "count": 34
         },
         {
           "id": "en-advanced-connectors-c1",
@@ -330,7 +330,7 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json",
-          "count": 23
+          "count": 22
         },
         {
           "id": "en-participle-clauses-c1",
@@ -386,7 +386,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 22
+          "count": 21
         }
       ]
     },
@@ -456,7 +456,7 @@
           "level": "A1",
           "title": "Pronoms sujets et le verbe être",
           "file": "fr/subject-pronouns-a1.json",
-          "count": 13
+          "count": 12
         },
         {
           "id": "fr-vocabulary-adjectives-a1",
@@ -464,7 +464,7 @@
           "level": "A1",
           "title": "Vocabulaire : les adjectifs courants (A1)",
           "file": "fr/vocabulary-adjectives-a1.json",
-          "count": 36
+          "count": 34
         },
         {
           "id": "fr-vocabulary-nouns-a1",
@@ -688,7 +688,7 @@
           "level": "C1",
           "title": "La nominalisation",
           "file": "fr/nominalisation-c1.json",
-          "count": 22
+          "count": 21
         },
         {
           "id": "fr-passe-simple-c1",

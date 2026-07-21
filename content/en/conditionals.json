@@ -30,13 +30,6 @@
       "explanation": "First conditional: if + present simple (study), will + base verb (will pass) for a realistic future event."
     },
     {
-      "text": "If you heat ice, it {1}.",
-      "blanks": [
-        { "answer": "melts", "options": ["melts", "would melt", "will melt"], "hint": "general truth" }
-      ],
-      "explanation": "Zero conditional for general truths: present simple in both clauses."
-    },
-    {
       "text": "If they {1} us, we {2} the project on time.",
       "blanks": [
         { "answer": "had helped", "options": ["help", "had helped", "have helped"], "hint": "third conditional 'if' clause" },
@@ -52,14 +45,6 @@
         { "answer": "would be", "options": ["would have been", "will be", "would be"], "hint": "present result of a past condition" }
       ],
       "explanation": "Third conditional for the past action (had left / would have caught), but 'would be' — not 'would have been' — for a present result: she would be home by now."
-    },
-    {
-      "text": "If you {1} water to 100°C, it {2}.",
-      "blanks": [
-        { "answer": "heat", "options": ["heat", "will heat", "heated"], "hint": "zero conditional 'if' clause" },
-        { "answer": "boils", "options": ["boils", "will boil", "would boil"], "hint": "zero conditional result" }
-      ],
-      "explanation": "Zero conditional for scientific facts: present simple in both clauses (heat … boils)."
     },
     {
       "text": "If we {1} now, we {2} the start of the film.",
