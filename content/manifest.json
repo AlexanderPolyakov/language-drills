@@ -202,7 +202,7 @@
           "level": "B1",
           "title": "Articles in fixed expressions",
           "file": "en/articles-expressions.json",
-          "count": 14
+          "count": 13
         },
         {
           "id": "en-articles-geography",
@@ -432,7 +432,7 @@
           "level": "A1",
           "title": "La négation (ne… pas, jamais, plus, rien)",
           "file": "fr/negation-a1.json",
-          "count": 39
+          "count": 36
         },
         {
           "id": "fr-possessive-adjectives-a1",
@@ -576,7 +576,7 @@
           "level": "A2",
           "title": "Vocabulaire : les verbes (A2)",
           "file": "fr/vocabulary-verbs-a2.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "fr-conditional-b1",
@@ -712,7 +712,7 @@
           "level": "C2",
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
-          "count": 22
+          "count": 21
         },
         {
           "id": "fr-subjonctif-imparfait-c2",

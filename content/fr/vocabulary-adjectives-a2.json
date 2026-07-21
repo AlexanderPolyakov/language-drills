@@ -15,7 +15,7 @@
     { "text": "Cet acteur est très {1}.", "blanks": [ { "cue": "famous", "answer": ["célèbre"] } ], "explanation": "célèbre = famous (same in masculine and feminine)." },
     { "text": "Ce site est très {1} pour les voyageurs.", "blanks": [ { "cue": "useful", "answer": ["utile"] } ], "explanation": "utile = useful (same in masculine and feminine)." },
     { "text": "Mon voisin est très {1}.", "blanks": [ { "cue": "kind", "answer": ["gentil"] } ], "explanation": "gentil = kind (masculine singular)." },
-    { "text": "Je suis {1} après cette longue journée.", "blanks": [ { "cue": "tired", "answer": ["fatigué"] } ], "explanation": "fatigué = tired (masculine singular)." },
+    { "text": "Je suis {1} après cette longue journée.", "blanks": [ { "cue": "tired", "answer": ["fatigué", "fatiguée"] } ], "explanation": "fatigué = tired (masculine singular); a female speaker writes 'fatiguée'." },
     { "text": "Elle est {1} pour son examen.", "blanks": [ { "cue": "worried", "answer": ["inquiète"] } ], "explanation": "inquiet becomes 'inquiète' (feminine) to agree with 'elle'." },
     { "text": "Cette idée est très {1}.", "blanks": [ { "cue": "interesting", "answer": ["intéressante"] } ], "explanation": "intéressant becomes 'intéressante' (feminine) to agree with 'idée'." },
     { "text": "Ce quartier est assez {1}.", "blanks": [ { "cue": "noisy", "answer": ["bruyant"] } ], "explanation": "bruyant = noisy (masculine singular)." },
