@@ -180,6 +180,20 @@
         }
       ],
       "explanation": "'Be that as it may' is a frozen subjunctive idiom meaning 'even so / nevertheless', conceding a point before overriding it. The verb keeps the bare subjunctive form 'be' rather than the indicative 'is'."
+    },
+    {
+      "text": "The society's constitution requires that every director {1} from the board at least once in every three years.",
+      "blanks": [
+        { "cue": "retire", "answer": ["retire"], "hint": "base form after 'require that'; third person, no -s" }
+      ],
+      "explanation": "'Require that' triggers the mandative subjunctive, so the verb keeps its uninflected base form: 'every director retire', never 'retires'. The absent third-person -s is the only overt marker with this regular verb; the British 'should retire' is the stylistic alternative."
+    },
+    {
+      "text": "I would rather you {1} nothing of this to the press until the deal is finally signed.",
+      "blanks": [
+        { "cue": "say", "answer": ["said"], "hint": "'would rather (that) you ___' takes the past subjunctive for a present preference" }
+      ],
+      "explanation": "When 'would rather' governs a new subject (here 'you'), English expresses the preference with the past subjunctive: 'I would rather you said nothing', not 'say' or 'says'. The past-tense form is irrealis, signalling a wished-for present situation rather than a real past event."
     }
   ]
 }

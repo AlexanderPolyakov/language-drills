@@ -147,6 +147,16 @@
       "prompt": "Elle a répondu à toutes les critiques très calmement. (mettre en relief la manière avec « c'est… que »)",
       "answer": ["C'est très calmement qu'elle a répondu à toutes les critiques."],
       "explanation": "« Très calmement » is a complement of MANNER (an adverb), not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est très calmement qu'elle a répondu à toutes les critiques ». Any element other than the subject — including a manner adverb — is clefted with « que », here elided to « qu' » before « elle » (Grevisse, _Le Bon Usage_)."
+    },
+    {
+      "prompt": "J'admire son courage plus que tout. (mettre en relief le COD avec « ce que… , c'est »)",
+      "answer": ["Ce que j'admire le plus, c'est son courage."],
+      "explanation": "« Son courage » is the DIRECT OBJECT of « admirer », so the clefting pronoun is « ce que »: « Ce que j'admire le plus, c'est son courage ». « Ce que » replaces the direct object, and « c'est » introduces the foregrounded element. It is « ce que », not « ce qui », because the highlighted noun is the object of the verb, not its subject."
+    },
+    {
+      "prompt": "Je m'occupe surtout des finances de l'entreprise. (mettre en relief le complément avec « ce dont… , c'est »)",
+      "answer": ["Ce dont je m'occupe surtout, c'est des finances de l'entreprise.", "Ce dont je m'occupe surtout, ce sont les finances de l'entreprise."],
+      "explanation": "« S'occuper » governs the preposition « de » (« s'occuper DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi): « Ce dont je m'occupe surtout, c'est des finances de l'entreprise ». The highlighted element normally echoes the « de » (« c'est des finances »). Before the plural noun « les finances », careful written French may also drop the « de » and use the agreeing presentative « ce sont »: « ce sont les finances ». The reflexive pronoun « me » stays inside the clefted clause (« je m'occupe »)."
     }
   ]
 }

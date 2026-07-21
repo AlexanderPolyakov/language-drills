@@ -314,7 +314,7 @@
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
           "file": "en/advanced-connectors-c1.json",
-          "count": 24
+          "count": 26
         },
         {
           "id": "en-cleft-sentences-c1",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 26
+          "count": 29
         },
         {
           "id": "en-inversion-c1",
@@ -330,7 +330,7 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json",
-          "count": 26
+          "count": 29
         },
         {
           "id": "en-participle-clauses-c1",
@@ -378,7 +378,7 @@
           "level": "C2",
           "title": "The formal subjunctive and irrealis 'were'",
           "file": "en/formal-subjunctive-c2.json",
-          "count": 24
+          "count": 26
         },
         {
           "id": "en-nuanced-modality-c2",
@@ -648,7 +648,7 @@
           "level": "B2",
           "title": "Le gérondif et le participe présent",
           "file": "fr/gerondif-participe-present-b2.json",
-          "count": 23
+          "count": 25
         },
         {
           "id": "fr-hypothese-irreel-passe-b2",
@@ -680,7 +680,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 25
+          "count": 27
         },
         {
           "id": "fr-nominalisation-c1",
@@ -688,7 +688,7 @@
           "level": "C1",
           "title": "La nominalisation",
           "file": "fr/nominalisation-c1.json",
-          "count": 24
+          "count": 27
         },
         {
           "id": "fr-passe-simple-c1",
@@ -712,7 +712,7 @@
           "level": "C2",
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
-          "count": 25
+          "count": 28
         },
         {
           "id": "fr-subjonctif-imparfait-c2",

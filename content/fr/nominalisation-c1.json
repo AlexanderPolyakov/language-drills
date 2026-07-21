@@ -150,6 +150,33 @@
       "prompt": "Ce processus administratif est désespérément lent. (nominaliser l'adjectif « lent » en « -eur » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
       "answer": ["La lenteur désespérante de ce processus administratif.", "La lenteur désespérante de ce processus administratif", "La lenteur desesperante de ce processus administratif"],
       "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « lent » → « la lenteur » (the « -eur » suffix is FEMININE and derives abstract nouns of quality from adjectives, like « grand → la grandeur », « doux → la douceur », « lourd → la lourdeur »). The original subject « ce processus administratif » becomes the complement « de ce processus administratif », and the adverb « désespérément » is rendered by the adjective « désespérante » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les ingénieurs ont nettement amélioré le moteur électrique. (nominaliser le verbe « améliorer » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "L'amélioration nette du moteur électrique par les ingénieurs.",
+        "L'amélioration nette du moteur électrique par les ingénieurs",
+        "L'amelioration nette du moteur electrique par les ingenieurs"
+      ],
+      "explanation": "« Améliorer » nominalises in « -ation » → « l'amélioration » (always feminine, like « l'augmentation », « la création »). The direct object « le moteur électrique » becomes the patient complement « du moteur électrique », the subject (the agent) is reintroduced with « par »: « par les ingénieurs », and the adverb « nettement » is rendered by the adjective « nette » agreeing with the feminine noun. The « -ation » suffix is the most productive deverbal pattern in formal French."
+    },
+    {
+      "prompt": "La famille a déménagé précipitamment le mois dernier. (nominaliser le verbe « déménager » en « -ment » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "Le déménagement précipité de la famille le mois dernier.",
+        "Le déménagement précipité de la famille le mois dernier",
+        "Le demenagement precipite de la famille le mois dernier"
+      ],
+      "explanation": "« Déménager » nominalises in « -ment » → « le déménagement » (the suffix « -ment » is masculine and denotes the action or process, like « le développement », « le changement »). The verb's subject « la famille » becomes the complement « de la famille », and the adverb « précipitamment » is rendered by the masculine adjective « précipité »: « le déménagement précipité »."
+    },
+    {
+      "prompt": "L'eau potable devient dramatiquement rare dans cette région. (nominaliser l'adjectif « rare » en « -té » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La rareté dramatique de l'eau potable dans cette région.",
+        "La rareté dramatique de l'eau potable dans cette région",
+        "La rarete dramatique de l'eau potable dans cette region"
+      ],
+      "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « rare » → « la rareté » (the « -té » suffix is FEMININE and derives an abstract quality from an adjective, like « pauvre → la pauvreté », « beau → la beauté », « fier → la fierté »). The original subject « l'eau potable » becomes the complement « de l'eau potable », and the adverb « dramatiquement » is rendered by the adjective « dramatique » agreeing with the feminine noun."
     }
   ]
 }

@@ -139,6 +139,21 @@
       "prompt": "She said not a word throughout the entire meeting. (begin with 'Not a word')",
       "answer": ["Not a word did she say throughout the entire meeting."],
       "explanation": "The fronted negative object 'Not a word' triggers inversion. With the past simple and no auxiliary, insert 'did' + bare infinitive: 'did she say'. The negation is carried by the fronted object, so the verb stays affirmative."
+    },
+    {
+      "prompt": "She relaxed only when the last guest had left. (begin with 'Only when')",
+      "answer": ["Only when the last guest had left did she relax."],
+      "explanation": "With a fronted 'Only when + clause', the inversion happens in the MAIN clause, not the time clause: 'did she relax'. The subordinate clause 'the last guest had left' keeps normal word order, and 'did' + bare infinitive supplies the missing auxiliary."
+    },
+    {
+      "prompt": "The country had never before faced such a serious crisis. (begin with 'Never before')",
+      "answer": ["Never before had the country faced such a serious crisis."],
+      "explanation": "Fronting the negative time adverbial 'Never before' forces subject-auxiliary inversion of the past perfect: 'had the country faced'. The auxiliary 'had' moves in front of the subject 'the country', exactly as in a question."
+    },
+    {
+      "prompt": "She did not complain once during the whole ordeal. (begin with 'Not once')",
+      "answer": ["Not once did she complain during the whole ordeal."],
+      "explanation": "The fronted negative adverbial 'Not once' triggers inversion. With the past simple and no auxiliary in the original, insert 'did' + bare infinitive: 'did she complain'. The negation is carried by 'Not once', so the verb itself becomes affirmative."
     }
   ]
 }

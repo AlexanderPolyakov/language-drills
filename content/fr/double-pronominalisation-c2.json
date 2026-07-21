@@ -183,6 +183,27 @@
       "answer": ["Elle l'y a inscrite.", "Elle l'y a inscrite"],
       "explanation": "The direct object « sa fille » (feminine singular) → « la », which elides to « l' » before the vowel of « y »; the place complement « à ce cours de théâtre » → « y ». In the pre-verbal sequence « le / la / les » comes before « y », giving « l'y ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « la » (feminine singular): « inscrite ». Hence « Elle l'y a inscrite ».",
       "placeholder": "Elle …'… a inscrit…."
+    },
+    {
+      "prompt": "Le professeur explique la nouvelle règle aux étudiants.",
+      "instruction": "Réécrivez la phrase en remplaçant « la nouvelle règle » ET « aux étudiants » par des pronoms (double pronominalisation, au présent).",
+      "answer": ["Le professeur la leur explique.", "Le professeur la leur explique"],
+      "explanation": "Two third-person pronouns: the direct object « la nouvelle règle » (feminine) → « la », the indirect « aux étudiants » → « leur ». With two third-person pronouns the DIRECT one comes first: « la leur ». In the present tense the pair sits directly before the verb: « Le professeur la leur explique ». Note the order is the reverse of the person-pronoun case (« me la »).",
+      "placeholder": "Le professeur … … explique."
+    },
+    {
+      "prompt": "Le médecin t'a prescrit cette ordonnance (= il a prescrit cette ordonnance à toi).",
+      "instruction": "Réécrivez « Il t'a prescrit cette ordonnance » en remplaçant « cette ordonnance » par un pronom (double pronominalisation, au passé composé, attention à l'accord du participe).",
+      "answer": ["Il te l'a prescrite.", "Il te l'a prescrite", "Il te l'a prescrite."],
+      "explanation": "A 2nd-person indirect pronoun « te » meets a 3rd-person direct pronoun « la » (= « cette ordonnance », feminine), which elides to « l' » before the vowel of « a ». The rule « me / te / se / nous / vous » before « le / la / les » puts the person pronoun FIRST: « te l' ». In the passé composé the pair sits before the auxiliary, and the past participle agrees with the preceding direct-object pronoun « la » (feminine singular): « prescrite ». Hence « Il te l'a prescrite ».",
+      "placeholder": "Il te …a prescrit…."
+    },
+    {
+      "prompt": "Explique ce problème à ton professeur !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « ce problème » ET « à ton professeur » par des pronoms (double pronominalisation).",
+      "answer": ["Explique-le-lui !", "Explique-le-lui", "Explique le lui"],
+      "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative: « ce problème » → « le », « à ton professeur » → « lui ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Explique-le-lui ». Here « lui » keeps its form (the « moi/toi » switch affects only « me/te »). Compare the declarative « Tu le lui expliques », where the pronouns are pre-verbal.",
+      "placeholder": "Explique-…-… !"
     }
   ]
 }

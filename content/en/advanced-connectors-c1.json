@@ -132,6 +132,16 @@
       "text": "{1} the committee's repeated objections, the merger was approved.",
       "blanks": [{ "answer": "Notwithstanding", "options": ["Notwithstanding", "Seeing that", "Insofar as", "Owing to"], "hint": "formal preposition of concession + noun phrase = 'despite'" }],
       "explanation": "'Notwithstanding' is a formal preposition of concession meaning 'despite', taking a noun phrase ('the committee's repeated objections'). 'Owing to' also takes a noun but signals cause, which would reverse the logic; 'seeing that' and 'insofar as' both require a full clause, not a bare noun phrase."
+    },
+    {
+      "text": "The scheme rewards customers who stay loyal; {1}, it penalises those who switch frequently.",
+      "blanks": [{ "answer": "conversely", "options": ["conversely", "provided that", "albeit", "owing to"], "hint": "linking adverb introducing an opposite, reciprocal statement" }],
+      "explanation": "'Conversely' is a linking adverb meaning 'from the opposite point of view', setting the second statement against the first as its mirror image (reward vs penalise). 'Provided that' sets a condition, 'albeit' is a compressed concession before an adjective, and 'owing to' takes a noun to signal cause, none of which introduces this reciprocal contrast."
+    },
+    {
+      "text": "The appeal was rejected {1} it had been filed several weeks after the deadline.",
+      "blanks": [{ "answer": "on the grounds that", "options": ["on the grounds that", "so as to", "conversely", "in order to"], "hint": "gives the stated reason or justification + clause" }],
+      "explanation": "'On the grounds that' introduces the stated reason or justification for a decision, taking a full clause ('it had been filed ... late'). 'So as to' and 'in order to' mark purpose before an infinitive, and 'conversely' is a contrast adverb, none of which supplies the ground of a decision."
     }
   ]
 }

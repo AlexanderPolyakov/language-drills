@@ -136,6 +136,21 @@
       "prompt": "She solved the puzzle by working backwards. (rewrite beginning 'The way')",
       "answer": ["The way she solved the puzzle was by working backwards.", "The way that she solved the puzzle was by working backwards."],
       "explanation": "'The way (that) ... is/was ...' is a wh-type cleft that foregrounds manner or method, parallel to 'how'. The relative 'that' is optional, the focus 'by working backwards' takes the emphatic end position, and 'was' matches the past 'solved'."
+    },
+    {
+      "prompt": "The engineers, not the architects, deserve the credit. (emphasise 'the engineers' with an it-cleft beginning 'It is')",
+      "answer": ["It is the engineers who deserve the credit, not the architects.", "It is the engineers, not the architects, who deserve the credit.", "It is the engineers that deserve the credit, not the architects."],
+      "explanation": "The it-cleft foregrounds a corrected focus: 'It is the engineers who deserve the credit, not the architects.' Because the focus is a plural human subject, the relative pronoun is 'who' (or 'that') and the verb 'deserve' agrees with the original, staying plural even though 'It is' is singular."
+    },
+    {
+      "prompt": "I need a good night's sleep. (rewrite as a reversed wh-cleft beginning 'A good night's sleep')",
+      "answer": ["A good night's sleep is what I need."],
+      "explanation": "A reversed (or inverted) wh-cleft puts the focus FIRST and the 'what' clause last: 'A good night's sleep is what I need.' It mirrors the ordinary wh-cleft 'What I need is a good night's sleep', but front-loads the emphasised element as the grammatical subject."
+    },
+    {
+      "prompt": "I feel most at home in the mountains. (rewrite as a wh-cleft beginning 'Where')",
+      "answer": ["Where I feel most at home is in the mountains."],
+      "explanation": "A place-focus wh-cleft opens with 'Where' rather than 'What': 'Where I feel most at home is in the mountains.' The 'where' clause is the subject and 'is' links it to the emphasised location, which takes end-focus."
     }
   ]
 }
