@@ -111,6 +111,21 @@
       "prompt": "I only asked for a little honesty. (rewrite as a wh-cleft beginning 'All')",
       "answer": ["All I asked for was a little honesty.", "All that I asked for was a little honesty."],
       "explanation": "An 'All ... is/was ...' cleft is a wh-type structure where 'all' means 'the only thing'. The linking verb 'was' matches the past 'asked', and the focus 'a little honesty' takes the emphatic end position."
+    },
+    {
+      "prompt": "I only realised my mistake the following week. (emphasise 'the following week' with an it-cleft beginning 'It was not until')",
+      "answer": ["It was not until the following week that I realised my mistake."],
+      "explanation": "The 'It was not until X that ...' it-cleft emphasises the time by which something finally happened. Note that the cleft is completed by 'that' (not 'when'), and the verb 'realised' stays positive because the negation sits in 'not until'."
+    },
+    {
+      "prompt": "I object to his tone rather than his actual argument. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I object to is his tone, not his argument.", "What I object to is his tone rather than his argument."],
+      "explanation": "The wh-cleft 'What I object to is ...' isolates the true focus 'his tone' in the emphatic end position after 'is'. The corrective tag ('not / rather than his argument') rejects the competing element."
+    },
+    {
+      "prompt": "They abandoned the expedition because the weather had deteriorated. (rewrite beginning 'The reason')",
+      "answer": ["The reason (why) they abandoned the expedition was that the weather had deteriorated.", "The reason why they abandoned the expedition was that the weather had deteriorated.", "The reason they abandoned the expedition was that the weather had deteriorated."],
+      "explanation": "The 'The reason (why) ... was that ...' frame foregrounds a cause. The complement clause is introduced by 'that' (not 'because'), and 'was' matches the past narrative. The 'why' is optional."
     }
   ]
 }

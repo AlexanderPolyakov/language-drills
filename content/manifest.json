@@ -314,7 +314,7 @@
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
           "file": "en/advanced-connectors-c1.json",
-          "count": 22
+          "count": 24
         },
         {
           "id": "en-cleft-sentences-c1",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 21
+          "count": 24
         },
         {
           "id": "en-inversion-c1",
@@ -688,7 +688,7 @@
           "level": "C1",
           "title": "La nominalisation",
           "file": "fr/nominalisation-c1.json",
-          "count": 22
+          "count": 24
         },
         {
           "id": "fr-passe-simple-c1",
@@ -712,7 +712,7 @@
           "level": "C2",
           "title": "La double pronominalisation",
           "file": "fr/double-pronominalisation-c2.json",
-          "count": 22
+          "count": 25
         },
         {
           "id": "fr-subjonctif-imparfait-c2",

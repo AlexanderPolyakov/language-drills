@@ -119,6 +119,19 @@
       "text": "She wrote the dates down carefully {1} she should forget the appointment.",
       "blanks": [{ "answer": "lest", "options": ["lest", "provided that", "so as to"], "hint": "formal negative-purpose conjunction + subjunctive/'should' = 'in order that ... not'" }],
       "explanation": "'Lest' is a formal conjunction of negative purpose ('in order that ... not / for fear that'), naturally followed by 'should' or the subjunctive ('lest she should forget'). 'Provided that' introduces a condition, not a purpose of avoidance, and 'so as to' marks positive purpose before a bare infinitive ('so as to forget') and cannot take the finite clause 'she should forget'."
+    },
+    {
+      "text": "{1} had she sat down {2} the telephone rang again.",
+      "blanks": [
+        { "answer": "Hardly", "options": ["Hardly", "No sooner", "Much as", "Given that"], "hint": "correlative of immediacy; inverts the auxiliary, pairs with 'when'" },
+        { "answer": "when", "options": ["when", "than", "that", "as"], "hint": "the second half of the 'hardly ... ___' correlative" }
+      ],
+      "explanation": "'Hardly ... when' marks one event happening almost immediately before another and triggers subject-auxiliary inversion ('Hardly had she sat down'). Its correlative is 'when', not 'than' ('no sooner' is the one that pairs with 'than'), so only 'Hardly' fits the 'when' in the second blank."
+    },
+    {
+      "text": "{1} the committee's repeated objections, the merger was approved.",
+      "blanks": [{ "answer": "Notwithstanding", "options": ["Notwithstanding", "Seeing that", "Insofar as", "Owing to"], "hint": "formal preposition of concession + noun phrase = 'despite'" }],
+      "explanation": "'Notwithstanding' is a formal preposition of concession meaning 'despite', taking a noun phrase ('the committee's repeated objections'). 'Owing to' also takes a noun but signals cause, which would reverse the logic; 'seeing that' and 'insofar as' both require a full clause, not a bare noun phrase."
     }
   ]
 }

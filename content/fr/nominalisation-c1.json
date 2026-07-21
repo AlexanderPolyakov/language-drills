@@ -140,6 +140,16 @@
         "La rupture brutale des relations diplomatiques des deux pays"
       ],
       "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les secours sont arrivés tardivement sur les lieux de l'accident. (nominaliser le verbe « arriver » en « -ée » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["L'arrivée tardive des secours sur les lieux de l'accident.", "L'arrivée tardive des secours sur les lieux de l'accident", "L'arrivee tardive des secours sur les lieux de l'accident"],
+      "explanation": "« Arriver » nominalises with the suffix « -ée » → « l'arrivée » (FEMININE, built on the feminine past participle, like « entrer → l'entrée », « monter → la montée », « tomber → la tombée »). The verb's subject « les secours » becomes the complement « des secours », the place complement « sur les lieux de l'accident » is kept, and the adverb « tardivement » is rendered by the adjective « tardive » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Ce processus administratif est désespérément lent. (nominaliser l'adjectif « lent » en « -eur » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["La lenteur désespérante de ce processus administratif.", "La lenteur désespérante de ce processus administratif", "La lenteur desesperante de ce processus administratif"],
+      "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « lent » → « la lenteur » (the « -eur » suffix is FEMININE and derives abstract nouns of quality from adjectives, like « grand → la grandeur », « doux → la douceur », « lourd → la lourdeur »). The original subject « ce processus administratif » becomes the complement « de ce processus administratif », and the adverb « désespérément » is rendered by the adjective « désespérante » agreeing with the feminine noun."
     }
   ]
 }
