@@ -125,6 +125,34 @@
         { "answer": "au cas où", "options": ["au cas où", "bien que", "à condition que", "afin que"], "hint": "eventuality / precaution + CONDITIONAL ('changerait'): 'in case'" }
       ],
       "explanation": "« Au cas où » introduces an eventuality one wants to be prepared for ('in case') and is the one connector here that governs the CONDITIONAL: « au cas où le temps changerait ». The distractors all require the SUBJUNCTIVE and are therefore incompatible with the conditional « changerait »: « bien que » (concession), « à condition que » (condition), and « afin que » (purpose) would each demand a subjunctive form (changeât / change). Only « au cas où » takes the conditional, so it is the sole valid answer."
+    },
+    {
+      "text": "{1} il pleuvait des cordes depuis l'aube, nous avons préféré annuler la sortie en mer.",
+      "blanks": [
+        { "answer": "Comme", "options": ["Comme", "Car", "En raison de", "Bien que"], "hint": "cause placed at the HEAD of the sentence + indicative ('pleuvait')" }
+      ],
+      "explanation": "« Comme » expresses a cause and, unlike « parce que », is placed at the very HEAD of the sentence before the main clause, with the indicative (« pleuvait »). The distractors are all impossible here: « car » is a COORDINATING conjunction and can never open a sentence (it must stand between the two clauses it links); « en raison de » introduces a NOUN, not the clause « il pleuvait »; and « bien que » expresses concession and would require the subjunctive (« pleuve »), not the indicative « pleuvait »."
+    },
+    {
+      "text": "Tu peux emprunter ce livre rare {1} tu me le rendes avant la fin de la semaine.",
+      "blanks": [
+        { "answer": "à condition que", "options": ["à condition que", "à condition de", "même si", "puisque"], "hint": "condition with a DIFFERENT subject + SUBJUNCTIVE ('rendes')" }
+      ],
+      "explanation": "« À condition que » expresses a condition and governs the SUBJUNCTIVE (« rendes »); it is used because the two clauses have different subjects (tu empruntes / tu me le rendes, presented as a distinct requirement). « À condition de » would require an INFINITIVE, not the conjugated « rendes »; « même si » expresses a concessive hypothesis and takes the INDICATIVE (« rendras »); and « puisque » expresses an already-admitted cause with the indicative, not a subjunctive condition."
+    },
+    {
+      "text": "{1} le dossier ait été préparé avec le plus grand soin, il n'a pas convaincu les investisseurs.",
+      "blanks": [
+        { "answer": "Quoique", "options": ["Quoique", "En dépit de", "Parce que", "Comme"], "hint": "concession + verb in the SUBJUNCTIVE ('ait été')" }
+      ],
+      "explanation": "« Quoique » (synonym of « bien que ») expresses concession and governs the SUBJUNCTIVE (« ait été »). The distractors fail on construction or meaning: « en dépit de » takes a NOUN, not the clause « le dossier ait été »; « parce que » expresses cause with the INDICATIVE (« a été »), not the subjunctive; and « comme » also expresses cause + indicative, never concession + subjunctive."
+    },
+    {
+      "text": "Le témoin principal ne s'est pas présenté à l'audience ; celle-ci a, {1}, été reportée à une date ultérieure.",
+      "blanks": [
+        { "answer": "par conséquent", "options": ["par conséquent", "si bien que", "parce que", "bien que"], "hint": "consequence ADVERB inserted between commas, not a conjunction opening a clause" }
+      ],
+      "explanation": "« Par conséquent » is a consequence ADVERB, so it can be inserted parenthetically inside the second clause, here between the auxiliary « a » and the participle « été » (« a, par conséquent, été reportée »). The distractors are all subordinating conjunctions that must stand at the HEAD of the clause they introduce and can never be slotted into this parenthetical position: « si bien que » (consequence) and « parce que » (cause) both require the indicative but must open a clause, and « bien que » requires the subjunctive. Only the adverb « par conséquent » fits the inserted slot."
     }
   ]
 }

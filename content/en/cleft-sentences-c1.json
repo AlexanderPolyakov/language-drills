@@ -126,6 +126,16 @@
       "prompt": "They abandoned the expedition because the weather had deteriorated. (rewrite beginning 'The reason')",
       "answer": ["The reason (why) they abandoned the expedition was that the weather had deteriorated.", "The reason why they abandoned the expedition was that the weather had deteriorated.", "The reason they abandoned the expedition was that the weather had deteriorated."],
       "explanation": "The 'The reason (why) ... was that ...' frame foregrounds a cause. The complement clause is introduced by 'that' (not 'because'), and 'was' matches the past narrative. The 'why' is optional."
+    },
+    {
+      "prompt": "The committee chose Maria for the role. (emphasise 'Maria' with an it-cleft)",
+      "answer": ["It was Maria whom the committee chose for the role.", "It was Maria who the committee chose for the role.", "It was Maria that the committee chose for the role."],
+      "explanation": "An it-cleft can foreground an object: 'It was Maria that/who(m) the committee chose ...'. Because Maria is a person functioning as the object, the relative pronoun may be 'that', 'who', or the formal 'whom', and 'was' matches the original past tense."
+    },
+    {
+      "prompt": "She solved the puzzle by working backwards. (rewrite beginning 'The way')",
+      "answer": ["The way she solved the puzzle was by working backwards.", "The way that she solved the puzzle was by working backwards."],
+      "explanation": "'The way (that) ... is/was ...' is a wh-type cleft that foregrounds manner or method, parallel to 'how'. The relative 'that' is optional, the focus 'by working backwards' takes the emphatic end position, and 'was' matches the past 'solved'."
     }
   ]
 }

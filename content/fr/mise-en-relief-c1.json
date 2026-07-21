@@ -132,6 +132,21 @@
         "Ce n'est pas la vengeance que je réclame, mais la justice."
       ],
       "explanation": "The negative cleft « ce n'est pas … que …, mais … » foregrounds a direct object by first rejecting the wrong term and then supplying the right one: « Ce n'est pas la vengeance que je réclame, mais la justice ». As in any « c'est … que » cleft on a COD, « que » is the relative pronoun standing for the clefted object, and the presentative simply takes the negation (« ce n'est pas »), staying invariable. This antithetical device (« non pas X, mais Y ») is a common emphatic structure in careful written French."
+    },
+    {
+      "prompt": "Le hasard n'explique pas ce succès, mais le travail. (mettre en relief le sujet par l'emphase négative « ce n'est pas… qui…, mais »)",
+      "answer": ["Ce n'est pas le hasard qui explique ce succès, mais le travail."],
+      "explanation": "The negative cleft can also bear on the SUBJECT, in which case the relative pronoun is « qui », not « que »: « Ce n'est pas le hasard QUI explique ce succès, mais le travail ». Because « qui » carries the original subject, the verb keeps its third-person form (« explique »). The presentative simply takes the negation (« ce n'est pas ») and stays invariable, and the antithesis is completed by « mais le travail ». Contrast this with a negative cleft on a direct object, which would use « que » (« Ce n'est pas X que je… »)."
+    },
+    {
+      "prompt": "Je souhaite avant tout que tu sois heureux. (mettre en relief le COD (proposition en « que ») avec « ce que… , c'est »)",
+      "answer": ["Ce que je souhaite avant tout, c'est que tu sois heureux."],
+      "explanation": "The direct object of « souhaiter » is here a whole subordinate clause (« que tu sois heureux »). To foreground it, use « Ce que … , c'est que … »: « Ce que je souhaite avant tout, c'est que tu sois heureux ». « Ce que » stands for the clefted object, « c'est » is the presentative, and the highlighted « que »-clause keeps the SUBJUNCTIVE required by « souhaiter que » (« sois »). The subjunctive is triggered by the verb of wish, unaffected by the clefting."
+    },
+    {
+      "prompt": "Elle a répondu à toutes les critiques très calmement. (mettre en relief la manière avec « c'est… que »)",
+      "answer": ["C'est très calmement qu'elle a répondu à toutes les critiques."],
+      "explanation": "« Très calmement » is a complement of MANNER (an adverb), not the subject, so it is highlighted with « c'est … que » (never « qui »): « C'est très calmement qu'elle a répondu à toutes les critiques ». Any element other than the subject — including a manner adverb — is clefted with « que », here elided to « qu' » before « elle » (Grevisse, _Le Bon Usage_)."
     }
   ]
 }

@@ -124,6 +124,21 @@
         "Not only did the manager apologise but also offered a refund."
       ],
       "explanation": "Fronted 'Not only' needs inversion; with no auxiliary present, insert 'did' + bare infinitive: 'did the manager apologise'. The 'but also' clause keeps normal word order."
+    },
+    {
+      "prompt": "This decision does not reflect our official policy in any way. (begin with 'In no way')",
+      "answer": ["In no way does this decision reflect our official policy."],
+      "explanation": "The fronted negative adverbial 'In no way' forces subject-auxiliary inversion. With no auxiliary in the original, insert 'does' + bare infinitive: 'does this decision reflect'. The negation is carried by the adverbial, so the verb itself is affirmative."
+    },
+    {
+      "prompt": "You will see such abundant wildlife nowhere else in Europe. (begin with 'Nowhere else')",
+      "answer": ["Nowhere else in Europe will you see such abundant wildlife."],
+      "explanation": "The fronted negative place adverbial 'Nowhere else' triggers subject-auxiliary inversion: the modal 'will' precedes the subject 'you'. The negation sits in 'Nowhere', leaving the verb affirmative."
+    },
+    {
+      "prompt": "She said not a word throughout the entire meeting. (begin with 'Not a word')",
+      "answer": ["Not a word did she say throughout the entire meeting."],
+      "explanation": "The fronted negative object 'Not a word' triggers inversion. With the past simple and no auxiliary, insert 'did' + bare infinitive: 'did she say'. The negation is carried by the fronted object, so the verb stays affirmative."
     }
   ]
 }

@@ -160,6 +160,20 @@
         { "cue": "answer", "answer": ["answering"], "hint": "avoid + -ing" }
       ],
       "explanation": "'Avoid' is always followed by the gerund, never the to-infinitive; you cannot say 'avoid to answer'."
+    },
+    {
+      "text": "These old sash windows are filthy; they really need {1} before the guests arrive.",
+      "blanks": [
+        { "cue": "clean", "answer": ["cleaning"], "hint": "'need + -ing' carries a passive meaning" }
+      ],
+      "explanation": "'Need doing' has a passive meaning equivalent to 'need to be done': the windows need to be cleaned. This -ing pattern describes something that requires attention, so the active-looking 'cleaning' actually means 'to be cleaned'."
+    },
+    {
+      "text": "After such a long illness, she simply could not afford {1} any more time off work.",
+      "blanks": [
+        { "cue": "take", "answer": ["to take"], "hint": "afford + to-infinitive" }
+      ],
+      "explanation": "'Afford' (to have enough money or time for something) is followed by the to-infinitive: 'afford to take'. It is not used with the gerund."
     }
   ]
 }

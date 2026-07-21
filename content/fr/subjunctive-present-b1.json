@@ -131,6 +131,45 @@
         }
       ],
       "explanation": "After « le seul... qui », the subjunctive marks restriction. Pouvoir in the subjunctive (il): puisse."
+    },
+    {
+      "text": "C'est le meilleur restaurant que je {1} dans tout le quartier.",
+      "blanks": [
+        {
+          "cue": "connaître",
+          "answer": [
+            "connaisse"
+          ],
+          "hint": "superlative (le meilleur... que) + subjunctive, connaître, je"
+        }
+      ],
+      "explanation": "After a superlative (« le meilleur... que »), the subjunctive marks an appreciation restricted to the speaker's experience. Connaître in the subjunctive (je): connaisse."
+    },
+    {
+      "text": "J'ai peur qu'il n'{1} la mauvaise nouvelle avant nous.",
+      "blanks": [
+        {
+          "cue": "apprendre",
+          "answer": [
+            "apprenne"
+          ],
+          "hint": "avoir peur que + subjunctive, apprendre, il"
+        }
+      ],
+      "explanation": "« avoir peur que » expresses a feeling of fear and triggers the subjunctive. Apprendre in the subjunctive (il): apprenne (the « ne » is expletive, not a negation)."
+    },
+    {
+      "text": "Il se peut qu'ils {1} plus tôt que prévu à cause de la grève.",
+      "blanks": [
+        {
+          "cue": "venir",
+          "answer": [
+            "viennent"
+          ],
+          "hint": "il se peut que + subjunctive, venir, ils"
+        }
+      ],
+      "explanation": "« il se peut que » is an impersonal expression of possibility and triggers the subjunctive. Venir in the subjunctive (ils): viennent."
     }
   ]
 }

@@ -274,7 +274,7 @@
           "level": "B2",
           "title": "Gerunds and infinitives",
           "file": "en/gerunds-infinitives-b2.json",
-          "count": 22
+          "count": 24
         },
         {
           "id": "en-mixed-conditionals-b2",
@@ -322,7 +322,7 @@
           "level": "C1",
           "title": "Cleft sentences: it-clefts and wh-clefts",
           "file": "en/cleft-sentences-c1.json",
-          "count": 24
+          "count": 26
         },
         {
           "id": "en-inversion-c1",
@@ -330,7 +330,7 @@
           "level": "C1",
           "title": "Inversion after negative and restrictive adverbials",
           "file": "en/inversion-c1.json",
-          "count": 23
+          "count": 26
         },
         {
           "id": "en-participle-clauses-c1",
@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Sophisticated discourse markers and register",
           "file": "en/discourse-markers-c2.json",
-          "count": 23
+          "count": 26
         },
         {
           "id": "en-ellipsis-substitution-c2",
@@ -624,7 +624,7 @@
           "level": "B1",
           "title": "Le subjonctif présent",
           "file": "fr/subjunctive-present-b1.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "fr-vocabulary-b1",
@@ -640,7 +640,7 @@
           "level": "B2",
           "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
           "file": "fr/connecteurs-logiques-b2.json",
-          "count": 17
+          "count": 21
         },
         {
           "id": "fr-gerondif-participe-present-b2",
@@ -680,7 +680,7 @@
           "level": "C1",
           "title": "La mise en relief (c'est… que / c'est… qui / ce qui… c'est)",
           "file": "fr/mise-en-relief-c1.json",
-          "count": 22
+          "count": 25
         },
         {
           "id": "fr-nominalisation-c1",
