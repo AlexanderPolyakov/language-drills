@@ -174,6 +174,20 @@
         { "answer": "such", "options": ["such", "so", "that one"], "hint": "substitutes for a whole category: 'carelessness of the kind just described'" }
       ],
       "explanation": "'Such' substitutes for a preceding idea treated as a category ('such carelessness' = carelessness of the kind just described). 'So' substitutes for a clause after verbs like 'think' or modifies an adjective, not a noun, and 'that one' is a count-noun pro-form that cannot precede the uncountable noun 'carelessness'."
+    },
+    {
+      "text": "The ascent was punishing, and the descent, on tired legs, proved even {1}.",
+      "blanks": [
+        { "answer": "more so", "options": ["more so", "so more", "much so"], "hint": "'so' substitutes for the adjective 'punishing' after 'even more'" }
+      ],
+      "explanation": "'So' substitutes for a predicative adjective already mentioned, so 'even more so' means 'even more punishing'. 'So more' merely reverses the words into an ungrammatical order, and 'much so' cannot follow 'even' here — the comparative 'more' must precede the substitute 'so'."
+    },
+    {
+      "text": "The plan was audacious in the extreme, and {1} plan is bound to have its detractors.",
+      "blanks": [
+        { "answer": "such a", "options": ["such a", "such", "so a"], "hint": "substitutes 'a plan of that kind' before a singular countable noun" }
+      ],
+      "explanation": "Before a singular countable noun, 'such' requires the indefinite article — 'such a plan' (= 'a plan of that kind'). Bare 'such plan' omits the obligatory article and is ungrammatical with a countable singular, and 'so a plan' is not an English pattern ('so' premodifies an adjective, as in 'so bold a plan', never a bare noun)."
     }
   ]
 }

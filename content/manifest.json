@@ -362,7 +362,7 @@
           "level": "C2",
           "title": "Sophisticated discourse markers and register",
           "file": "en/discourse-markers-c2.json",
-          "count": 26
+          "count": 27
         },
         {
           "id": "en-ellipsis-substitution-c2",
@@ -370,7 +370,7 @@
           "level": "C2",
           "title": "Ellipsis and substitution",
           "file": "en/ellipsis-substitution-c2.json",
-          "count": 24
+          "count": 26
         },
         {
           "id": "en-formal-subjunctive-c2",
@@ -386,7 +386,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 25
+          "count": 27
         }
       ]
     },

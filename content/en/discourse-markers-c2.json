@@ -188,6 +188,13 @@
         { "answer": "sure enough", "options": ["sure enough", "if anything", "notwithstanding"], "hint": "confirms that what was predicted actually happened" }
       ],
       "explanation": "'Sure enough' confirms that something expected or foretold did in fact come to pass. 'If anything' corrects a claim toward its opposite and 'notwithstanding' concedes an obstacle, neither of which confirms a fulfilled prediction."
+    },
+    {
+      "text": "The board's initial misgivings {1}, the merger went ahead exactly as its architects had planned.",
+      "blanks": [
+        { "answer": "notwithstanding", "options": ["notwithstanding", "nonetheless", "conversely"], "hint": "the one word here that can FOLLOW its noun phrase to mean 'despite'" }
+      ],
+      "explanation": "'Notwithstanding' is unusual among prepositions in that it may either precede or follow its noun phrase, so 'the board's misgivings notwithstanding' means 'despite the board's misgivings'. 'Nonetheless' is a sentence adverb that cannot govern a preceding noun phrase this way, and 'conversely' marks an inverse relationship rather than a concession."
     }
   ]
 }
