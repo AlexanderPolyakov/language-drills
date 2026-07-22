@@ -106,7 +106,7 @@
           "level": "A2",
           "title": "A, an, the, or nothing?",
           "file": "en/articles-basic.json",
-          "count": 12
+          "count": 11
         },
         {
           "id": "en-comparatives",
@@ -258,7 +258,7 @@
           "level": "B1",
           "title": "used to: past habits and states",
           "file": "en/used-to-b1.json",
-          "count": 37
+          "count": 34
         },
         {
           "id": "en-vocabulary-b1",
@@ -378,7 +378,7 @@
           "level": "C2",
           "title": "The formal subjunctive and irrealis 'were'",
           "file": "en/formal-subjunctive-c2.json",
-          "count": 24
+          "count": 23
         },
         {
           "id": "en-nuanced-modality-c2",

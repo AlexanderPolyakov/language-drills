@@ -139,8 +139,8 @@
     },
     {
       "text": "Avez-vous reçu {1} colis ce matin ?",
-      "blanks": [{ "options": ["votre", "vos", "leur"], "answer": "votre" }],
-      "explanation": "'colis' is singular here, so 'votre' for 'vous'."
+      "blanks": [{ "options": ["votre", "ta", "leur"], "answer": "votre" }],
+      "explanation": "« colis » is invariable (un colis / des colis), so the article must agree with « vous » → « votre » (« ta » is second-person singular and feminine)."
     },
     {
       "text": "N'oubliez pas {1} passeports à l'aéroport.",

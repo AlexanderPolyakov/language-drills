@@ -211,21 +211,21 @@
       "text": "L'artiste {1} son dernier chef-d'œuvre, puis {2} quelques mois plus tard.",
       "blanks": [
         {
-          "cue": "peindre",
+          "cue": "sculpter",
           "answer": [
-            "peignit"
+            "sculpta"
           ],
-          "hint": "passé simple, 3e pers. sing. — radical en peign-, terminaison -it"
+          "hint": "passé simple, 3e pers. sing. — verbe régulier en -er → « il sculpta »"
         },
         {
-          "cue": "mourir",
+          "cue": "s'éteindre",
           "answer": [
-            "mourut"
+            "s'éteignit"
           ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
+          "hint": "passé simple, 3e pers. sing. — comme « peindre », radical en -gn → « il s'éteignit »"
         }
       ],
-      "explanation": "« peindre » (like all verbs in -eindre) takes the stem « peign- » and the -it endings of the regular -ir/-re type → 3rd singular « il peignit ». « mourir » belongs to the « -u » family → « il mourut » (note the single « r », unlike the future « il mourra »). Both narrate completed events in this literary récit, with no circumflex in the 3rd person singular."
+      "explanation": "« sculpter », verbe régulier en -er, forme son passé simple en -a → 3e singulier « il sculpta ». « s'éteindre » (ici au sens figuré de « mourir ») suit le modèle des verbes en -eindre : radical « -gn » → « il s'éteignit ». Les deux verbes narrent des événements achevés dans ce récit littéraire."
     },
     {
       "text": "Le moine {1} la lettre à la hâte, puis la {2} au courrier qui partait à l'aube.",

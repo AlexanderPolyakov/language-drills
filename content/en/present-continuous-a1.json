@@ -70,7 +70,7 @@
     {
       "text": "I {1} not {2} today; I'm too tired.",
       "blanks": [
-        { "cue": "be", "answer": ["am"] },
+        { "cue": "be", "answer": ["am", "'m"] },
         { "cue": "swim", "answer": ["swimming"] }
       ],
       "explanation": "Negative with I: am not + swimming (double the m)."

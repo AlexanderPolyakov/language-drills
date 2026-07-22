@@ -46,7 +46,7 @@
     {
       "text": "Il était convaincu que, s'il avait insisté davantage, ils {1} sa proposition.",
       "blanks": [
-        { "cue": "accepter", "answer": ["auraient accepté"], "hint": "hypothetical concordance: « si » + plus-que-parfait in the past calls for the conditionnel passé in the main clause" }
+        { "cue": "accepter", "answer": ["auraient accepté", "eussent accepté"], "hint": "hypothetical concordance: « si » + plus-que-parfait in the past calls for the conditionnel passé in the main clause (literary 2nd form: « eussent accepté »)" }
       ],
       "explanation": "This is the irrealis-of-the-past pattern (« le système hypothétique » of unrealized past conditions): « si » + plus-que-parfait (« s'il avait insisté ») requires the conditionnel passé in the result clause. So « ils auraient accepté » expresses what would have happened — acceptance that did not occur — embedded in the past frame set by « était convaincu »."
     },
