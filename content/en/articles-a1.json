@@ -36,13 +36,6 @@
       "explanation": "Use 'an' before a vowel sound: an elephant. It is capitalized at the start of the sentence."
     },
     {
-      "text": "I like {1} dogs.",
-      "blanks": [
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "plural noun in general" }
-      ],
-      "explanation": "Use no article for plural nouns talked about in general: I like dogs."
-    },
-    {
       "text": "He is reading {1} book.",
       "blanks": [
         { "answer": "a", "options": ["a", "an", "the", "—"], "hint": "consonant sound" }
@@ -63,13 +56,6 @@
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "we both know which one" }
       ],
       "explanation": "Use 'the' when it is clear which thing we mean: the door of this room."
-    },
-    {
-      "text": "I drink {1} water every morning.",
-      "blanks": [
-        { "answer": "—", "options": ["a", "an", "the", "—"], "hint": "uncountable noun in general" }
-      ],
-      "explanation": "Use no article with uncountable nouns talked about in general: I drink water."
     },
     {
       "text": "There is {1} egg on the plate.",

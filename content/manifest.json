@@ -10,7 +10,7 @@
           "level": "A1",
           "title": "A, an, the, or nothing?",
           "file": "en/articles-a1.json",
-          "count": 14
+          "count": 12
         },
         {
           "id": "en-demonstratives-a1",
@@ -346,7 +346,7 @@
           "level": "C1",
           "title": "Vocabulary in context (C1)",
           "file": "en/vocabulary-c1.json",
-          "count": 38
+          "count": 34
         },
         {
           "id": "en-concessive-clauses-c2",
@@ -432,7 +432,7 @@
           "level": "A1",
           "title": "La négation (ne… pas, jamais, plus, rien)",
           "file": "fr/negation-a1.json",
-          "count": 36
+          "count": 34
         },
         {
           "id": "fr-possessive-adjectives-a1",
@@ -528,7 +528,7 @@
           "level": "A2",
           "title": "Les articles partitifs (du, de la, de l', des)",
           "file": "fr/partitive-articles-a2.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "fr-passe-compose-a2",
@@ -568,7 +568,7 @@
           "level": "A2",
           "title": "Vocabulaire : les noms (A2)",
           "file": "fr/vocabulary-nouns-a2.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "fr-vocabulary-verbs-a2",

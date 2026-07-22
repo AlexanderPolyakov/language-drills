@@ -179,21 +179,6 @@
       "text": "Elle achète {1} fleurs pour sa mère.",
       "blanks": [{ "options": ["du", "de la", "des", "de"], "answer": "des" }],
       "explanation": "'fleurs' is plural, so 'des'."
-    },
-    {
-      "text": "Tu dépenses {1} argent chaque week-end.",
-      "blanks": [
-        {
-          "options": [
-            "du",
-            "de la",
-            "de l'",
-            "des"
-          ],
-          "answer": "de l'"
-        }
-      ],
-      "explanation": "'argent' is masculine but starts with a vowel, so 'de l''."
     }
   ]
 }

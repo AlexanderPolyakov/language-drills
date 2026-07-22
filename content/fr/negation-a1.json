@@ -176,34 +176,6 @@
       "text": "Elle était malade, mais elle ne tousse {1}.",
       "blanks": [{ "options": ["rien", "plus", "personne"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer coughs, after recovering."
-    },
-    {
-      "text": "Tout le monde est parti, il n'y a {1} ici.",
-      "blanks": [
-        {
-          "options": [
-            "plus",
-            "rien",
-            "personne"
-          ],
-          "answer": "personne"
-        }
-      ],
-      "explanation": "'ne… personne' means 'nobody / no one'."
-    },
-    {
-      "text": "Au bureau le dimanche, il n'y a {1} pour répondre au téléphone.",
-      "blanks": [
-        {
-          "options": [
-            "personne",
-            "rien",
-            "pas"
-          ],
-          "answer": "personne"
-        }
-      ],
-      "explanation": "'ne… personne' = nobody is present."
     }
   ]
 }
