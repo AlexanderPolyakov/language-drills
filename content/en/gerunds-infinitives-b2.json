@@ -174,6 +174,20 @@
         { "cue": "take", "answer": ["to take"], "hint": "afford + to-infinitive" }
       ],
       "explanation": "'Afford' (to have enough money or time for something) is followed by the to-infinitive: 'afford to take'. It is not used with the gerund."
+    },
+    {
+      "text": "She suggested {1} the meeting until everyone had had a chance to read the report.",
+      "blanks": [
+        { "cue": "postpone", "answer": ["postponing"], "hint": "suggest + -ing (never 'suggest to do')" }
+      ],
+      "explanation": "'Suggest' is followed by the gerund, never the to-infinitive; you cannot say 'suggest to postpone'. A common alternative is a that-clause ('suggested that they postpone'), but with a verb complement it must be the -ing form."
+    },
+    {
+      "text": "Ignoring the muttering at the back, the speaker went on {1} for a further twenty minutes without pausing.",
+      "blanks": [
+        { "cue": "talk", "answer": ["talking"], "hint": "go on + -ing = continue the same activity" }
+      ],
+      "explanation": "'Go on doing' means to continue the same activity without stopping; here the speaker kept talking. This contrasts with 'go on to do', which means to move on to a different, later action."
     }
   ]
 }

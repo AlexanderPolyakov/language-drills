@@ -142,6 +142,16 @@
       "text": "The appeal was rejected {1} it had been filed several weeks after the deadline.",
       "blanks": [{ "answer": "on the grounds that", "options": ["on the grounds that", "so as to", "conversely", "in order to"], "hint": "gives the stated reason or justification + clause" }],
       "explanation": "'On the grounds that' introduces the stated reason or justification for a decision, taking a full clause ('it had been filed ... late'). 'So as to' and 'in order to' mark purpose before an infinitive, and 'conversely' is a contrast adverb, none of which supplies the ground of a decision."
+    },
+    {
+      "text": "{1} you have already completed the assessment, you are free to leave the hall.",
+      "blanks": [{ "answer": "Seeing that", "options": ["Seeing that", "So as to", "Whereas", "Despite"], "hint": "gives an evident, already-known reason + clause" }],
+      "explanation": "'Seeing that' is a causal conjunction introducing a reason the speaker treats as evident or already established ('since / given that'), taking a full clause. 'So as to' marks purpose before an infinitive, 'whereas' draws a contrast, and 'despite' takes a noun to concede, none of which supplies an accepted reason this way."
+    },
+    {
+      "text": "He raised his voice {1} the people at the back of the hall could hear every word.",
+      "blanks": [{ "answer": "so that", "options": ["so that", "owing to", "albeit", "no matter how"], "hint": "purpose/result clause, typically with a modal ('could')" }],
+      "explanation": "'So that' introduces a clause of purpose or result, usually with a modal such as 'could' or 'would' ('so that they could hear'). 'Owing to' takes a noun to signal cause, 'albeit' is a compressed concession before an adjective, and 'no matter how' concedes a degree, none of which expresses this purpose."
     }
   ]
 }

@@ -195,6 +195,20 @@
         { "answer": "notwithstanding", "options": ["notwithstanding", "nonetheless", "conversely"], "hint": "the one word here that can FOLLOW its noun phrase to mean 'despite'" }
       ],
       "explanation": "'Notwithstanding' is unusual among prepositions in that it may either precede or follow its noun phrase, so 'the board's misgivings notwithstanding' means 'despite the board's misgivings'. 'Nonetheless' is a sentence adverb that cannot govern a preceding noun phrase this way, and 'conversely' marks an inverse relationship rather than a concession."
+    },
+    {
+      "text": "The evidence is, {1}, circumstantial, but the pattern it forms is too consistent to ignore.",
+      "blanks": [
+        { "answer": "to be sure", "options": ["to be sure", "on the contrary", "much less"], "hint": "concedes a point in passing (= 'admittedly / it is true')" }
+      ],
+      "explanation": "'To be sure' concedes a point parenthetically ('admittedly / it is true') before the speaker pushes back with a stronger claim. 'On the contrary' reverses a preceding statement and 'much less' adds a more improbable case after a negative, neither of which makes this passing concession."
+    },
+    {
+      "text": "The audience's response to the premiere was warm, {1} rapturous, and the reviews the next morning were no less glowing.",
+      "blanks": [
+        { "answer": "if not", "options": ["if not", "let alone", "as such"], "hint": "tentatively upgrades to a stronger term (= 'and perhaps even')" }
+      ],
+      "explanation": "'If not' introduces a stronger alternative the speaker is willing to entertain ('warm, and perhaps even rapturous'), scaling the claim up rather than down. 'Let alone' adds a more improbable case after a negative and 'as such' draws a consequence from a description, neither of which upgrades a term this way."
     }
   ]
 }

@@ -220,6 +220,20 @@
         }
       ],
       "explanation": "'get away with' means to do something wrong without being caught or punished. 'get on with' = continue doing something or have a good relationship, and 'get round to' = finally find the time to do something, so neither expresses escaping the consequences of cheating."
+    },
+    {
+      "text": "They offered him a promotion in another city, but he {1} because he didn't want to move his family.",
+      "blanks": [
+        { "answer": "turned it down", "options": ["turned it down", "turned it up", "turned it over"], "hint": "reject or refuse an offer" }
+      ],
+      "explanation": "'turn down' means to reject or refuse an offer, application or request. 'turn up' = increase the level of something or arrive/appear, and 'turn over' = flip something or hand it to the authorities, so neither expresses declining the promotion."
+    },
+    {
+      "text": "The company has agreed to {1} three new apprentices to cope with the extra orders this autumn.",
+      "blanks": [
+        { "answer": "take on", "options": ["take on", "take in", "take over"], "hint": "employ or hire someone" }
+      ],
+      "explanation": "'take on' means to employ or hire someone, or to accept a task or responsibility. 'take in' = absorb information or deceive someone, and 'take over' = assume control of something, so neither fits hiring new staff."
     }
   ]
 }
