@@ -141,6 +141,11 @@
         }
       ],
       "explanation": "« faire allusion à quelque chose »; with a neutral antecedent and the preposition « à », use ce à quoi."
+    },
+    {
+      "text": "C'est un résultat {1} nous sommes très fiers.",
+      "blanks": [{ "answer": "dont", "options": ["dont", "que", "qui"], "hint": "être fier de quelque chose" }],
+      "explanation": "The adjective « fier » is built with « de » (« être fier DE quelque chose »); « dont » replaces this « de » complement, so dont. « que » (direct object) and « qui » (subject) are wrong because the pronoun stands for a « de » complement, not a bare object or subject."
     }
   ]
 }

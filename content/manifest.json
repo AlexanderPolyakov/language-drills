@@ -616,7 +616,7 @@
           "level": "B1",
           "title": "Les pronoms relatifs",
           "file": "fr/relative-pronouns-b1.json",
-          "count": 17
+          "count": 18
         },
         {
           "id": "fr-subjunctive-present-b1",
@@ -672,7 +672,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 21
+          "count": 23
         },
         {
           "id": "fr-mise-en-relief-c1",
@@ -704,7 +704,7 @@
           "level": "C2",
           "title": "La concordance des temps",
           "file": "fr/concordance-des-temps-c2.json",
-          "count": 21
+          "count": 23
         },
         {
           "id": "fr-double-pronominalisation-c2",

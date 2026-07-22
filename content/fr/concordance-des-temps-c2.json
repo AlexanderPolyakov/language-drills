@@ -154,6 +154,20 @@
         { "cue": "falsifier", "answer": ["avait falsifié"], "hint": "anteriority in a past frame: a passé composé in direct thought becomes the plus-que-parfait" }
       ],
       "explanation": "The main verb « soupçonnait » is past, and the suspected action began BEFORE it (« depuis plusieurs mois »). A passé composé in the direct thought (« le comptable a falsifié les registres ») shifts to the plus-que-parfait to mark anteriority: « avait falsifié ». (The direct object « les registres » follows the verb, so the participle stays invariable.)"
+    },
+    {
+      "text": "Nous étions convaincus qu'ils {1} à notre invitation sans la moindre hésitation.",
+      "blanks": [
+        { "cue": "répondre", "answer": ["répondraient"], "hint": "futur dans le passé: a futur simple in direct speech becomes the conditionnel présent after a past main verb" }
+      ],
+      "explanation": "The main verb « étions convaincus » is in the past, and the subordinate action is posterior to it. The original direct thought « ils répondront à notre invitation » (futur simple) shifts to the conditionnel présent — the « futur dans le passé »: « ils répondraient ». The conditionnel here expresses not a condition but simple posteriority relative to a past reference point."
+    },
+    {
+      "text": "Le juge doutait que l'accusé {1} toute la vérité lors de sa première déposition.",
+      "blanks": [
+        { "cue": "dire", "answer": ["ait dit", "eût dit"], "hint": "subjunctive concordance: anteriority after a past main verb — modern « ait dit » (subjonctif passé) or literary « eût dit » (subjonctif plus-que-parfait)" }
+      ],
+      "explanation": "« Douter que » triggers the subjunctive, and the telling is anterior to the past doubt « doutait » (« lors de sa première déposition » points back before the moment of doubting). Anteriority is rendered in modern usage by the subjonctif passé « qu'il ait dit toute la vérité ». In strict literary concordance after the past « doutait », the subjonctif plus-que-parfait « qu'il eût dit » is also correct — the fully concordant form. Note the circumflex of the 3rd-person singular « eût » (subjonctif) vs « eut » (passé simple)."
     }
   ]
 }

@@ -154,6 +154,20 @@
         { "cue": "voir", "answer": ["vus"], "hint": "participe passé + infinitive: the preceding object 'les enfants' DOES the action of « grandir », so agreement applies" }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les enfants » are the ones who grow — they are the SUBJECT of « grandir » — so the participle agrees with them (masculine plural): « les enfants que nous avons vus grandir ». Contrast « les airs que j'ai entendu jouer », where the object is played, not the doer, hence no agreement."
+    },
+    {
+      "text": "Les mesures que le conseil municipal a {1} hier soir ont surpris tous les habitants.",
+      "blanks": [
+        { "cue": "prendre", "answer": ["prises"], "hint": "avoir + preceding direct object: « que » = les mesures (f.pl.) placed before the verb forces agreement" }
+      ],
+      "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here the relative « que » refers to « les mesures » (feminine plural) and stands before the verb, so the participle agrees: « les mesures que le conseil a prises ». Contrast « le conseil a pris des mesures » (object following the verb → no agreement)."
+    },
+    {
+      "text": "Les danseuses que nous avons {1} évoluer sur scène étaient d'une grâce rare.",
+      "blanks": [
+        { "cue": "regarder", "answer": ["regardées"], "hint": "participe passé + infinitive: the preceding object 'les danseuses' DOES the action of « évoluer », so agreement applies" }
+      ],
+      "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les danseuses » are the ones who move about — they are the SUBJECT of « évoluer » — so the participle agrees with them (feminine plural): « les danseuses que nous avons regardées évoluer ». Contrast « les airs que j'ai entendu jouer », where the object undergoes the action rather than performing it, hence no agreement."
     }
   ]
 }
