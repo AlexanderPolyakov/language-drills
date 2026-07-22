@@ -177,6 +177,24 @@
         "La rarete dramatique de l'eau potable dans cette region"
       ],
       "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « rare » → « la rareté » (the « -té » suffix is FEMININE and derives an abstract quality from an adjective, like « pauvre → la pauvreté », « beau → la beauté », « fier → la fierté »). The original subject « l'eau potable » becomes the complement « de l'eau potable », and the adverb « dramatiquement » is rendered by the adjective « dramatique » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Plusieurs espèces d'oiseaux ont progressivement disparu de cette région. (nominaliser le verbe « disparaître » en « -ition » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La disparition progressive de plusieurs espèces d'oiseaux dans cette région.",
+        "La disparition progressive de plusieurs espèces d'oiseaux dans cette région",
+        "La disparition progressive de plusieurs especes d'oiseaux dans cette region"
+      ],
+      "explanation": "« Disparaître » nominalises in « -ition » → « la disparition » (the « -ition » suffix is FEMININE, like « apparaître → l'apparition », « (se) répéter → la répétition », « définir → la définition »). The verb's subject « plusieurs espèces d'oiseaux » becomes the complement « de plusieurs espèces d'oiseaux », the place complement is rendered by « dans cette région », and the adverb « progressivement » is rendered by the adjective « progressive » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "L'entreprise a brutalement perdu ses principaux marchés. (nominaliser « perdre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La perte brutale de ses principaux marchés par l'entreprise.",
+        "La perte brutale de ses principaux marchés par l'entreprise",
+        "La perte brutale de ses principaux marches par l'entreprise"
+      ],
+      "explanation": "« Perdre » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe ») that is, exceptionally, FEMININE: « la perte ». Most suffix-less deverbals are masculine (« le retour », « le choix », « l'oubli »), but « la perte » is feminine, like « la chute » (choir/tomber) and « la vente » (vendre). The direct object « ses principaux marchés » becomes the patient complement « de ses principaux marchés », the subject (agent) is reintroduced with « par »: « par l'entreprise », and the adverb « brutalement » is rendered by the feminine adjective « brutale »."
     }
   ]
 }

@@ -204,6 +204,20 @@
       "answer": ["Explique-le-lui !", "Explique-le-lui", "Explique le lui"],
       "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative: « ce problème » → « le », « à ton professeur » → « lui ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Explique-le-lui ». Here « lui » keeps its form (the « moi/toi » switch affects only « me/te »). Compare the declarative « Tu le lui expliques », where the pronouns are pre-verbal.",
       "placeholder": "Explique-…-… !"
+    },
+    {
+      "prompt": "L'ancien capitaine se souvient de ses longues traversées.",
+      "instruction": "Réécrivez la phrase en remplaçant « de ses longues traversées » par « en » (double pronominalisation).",
+      "answer": ["L'ancien capitaine s'en souvient.", "L'ancien capitaine s'en souvient"],
+      "explanation": "The reflexive verb « se souvenir » already carries the pronoun « se » (« me / te / se / nous / vous » slot); its « de »-complement « de ses longues traversées » is replaced by « en ». In the pre-verbal sequence the reflexive « se » comes before « en », and « se » elides to « s' » in front of the vowel: « s'en ». « En » always comes last, giving « L'ancien capitaine s'en souvient ». Note that with « se souvenir » the reflexive pronoun must match the subject (« il » → « se »), so a form like « Il m'en souvient » is impossible.",
+      "placeholder": "L'ancien capitaine …'… souvient."
+    },
+    {
+      "prompt": "Tu montres ces photos à tes parents.",
+      "instruction": "Mettez à l'impératif NÉGATIF en remplaçant « ces photos » ET « à tes parents » par des pronoms (double pronominalisation).",
+      "answer": ["Ne les leur montre pas.", "Ne les leur montre pas"],
+      "explanation": "In the NEGATIVE imperative the pronouns keep their normal PRE-verbal position and order (unlike the affirmative imperative): two third-person pronouns with the DIRECT one first, « les » (= « ces photos ») before « leur » (= « à tes parents »). The negation wraps the whole group: « Ne les leur montre pas ». Compare the affirmative « Montre-les-leur », where the pronouns follow the verb, joined by hyphens.",
+      "placeholder": "Ne … … montre pas."
     }
   ]
 }

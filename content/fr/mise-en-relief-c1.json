@@ -157,6 +157,16 @@
       "prompt": "Je m'occupe surtout des finances de l'entreprise. (mettre en relief le complément avec « ce dont… , c'est »)",
       "answer": ["Ce dont je m'occupe surtout, c'est des finances de l'entreprise.", "Ce dont je m'occupe surtout, ce sont les finances de l'entreprise."],
       "explanation": "« S'occuper » governs the preposition « de » (« s'occuper DE quelque chose »), so the clefting pronoun is « ce dont » (= de quoi): « Ce dont je m'occupe surtout, c'est des finances de l'entreprise ». The highlighted element normally echoes the « de » (« c'est des finances »). Before the plural noun « les finances », careful written French may also drop the « de » and use the agreeing presentative « ce sont »: « ce sont les finances ». The reflexive pronoun « me » stays inside the clefted clause (« je m'occupe »)."
+    },
+    {
+      "prompt": "Je suis particulièrement fier de ce résultat. (mettre en relief le complément avec « c'est… dont »)",
+      "answer": ["C'est ce résultat dont je suis particulièrement fier."],
+      "explanation": "When the verb governs « de » (« être fier DE quelque chose ») and you highlight a SPECIFIC noun, you can cleft directly with « c'est … dont », where « dont » is the relative pronoun standing for « de + le nom »: « C'est ce résultat dont je suis fier ». This differs from « Ce dont … , c'est … », which foregrounds the idea without naming the noun until the presentative (« Ce dont je suis fier, c'est ce résultat »). Both are correct; « c'est … dont » keeps the highlighted noun at the front."
+    },
+    {
+      "prompt": "Il a démissionné parce qu'on avait bafoué ses principes. (mettre en relief la cause avec « c'est parce que… que »)",
+      "answer": ["C'est parce qu'on avait bafoué ses principes qu'il a démissionné."],
+      "explanation": "To foreground an entire CAUSAL clause, French uses the frame « c'est parce que … que … »: the reason is placed inside « c'est … que », while « parce que » keeps introducing the cause. « C'est parce qu'on avait bafoué ses principes qu'il a démissionné » — the second « que » (elided or not) is the presentative's relative pronoun, NOT a repeated « parce que ». This clefts a whole subordinate clause of cause rather than a single noun or complement (Grevisse, _Le Bon Usage_)."
     }
   ]
 }

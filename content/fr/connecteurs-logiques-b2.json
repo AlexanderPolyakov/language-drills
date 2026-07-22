@@ -153,6 +153,20 @@
         { "answer": "par conséquent", "options": ["par conséquent", "si bien que", "parce que", "bien que"], "hint": "consequence ADVERB inserted between commas, not a conjunction opening a clause" }
       ],
       "explanation": "« Par conséquent » is a consequence ADVERB, so it can be inserted parenthetically inside the second clause, here between the auxiliary « a » and the participle « été » (« a, par conséquent, été reportée »). The distractors are all subordinating conjunctions that must stand at the HEAD of the clause they introduce and can never be slotted into this parenthetical position: « si bien que » (consequence) and « parce que » (cause) both require the indicative but must open a clause, and « bien que » requires the subjunctive. Only the adverb « par conséquent » fits the inserted slot."
+    },
+    {
+      "text": "L'annulation du vol a été très mal vécue, {1} les passagers n'avaient été prévenus que la veille au soir.",
+      "blanks": [
+        { "answer": "d'autant plus que", "options": ["d'autant plus que", "quoique", "afin que", "en dépit de"], "hint": "cause that REINFORCES the previous statement + indicative ('avaient été prévenus')" }
+      ],
+      "explanation": "« D'autant plus que » introduces a cause that REINFORCES what was just said — the reaction is all the more understandable given an aggravating circumstance — and it is followed by the indicative (« avaient été prévenus »). « Quoique » would express concession + subjunctive, « afin que » purpose + subjunctive, and « en dépit de » takes a noun, not the clause « les passagers n'avaient été prévenus »."
+    },
+    {
+      "text": "Le vacarme dans la salle s'est intensifié {1} l'on ne s'entendait plus parler d'un bout à l'autre de la table.",
+      "blanks": [
+        { "answer": "au point que", "options": ["au point que", "au cas où", "pour que", "à moins que"], "hint": "consequence expressing the DEGREE reached + indicative ('on ne s'entendait plus')" }
+      ],
+      "explanation": "« Au point que » introduces a CONSEQUENCE conceived as a degree or extreme reached, and is followed by the indicative (« on ne s'entendait plus ») because the result is presented as real: the noise grew so much that people could no longer hear one another. « Au cas où » introduces an eventuality + conditional, while « pour que » (purpose) and « à moins que » (restrictive condition) both require the subjunctive, none of which fits the real result marked here."
     }
   ]
 }
