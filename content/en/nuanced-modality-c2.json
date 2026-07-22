@@ -203,6 +203,13 @@
         { "answer": "couldn't have", "options": ["couldn't have", "needn't have", "shouldn't have"], "hint": "logical impossibility in the past (= 'can't have')" }
       ],
       "explanation": "'Couldn't have + past participle' states that a past event was impossible — being fast asleep, she cannot have been the author. 'Needn't have' would mean the writing was done but turned out unnecessary, and 'shouldn't have' would criticise it as ill-advised; neither conveys the impossibility the evidence forces here."
+    },
+    {
+      "text": "The office lights are still on and I can hear voices down the corridor, so someone {1} working late.",
+      "blanks": [
+        { "answer": "must be", "options": ["must be", "must have been", "should be"], "hint": "near-certain deduction about a situation happening right now (continuous)" }
+      ],
+      "explanation": "Confident deduction about a situation in progress at the moment of speaking uses 'must be + -ing' ('someone must be working late'). 'Must have been working' would place the inference in the past, whereas the evidence (lights on now, voices audible now) points to the present; 'should be working' weakens the near-certainty to mere expectation."
     }
   ]
 }

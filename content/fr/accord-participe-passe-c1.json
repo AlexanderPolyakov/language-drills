@@ -168,6 +168,13 @@
         { "cue": "regarder", "answer": ["regardées"], "hint": "participe passé + infinitive: the preceding object 'les danseuses' DOES the action of « évoluer », so agreement applies" }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les danseuses » are the ones who move about — they are the SUBJECT of « évoluer » — so the participle agrees with them (feminine plural): « les danseuses que nous avons regardées évoluer ». Contrast « les airs que j'ai entendu jouer », where the object undergoes the action rather than performing it, hence no agreement."
+    },
+    {
+      "text": "Les enfants qu'elle a {1} jouer dans le jardin sont rentrés couverts de boue.",
+      "blanks": [
+        { "cue": "laisser", "answer": ["laissés", "laissé"], "hint": "« laisser » + infinitive: traditionally agrees when the preceding object performs the action (« laissés »); the 1990 reform makes it invariable (« laissé ») like « fait » — both accepted" }
+      ],
+      "explanation": "Unlike « faire », which is always invariable, « laisser » + infinitive is a debated case. Under the TRADITIONAL rule it agrees like other participles followed by an infinitive when the preceding direct object performs the action: « les enfants » are the ones playing (subject of « jouer »), so « les enfants qu'elle a laissés jouer ». The 1990 rectifications orthographiques, however, align « laissé + infinitif » with « fait » and make it ALWAYS INVARIABLE: « qu'elle a laissé jouer ». Both « laissés » (traditional) and « laissé » (reformed) are therefore correct today. (Grevisse, _Le Bon Usage_; rectifications de 1990.)"
     }
   ]
 }

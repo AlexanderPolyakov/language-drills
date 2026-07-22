@@ -188,6 +188,20 @@
         { "answer": "such a", "options": ["such a", "such", "so a"], "hint": "substitutes 'a plan of that kind' before a singular countable noun" }
       ],
       "explanation": "Before a singular countable noun, 'such' requires the indefinite article — 'such a plan' (= 'a plan of that kind'). Bare 'such plan' omits the obligatory article and is ungrammatical with a countable singular, and 'so a plan' is not an English pattern ('so' premodifies an adjective, as in 'so bold a plan', never a bare noun)."
+    },
+    {
+      "text": "The shortlist came down to a novel and a memoir; the judges eventually chose {1}, feeling that the fiction showed by far the greater originality.",
+      "blanks": [
+        { "answer": "the former", "options": ["the former", "the latter", "such"], "hint": "refers back to the FIRST of the two named ('a novel')" }
+      ],
+      "explanation": "'The former' substitutes for the first-named of two items — here 'a novel', the work of fiction the judges praised for its originality. 'The latter' would point instead to the memoir (the second option named), and 'such' substitutes for a whole category rather than singling out one of two named items."
+    },
+    {
+      "text": "\"Will the minister be resigning over the affair?\" \"I assume {1}, given how firmly the party is still backing her.\"",
+      "blanks": [
+        { "answer": "not", "options": ["not", "so", "it"], "hint": "'assume' forms its negative substitute as 'verb + ___', not 'don't ... so'" }
+      ],
+      "explanation": "'Assume', like 'hope', 'guess' and 'suspect', forms the negative substitute as 'assume not' (= I assume she will not resign), which fits the party's firm backing. 'I assume so' would mean the opposite (that she will resign), and 'it' cannot substitute for a whole clause after 'assume'."
     }
   ]
 }

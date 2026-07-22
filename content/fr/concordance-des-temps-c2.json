@@ -168,6 +168,20 @@
         { "cue": "dire", "answer": ["ait dit", "eût dit"], "hint": "subjunctive concordance: anteriority after a past main verb — modern « ait dit » (subjonctif passé) or literary « eût dit » (subjonctif plus-que-parfait)" }
       ],
       "explanation": "« Douter que » triggers the subjunctive, and the telling is anterior to the past doubt « doutait » (« lors de sa première déposition » points back before the moment of doubting). Anteriority is rendered in modern usage by the subjonctif passé « qu'il ait dit toute la vérité ». In strict literary concordance after the past « doutait », the subjonctif plus-que-parfait « qu'il eût dit » is also correct — the fully concordant form. Note the circumflex of the 3rd-person singular « eût » (subjonctif) vs « eut » (passé simple)."
+    },
+    {
+      "text": "Ses parents auraient tant voulu qu'il {1} médecin, mais il choisit la musique.",
+      "blanks": [
+        { "cue": "devenir", "answer": ["devînt", "devienne"], "hint": "subjunctive concordance after a conditionnel passé: literary subjonctif imparfait « devînt » or modern subjonctif présent « devienne » for posteriority" }
+      ],
+      "explanation": "« Vouloir que » triggers the subjunctive, and the main verb « auraient voulu » (conditionnel passé) belongs to the past register, so concordance applies. The wished action is posterior to the wish, which in strict literary usage calls the subjonctif imparfait « qu'il devînt médecin »; modern usage normally keeps the subjonctif présent « qu'il devienne ». Both are accepted, « devînt » being the strictly concordant literary form. Note the circumflex of the 3rd-person singular subjonctif imparfait « devînt » (vs the passé simple « devint »)."
+    },
+    {
+      "text": "Le rapport annuel indiquait que l'entreprise {1} ses bénéfices au cours de l'exercice précédent.",
+      "blanks": [
+        { "cue": "doubler", "answer": ["avait doublé"], "hint": "anteriority in a past frame: a passé composé in direct speech becomes the plus-que-parfait" }
+      ],
+      "explanation": "The main verb « indiquait » (imparfait) sets a past frame, and the subordinate action happened BEFORE it (« au cours de l'exercice précédent »). A passé composé in the direct statement (« l'entreprise a doublé ses bénéfices ») shifts to the plus-que-parfait to mark anteriority: « avait doublé ». (The direct object « ses bénéfices » follows the verb, so the participle stays invariable.)"
     }
   ]
 }

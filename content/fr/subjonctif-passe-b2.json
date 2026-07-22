@@ -146,6 +146,20 @@
         { "cue": "arriver", "answer": ["soit arrivée"], "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject" }
       ],
       "explanation": "« Je doute que » expresses doubt and triggers the subjunctive, and the arrival is seen as prior to the connecting train, so the past subjunctive is used. « Arriver » takes « être », and the participle agrees with the feminine subject: « qu'elle soit arrivée »."
+    },
+    {
+      "text": "C'est la première fois qu'il {1} en retard à un rendez-vous aussi important.",
+      "blanks": [
+        { "cue": "arriver", "answer": ["soit arrivé"], "hint": "subjonctif passé, il, être verb: « c'est la première fois que » triggers the subjunctive; participle agrees with the masculine singular subject" }
+      ],
+      "explanation": "« C'est la première fois que » (like ordinal/superlative antecedents) is a classic trigger of the subjunctive, and the being-late is a completed event, so the past subjunctive is used. « Arriver » takes « être », and its participle agrees with the masculine singular subject: « qu'il soit arrivé »."
+    },
+    {
+      "text": "Je suis surpris qu'ils ne se {1} de rien pendant tout ce temps.",
+      "blanks": [
+        { "cue": "se rendre compte", "answer": ["soient rendu compte"], "hint": "subjonctif passé, ils, pronominal locution « se rendre compte »: « compte » is the direct object and « se » is COI, so the participle stays invariable" }
+      ],
+      "explanation": "« Être surpris que » expresses emotion and triggers the subjunctive, and the not-realising covers a completed stretch of time, so the past subjunctive is used. In « se rendre compte », the direct object is the noun « compte », so the reflexive « se » is INDIRECT and the participle does not agree — it stays invariable despite the masculine plural subject: « qu'ils ne se soient rendu compte de rien ». (« ne … rien » is a genuine negation here.)"
     }
   ]
 }

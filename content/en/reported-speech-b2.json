@@ -131,6 +131,16 @@
       "prompt": "\"I'll bring the documents here the day after tomorrow,\" she said. (reported speech)",
       "answer": ["She said (that) she would bring the documents there two days later.", "She said that she would bring the documents there two days later.", "She said she would bring the documents there two days later.", "She said (that) she would bring the documents there in two days' time.", "She said she would bring the documents there in two days' time."],
       "explanation": "'Will' backshifts to 'would', the place word 'here' shifts to 'there', and 'the day after tomorrow' becomes 'two days later' / 'in two days' time' when the moment of speaking is no longer the reference point."
+    },
+    {
+      "prompt": "\"I'm going to sell my car next week,\" he said. (reported speech)",
+      "answer": ["He said (that) he was going to sell his car the following week.", "He said that he was going to sell his car the following week.", "He said he was going to sell his car the following week.", "He said (that) he was going to sell his car the next week.", "He said he was going to sell his car the next week."],
+      "explanation": "The future form 'be going to' backshifts through its auxiliary, so 'am going to' becomes 'was going to'. The pronoun 'I' becomes 'he', the possessive 'my' becomes 'his', and 'next week' shifts to 'the following week' / 'the next week'."
+    },
+    {
+      "prompt": "\"Who did you meet at the conference?\" she asked me. (reported question)",
+      "answer": ["She asked me who I had met at the conference.", "She asked who I had met at the conference."],
+      "explanation": "A reported wh- question takes statement word order, so the auxiliary 'did' disappears and the main verb backshifts: past simple 'meet' becomes past perfect 'had met'. There is no question mark, and 'you' becomes 'I'."
     }
   ]
 }
