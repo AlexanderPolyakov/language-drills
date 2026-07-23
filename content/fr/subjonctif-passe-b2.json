@@ -10,121 +10,315 @@
     {
       "text": "Bien qu'il {1} tôt, il a manqué son train.",
       "blanks": [
-        { "cue": "partir", "answer": ["soit parti"], "hint": "subjonctif passé, il, être verb: auxiliary 'être' (subj. present) + past participle" }
+        {
+          "cue": "partir",
+          "answer": [
+            "soit parti"
+          ],
+          "hint": "subjonctif passé, il, être verb: auxiliary 'être' (subj. present) + past participle"
+        }
       ],
       "explanation": "« Bien que » triggers the subjunctive, and the action (leaving) is prior to missing the train, so the past subjunctive is used. « Partir » takes « être »: « qu'il soit parti »."
     },
     {
       "text": "Je doute qu'ils {1} la vérité hier.",
       "blanks": [
-        { "cue": "dire", "answer": ["aient dit"], "hint": "subjonctif passé, ils, avoir verb: auxiliary 'avoir' (subj. present) + past participle" }
+        {
+          "cue": "dire",
+          "answer": [
+            "aient dit"
+          ],
+          "hint": "subjonctif passé, ils, avoir verb: auxiliary 'avoir' (subj. present) + past participle"
+        }
       ],
       "explanation": "« Je doute que » expresses doubt and requires the subjunctive; « hier » places the action in the past, so the past subjunctive applies. « Dire » takes « avoir »: « qu'ils aient dit »."
     },
     {
       "text": "Il est possible qu'elle {1} avant la fin de la réunion.",
       "blanks": [
-        { "cue": "partir", "answer": ["soit partie"], "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject" }
+        {
+          "cue": "partir",
+          "answer": [
+            "soit partie"
+          ],
+          "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject"
+        }
       ],
       "explanation": "« Il est possible que » triggers the subjunctive, and the departure is prior to the end of the meeting, so the past subjunctive is used. « Partir » takes « être », and the participle agrees with the feminine subject: « qu'elle soit partie »."
     },
     {
       "text": "Je suis désolé qu'elle {1} dans ses calculs et qu'elle ait dû tout recommencer.",
       "blanks": [
-        { "cue": "se tromper", "answer": ["se soit trompée"], "hint": "subjonctif passé, elle, pronominal verb: auxiliary 'être' + participle agrees with the feminine subject" }
+        {
+          "cue": "se tromper",
+          "answer": [
+            "se soit trompée"
+          ],
+          "hint": "subjonctif passé, elle, pronominal verb: auxiliary 'être' + participle agrees with the feminine subject"
+        }
       ],
       "explanation": "« Je suis désolé que » triggers the subjunctive, and the mistake is prior to the main moment, so the past subjunctive is used. Pronominal verbs form their compound tenses with « être », and here the participle agrees with the feminine subject: « qu'elle se soit trompée »."
     },
     {
       "text": "Il se peut qu'ils {1} la maison plus cher que prévu, vu le marché actuel.",
       "blanks": [
-        { "cue": "vendre", "answer": ["aient vendu"], "hint": "subjonctif passé, ils, avoir verb: no preceding direct object, so no agreement on the participle" }
+        {
+          "cue": "vendre",
+          "answer": [
+            "aient vendu"
+          ],
+          "hint": "subjonctif passé, ils, avoir verb: no preceding direct object, so no agreement on the participle"
+        }
       ],
       "explanation": "« Il se peut que » expresses possibility and triggers the subjunctive; the sale is seen as already completed, so the past subjunctive is used. « Vendre » takes « avoir », and since the direct object « la maison » follows the verb, the participle stays invariable: « qu'ils aient vendu »."
     },
     {
       "text": "Les lettres que tu m'as montrées sont les seules qu'il {1} de toute sa vie.",
       "blanks": [
-        { "cue": "écrire", "answer": ["ait écrites"], "hint": "subjonctif passé, il, avoir verb: the preceding direct object 'que' (= les lettres, f.pl.) forces agreement" }
+        {
+          "cue": "écrire",
+          "answer": [
+            "ait écrites"
+          ],
+          "hint": "subjonctif passé, il, avoir verb: the preceding direct object 'que' (= les lettres, f.pl.) forces agreement"
+        }
       ],
       "explanation": "« Le seul / les seules que » is a superlative-type trigger requiring the subjunctive, and the writing is prior to the main moment, so the past subjunctive applies. « Écrire » takes « avoir »; here the relative pronoun « que » refers to « les lettres » (feminine plural) and precedes the verb, so the participle agrees: « qu'il ait écrites »."
     },
     {
       "text": "Partons vite, avant qu'ils ne {1} de notre absence.",
       "blanks": [
-        { "cue": "s'apercevoir", "answer": ["se soient aperçus"], "hint": "subjonctif passé, ils, pronominal verb: auxiliary 'être' + participle agrees with the masculine plural subject; « ne » is explétif" }
+        {
+          "cue": "s'apercevoir",
+          "answer": [
+            "se soient aperçus"
+          ],
+          "hint": "subjonctif passé, ils, pronominal verb: auxiliary 'être' + participle agrees with the masculine plural subject; « ne » is explétif"
+        }
       ],
       "explanation": "« Avant que » always triggers the subjunctive, and the past subjunctive marks the noticing as a completed event we want to forestall. « S'apercevoir » is essentially pronominal, forms its compound tenses with « être », and its participle agrees with the subject « ils »: « qu'ils se soient aperçus ». The « ne » is the « ne » explétif typical of « avant que », not a negation."
     },
     {
       "text": "Bien qu'elles se {1} de longs messages, elles ne se sont jamais rencontrées.",
       "blanks": [
-        { "cue": "écrire", "answer": ["soient écrit"], "hint": "subjonctif passé, elles, pronominal verb where « se » is COI (écrire À qqn): no agreement, participle invariable" }
+        {
+          "cue": "écrire",
+          "answer": [
+            "soient écrit"
+          ],
+          "hint": "subjonctif passé, elles, pronominal verb where « se » is COI (écrire À qqn): no agreement, participle invariable"
+        }
       ],
       "explanation": "« Bien que » triggers the subjunctive and the writing is prior to the main clause, so the past subjunctive is used. « S'écrire » comes from « écrire À quelqu'un », so the reflexive « se » is an INDIRECT object: the participle does NOT agree and stays invariable despite the feminine plural subject — « qu'elles se soient écrit ». (The following direct object « de longs messages » does not precede the verb, so it triggers no agreement either.)"
     },
     {
       "text": "Nous sommes heureux que vous {1} venir malgré votre emploi du temps chargé.",
       "blanks": [
-        { "cue": "pouvoir", "answer": ["ayez pu"], "hint": "subjonctif passé, vous, avoir verb: auxiliary 'avoir' (subj. present) + past participle; object follows, no agreement" }
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "ayez pu"
+          ],
+          "hint": "subjonctif passé, vous, avoir verb: auxiliary 'avoir' (subj. present) + past participle; object follows, no agreement"
+        }
       ],
       "explanation": "« Être heureux que » expresses emotion and triggers the subjunctive; the being-able is prior to our present happiness, so the past subjunctive is used. « Pouvoir » takes « avoir », and since it is followed by an infinitive (no preceding direct object), the participle stays invariable: « que vous ayez pu »."
     },
     {
       "text": "C'est le plus beau cadeau qu'on lui {1} jamais.",
       "blanks": [
-        { "cue": "offrir", "answer": ["ait offert"], "hint": "subjonctif passé after a superlative ('le plus beau'); avoir verb, object 'que' (= le cadeau, m.sg.) so no audible change" }
+        {
+          "cue": "offrir",
+          "answer": [
+            "ait offert"
+          ],
+          "hint": "subjonctif passé after a superlative ('le plus beau'); avoir verb, object 'que' (= le cadeau, m.sg.) so no audible change"
+        }
       ],
       "explanation": "A superlative antecedent (« le plus beau cadeau ») is a classic trigger of the subjunctive, and « jamais » places the gift-giving in the completed past, so the past subjunctive applies. « Offrir » takes « avoir »; the relative « que » refers to « le cadeau » (masculine singular) and precedes the verb, but masculine-singular agreement is silent and unwritten: « qu'on lui ait offert »."
     },
     {
       "text": "Nous attendrons ici jusqu'à ce que tous les invités {1} arrivés.",
       "blanks": [
-        { "cue": "être", "answer": ["soient"], "hint": "subjonctif passé, ils, être verb: « jusqu'à ce que » + auxiliary « être » (subj. present) + « arrivés »; the participle is already given" }
+        {
+          "cue": "être",
+          "answer": [
+            "soient"
+          ],
+          "hint": "subjonctif passé, ils, être verb: « jusqu'à ce que » + auxiliary « être » (subj. present) + « arrivés »; the participle is already given"
+        }
       ],
       "explanation": "« Jusqu'à ce que » always triggers the subjunctive, and the past subjunctive presents the arrival as a completed event we are waiting to be accomplished. « Arriver » takes « être », so the auxiliary is « être » in the present subjunctive: « qu'ils soient arrivés ». The participle « arrivés » agrees with the masculine-plural subject « tous les invités »."
     },
     {
       "text": "C'est dommage que vous ne nous {1} de votre passage à Lyon ; nous serions venus vous voir.",
       "blanks": [
-        { "cue": "prévenir", "answer": ["ayez pas prévenus", "ayez pas prévenu"], "hint": "subjonctif passé, vous, avoir verb, in the negative: « ne … pas » wraps the auxiliary « ayez »; the preceding object « nous » may trigger agreement" }
+        {
+          "cue": "prévenir",
+          "answer": [
+            "ayez pas prévenus",
+            "ayez pas prévenu"
+          ],
+          "hint": "subjonctif passé, vous, avoir verb, in the negative: « ne … pas » wraps the auxiliary « ayez »; the preceding object « nous » may trigger agreement"
+        }
       ],
       "explanation": "« C'est dommage que » expresses emotion and triggers the subjunctive; the warning was supposed to happen before the visit, so the past subjunctive is used. « Prévenir » takes « avoir », and in the negative the « ne … pas » brackets the auxiliary: « que vous ne nous ayez pas prévenus ». The preceding direct object « nous » (us) normally forces agreement of the participle (« prévenus »); if « nous » is read as masculine/mixed plural this is « prévenus », though writers who leave it unagreed (« prévenu ») are also tolerated — both are accepted here."
     },
     {
       "text": "Bien que les pompiers {1} en quelques minutes, l'incendie avait déjà ravagé l'entrepôt.",
       "blanks": [
-        { "cue": "intervenir", "answer": ["soient intervenus"], "hint": "subjonctif passé, ils, être verb: auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject" }
+        {
+          "cue": "intervenir",
+          "answer": [
+            "soient intervenus"
+          ],
+          "hint": "subjonctif passé, ils, être verb: auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject"
+        }
       ],
       "explanation": "« Bien que » triggers the subjunctive, and the intervention is anterior to the main clause (the fire « had already » spread), so the past subjunctive expresses anteriority. « Intervenir » takes « être », and its participle agrees with the masculine plural subject « les pompiers »: « qu'ils soient intervenus »."
     },
     {
       "text": "Je doute qu'elle {1} cette décision toute seule, sans en parler à personne.",
       "blanks": [
-        { "cue": "prendre", "answer": ["ait pris"], "hint": "subjonctif passé, elle, avoir verb: object « cette décision » FOLLOWS the verb, so no agreement on the participle" }
+        {
+          "cue": "prendre",
+          "answer": [
+            "ait pris"
+          ],
+          "hint": "subjonctif passé, elle, avoir verb: object « cette décision » FOLLOWS the verb, so no agreement on the participle"
+        }
       ],
       "explanation": "« Je doute que » triggers the subjunctive, and the deciding is seen as already completed, so the past subjunctive applies. « Prendre » takes « avoir », and since the direct object « cette décision » FOLLOWS the verb (it does not precede it), the participle stays invariable: « qu'elle ait pris »."
     },
     {
       "text": "Il faut que tu {1} ton travail avant de pouvoir partir en week-end.",
       "blanks": [
-        { "cue": "finir", "answer": ["aies fini"], "hint": "subjonctif passé, tu, avoir verb: anteriority (the work must be completed BEFORE leaving)" }
+        {
+          "cue": "finir",
+          "answer": [
+            "aies fini"
+          ],
+          "hint": "subjonctif passé, tu, avoir verb: anteriority (the work must be completed BEFORE leaving)"
+        }
       ],
       "explanation": "« Il faut que » triggers the subjunctive, and here the past subjunctive marks anteriority: the finishing must be COMPLETED before the leaving (« avant de pouvoir partir »). « Finir » takes « avoir »: « que tu aies fini ». The object « ton travail » follows the verb, so the participle stays invariable."
     },
     {
       "text": "Je ne crois pas qu'elle nous {1} la vérité jusqu'au bout.",
       "blanks": [
-        { "cue": "cacher", "answer": ["ait caché"], "hint": "subjonctif passé, elle, avoir verb: the preceding object « nous » is INDIRECT (cacher qqch À qqn), so no agreement" }
+        {
+          "cue": "cacher",
+          "answer": [
+            "ait caché"
+          ],
+          "hint": "subjonctif passé, elle, avoir verb: the preceding object « nous » is INDIRECT (cacher qqch À qqn), so no agreement"
+        }
       ],
       "explanation": "« Ne pas croire que » expresses doubt and triggers the subjunctive, and the action is viewed as already completed, so the past subjunctive applies. « Cacher » takes « avoir »; although « nous » precedes the verb, it is an INDIRECT object here (« cacher quelque chose À quelqu'un »), so it triggers no agreement, and the direct object « la vérité » follows the verb — the participle stays invariable: « qu'elle nous ait caché »."
     },
     {
       "text": "Quoiqu'ils {1} tard dans la nuit, ils étaient en pleine forme le lendemain matin.",
       "blanks": [
-        { "cue": "rentrer", "answer": ["soient rentrés"], "hint": "subjonctif passé, ils, être verb: « quoique » + auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject" }
+        {
+          "cue": "rentrer",
+          "answer": [
+            "soient rentrés"
+          ],
+          "hint": "subjonctif passé, ils, être verb: « quoique » + auxiliary « être » (subj. present) + participle agreeing with the masculine plural subject"
+        }
       ],
       "explanation": "« Quoique » (like « bien que ») expresses concession and triggers the subjunctive, and the action is prior to the main clause, so the past subjunctive is used. « Rentrer » here takes « être » (no direct object), and its participle agrees with the masculine plural subject « ils »: « qu'ils soient rentrés »."
+    },
+    {
+      "text": "Dépêchons-nous de rentrer avant que la nuit ne {1} tout à fait.",
+      "blanks": [
+        {
+          "cue": "tomber",
+          "answer": [
+            "soit tombée"
+          ],
+          "hint": "subjonctif passé, elle (la nuit), être verb: auxiliary « être » (subj. present) + participle agrees with the feminine subject; « ne » is explétif"
+        }
+      ],
+      "explanation": "« Avant que » always triggers the subjunctive, and the past subjunctive presents the nightfall as a completed event we want to forestall. « Tomber » here takes « être », and the participle agrees with the feminine singular subject « la nuit »: « avant que la nuit ne soit tombée ». The « ne » is the « ne » explétif typical of « avant que », not a negation."
+    },
+    {
+      "text": "C'est la meilleure décision que nous {1} de toute l'année.",
+      "blanks": [
+        {
+          "cue": "prendre",
+          "answer": [
+            "ayons prise"
+          ],
+          "hint": "subjonctif passé after a superlative ('la meilleure'); avoir verb, preceding object « que » (= la décision, f.sg.) forces agreement"
+        }
+      ],
+      "explanation": "A superlative antecedent (« la meilleure décision ») is a classic trigger of the subjunctive, and the deciding is viewed as already completed, so the past subjunctive applies. « Prendre » takes « avoir »; the relative « que » refers to « la décision » (feminine singular) and precedes the verb, so the participle agrees: « que nous ayons prise »."
+    },
+    {
+      "text": "Je doute qu'elle {1} à temps pour attraper sa correspondance à Paris.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "soit arrivée"
+          ],
+          "hint": "subjonctif passé, elle, être verb: the past participle agrees with the feminine subject"
+        }
+      ],
+      "explanation": "« Je doute que » expresses doubt and triggers the subjunctive, and the arrival is seen as prior to the connecting train, so the past subjunctive is used. « Arriver » takes « être », and the participle agrees with the feminine subject: « qu'elle soit arrivée »."
+    },
+    {
+      "text": "C'est la première fois qu'il {1} en retard à un rendez-vous aussi important.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "soit arrivé"
+          ],
+          "hint": "subjonctif passé, il, être verb: « c'est la première fois que » triggers the subjunctive; participle agrees with the masculine singular subject"
+        }
+      ],
+      "explanation": "« C'est la première fois que » (like ordinal/superlative antecedents) is a classic trigger of the subjunctive, and the being-late is a completed event, so the past subjunctive is used. « Arriver » takes « être », and its participle agrees with the masculine singular subject: « qu'il soit arrivé »."
+    },
+    {
+      "text": "Je suis surpris qu'ils ne se {1} de rien pendant tout ce temps.",
+      "blanks": [
+        {
+          "cue": "se rendre compte",
+          "answer": [
+            "soient rendu compte"
+          ],
+          "hint": "subjonctif passé, ils, pronominal locution « se rendre compte »: « compte » is the direct object and « se » is COI, so the participle stays invariable"
+        }
+      ],
+      "explanation": "« Être surpris que » expresses emotion and triggers the subjunctive, and the not-realising covers a completed stretch of time, so the past subjunctive is used. In « se rendre compte », the direct object is the noun « compte », so the reflexive « se » is INDIRECT and the participle does not agree — it stays invariable despite the masculine plural subject: « qu'ils ne se soient rendu compte de rien ». (« ne … rien » is a genuine negation here.)"
+    },
+    {
+      "text": "Ils ont tout réglé eux-mêmes, sans que personne les {1}.",
+      "blanks": [
+        {
+          "cue": "aider",
+          "answer": [
+            "ait aidés"
+          ],
+          "hint": "subjonctif passé after « sans que » (always subjunctive); singular subject « personne » → « ait »; the preceding direct object « les » forces agreement of the participle"
+        }
+      ],
+      "explanation": "« Sans que » always triggers the subjunctive, and the past subjunctive presents the (absent) help as a completed fact. The subject of the subordinate clause is « personne » (singular), so the auxiliary is « ait ». « Aider » takes « avoir », and the preceding direct object « les » (= eux, masculine plural) forces agreement of the participle: « sans que personne les ait aidés »."
+    },
+    {
+      "text": "Il est étonnant qu'elles se {1} aussi vite à un pays qu'elles ne connaissaient pas.",
+      "blanks": [
+        {
+          "cue": "s'adapter",
+          "answer": [
+            "soient adaptées"
+          ],
+          "hint": "subjonctif passé, elles, pronominal verb where « se » is COD: auxiliary « être » (subj. present) + participle agrees with the feminine plural subject"
+        }
+      ],
+      "explanation": "« Il est étonnant que » expresses a reaction and triggers the subjunctive, and the adapting is prior to the present astonishment, so the past subjunctive is used. « S'adapter » is pronominal and forms its compound tenses with « être »; here the reflexive « se » is the DIRECT object, so the participle agrees with the feminine plural subject: « qu'elles se soient adaptées »."
     }
   ]
 }

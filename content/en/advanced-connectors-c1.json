@@ -119,6 +119,49 @@
       "text": "She wrote the dates down carefully {1} she should forget the appointment.",
       "blanks": [{ "answer": "lest", "options": ["lest", "provided that", "so as to"], "hint": "formal negative-purpose conjunction + subjunctive/'should' = 'in order that ... not'" }],
       "explanation": "'Lest' is a formal conjunction of negative purpose ('in order that ... not / for fear that'), naturally followed by 'should' or the subjunctive ('lest she should forget'). 'Provided that' introduces a condition, not a purpose of avoidance, and 'so as to' marks positive purpose before a bare infinitive ('so as to forget') and cannot take the finite clause 'she should forget'."
+    },
+    {
+      "text": "{1} had she sat down {2} the telephone rang again.",
+      "blanks": [
+        { "answer": "Hardly", "options": ["Hardly", "No sooner", "Much as", "Given that"], "hint": "correlative of immediacy; inverts the auxiliary, pairs with 'when'" },
+        { "answer": "when", "options": ["when", "than", "that", "as"], "hint": "the second half of the 'hardly ... ___' correlative" }
+      ],
+      "explanation": "'Hardly ... when' marks one event happening almost immediately before another and triggers subject-auxiliary inversion ('Hardly had she sat down'). Its correlative is 'when', not 'than' ('no sooner' is the one that pairs with 'than'), so only 'Hardly' fits the 'when' in the second blank."
+    },
+    {
+      "text": "{1} the committee's repeated objections, the merger was approved.",
+      "blanks": [{ "answer": "Notwithstanding", "options": ["Notwithstanding", "Seeing that", "Insofar as", "Owing to"], "hint": "formal preposition of concession + noun phrase = 'despite'" }],
+      "explanation": "'Notwithstanding' is a formal preposition of concession meaning 'despite', taking a noun phrase ('the committee's repeated objections'). 'Owing to' also takes a noun but signals cause, which would reverse the logic; 'seeing that' and 'insofar as' both require a full clause, not a bare noun phrase."
+    },
+    {
+      "text": "The scheme rewards customers who stay loyal; {1}, it penalises those who switch frequently.",
+      "blanks": [{ "answer": "conversely", "options": ["conversely", "provided that", "albeit", "owing to"], "hint": "linking adverb introducing an opposite, reciprocal statement" }],
+      "explanation": "'Conversely' is a linking adverb meaning 'from the opposite point of view', setting the second statement against the first as its mirror image (reward vs penalise). 'Provided that' sets a condition, 'albeit' is a compressed concession before an adjective, and 'owing to' takes a noun to signal cause, none of which introduces this reciprocal contrast."
+    },
+    {
+      "text": "The appeal was rejected {1} it had been filed several weeks after the deadline.",
+      "blanks": [{ "answer": "on the grounds that", "options": ["on the grounds that", "so as to", "conversely", "in order to"], "hint": "gives the stated reason or justification + clause" }],
+      "explanation": "'On the grounds that' introduces the stated reason or justification for a decision, taking a full clause ('it had been filed ... late'). 'So as to' and 'in order to' mark purpose before an infinitive, and 'conversely' is a contrast adverb, none of which supplies the ground of a decision."
+    },
+    {
+      "text": "{1} you have already completed the assessment, you are free to leave the hall.",
+      "blanks": [{ "answer": "Seeing that", "options": ["Seeing that", "So as to", "Whereas", "Despite"], "hint": "gives an evident, already-known reason + clause" }],
+      "explanation": "'Seeing that' is a causal conjunction introducing a reason the speaker treats as evident or already established ('since / given that'), taking a full clause. 'So as to' marks purpose before an infinitive, 'whereas' draws a contrast, and 'despite' takes a noun to concede, none of which supplies an accepted reason this way."
+    },
+    {
+      "text": "He raised his voice {1} the people at the back of the hall could hear every word.",
+      "blanks": [{ "answer": "so that", "options": ["so that", "owing to", "albeit", "no matter how"], "hint": "purpose/result clause, typically with a modal ('could')" }],
+      "explanation": "'So that' introduces a clause of purpose or result, usually with a modal such as 'could' or 'would' ('so that they could hear'). 'Owing to' takes a noun to signal cause, 'albeit' is a compressed concession before an adjective, and 'no matter how' concedes a degree, none of which expresses this purpose."
+    },
+    {
+      "text": "{1} you require any further assistance, please do not hesitate to contact the front desk.",
+      "blanks": [{ "answer": "Should", "options": ["Should", "Provided that", "Unless", "Lest"], "hint": "formal inverted conditional: 'Should you...' = 'If you should...'" }],
+      "explanation": "In formal English an 'if' clause can be replaced by fronting 'should' with subject-auxiliary inversion: 'Should you require...' = 'If you should require...'. 'Provided that' and 'unless' introduce conditions but keep normal clause order without inversion, and 'lest' expresses negative purpose rather than a condition."
+    },
+    {
+      "text": "You had better set off now; {1}, you will miss the last train home.",
+      "blanks": [{ "answer": "otherwise", "options": ["otherwise", "nevertheless", "whereby", "inasmuch as"], "hint": "warns of the negative consequence of not acting: 'or else / if not'" }],
+      "explanation": "'Otherwise' is a linking adverb meaning 'or else / if that does not happen', introducing the negative consequence of ignoring the advice. 'Nevertheless' concedes a contrast, 'whereby' is a relative meaning 'by which', and 'inasmuch as' gives a qualified reason, none of which warns of a consequence this way."
     }
   ]
 }

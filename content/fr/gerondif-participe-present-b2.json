@@ -241,6 +241,36 @@
         }
       ],
       "explanation": "The gérondif « en sortant » can only refer to the SUBJECT of the main verb. Here that subject is « nous » (« nous avons été surpris »), so it is indeed « nous » who leave the station — the sentence is well formed. This is the classic same-subject trap: one must NOT write « En sortant de la gare, l'averse nous a surpris », because the gérondif would then dangle and wrongly attribute the leaving to « l'averse ». To respect the same-subject rule, the main clause is built around « nous ». « Sortir » → « en sortant »."
+    },
+    {
+      "text": "Elle s'est endormie {1} un roman policier au coin du feu.",
+      "blanks": [
+        { "cue": "lire", "answer": ["en lisant"], "hint": "gérondif of simultaneity: « en » + present participle, same subject as the main verb (« elle »)" }
+      ],
+      "explanation": "The gérondif « en + -ant » expresses an action SIMULTANEOUS with the main verb and shares its subject (« elle »): she fell asleep WHILE reading. « Lire » → « en lisant » (note the stem « lis- », not « lit »). A bare participle « lisant » would be impossible here, since the form qualifies the main verb, not a noun."
+    },
+    {
+      "text": "L'orateur {1} a été très applaudi, celui-ci {2} de peu son concurrent au classement final.",
+      "blanks": [
+        { "cue": "précéder — adjectif", "answer": ["précédent"], "hint": "adjectif verbal: agrees (m.sg. with « orateur ») and is spelled « -édent » → précédent(e)" },
+        { "cue": "précéder — participe", "answer": ["précédant"], "hint": "participe présent: invariable, spelled « précédant » (with « -ant ») = qui précède" }
+      ],
+      "explanation": "« Précéder » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « précédent » (the previous speaker) is spelled « -ent » and agrees like an adjective — here masculine singular with « l'orateur ». The participe présent « précédant » (= qui précède) keeps the « -ant » spelling, stays invariable, and governs a complement: « précédant de peu son concurrent ». Compare différent/différant and négligent/négligeant."
+    },
+    {
+      "text": "Le personnel {1} de la compagnie a cessé le travail, l'équipage {2} déjà depuis quatorze heures sans relève.",
+      "blanks": [
+        { "cue": "naviguer — adjectif", "answer": ["navigant"], "hint": "adjectif verbal: agrees and DROPS the « u » of « naviguer » → navigant(e) (le personnel navigant)" },
+        { "cue": "naviguer — participe", "answer": ["naviguant"], "hint": "participe présent: invariable and KEEPS the « u » of the verb → naviguant" }
+      ],
+      "explanation": "« Naviguer » distinguishes its adjectif verbal from its participe présent by SPELLING. The adjectif verbal « navigant » (le personnel navigant = the flight/sailing crew) loses the « u » and agrees like an adjective; the participe présent « naviguant » keeps the « u » of the verb, stays invariable, and replaces a relative clause (« l'équipage naviguant depuis quatorze heures » = qui navigue). Compare fatigant/fatiguant, provocant/provoquant and intrigant/intriguant."
+    },
+    {
+      "text": "{1} sur des exemples concrets tirés de la vie quotidienne, le formateur a rendu la théorie accessible à tous.",
+      "blanks": [
+        { "cue": "s'appuyer", "answer": ["en s'appuyant"], "hint": "gérondif of MEANS ('by relying on'): « en » + present participle of a pronominal verb, same subject as the main verb" }
+      ],
+      "explanation": "Here the gérondif expresses the MEANS by which the result was achieved (« by relying on concrete examples »): it answers 'how did he make the theory accessible?'. The gérondif of a pronominal verb keeps its reflexive pronoun (« s'appuyer » → « en s'appuyant ») and shares the subject of the main verb (« le formateur »). A bare participle « s'appuyant » would be impossible here, since the form modifies the main verb, not a noun."
     }
   ]
 }

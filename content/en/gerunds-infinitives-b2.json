@@ -160,6 +160,48 @@
         { "cue": "answer", "answer": ["answering"], "hint": "avoid + -ing" }
       ],
       "explanation": "'Avoid' is always followed by the gerund, never the to-infinitive; you cannot say 'avoid to answer'."
+    },
+    {
+      "text": "These old sash windows are filthy; they really need {1} before the guests arrive.",
+      "blanks": [
+        { "cue": "clean", "answer": ["cleaning"], "hint": "'need + -ing' carries a passive meaning" }
+      ],
+      "explanation": "'Need doing' has a passive meaning equivalent to 'need to be done': the windows need to be cleaned. This -ing pattern describes something that requires attention, so the active-looking 'cleaning' actually means 'to be cleaned'."
+    },
+    {
+      "text": "After such a long illness, she simply could not afford {1} any more time off work.",
+      "blanks": [
+        { "cue": "take", "answer": ["to take"], "hint": "afford + to-infinitive" }
+      ],
+      "explanation": "'Afford' (to have enough money or time for something) is followed by the to-infinitive: 'afford to take'. It is not used with the gerund."
+    },
+    {
+      "text": "She suggested {1} the meeting until everyone had had a chance to read the report.",
+      "blanks": [
+        { "cue": "postpone", "answer": ["postponing"], "hint": "suggest + -ing (never 'suggest to do')" }
+      ],
+      "explanation": "'Suggest' is followed by the gerund, never the to-infinitive; you cannot say 'suggest to postpone'. A common alternative is a that-clause ('suggested that they postpone'), but with a verb complement it must be the -ing form."
+    },
+    {
+      "text": "Ignoring the muttering at the back, the speaker went on {1} for a further twenty minutes without pausing.",
+      "blanks": [
+        { "cue": "talk", "answer": ["talking"], "hint": "go on + -ing = continue the same activity" }
+      ],
+      "explanation": "'Go on doing' means to continue the same activity without stopping; here the speaker kept talking. This contrasts with 'go on to do', which means to move on to a different, later action."
+    },
+    {
+      "text": "Her tutor encouraged her {1} for the scholarship despite the fierce competition.",
+      "blanks": [
+        { "cue": "apply", "answer": ["to apply"], "hint": "encourage + object + to-infinitive" }
+      ],
+      "explanation": "Verbs such as 'encourage', 'persuade', 'advise' and 'allow' take an object followed by the to-infinitive: 'encouraged her to apply'. The gerund is not possible in this object + verb pattern."
+    },
+    {
+      "text": "The ending of the film was so moving that it made me {1}.",
+      "blanks": [
+        { "cue": "cry", "answer": ["cry"], "hint": "make + object + bare infinitive (no 'to')" }
+      ],
+      "explanation": "Causative 'make someone do something' is followed by the bare infinitive, with no 'to': 'made me cry', not 'made me to cry'. ('let' behaves the same way; note, though, that the passive 'be made to do' does take 'to'.)"
     }
   ]
 }

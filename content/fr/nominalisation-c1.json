@@ -140,6 +140,61 @@
         "La rupture brutale des relations diplomatiques des deux pays"
       ],
       "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les secours sont arrivés tardivement sur les lieux de l'accident. (nominaliser le verbe « arriver » en « -ée » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": ["L'arrivée tardive des secours sur les lieux de l'accident.", "L'arrivée tardive des secours sur les lieux de l'accident", "L'arrivee tardive des secours sur les lieux de l'accident"],
+      "explanation": "« Arriver » nominalises with the suffix « -ée » → « l'arrivée » (FEMININE, built on the feminine past participle, like « entrer → l'entrée », « monter → la montée », « tomber → la tombée »). The verb's subject « les secours » becomes the complement « des secours », the place complement « sur les lieux de l'accident » is kept, and the adverb « tardivement » is rendered by the adjective « tardive » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Ce processus administratif est désespérément lent. (nominaliser l'adjectif « lent » en « -eur » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": ["La lenteur désespérante de ce processus administratif.", "La lenteur désespérante de ce processus administratif", "La lenteur desesperante de ce processus administratif"],
+      "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « lent » → « la lenteur » (the « -eur » suffix is FEMININE and derives abstract nouns of quality from adjectives, like « grand → la grandeur », « doux → la douceur », « lourd → la lourdeur »). The original subject « ce processus administratif » becomes the complement « de ce processus administratif », and the adverb « désespérément » is rendered by the adjective « désespérante » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Les ingénieurs ont nettement amélioré le moteur électrique. (nominaliser le verbe « améliorer » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "L'amélioration nette du moteur électrique par les ingénieurs.",
+        "L'amélioration nette du moteur électrique par les ingénieurs",
+        "L'amelioration nette du moteur electrique par les ingenieurs"
+      ],
+      "explanation": "« Améliorer » nominalises in « -ation » → « l'amélioration » (always feminine, like « l'augmentation », « la création »). The direct object « le moteur électrique » becomes the patient complement « du moteur électrique », the subject (the agent) is reintroduced with « par »: « par les ingénieurs », and the adverb « nettement » is rendered by the adjective « nette » agreeing with the feminine noun. The « -ation » suffix is the most productive deverbal pattern in formal French."
+    },
+    {
+      "prompt": "La famille a déménagé précipitamment le mois dernier. (nominaliser le verbe « déménager » en « -ment » → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "Le déménagement précipité de la famille le mois dernier.",
+        "Le déménagement précipité de la famille le mois dernier",
+        "Le demenagement precipite de la famille le mois dernier"
+      ],
+      "explanation": "« Déménager » nominalises in « -ment » → « le déménagement » (the suffix « -ment » is masculine and denotes the action or process, like « le développement », « le changement »). The verb's subject « la famille » becomes the complement « de la famille », and the adverb « précipitamment » is rendered by the masculine adjective « précipité »: « le déménagement précipité »."
+    },
+    {
+      "prompt": "L'eau potable devient dramatiquement rare dans cette région. (nominaliser l'adjectif « rare » en « -té » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La rareté dramatique de l'eau potable dans cette région.",
+        "La rareté dramatique de l'eau potable dans cette région",
+        "La rarete dramatique de l'eau potable dans cette region"
+      ],
+      "explanation": "This nominalisation is built on an ADJECTIVE, not a verb: « rare » → « la rareté » (the « -té » suffix is FEMININE and derives an abstract quality from an adjective, like « pauvre → la pauvreté », « beau → la beauté », « fier → la fierté »). The original subject « l'eau potable » becomes the complement « de l'eau potable », and the adverb « dramatiquement » is rendered by the adjective « dramatique » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "Plusieurs espèces d'oiseaux ont progressivement disparu de cette région. (nominaliser le verbe « disparaître » en « -ition » → groupe nominal sujet, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La disparition progressive de plusieurs espèces d'oiseaux dans cette région.",
+        "La disparition progressive de plusieurs espèces d'oiseaux dans cette région",
+        "La disparition progressive de plusieurs especes d'oiseaux dans cette region"
+      ],
+      "explanation": "« Disparaître » nominalises in « -ition » → « la disparition » (the « -ition » suffix is FEMININE, like « apparaître → l'apparition », « (se) répéter → la répétition », « définir → la définition »). The verb's subject « plusieurs espèces d'oiseaux » becomes the complement « de plusieurs espèces d'oiseaux », the place complement is rendered by « dans cette région », and the adverb « progressivement » is rendered by the adjective « progressive » agreeing with the feminine noun."
+    },
+    {
+      "prompt": "L'entreprise a brutalement perdu ses principaux marchés. (nominaliser « perdre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
+      "answer": [
+        "La perte brutale de ses principaux marchés par l'entreprise.",
+        "La perte brutale de ses principaux marchés par l'entreprise",
+        "La perte brutale de ses principaux marches par l'entreprise"
+      ],
+      "explanation": "« Perdre » gives a SUFFIX-LESS deverbal (« déverbal sans suffixe ») that is, exceptionally, FEMININE: « la perte ». Most suffix-less deverbals are masculine (« le retour », « le choix », « l'oubli »), but « la perte » is feminine, like « la chute » (choir/tomber) and « la vente » (vendre). The direct object « ses principaux marchés » becomes the patient complement « de ses principaux marchés », the subject (agent) is reintroduced with « par »: « par l'entreprise », and the adverb « brutalement » is rendered by the feminine adjective « brutale »."
     }
   ]
 }

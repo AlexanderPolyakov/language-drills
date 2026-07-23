@@ -167,6 +167,48 @@
         { "answer": "let alone", "options": ["let alone", "much as", "even so"], "hint": "after a negative, adds a yet more extreme case = 'still less'" }
       ],
       "explanation": "'Let alone' follows a negative to add an even more improbable case ('still less'), and the prior negative ('could not even afford the bus fare') licenses it. 'Much as' introduces a concessive clause ('much as I admire him') and 'even so' concedes-then-overrides, so neither performs this escalation after a negative."
+    },
+    {
+      "text": "The scheme drew fierce criticism, {1} from the residents whose homes it would demolish.",
+      "blanks": [
+        { "answer": "not least", "options": ["not least", "conversely", "insofar as"], "hint": "singles out a most notable instance = 'especially'" }
+      ],
+      "explanation": "'Not least' foregrounds a particularly salient example within a larger set ('especially, and importantly'). 'Conversely' would mark an opposite case and 'insofar as' would restrict the scope of a claim, neither of which singles out a notable instance."
+    },
+    {
+      "text": "The opening essay defends slow reading; the next, {1}, makes the case for unhurried listening to music.",
+      "blanks": [
+        { "answer": "in the same vein", "options": ["in the same vein", "on the contrary", "much less"], "hint": "continues along the same line of thought" }
+      ],
+      "explanation": "'In the same vein' signals that what follows continues the same line of thought or manner (a defence of unhurried attention in both essays). 'On the contrary' reverses a preceding claim and 'much less' adds a more improbable case after a negative, neither of which marks continuation."
+    },
+    {
+      "text": "Analysts had warned for months that the merger would unravel, and {1} it collapsed within the year.",
+      "blanks": [
+        { "answer": "sure enough", "options": ["sure enough", "if anything", "notwithstanding"], "hint": "confirms that what was predicted actually happened" }
+      ],
+      "explanation": "'Sure enough' confirms that something expected or foretold did in fact come to pass. 'If anything' corrects a claim toward its opposite and 'notwithstanding' concedes an obstacle, neither of which confirms a fulfilled prediction."
+    },
+    {
+      "text": "The board's initial misgivings {1}, the merger went ahead exactly as its architects had planned.",
+      "blanks": [
+        { "answer": "notwithstanding", "options": ["notwithstanding", "nonetheless", "conversely"], "hint": "the one word here that can FOLLOW its noun phrase to mean 'despite'" }
+      ],
+      "explanation": "'Notwithstanding' is unusual among prepositions in that it may either precede or follow its noun phrase, so 'the board's misgivings notwithstanding' means 'despite the board's misgivings'. 'Nonetheless' is a sentence adverb that cannot govern a preceding noun phrase this way, and 'conversely' marks an inverse relationship rather than a concession."
+    },
+    {
+      "text": "The evidence is, {1}, circumstantial, but the pattern it forms is too consistent to ignore.",
+      "blanks": [
+        { "answer": "to be sure", "options": ["to be sure", "on the contrary", "much less"], "hint": "concedes a point in passing (= 'admittedly / it is true')" }
+      ],
+      "explanation": "'To be sure' concedes a point parenthetically ('admittedly / it is true') before the speaker pushes back with a stronger claim. 'On the contrary' reverses a preceding statement and 'much less' adds a more improbable case after a negative, neither of which makes this passing concession."
+    },
+    {
+      "text": "The audience's response to the premiere was warm, {1} rapturous, and the reviews the next morning were no less glowing.",
+      "blanks": [
+        { "answer": "if not", "options": ["if not", "let alone", "as such"], "hint": "tentatively upgrades to a stronger term (= 'and perhaps even')" }
+      ],
+      "explanation": "'If not' introduces a stronger alternative the speaker is willing to entertain ('warm, and perhaps even rapturous'), scaling the claim up rather than down. 'Let alone' adds a more improbable case after a negative and 'as such' draws a consequence from a description, neither of which upgrades a term this way."
     }
   ]
 }

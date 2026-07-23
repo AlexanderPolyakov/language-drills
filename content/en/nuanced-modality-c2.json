@@ -168,6 +168,55 @@
         }
       ],
       "explanation": "Predictive 'will/'ll' expresses a confident assumption about a present situation ('That'll be the postman'). It is near-certainty based on expectation, distinct from deduction with 'must' and from the weaker expectation of 'should'."
+    },
+    {
+      "text": "As a child my brother was maddening: he {1} hide my things and then deny all knowledge of it.",
+      "blanks": [
+        { "answer": "would", "options": ["would", "should", "might"], "hint": "characteristic, often irritating, repeated past behaviour" }
+      ],
+      "explanation": "'Would' narrates typical, repeated past behaviour and often carries a note of exasperation about it ('he would hide my things'). 'Should' does not express past habit at all, and 'might' would express mere possibility rather than characteristic behaviour."
+    },
+    {
+      "text": "The pavements are strewn with broken branches this morning; the wind {1} fiercely all night.",
+      "blanks": [
+        { "answer": "must have been blowing", "options": ["must have been blowing", "must blow", "should have been blowing"], "hint": "near-certain deduction about an ongoing past situation (continuous)" }
+      ],
+      "explanation": "Deduction about a situation that was in progress over a past stretch of time uses the continuous 'must have been + -ing'. 'Must blow' is a present-tense generalisation, and 'should have been blowing' would express expectation or regret rather than a confident inference from the evidence."
+    },
+    {
+      "text": "Don't ring them now — they {1} landed by this time and will be collecting their luggage.",
+      "blanks": [
+        { "answer": "will have", "options": ["will have", "must have", "should have"], "hint": "confident prediction that something is complete by now ('will have + p.p.'), based on the expected schedule" }
+      ],
+      "explanation": "'Will have + past participle' voices a confident prediction that an event has by now been completed, reasoning from the expected timetable rather than from direct evidence ('they'll have landed by now'). 'Must have' would rest on present evidence of the landing, and 'should have' would weaken it to an expectation that leaves room for the plan to have gone wrong."
+    },
+    {
+      "text": "It's almost noon, so the courier {1} delivered the samples by now — though the depot did warn us of possible delays.",
+      "blanks": [
+        { "answer": "should have", "options": ["should have", "must have", "can't have"], "hint": "expectation/probability that something has happened by now, with room for doubt" }
+      ],
+      "explanation": "'Should have + past participle' expresses an expectation that something has probably happened by now, while leaving room for doubt — exactly what the warning of delays introduces. 'Must have' would assert confident deduction that the delivery has happened, which the caveat about delays rules out, and 'can't have' claims impossibility, the opposite of the expected outcome."
+    },
+    {
+      "text": "The message was sent just after midnight, but she had been fast asleep since ten, so she {1} written it herself.",
+      "blanks": [
+        { "answer": "couldn't have", "options": ["couldn't have", "needn't have", "shouldn't have"], "hint": "logical impossibility in the past (= 'can't have')" }
+      ],
+      "explanation": "'Couldn't have + past participle' states that a past event was impossible — being fast asleep, she cannot have been the author. 'Needn't have' would mean the writing was done but turned out unnecessary, and 'shouldn't have' would criticise it as ill-advised; neither conveys the impossibility the evidence forces here."
+    },
+    {
+      "text": "The office lights are still on and I can hear voices down the corridor, so someone {1} working late.",
+      "blanks": [
+        { "answer": "must be", "options": ["must be", "must have been", "should be"], "hint": "near-certain deduction about a situation happening right now (continuous)" }
+      ],
+      "explanation": "Confident deduction about a situation in progress at the moment of speaking uses 'must be + -ing' ('someone must be working late'). 'Must have been working' would place the inference in the past, whereas the evidence (lights on now, voices audible now) points to the present; 'should be working' weakens the near-certainty to mere expectation."
+    },
+    {
+      "text": "Don't ring them at eight — they {1} dinner at that hour, and they can't bear being interrupted.",
+      "blanks": [
+        { "answer": "will be having", "options": ["will be having", "must be having", "should be having"], "hint": "confident assumption about an action routinely in progress at a given time ('will be + -ing')" }
+      ],
+      "explanation": "'Will be + -ing' voices a confident assumption about what is (or characteristically is) in progress at a stated time, reasoning from habit or expectation rather than from present evidence ('they'll be having dinner'). 'Must be having' would rest on direct evidence of the meal happening now, and 'should be having' weakens the assumption to an expectation that leaves room for doubt."
     }
   ]
 }

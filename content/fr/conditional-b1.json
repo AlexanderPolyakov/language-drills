@@ -9,63 +9,250 @@
   "items": [
     {
       "text": "Si j'avais le temps, je {1} davantage.",
-      "blanks": [{ "cue": "voyager", "answer": ["voyagerais"], "hint": "Si + imparfait, present conditional" }],
+      "blanks": [
+        {
+          "cue": "voyager",
+          "answer": [
+            "voyagerais"
+          ],
+          "hint": "Si + imparfait, present conditional"
+        }
+      ],
       "explanation": "After « Si + imparfait », the main clause is in the present conditional: voyager → je voyagerais."
     },
     {
       "text": "Je {1} un café, s'il vous plaît.",
-      "blanks": [{ "cue": "vouloir", "answer": ["voudrais"], "hint": "politeness, irregular stem voudr-" }],
+      "blanks": [
+        {
+          "cue": "vouloir",
+          "answer": [
+            "voudrais"
+          ],
+          "hint": "politeness, irregular stem voudr-"
+        }
+      ],
       "explanation": "« je voudrais » expresses a polite request. Vouloir has an irregular stem: voudr- + -ais = voudrais."
     },
     {
       "text": "{1}-vous m'aider, s'il vous plaît ?",
-      "blanks": [{ "cue": "pouvoir", "answer": ["Pourriez"], "hint": "politeness, start of sentence (capital letter), stem pourr-" }],
+      "blanks": [
+        {
+          "cue": "pouvoir",
+          "answer": [
+            "Pourriez"
+          ],
+          "hint": "politeness, start of sentence (capital letter), stem pourr-"
+        }
+      ],
       "explanation": "For a polite request, the conditional is used. Pouvoir: stem pourr- + -iez = pourriez (capitalized at the start of the sentence)."
     },
     {
       "text": "Si tu étais riche, qu'est-ce que tu {1} ?",
-      "blanks": [{ "cue": "faire", "answer": ["ferais"], "hint": "Si + imparfait, conditional; stem fer-" }],
+      "blanks": [
+        {
+          "cue": "faire",
+          "answer": [
+            "ferais"
+          ],
+          "hint": "Si + imparfait, conditional; stem fer-"
+        }
+      ],
       "explanation": "After « Si + imparfait », the conditional is used. Faire has the irregular stem fer- + -ais = ferais."
     },
     {
       "text": "À ta place, je {1} plus prudent.",
-      "blanks": [{ "cue": "être", "answer": ["serais"], "hint": "advice; irregular stem ser-" }],
+      "blanks": [
+        {
+          "cue": "être",
+          "answer": [
+            "serais"
+          ],
+          "hint": "advice; irregular stem ser-"
+        }
+      ],
       "explanation": "Here the conditional expresses a piece of advice. Être has the irregular stem ser- + -ais = serais."
     },
     {
       "text": "Nous {1} bien vous accompagner ce soir.",
-      "blanks": [{ "cue": "aimer", "answer": ["aimerions"], "hint": "polite wish, nous" }],
+      "blanks": [
+        {
+          "cue": "aimer",
+          "answer": [
+            "aimerions"
+          ],
+          "hint": "polite wish, nous"
+        }
+      ],
       "explanation": "« nous aimerions » expresses a polite wish: future stem aimer- + -ions = aimerions."
     },
     {
       "text": "Si nous gagnions au loto, nous {1} une grande maison.",
-      "blanks": [{ "cue": "acheter", "answer": ["achèterions"], "hint": "Si + imparfait, conditional; grave accent" }],
+      "blanks": [
+        {
+          "cue": "acheter",
+          "answer": [
+            "achèterions"
+          ],
+          "hint": "Si + imparfait, conditional; grave accent"
+        }
+      ],
       "explanation": "After « Si + imparfait », present conditional. Acheter takes a grave accent in the future/conditional: achèter- + -ions = achèterions."
     },
     {
       "text": "Il {1} venir avec nous, mais il est trop occupé.",
-      "blanks": [{ "cue": "aimer", "answer": ["aimerait"], "hint": "wish, il" }],
+      "blanks": [
+        {
+          "cue": "aimer",
+          "answer": [
+            "aimerait"
+          ],
+          "hint": "wish, il"
+        }
+      ],
       "explanation": "The conditional expresses an unfulfilled wish: aimer- + -ait = aimerait."
     },
     {
       "text": "Si vous aviez une voiture, vous {1} plus facilement.",
-      "blanks": [{ "cue": "aller", "answer": ["iriez"], "hint": "Si + imparfait, conditional; stem ir-" }],
+      "blanks": [
+        {
+          "cue": "aller",
+          "answer": [
+            "iriez"
+          ],
+          "hint": "Si + imparfait, conditional; stem ir-"
+        }
+      ],
       "explanation": "After « Si + imparfait », conditional. Aller has the irregular stem ir- + -iez = iriez."
     },
     {
       "text": "Tu {1} faire attention à ce que tu dis.",
-      "blanks": [{ "cue": "devoir", "answer": ["devrais"], "hint": "advice; irregular stem devr-" }],
+      "blanks": [
+        {
+          "cue": "devoir",
+          "answer": [
+            "devrais"
+          ],
+          "hint": "advice; irregular stem devr-"
+        }
+      ],
       "explanation": "The conditional of devoir expresses advice or a softened obligation: devr- + -ais = devrais."
     },
     {
       "text": "Si elle avait plus d'argent, elle {1} le monde entier.",
-      "blanks": [{ "cue": "visiter", "answer": ["visiterait"], "hint": "Si + imparfait, conditional, elle" }],
+      "blanks": [
+        {
+          "cue": "visiter",
+          "answer": [
+            "visiterait"
+          ],
+          "hint": "Si + imparfait, conditional, elle"
+        }
+      ],
       "explanation": "After « Si + imparfait », present conditional: visiter- + -ait = visiterait."
     },
     {
       "text": "Ils {1} ravis de vous rencontrer un jour.",
-      "blanks": [{ "cue": "être", "answer": ["seraient"], "hint": "possibility; stem ser-, ils" }],
+      "blanks": [
+        {
+          "cue": "être",
+          "answer": [
+            "seraient"
+          ],
+          "hint": "possibility; stem ser-, ils"
+        }
+      ],
       "explanation": "The conditional expresses a possibility. Être: ser- + -aient = seraient."
+    },
+    {
+      "text": "Si tu m'invitais, je {1} avec plaisir.",
+      "blanks": [
+        {
+          "cue": "venir",
+          "answer": [
+            "viendrais"
+          ],
+          "hint": "Si + imparfait, conditional; irregular stem viendr-"
+        }
+      ],
+      "explanation": "After « Si + imparfait », the main clause is in the present conditional. Venir has the irregular stem viendr- + -ais = viendrais."
+    },
+    {
+      "text": "{1}-vous où se trouve la gare, s'il vous plaît ?",
+      "blanks": [
+        {
+          "cue": "savoir",
+          "answer": [
+            "Sauriez"
+          ],
+          "hint": "politeness, start of sentence (capital letter), irregular stem saur-"
+        }
+      ],
+      "explanation": "The conditional softens the question into a polite request. Savoir has the irregular stem saur- + -iez = sauriez (capitalized at the start of the sentence)."
+    },
+    {
+      "text": "À ta place, je {1} un médecin sans attendre.",
+      "blanks": [
+        {
+          "cue": "voir",
+          "answer": [
+            "verrais"
+          ],
+          "hint": "advice; irregular stem verr-"
+        }
+      ],
+      "explanation": "« À ta place » introduces advice, expressed with the conditional. Voir has the irregular stem verr- + -ais = verrais."
+    },
+    {
+      "text": "{1}-vous l'heure, s'il vous plaît ?",
+      "blanks": [
+        {
+          "cue": "avoir",
+          "answer": [
+            "Auriez"
+          ],
+          "hint": "politeness, start of sentence (capital letter), irregular stem aur-"
+        }
+      ],
+      "explanation": "The conditional softens the question into a polite request. Avoir has the irregular stem aur- + -iez = auriez (capitalized at the start of the sentence)."
+    },
+    {
+      "text": "À ta place, je lui {1} toute la vérité.",
+      "blanks": [
+        {
+          "cue": "dire",
+          "answer": [
+            "dirais"
+          ],
+          "hint": "advice; irregular stem dir-"
+        }
+      ],
+      "explanation": "« À ta place » introduces advice, expressed with the conditional. Dire has the irregular stem dir- + -ais = dirais."
+    },
+    {
+      "text": "Il {1} mieux réserver les billets à l'avance, vu l'affluence.",
+      "blanks": [
+        {
+          "cue": "valoir",
+          "answer": [
+            "vaudrait"
+          ],
+          "hint": "advice/recommendation « il vaudrait mieux »; irregular stem vaudr-"
+        }
+      ],
+      "explanation": "« Il vaudrait mieux » expresses advice or a recommendation. Valoir has the irregular future/conditional stem vaudr- + -ait = vaudrait."
+    },
+    {
+      "text": "Si j'étais toi, j'{1} cette lettre sans attendre.",
+      "blanks": [
+        {
+          "cue": "envoyer",
+          "answer": [
+            "enverrais"
+          ],
+          "hint": "Si + imparfait, conditional; irregular stem enverr-"
+        }
+      ],
+      "explanation": "After « Si + imparfait », the main clause is in the present conditional. Envoyer has the irregular stem enverr- + -ais = enverrais (with elision: j'enverrais)."
     }
   ]
 }

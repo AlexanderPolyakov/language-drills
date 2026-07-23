@@ -162,6 +162,62 @@
         "Le guide les y a conduits"
       ],
       "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
+    },
+    {
+      "prompt": "Tu me rends mon stylo.",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « mon stylo » par un pronom (double pronominalisation).",
+      "answer": ["Rends-le-moi !", "Rends-le-moi", "Rends le moi"],
+      "explanation": "In the AFFIRMATIVE imperative the pronouns follow the verb, linked by hyphens, in the order verb-direct-indirect, and « me » becomes the tonic « moi »: « mon stylo » → « le », « me » → « moi », giving « Rends-le-moi ». Compare the declarative « Tu me le rends », where the pronouns are pre-verbal, reversed and « me » keeps its atonic form.",
+      "placeholder": "Rends-…-… !"
+    },
+    {
+      "prompt": "L'avocate a montré les preuves au juge.",
+      "instruction": "Réécrivez au passé composé en remplaçant « les preuves » ET « au juge » par des pronoms (double pronominalisation, attention à l'accord du participe).",
+      "answer": ["L'avocate les lui a montrées.", "L'avocate les lui a montrées", "L'avocate les lui a montrees"],
+      "explanation": "Two third-person pronouns: the direct object « les preuves » (feminine plural) → « les », the indirect « au juge » → « lui ». With two third-person pronouns the DIRECT one comes first: « les lui ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « les » (feminine plural): « montrées ». Hence « L'avocate les lui a montrées ».",
+      "placeholder": "L'avocate … … a montré…."
+    },
+    {
+      "prompt": "Elle a inscrit sa fille à ce cours de théâtre.",
+      "instruction": "Réécrivez en remplaçant « sa fille » par un pronom et « à ce cours de théâtre » par « y » (double pronominalisation, au passé composé).",
+      "answer": ["Elle l'y a inscrite.", "Elle l'y a inscrite"],
+      "explanation": "The direct object « sa fille » (feminine singular) → « la », which elides to « l' » before the vowel of « y »; the place complement « à ce cours de théâtre » → « y ». In the pre-verbal sequence « le / la / les » comes before « y », giving « l'y ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « la » (feminine singular): « inscrite ». Hence « Elle l'y a inscrite ».",
+      "placeholder": "Elle …'… a inscrit…."
+    },
+    {
+      "prompt": "Le professeur explique la nouvelle règle aux étudiants.",
+      "instruction": "Réécrivez la phrase en remplaçant « la nouvelle règle » ET « aux étudiants » par des pronoms (double pronominalisation, au présent).",
+      "answer": ["Le professeur la leur explique.", "Le professeur la leur explique"],
+      "explanation": "Two third-person pronouns: the direct object « la nouvelle règle » (feminine) → « la », the indirect « aux étudiants » → « leur ». With two third-person pronouns the DIRECT one comes first: « la leur ». In the present tense the pair sits directly before the verb: « Le professeur la leur explique ». Note the order is the reverse of the person-pronoun case (« me la »).",
+      "placeholder": "Le professeur … … explique."
+    },
+    {
+      "prompt": "Le médecin t'a prescrit cette ordonnance (= il a prescrit cette ordonnance à toi).",
+      "instruction": "Réécrivez « Il t'a prescrit cette ordonnance » en remplaçant « cette ordonnance » par un pronom (double pronominalisation, au passé composé, attention à l'accord du participe).",
+      "answer": ["Il te l'a prescrite.", "Il te l'a prescrite", "Il te l'a prescrite."],
+      "explanation": "A 2nd-person indirect pronoun « te » meets a 3rd-person direct pronoun « la » (= « cette ordonnance », feminine), which elides to « l' » before the vowel of « a ». The rule « me / te / se / nous / vous » before « le / la / les » puts the person pronoun FIRST: « te l' ». In the passé composé the pair sits before the auxiliary, and the past participle agrees with the preceding direct-object pronoun « la » (feminine singular): « prescrite ». Hence « Il te l'a prescrite ».",
+      "placeholder": "Il te …a prescrit…."
+    },
+    {
+      "prompt": "Explique ce problème à ton professeur !",
+      "instruction": "Mettez à l'impératif affirmatif en remplaçant « ce problème » ET « à ton professeur » par des pronoms (double pronominalisation).",
+      "answer": ["Explique-le-lui !", "Explique-le-lui", "Explique le lui"],
+      "explanation": "Two third-person pronouns in the AFFIRMATIVE imperative: « ce problème » → « le », « à ton professeur » → « lui ». The pronouns follow the verb, linked by hyphens, in the order verb–direct–indirect: « Explique-le-lui ». Here « lui » keeps its form (the « moi/toi » switch affects only « me/te »). Compare the declarative « Tu le lui expliques », where the pronouns are pre-verbal.",
+      "placeholder": "Explique-…-… !"
+    },
+    {
+      "prompt": "L'ancien capitaine se souvient de ses longues traversées.",
+      "instruction": "Réécrivez la phrase en remplaçant « de ses longues traversées » par « en » (double pronominalisation).",
+      "answer": ["L'ancien capitaine s'en souvient.", "L'ancien capitaine s'en souvient"],
+      "explanation": "The reflexive verb « se souvenir » already carries the pronoun « se » (« me / te / se / nous / vous » slot); its « de »-complement « de ses longues traversées » is replaced by « en ». In the pre-verbal sequence the reflexive « se » comes before « en », and « se » elides to « s' » in front of the vowel: « s'en ». « En » always comes last, giving « L'ancien capitaine s'en souvient ». Note that with « se souvenir » the reflexive pronoun must match the subject (« il » → « se »), so a form like « Il m'en souvient » is impossible.",
+      "placeholder": "L'ancien capitaine …'… souvient."
+    },
+    {
+      "prompt": "Tu montres ces photos à tes parents.",
+      "instruction": "Mettez à l'impératif NÉGATIF en remplaçant « ces photos » ET « à tes parents » par des pronoms (double pronominalisation).",
+      "answer": ["Ne les leur montre pas.", "Ne les leur montre pas"],
+      "explanation": "In the NEGATIVE imperative the pronouns keep their normal PRE-verbal position and order (unlike the affirmative imperative): two third-person pronouns with the DIRECT one first, « les » (= « ces photos ») before « leur » (= « à tes parents »). The negation wraps the whole group: « Ne les leur montre pas ». Compare the affirmative « Montre-les-leur », where the pronouns follow the verb, joined by hyphens.",
+      "placeholder": "Ne … … montre pas."
     }
   ]
 }

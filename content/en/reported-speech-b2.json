@@ -111,6 +111,36 @@
       "prompt": "\"How long have you been waiting here?\" she asked us. (reported question)",
       "answer": ["She asked us how long we had been waiting there.", "She asked how long we had been waiting there."],
       "explanation": "The wh- question keeps statement word order with no question mark; present perfect continuous 'have been waiting' backshifts to 'had been waiting', 'you' becomes 'we', and the place word 'here' shifts to 'there'."
+    },
+    {
+      "prompt": "\"Did you enjoy the concert last night?\" she asked me. (reported question)",
+      "answer": ["She asked me if I had enjoyed the concert the night before.", "She asked me whether I had enjoyed the concert the night before.", "She asked if I had enjoyed the concert the night before.", "She asked whether I had enjoyed the concert the night before."],
+      "explanation": "Yes/no questions are reported with 'if' or 'whether' in statement word order, so the auxiliary 'did' disappears and the main verb backshifts: past simple 'enjoy' becomes past perfect 'had enjoyed'. The time phrase 'last night' shifts to 'the night before'."
+    },
+    {
+      "prompt": "\"Please hand in your essays by Friday,\" the tutor said to us. (reported command)",
+      "answer": ["The tutor told us to hand in our essays by Friday.", "The tutor asked us to hand in our essays by Friday."],
+      "explanation": "Reported requests and commands use 'tell/ask someone to do' something, so the imperative 'hand in' becomes a to-infinitive and the possessive 'your' becomes 'our' to match the new point of view."
+    },
+    {
+      "prompt": "\"I locked the door and I am sure nobody can get in,\" he said. (reported speech)",
+      "answer": ["He said (that) he had locked the door and (that) he was sure nobody could get in.", "He said that he had locked the door and he was sure nobody could get in.", "He said he had locked the door and he was sure nobody could get in."],
+      "explanation": "Each verb backshifts one step: past simple 'locked' becomes past perfect 'had locked', present simple 'am' becomes past 'was', and the modal 'can' becomes 'could'. The pronoun 'I' becomes 'he'."
+    },
+    {
+      "prompt": "\"I'll bring the documents here the day after tomorrow,\" she said. (reported speech)",
+      "answer": ["She said (that) she would bring the documents there two days later.", "She said that she would bring the documents there two days later.", "She said she would bring the documents there two days later.", "She said (that) she would bring the documents there in two days' time.", "She said she would bring the documents there in two days' time."],
+      "explanation": "'Will' backshifts to 'would', the place word 'here' shifts to 'there', and 'the day after tomorrow' becomes 'two days later' / 'in two days' time' when the moment of speaking is no longer the reference point."
+    },
+    {
+      "prompt": "\"I'm going to sell my car next week,\" he said. (reported speech)",
+      "answer": ["He said (that) he was going to sell his car the following week.", "He said that he was going to sell his car the following week.", "He said he was going to sell his car the following week.", "He said (that) he was going to sell his car the next week.", "He said he was going to sell his car the next week."],
+      "explanation": "The future form 'be going to' backshifts through its auxiliary, so 'am going to' becomes 'was going to'. The pronoun 'I' becomes 'he', the possessive 'my' becomes 'his', and 'next week' shifts to 'the following week' / 'the next week'."
+    },
+    {
+      "prompt": "\"Who did you meet at the conference?\" she asked me. (reported question)",
+      "answer": ["She asked me who I had met at the conference.", "She asked who I had met at the conference."],
+      "explanation": "A reported wh- question takes statement word order, so the auxiliary 'did' disappears and the main verb backshifts: past simple 'meet' becomes past perfect 'had met'. There is no question mark, and 'you' becomes 'I'."
     }
   ]
 }

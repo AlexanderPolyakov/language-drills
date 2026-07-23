@@ -131,6 +131,58 @@
         }
       ],
       "explanation": "Present perfect passive: 'have' + 'been' + past participle with the plural subject 'tickets'. The agent follows 'by'; sell → sold."
+    },
+    {
+      "text": "A new shopping centre {1} next to the station next year.",
+      "blanks": [
+        {
+          "cue": "open",
+          "answer": [
+            "will be opened"
+          ],
+          "hint": "future passive: will + be + participle"
+        }
+      ],
+      "explanation": "Future passive: 'will be' + past participle for something planned for later. open → opened."
+    },
+    {
+      "text": "This castle looks ancient. When exactly {1}?",
+      "blanks": [
+        {
+          "cue": "build",
+          "answer": [
+            "was it built"
+          ],
+          "hint": "past simple passive question: was + subject + participle"
+        }
+      ],
+      "explanation": "In a passive question, the subject goes between 'was/were' and the participle: 'When was it built?' (build → built)."
+    },
+    {
+      "text": "The prizes {1} by the mayor at tomorrow's ceremony.",
+      "blanks": [
+        {
+          "cue": "give",
+          "answer": [
+            "will be given"
+          ],
+          "hint": "future passive with an agent"
+        }
+      ],
+      "explanation": "Future passive: 'will be' + past participle. The doer follows 'by' ('by the mayor'); give → given."
+    },
+    {
+      "text": "Traffic was diverted while the bridge {1} after the flood.",
+      "blanks": [
+        {
+          "cue": "repair",
+          "answer": [
+            "was being repaired"
+          ],
+          "hint": "past continuous passive: was/were + being + participle"
+        }
+      ],
+      "explanation": "Past continuous passive: 'was/were' + 'being' + past participle for an action in progress at a moment in the past. Singular subject 'bridge' takes 'was'; repair → repaired."
     }
   ]
 }

@@ -111,6 +111,46 @@
       "prompt": "I only asked for a little honesty. (rewrite as a wh-cleft beginning 'All')",
       "answer": ["All I asked for was a little honesty.", "All that I asked for was a little honesty."],
       "explanation": "An 'All ... is/was ...' cleft is a wh-type structure where 'all' means 'the only thing'. The linking verb 'was' matches the past 'asked', and the focus 'a little honesty' takes the emphatic end position."
+    },
+    {
+      "prompt": "I only realised my mistake the following week. (emphasise 'the following week' with an it-cleft beginning 'It was not until')",
+      "answer": ["It was not until the following week that I realised my mistake."],
+      "explanation": "The 'It was not until X that ...' it-cleft emphasises the time by which something finally happened. Note that the cleft is completed by 'that' (not 'when'), and the verb 'realised' stays positive because the negation sits in 'not until'."
+    },
+    {
+      "prompt": "I object to his tone rather than his actual argument. (rewrite as a wh-cleft beginning 'What')",
+      "answer": ["What I object to is his tone, not his argument.", "What I object to is his tone rather than his argument."],
+      "explanation": "The wh-cleft 'What I object to is ...' isolates the true focus 'his tone' in the emphatic end position after 'is'. The corrective tag ('not / rather than his argument') rejects the competing element."
+    },
+    {
+      "prompt": "They abandoned the expedition because the weather had deteriorated. (rewrite beginning 'The reason')",
+      "answer": ["The reason (why) they abandoned the expedition was that the weather had deteriorated.", "The reason why they abandoned the expedition was that the weather had deteriorated.", "The reason they abandoned the expedition was that the weather had deteriorated."],
+      "explanation": "The 'The reason (why) ... was that ...' frame foregrounds a cause. The complement clause is introduced by 'that' (not 'because'), and 'was' matches the past narrative. The 'why' is optional."
+    },
+    {
+      "prompt": "The committee chose Maria for the role. (emphasise 'Maria' with an it-cleft)",
+      "answer": ["It was Maria whom the committee chose for the role.", "It was Maria who the committee chose for the role.", "It was Maria that the committee chose for the role."],
+      "explanation": "An it-cleft can foreground an object: 'It was Maria that/who(m) the committee chose ...'. Because Maria is a person functioning as the object, the relative pronoun may be 'that', 'who', or the formal 'whom', and 'was' matches the original past tense."
+    },
+    {
+      "prompt": "She solved the puzzle by working backwards. (rewrite beginning 'The way')",
+      "answer": ["The way she solved the puzzle was by working backwards.", "The way that she solved the puzzle was by working backwards."],
+      "explanation": "'The way (that) ... is/was ...' is a wh-type cleft that foregrounds manner or method, parallel to 'how'. The relative 'that' is optional, the focus 'by working backwards' takes the emphatic end position, and 'was' matches the past 'solved'."
+    },
+    {
+      "prompt": "The engineers, not the architects, deserve the credit. (emphasise 'the engineers' with an it-cleft beginning 'It is')",
+      "answer": ["It is the engineers who deserve the credit, not the architects.", "It is the engineers, not the architects, who deserve the credit.", "It is the engineers that deserve the credit, not the architects."],
+      "explanation": "The it-cleft foregrounds a corrected focus: 'It is the engineers who deserve the credit, not the architects.' Because the focus is a plural human subject, the relative pronoun is 'who' (or 'that') and the verb 'deserve' agrees with the original, staying plural even though 'It is' is singular."
+    },
+    {
+      "prompt": "I need a good night's sleep. (rewrite as a reversed wh-cleft beginning 'A good night's sleep')",
+      "answer": ["A good night's sleep is what I need."],
+      "explanation": "A reversed (or inverted) wh-cleft puts the focus FIRST and the 'what' clause last: 'A good night's sleep is what I need.' It mirrors the ordinary wh-cleft 'What I need is a good night's sleep', but front-loads the emphasised element as the grammatical subject."
+    },
+    {
+      "prompt": "I feel most at home in the mountains. (rewrite as a wh-cleft beginning 'Where')",
+      "answer": ["Where I feel most at home is in the mountains."],
+      "explanation": "A place-focus wh-cleft opens with 'Where' rather than 'What': 'Where I feel most at home is in the mountains.' The 'where' clause is the subject and 'is' links it to the emphasised location, which takes end-focus."
     }
   ]
 }

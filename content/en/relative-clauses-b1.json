@@ -186,6 +186,36 @@
         }
       ],
       "explanation": "Use 'where' for a place (the shop); it means 'at which'. 'Which' alone can't follow without a preposition here."
+    },
+    {
+      "text": "The old harbour, {1} was rebuilt after the storm, attracts thousands of tourists.",
+      "blanks": [
+        {
+          "answer": "which",
+          "options": [
+            "which",
+            "that",
+            "who"
+          ],
+          "hint": "non-defining clause about a thing; 'that' is impossible here"
+        }
+      ],
+      "explanation": "In a non-defining clause (set off by commas) 'that' cannot be used; for a thing we must use 'which'."
+    },
+    {
+      "text": "The colleague to {1} I gave the report has since retired.",
+      "blanks": [
+        {
+          "answer": "whom",
+          "options": [
+            "whom",
+            "who",
+            "which"
+          ],
+          "hint": "object of the preposition 'to', formal register"
+        }
+      ],
+      "explanation": "Directly after a preposition (to), a person is referred to with 'whom' in formal English: 'to whom I gave the report'."
     }
   ]
 }

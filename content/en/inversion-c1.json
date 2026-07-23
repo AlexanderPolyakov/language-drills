@@ -124,6 +124,36 @@
         "Not only did the manager apologise but also offered a refund."
       ],
       "explanation": "Fronted 'Not only' needs inversion; with no auxiliary present, insert 'did' + bare infinitive: 'did the manager apologise'. The 'but also' clause keeps normal word order."
+    },
+    {
+      "prompt": "This decision does not reflect our official policy in any way. (begin with 'In no way')",
+      "answer": ["In no way does this decision reflect our official policy."],
+      "explanation": "The fronted negative adverbial 'In no way' forces subject-auxiliary inversion. With no auxiliary in the original, insert 'does' + bare infinitive: 'does this decision reflect'. The negation is carried by the adverbial, so the verb itself is affirmative."
+    },
+    {
+      "prompt": "You will see such abundant wildlife nowhere else in Europe. (begin with 'Nowhere else')",
+      "answer": ["Nowhere else in Europe will you see such abundant wildlife."],
+      "explanation": "The fronted negative place adverbial 'Nowhere else' triggers subject-auxiliary inversion: the modal 'will' precedes the subject 'you'. The negation sits in 'Nowhere', leaving the verb affirmative."
+    },
+    {
+      "prompt": "She said not a word throughout the entire meeting. (begin with 'Not a word')",
+      "answer": ["Not a word did she say throughout the entire meeting."],
+      "explanation": "The fronted negative object 'Not a word' triggers inversion. With the past simple and no auxiliary, insert 'did' + bare infinitive: 'did she say'. The negation is carried by the fronted object, so the verb stays affirmative."
+    },
+    {
+      "prompt": "She relaxed only when the last guest had left. (begin with 'Only when')",
+      "answer": ["Only when the last guest had left did she relax."],
+      "explanation": "With a fronted 'Only when + clause', the inversion happens in the MAIN clause, not the time clause: 'did she relax'. The subordinate clause 'the last guest had left' keeps normal word order, and 'did' + bare infinitive supplies the missing auxiliary."
+    },
+    {
+      "prompt": "The country had never before faced such a serious crisis. (begin with 'Never before')",
+      "answer": ["Never before had the country faced such a serious crisis."],
+      "explanation": "Fronting the negative time adverbial 'Never before' forces subject-auxiliary inversion of the past perfect: 'had the country faced'. The auxiliary 'had' moves in front of the subject 'the country', exactly as in a question."
+    },
+    {
+      "prompt": "She did not complain once during the whole ordeal. (begin with 'Not once')",
+      "answer": ["Not once did she complain during the whole ordeal."],
+      "explanation": "The fronted negative adverbial 'Not once' triggers inversion. With the past simple and no auxiliary in the original, insert 'did' + bare infinitive: 'did she complain'. The negation is carried by 'Not once', so the verb itself becomes affirmative."
     }
   ]
 }

@@ -153,6 +153,55 @@
         { "answer": "so", "options": ["so", "not", "it"], "hint": "'suppose' substitutes for the positive clause as 'suppose ___'" }
       ],
       "explanation": "'Suppose' takes the positive substitute 'suppose so', standing for the affirmative clause 'the roadworks are going to delay the deliveries', which fits the tentative agreement here. 'I suppose not' would deny the delay (the opposite sense), and 'it' cannot substitute for a whole clause after 'suppose'."
+    },
+    {
+      "text": "The report proposed two remedies, a tax rise and a spending freeze; ministers favoured {1}, since raising taxes just before an election was unthinkable.",
+      "blanks": [
+        { "answer": "the latter", "options": ["the former", "the latter", "such"], "hint": "refers back to the SECOND of the two remedies named ('a spending freeze')" }
+      ],
+      "explanation": "'The latter' substitutes for the second-named of two items — here 'a spending freeze', which ministers preferred because the clause rules the tax rise out. 'The former' would point instead to the tax rise (the first option named), and 'such' substitutes for a whole category rather than singling out one of two named items."
+    },
+    {
+      "text": "\"I'm absolutely certain the figures are right.\" \"So {1} I, now that I've checked them twice.\"",
+      "blanks": [
+        { "answer": "am", "options": ["am", "do", "was"], "hint": "additive agreement echoing a 'be' clause: 'So + aux + subject'" }
+      ],
+      "explanation": "The first speaker's clause 'I'm certain' uses the verb 'be', so the inverted additive echo repeats that same operator: 'So am I'. 'So do I' would be needed only if the original had used a lexical verb requiring the do-operator, and 'So was I' would wrongly shift the present 'am' into the past."
+    },
+    {
+      "text": "The instructions warned against overloading the socket; {1} carelessness could easily start a fire.",
+      "blanks": [
+        { "answer": "such", "options": ["such", "so", "that one"], "hint": "substitutes for a whole category: 'carelessness of the kind just described'" }
+      ],
+      "explanation": "'Such' substitutes for a preceding idea treated as a category ('such carelessness' = carelessness of the kind just described). 'So' substitutes for a clause after verbs like 'think' or modifies an adjective, not a noun, and 'that one' is a count-noun pro-form that cannot precede the uncountable noun 'carelessness'."
+    },
+    {
+      "text": "The ascent was punishing, and the descent, on tired legs, proved even {1}.",
+      "blanks": [
+        { "answer": "more so", "options": ["more so", "so more", "much so"], "hint": "'so' substitutes for the adjective 'punishing' after 'even more'" }
+      ],
+      "explanation": "'So' substitutes for a predicative adjective already mentioned, so 'even more so' means 'even more punishing'. 'So more' merely reverses the words into an ungrammatical order, and 'much so' cannot follow 'even' here — the comparative 'more' must precede the substitute 'so'."
+    },
+    {
+      "text": "The plan was audacious in the extreme, and {1} plan is bound to have its detractors.",
+      "blanks": [
+        { "answer": "such a", "options": ["such a", "such", "so a"], "hint": "substitutes 'a plan of that kind' before a singular countable noun" }
+      ],
+      "explanation": "Before a singular countable noun, 'such' requires the indefinite article — 'such a plan' (= 'a plan of that kind'). Bare 'such plan' omits the obligatory article and is ungrammatical with a countable singular, and 'so a plan' is not an English pattern ('so' premodifies an adjective, as in 'so bold a plan', never a bare noun)."
+    },
+    {
+      "text": "The shortlist came down to a novel and a memoir; the judges eventually chose {1}, feeling that the fiction showed by far the greater originality.",
+      "blanks": [
+        { "answer": "the former", "options": ["the former", "the latter", "such"], "hint": "refers back to the FIRST of the two named ('a novel')" }
+      ],
+      "explanation": "'The former' substitutes for the first-named of two items — here 'a novel', the work of fiction the judges praised for its originality. 'The latter' would point instead to the memoir (the second option named), and 'such' substitutes for a whole category rather than singling out one of two named items."
+    },
+    {
+      "text": "\"Will the minister be resigning over the affair?\" \"I assume {1}, given how firmly the party is still backing her.\"",
+      "blanks": [
+        { "answer": "not", "options": ["not", "so", "it"], "hint": "'assume' forms its negative substitute as 'verb + ___', not 'don't ... so'" }
+      ],
+      "explanation": "'Assume', like 'hope', 'guess' and 'suspect', forms the negative substitute as 'assume not' (= I assume she will not resign), which fits the party's firm backing. 'I assume so' would mean the opposite (that she will resign), and 'it' cannot substitute for a whole clause after 'assume'."
     }
   ]
 }
