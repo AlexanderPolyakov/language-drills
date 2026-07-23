@@ -354,7 +354,7 @@
           "hint": "conditionnel passé pronominal réciproque, « se » = COD → accord avec le sujet féminin pluriel"
         }
       ],
-      "explanation": "Both verbs are pronominal, so both take être, but the agreement differs by the role of « se ». In « s'écrire » the sense is « écrire À l'une l'autre », so « se » is an INDIRECT object (COI) and the participle does NOT agree: « ne s'étaient pas écrit » (invariable « écrit »), with the negation wrapping the auxiliary. In « se retrouver » the sense is « retrouver l'une l'autre », so « se » is a DIRECT object (COD) and the participle AGREES with the feminine plural subject « les deux sœurs »: « se seraient retrouvées »."
+      "explanation": "Both verbs are pronominal, so both take être, but the agreement differs by the role of « se ». In « s'écrire » the sense is « écrire À l'une l'autre », so « se » is an INDIRECT object (COI) and the participle does NOT agree: « ne s'étaient pas écrit » (invariable « écrit »), with the negation wrapping the auxiliary. In « se retrouver » the sense is « retrouver l'une l'autre », so « se » is a DIRECT object (COD) and the participle AGREES with the feminine plural subject « les deux sœurs »: « ne se seraient jamais retrouvées », the « ne … jamais » wrapping the auxiliary."
     },
     {
       "text": "La lettre que tu m'{1} hier, je l'{2} sur-le-champ si je l'avais trouvée dans ma boîte.",
@@ -440,7 +440,7 @@
       "explanation": "Result clause first, with the negation « ne… jamais » wrapping the auxiliary: conditionnel passé « je n'aurais jamais commis ». No agreement, since the direct object « cette imprudence » FOLLOWS the verb. The « si » clause uses « avertir » with avoir in the plus-que-parfait « avait averti »; « avertir quelqu'un » is directly transitive, so the preceding direct-object pronoun « m' » (= « je ») allows agreement: « averti » if « je » is masculine, « avertie » if feminine."
     },
     {
-      "text": "Si j'{1} la nouvelle plus tôt, je {2} tout autrement.",
+      "text": "Si j'{1} la nouvelle plus tôt, j'{2} tout autrement.",
       "blanks": [
         {
           "cue": "savoir",
@@ -686,7 +686,7 @@
       "explanation": "Irréel du passé. In the « si » clause, « relire » takes avoir and its object « les copies » FOLLOWS the verb, so there is no agreement: « avait relu ». The result clause uses « revenir », a movement verb with être; the participle agrees with the masculine-singular subject « le jury »: « serait revenu ». Clause order (si-clause first here) does not change the verb forms."
     },
     {
-      "text": "Si j'{1}, je ne {2} devant tout le monde.",
+      "text": "Si j'{1}, je {2} devant tout le monde.",
       "blanks": [
         {
           "cue": "savoir",
