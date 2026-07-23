@@ -170,6 +170,19 @@
         }
       ],
       "explanation": "Future passive: 'will be' + past participle. The doer follows 'by' ('by the mayor'); give → given."
+    },
+    {
+      "text": "Traffic was diverted while the bridge {1} after the flood.",
+      "blanks": [
+        {
+          "cue": "repair",
+          "answer": [
+            "was being repaired"
+          ],
+          "hint": "past continuous passive: was/were + being + participle"
+        }
+      ],
+      "explanation": "Past continuous passive: 'was/were' + 'being' + past participle for an action in progress at a moment in the past. Singular subject 'bridge' takes 'was'; repair → repaired."
     }
   ]
 }

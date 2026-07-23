@@ -210,6 +210,13 @@
         { "answer": "must be", "options": ["must be", "must have been", "should be"], "hint": "near-certain deduction about a situation happening right now (continuous)" }
       ],
       "explanation": "Confident deduction about a situation in progress at the moment of speaking uses 'must be + -ing' ('someone must be working late'). 'Must have been working' would place the inference in the past, whereas the evidence (lights on now, voices audible now) points to the present; 'should be working' weakens the near-certainty to mere expectation."
+    },
+    {
+      "text": "Don't ring them at eight — they {1} dinner at that hour, and they can't bear being interrupted.",
+      "blanks": [
+        { "answer": "will be having", "options": ["will be having", "must be having", "should be having"], "hint": "confident assumption about an action routinely in progress at a given time ('will be + -ing')" }
+      ],
+      "explanation": "'Will be + -ing' voices a confident assumption about what is (or characteristically is) in progress at a stated time, reasoning from habit or expectation rather than from present evidence ('they'll be having dinner'). 'Must be having' would rest on direct evidence of the meal happening now, and 'should be having' weakens the assumption to an expectation that leaves room for doubt."
     }
   ]
 }

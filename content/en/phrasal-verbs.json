@@ -234,6 +234,20 @@
         { "answer": "take on", "options": ["take on", "take in", "take over"], "hint": "employ or hire someone" }
       ],
       "explanation": "'take on' means to employ or hire someone, or to accept a task or responsibility. 'take in' = absorb information or deceive someone, and 'take over' = assume control of something, so neither fits hiring new staff."
+    },
+    {
+      "text": "After years of saving, she finally {1} her own catering business last spring.",
+      "blanks": [
+        { "answer": "set up", "options": ["set up", "set off", "set about"], "hint": "establish (a business or organisation)" }
+      ],
+      "explanation": "'set up' means to establish or start a business, organisation or system. 'set off' = begin a journey (or trigger something), and 'set about' = begin doing a task, so neither fits founding a business."
+    },
+    {
+      "text": "You can always {1} me to lend a hand when you move house at the weekend.",
+      "blanks": [
+        { "answer": "count on", "options": ["count on", "count in", "count out"], "hint": "rely on or depend on someone" }
+      ],
+      "explanation": "'count on' means to rely on or depend on someone or something. 'count in' = include someone in an activity, and 'count out' = exclude someone (or count things one by one), so neither expresses relying on a person."
     }
   ]
 }

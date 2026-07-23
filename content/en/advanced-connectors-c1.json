@@ -152,6 +152,16 @@
       "text": "He raised his voice {1} the people at the back of the hall could hear every word.",
       "blanks": [{ "answer": "so that", "options": ["so that", "owing to", "albeit", "no matter how"], "hint": "purpose/result clause, typically with a modal ('could')" }],
       "explanation": "'So that' introduces a clause of purpose or result, usually with a modal such as 'could' or 'would' ('so that they could hear'). 'Owing to' takes a noun to signal cause, 'albeit' is a compressed concession before an adjective, and 'no matter how' concedes a degree, none of which expresses this purpose."
+    },
+    {
+      "text": "{1} you require any further assistance, please do not hesitate to contact the front desk.",
+      "blanks": [{ "answer": "Should", "options": ["Should", "Provided that", "Unless", "Lest"], "hint": "formal inverted conditional: 'Should you...' = 'If you should...'" }],
+      "explanation": "In formal English an 'if' clause can be replaced by fronting 'should' with subject-auxiliary inversion: 'Should you require...' = 'If you should require...'. 'Provided that' and 'unless' introduce conditions but keep normal clause order without inversion, and 'lest' expresses negative purpose rather than a condition."
+    },
+    {
+      "text": "You had better set off now; {1}, you will miss the last train home.",
+      "blanks": [{ "answer": "otherwise", "options": ["otherwise", "nevertheless", "whereby", "inasmuch as"], "hint": "warns of the negative consequence of not acting: 'or else / if not'" }],
+      "explanation": "'Otherwise' is a linking adverb meaning 'or else / if that does not happen', introducing the negative consequence of ignoring the advice. 'Nevertheless' concedes a contrast, 'whereby' is a relative meaning 'by which', and 'inasmuch as' gives a qualified reason, none of which warns of a consequence this way."
     }
   ]
 }

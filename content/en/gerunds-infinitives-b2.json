@@ -188,6 +188,20 @@
         { "cue": "talk", "answer": ["talking"], "hint": "go on + -ing = continue the same activity" }
       ],
       "explanation": "'Go on doing' means to continue the same activity without stopping; here the speaker kept talking. This contrasts with 'go on to do', which means to move on to a different, later action."
+    },
+    {
+      "text": "Her tutor encouraged her {1} for the scholarship despite the fierce competition.",
+      "blanks": [
+        { "cue": "apply", "answer": ["to apply"], "hint": "encourage + object + to-infinitive" }
+      ],
+      "explanation": "Verbs such as 'encourage', 'persuade', 'advise' and 'allow' take an object followed by the to-infinitive: 'encouraged her to apply'. The gerund is not possible in this object + verb pattern."
+    },
+    {
+      "text": "The ending of the film was so moving that it made me {1}.",
+      "blanks": [
+        { "cue": "cry", "answer": ["cry"], "hint": "make + object + bare infinitive (no 'to')" }
+      ],
+      "explanation": "Causative 'make someone do something' is followed by the bare infinitive, with no 'to': 'made me cry', not 'made me to cry'. ('let' behaves the same way; note, though, that the passive 'be made to do' does take 'to'.)"
     }
   ]
 }

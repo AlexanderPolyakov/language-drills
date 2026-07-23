@@ -226,7 +226,7 @@
           "level": "B1",
           "title": "Passive voice: present and past simple",
           "file": "en/passive-voice-b1.json",
-          "count": 20
+          "count": 21
         },
         {
           "id": "en-past-continuous-b1",
@@ -242,7 +242,7 @@
           "level": "B1",
           "title": "Present perfect: write the correct form",
           "file": "en/verbs-present-perfect.json",
-          "count": 16
+          "count": 18
         },
         {
           "id": "en-relative-clauses-b1",
@@ -274,7 +274,7 @@
           "level": "B2",
           "title": "Gerunds and infinitives",
           "file": "en/gerunds-infinitives-b2.json",
-          "count": 26
+          "count": 28
         },
         {
           "id": "en-mixed-conditionals-b2",
@@ -290,7 +290,7 @@
           "level": "B2",
           "title": "Phrasal verbs: choose the right one",
           "file": "en/phrasal-verbs.json",
-          "count": 25
+          "count": 27
         },
         {
           "id": "en-reported-speech-b2",
@@ -314,7 +314,7 @@
           "level": "C1",
           "title": "Advanced connectors and discourse markers",
           "file": "en/advanced-connectors-c1.json",
-          "count": 28
+          "count": 30
         },
         {
           "id": "en-cleft-sentences-c1",
@@ -386,7 +386,7 @@
           "level": "C2",
           "title": "Fine shades of modal meaning",
           "file": "en/nuanced-modality-c2.json",
-          "count": 28
+          "count": 29
         }
       ]
     },
@@ -584,7 +584,7 @@
           "level": "B1",
           "title": "Le conditionnel présent",
           "file": "fr/conditional-b1.json",
-          "count": 17
+          "count": 19
         },
         {
           "id": "fr-conjugation-b1",
@@ -608,7 +608,7 @@
           "level": "B1",
           "title": "Imparfait ou passé composé ?",
           "file": "fr/imparfait-vs-passe-compose-b1.json",
-          "count": 17
+          "count": 18
         },
         {
           "id": "fr-relative-pronouns-b1",
@@ -616,7 +616,7 @@
           "level": "B1",
           "title": "Les pronoms relatifs",
           "file": "fr/relative-pronouns-b1.json",
-          "count": 21
+          "count": 22
         },
         {
           "id": "fr-subjunctive-present-b1",
@@ -640,7 +640,7 @@
           "level": "B2",
           "title": "Les connecteurs logiques (cause, conséquence, opposition, concession, but)",
           "file": "fr/connecteurs-logiques-b2.json",
-          "count": 23
+          "count": 25
         },
         {
           "id": "fr-gerondif-participe-present-b2",
@@ -664,7 +664,7 @@
           "level": "B2",
           "title": "Le subjonctif passé",
           "file": "fr/subjonctif-passe-b2.json",
-          "count": 22
+          "count": 24
         },
         {
           "id": "fr-accord-participe-passe-c1",
@@ -672,7 +672,7 @@
           "level": "C1",
           "title": "L'accord du participe passé (cas difficiles)",
           "file": "fr/accord-participe-passe-c1.json",
-          "count": 24
+          "count": 26
         },
         {
           "id": "fr-mise-en-relief-c1",

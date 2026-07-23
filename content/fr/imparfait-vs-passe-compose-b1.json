@@ -9,88 +9,238 @@
   "items": [
     {
       "text": "Quand j'étais petit, j'{1} souvent au parc le dimanche.",
-      "blanks": [{ "cue": "aller", "answer": ["allais"], "hint": "imparfait, repeated habit" }],
+      "blanks": [
+        {
+          "cue": "aller",
+          "answer": [
+            "allais"
+          ],
+          "hint": "imparfait, repeated habit"
+        }
+      ],
       "explanation": "« souvent » and « quand j'étais petit » signal a past habit, so the imparfait is used: allais."
     },
     {
       "text": "Hier soir, j'{1} un film puis je me suis couché.",
-      "blanks": [{ "cue": "regarder", "answer": ["ai regardé"], "hint": "one-off, completed action" }],
+      "blanks": [
+        {
+          "cue": "regarder",
+          "answer": [
+            "ai regardé"
+          ],
+          "hint": "one-off, completed action"
+        }
+      ],
       "explanation": "« hier soir » and the sequence of finished actions call for the passé composé: ai regardé."
     },
     {
       "text": "Il {1} beau et les oiseaux chantaient ce matin-là.",
-      "blanks": [{ "cue": "faire", "answer": ["faisait"], "hint": "description of the setting" }],
+      "blanks": [
+        {
+          "cue": "faire",
+          "answer": [
+            "faisait"
+          ],
+          "hint": "description of the setting"
+        }
+      ],
       "explanation": "This is a description of the context (the weather), so the imparfait is used: faisait."
     },
     {
       "text": "Soudain, un homme {1} dans la pièce.",
-      "blanks": [{ "cue": "entrer", "answer": ["est entré"], "hint": "auxiliary être, sudden action" }],
+      "blanks": [
+        {
+          "cue": "entrer",
+          "answer": [
+            "est entré"
+          ],
+          "hint": "auxiliary être, sudden action"
+        }
+      ],
       "explanation": "« soudain » marks a one-off action; entrer is conjugated with être, and « un homme » is masculine: est entré."
     },
     {
       "text": "Nous {1} la télévision quand l'orage a éclaté.",
-      "blanks": [{ "cue": "regarder", "answer": ["regardions"], "hint": "ongoing action that is interrupted" }],
+      "blanks": [
+        {
+          "cue": "regarder",
+          "answer": [
+            "regardions"
+          ],
+          "hint": "ongoing action that is interrupted"
+        }
+      ],
       "explanation": "The action was ongoing (the backdrop) when an event interrupted it: imparfait, regardions."
     },
     {
       "text": "Elle {1} au théâtre à sept heures et la pièce a commencé aussitôt.",
-      "blanks": [{ "cue": "arriver", "answer": ["est arrivée"], "hint": "auxiliary être, feminine subject, one-off action" }],
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "est arrivée"
+          ],
+          "hint": "auxiliary être, feminine subject, one-off action"
+        }
+      ],
       "explanation": "A one-off action with arriver (auxiliary être); the subject « elle » is feminine, so it agrees: est arrivée."
     },
     {
       "text": "Tous les étés, mes grands-parents {1} à la mer.",
-      "blanks": [{ "cue": "partir", "answer": ["partaient"], "hint": "imparfait, habit" }],
+      "blanks": [
+        {
+          "cue": "partir",
+          "answer": [
+            "partaient"
+          ],
+          "hint": "imparfait, habit"
+        }
+      ],
       "explanation": "« tous les étés » indicates a habit repeated in the past: imparfait, partaient (even though partir takes être in the passé composé)."
     },
     {
       "text": "Pendant qu'elle lisait, ses enfants {1} dans le jardin.",
-      "blanks": [{ "cue": "jouer", "answer": ["jouaient"], "hint": "two simultaneous background actions" }],
+      "blanks": [
+        {
+          "cue": "jouer",
+          "answer": [
+            "jouaient"
+          ],
+          "hint": "two simultaneous background actions"
+        }
+      ],
       "explanation": "Two simultaneous background actions with no precise limit: the imparfait is used, jouaient."
     },
     {
       "text": "L'année dernière, ils {1} en Italie pour la première fois.",
-      "blanks": [{ "cue": "voyager", "answer": ["ont voyagé"], "hint": "dated, completed event" }],
+      "blanks": [
+        {
+          "cue": "voyager",
+          "answer": [
+            "ont voyagé"
+          ],
+          "hint": "dated, completed event"
+        }
+      ],
       "explanation": "« l'année dernière » and « pour la première fois » point to a specific, completed event: passé composé, ont voyagé."
     },
     {
       "text": "J'{1} déjà fini mon travail quand tu m'as appelé.",
-      "blanks": [{ "cue": "avoir", "answer": ["avais"], "hint": "pluperfect: auxiliary in the imparfait" }],
+      "blanks": [
+        {
+          "cue": "avoir",
+          "answer": [
+            "avais"
+          ],
+          "hint": "pluperfect: auxiliary in the imparfait"
+        }
+      ],
       "explanation": "The action was finished before another past action: the pluperfect (plus-que-parfait) is used, whose auxiliary avoir is in the imparfait (avais fini)."
     },
     {
       "text": "Marie {1} fatiguée, alors elle s'est reposée.",
-      "blanks": [{ "cue": "être", "answer": ["était"], "hint": "description of a state" }],
+      "blanks": [
+        {
+          "cue": "être",
+          "answer": [
+            "était"
+          ],
+          "hint": "description of a state"
+        }
+      ],
       "explanation": "It describes a state (tiredness) that serves as context: imparfait, était. The action that follows (s'est reposée) is in the passé composé."
     },
     {
       "text": "Quand nous sommes sortis, il {1} encore.",
-      "blanks": [{ "cue": "pleuvoir", "answer": ["pleuvait"], "hint": "ongoing situation in the background" }],
+      "blanks": [
+        {
+          "cue": "pleuvoir",
+          "answer": [
+            "pleuvait"
+          ],
+          "hint": "ongoing situation in the background"
+        }
+      ],
       "explanation": "The rain is an ongoing situation that formed the backdrop at the moment of the one-off action « nous sommes sortis »: imparfait, pleuvait."
     },
     {
       "text": "Chaque matin, elle {1} un café avant de partir au bureau.",
-      "blanks": [{ "cue": "prendre", "answer": ["prenait"], "hint": "imparfait, daily habit" }],
+      "blanks": [
+        {
+          "cue": "prendre",
+          "answer": [
+            "prenait"
+          ],
+          "hint": "imparfait, daily habit"
+        }
+      ],
       "explanation": "« chaque matin » signals a repeated past habit, so the imparfait is used: prenait."
     },
     {
       "text": "Elles {1} très tôt ce matin-là pour attraper le premier train.",
-      "blanks": [{ "cue": "partir", "answer": ["sont parties"], "hint": "auxiliary être, feminine plural agreement, one-off action" }],
+      "blanks": [
+        {
+          "cue": "partir",
+          "answer": [
+            "sont parties"
+          ],
+          "hint": "auxiliary être, feminine plural agreement, one-off action"
+        }
+      ],
       "explanation": "A one-off completed action with partir (auxiliary être); the subject « elles » is feminine plural, so the past participle agrees: sont parties (extra -e for feminine, -s for plural)."
     },
     {
       "text": "Quand j'ai ouvert les volets, il {1} sur les toits.",
-      "blanks": [{ "cue": "neiger", "answer": ["neigeait"], "hint": "description of the setting, ongoing state" }],
+      "blanks": [
+        {
+          "cue": "neiger",
+          "answer": [
+            "neigeait"
+          ],
+          "hint": "description of the setting, ongoing state"
+        }
+      ],
       "explanation": "The snow describes the ongoing setting (the backdrop) at the moment of the one-off action « j'ai ouvert les volets »: imparfait, neigeait."
     },
     {
       "text": "Je {1} la vaisselle quand mon frère est rentré du travail.",
-      "blanks": [{ "cue": "faire", "answer": ["faisais"], "hint": "ongoing action interrupted by an event" }],
+      "blanks": [
+        {
+          "cue": "faire",
+          "answer": [
+            "faisais"
+          ],
+          "hint": "ongoing action interrupted by an event"
+        }
+      ],
       "explanation": "The action was in progress (the backdrop) when a one-off event interrupted it (« est rentré »): imparfait, faisais."
     },
     {
       "text": "La semaine dernière, nous {1} trois fois au cinéma.",
-      "blanks": [{ "cue": "aller", "answer": ["sommes allés", "sommes allées"], "hint": "counted, completed action; auxiliary être" }],
+      "blanks": [
+        {
+          "cue": "aller",
+          "answer": [
+            "sommes allés",
+            "sommes allées"
+          ],
+          "hint": "counted, completed action; auxiliary être"
+        }
+      ],
       "explanation": "A specific, countable and completed action (« trois fois », « la semaine dernière ») uses the passé composé, not the imparfait; aller takes être and the past participle agrees with « nous »: sommes allés (or sommes allées if the group is all-female)."
+    },
+    {
+      "text": "Tout à coup, elle {1} un grand bruit venant de la cave.",
+      "blanks": [
+        {
+          "cue": "entendre",
+          "answer": [
+            "a entendu"
+          ],
+          "hint": "one-off sudden action, passé composé"
+        }
+      ],
+      "explanation": "« Tout à coup » signals a sudden, one-off action that breaks into the scene, so the passé composé is used: a entendu. (Entendre takes the auxiliary avoir, and the direct object follows the verb, so there is no agreement.)"
     }
   ]
 }

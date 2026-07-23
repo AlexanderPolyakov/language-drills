@@ -86,6 +86,16 @@
       "text": "It {1} all afternoon, so the pavements are still wet.",
       "blanks": [{ "cue": "rain", "answer": ["has been raining", "'s been raining"] }],
       "explanation": "The present perfect continuous (has/have been + -ing) stresses a recent, extended activity whose result is visible now: has been raining."
+    },
+    {
+      "text": "How long {1} English?",
+      "blanks": [{ "cue": "you / learn", "answer": ["have you been learning"] }],
+      "explanation": "To ask about the duration of an activity that began in the past and is still going on, use the present perfect continuous: 'How long have you been learning...?' (have + been + -ing)."
+    },
+    {
+      "text": "I {1} him since he moved to Berlin.",
+      "blanks": [{ "cue": "not see", "answer": ["haven't seen", "have not seen"] }],
+      "explanation": "A negative situation continuing up to now with 'since' takes the present perfect: 'haven't seen' (have not + seen). 'since' marks the start of the period reaching to the present."
     }
   ]
 }

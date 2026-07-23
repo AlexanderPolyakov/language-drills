@@ -9,62 +9,182 @@
   "items": [
     {
       "text": "C'est le professeur {1} enseigne l'histoire.",
-      "blanks": [{ "answer": "qui", "options": ["qui", "que", "dont"], "hint": "subject of the verb enseigne" }],
+      "blanks": [
+        {
+          "answer": "qui",
+          "options": [
+            "qui",
+            "que",
+            "dont"
+          ],
+          "hint": "subject of the verb enseigne"
+        }
+      ],
       "explanation": "The pronoun is the subject of « enseigne », so use qui."
     },
     {
       "text": "Le livre {1} tu m'as prêté est passionnant.",
-      "blanks": [{ "answer": "que", "options": ["qui", "que", "où"], "hint": "direct object of tu as prêté" }],
+      "blanks": [
+        {
+          "answer": "que",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "hint": "direct object of tu as prêté"
+        }
+      ],
       "explanation": "The pronoun is the direct object of « tu m'as prêté », so use que."
     },
     {
       "text": "Voici la ville {1} je suis né.",
-      "blanks": [{ "answer": "où", "options": ["que", "où", "dont"], "hint": "complement of place" }],
+      "blanks": [
+        {
+          "answer": "où",
+          "options": [
+            "que",
+            "où",
+            "dont"
+          ],
+          "hint": "complement of place"
+        }
+      ],
       "explanation": "The pronoun replaces a complement of place (« né dans cette ville »), so use où."
     },
     {
       "text": "C'est le film {1} tout le monde parle.",
-      "blanks": [{ "answer": "dont", "options": ["que", "dont", "qui"], "hint": "parler de quelque chose" }],
+      "blanks": [
+        {
+          "answer": "dont",
+          "options": [
+            "que",
+            "dont",
+            "qui"
+          ],
+          "hint": "parler de quelque chose"
+        }
+      ],
       "explanation": "You say « parler de quelque chose »; the pronoun replaces this « de » complement, so dont."
     },
     {
       "text": "Je ne comprends pas {1} se passe ici.",
-      "blanks": [{ "answer": "ce qui", "options": ["ce qui", "ce que", "qui"], "hint": "neutral subject of the verb se passe" }],
+      "blanks": [
+        {
+          "answer": "ce qui",
+          "options": [
+            "ce qui",
+            "ce que",
+            "qui"
+          ],
+          "hint": "neutral subject of the verb se passe"
+        }
+      ],
       "explanation": "The antecedent is neutral and the pronoun is the subject of « se passe »: use ce qui."
     },
     {
       "text": "Dis-moi {1} tu veux pour ton anniversaire.",
-      "blanks": [{ "answer": "ce que", "options": ["ce qui", "ce que", "que"], "hint": "neutral direct object of tu veux" }],
+      "blanks": [
+        {
+          "answer": "ce que",
+          "options": [
+            "ce qui",
+            "ce que",
+            "que"
+          ],
+          "hint": "neutral direct object of tu veux"
+        }
+      ],
       "explanation": "The antecedent is neutral and the pronoun is the direct object of « tu veux »: use ce que."
     },
     {
       "text": "L'été est la saison {1} je préfère.",
-      "blanks": [{ "answer": "que", "options": ["qui", "que", "dont"], "hint": "direct object of je préfère" }],
+      "blanks": [
+        {
+          "answer": "que",
+          "options": [
+            "qui",
+            "que",
+            "dont"
+          ],
+          "hint": "direct object of je préfère"
+        }
+      ],
       "explanation": "The pronoun is the direct object of « je préfère » (préférer quelque chose), so que."
     },
     {
       "text": "Le moment {1} il est arrivé, tout a changé.",
-      "blanks": [{ "answer": "où", "options": ["que", "où", "dont"], "hint": "complement of time" }],
+      "blanks": [
+        {
+          "answer": "où",
+          "options": [
+            "que",
+            "où",
+            "dont"
+          ],
+          "hint": "complement of time"
+        }
+      ],
       "explanation": "« où » is also used for time: « le moment où » means « at the moment when »."
     },
     {
       "text": "C'est une voiture {1} le prix est très élevé.",
-      "blanks": [{ "answer": "dont", "options": ["que", "dont", "où"], "hint": "le prix de la voiture" }],
+      "blanks": [
+        {
+          "answer": "dont",
+          "options": [
+            "que",
+            "dont",
+            "où"
+          ],
+          "hint": "le prix de la voiture"
+        }
+      ],
       "explanation": "« dont » replaces a « de » complement of a noun: « le prix de la voiture », so dont."
     },
     {
       "text": "Les amis {1} m'ont aidé sont très gentils.",
-      "blanks": [{ "answer": "qui", "options": ["qui", "que", "dont"], "hint": "subject of the verb ont aidé" }],
+      "blanks": [
+        {
+          "answer": "qui",
+          "options": [
+            "qui",
+            "que",
+            "dont"
+          ],
+          "hint": "subject of the verb ont aidé"
+        }
+      ],
       "explanation": "The pronoun is the subject of « ont aidé », so use qui."
     },
     {
       "text": "Tout {1} brille n'est pas or.",
-      "blanks": [{ "answer": "ce qui", "options": ["ce qui", "ce que", "qui"], "hint": "neutral subject of the verb brille" }],
+      "blanks": [
+        {
+          "answer": "ce qui",
+          "options": [
+            "ce qui",
+            "ce que",
+            "qui"
+          ],
+          "hint": "neutral subject of the verb brille"
+        }
+      ],
       "explanation": "After « tout », the antecedent is neutral and the pronoun is the subject of « brille »: use ce qui."
     },
     {
       "text": "C'est exactement {1} j'avais besoin.",
-      "blanks": [{ "answer": "ce dont", "options": ["ce dont", "ce que", "ce qui"], "hint": "avoir besoin de quelque chose" }],
+      "blanks": [
+        {
+          "answer": "ce dont",
+          "options": [
+            "ce dont",
+            "ce que",
+            "ce qui"
+          ],
+          "hint": "avoir besoin de quelque chose"
+        }
+      ],
       "explanation": "You say « avoir besoin de quelque chose »; with a neutral antecedent, the « de » complement gives ce dont."
     },
     {
@@ -144,7 +264,17 @@
     },
     {
       "text": "C'est un résultat {1} nous sommes très fiers.",
-      "blanks": [{ "answer": "dont", "options": ["dont", "que", "qui"], "hint": "être fier de quelque chose" }],
+      "blanks": [
+        {
+          "answer": "dont",
+          "options": [
+            "dont",
+            "que",
+            "qui"
+          ],
+          "hint": "être fier de quelque chose"
+        }
+      ],
       "explanation": "The adjective « fier » is built with « de » (« être fier DE quelque chose »); « dont » replaces this « de » complement, so dont. « que » (direct object) and « qui » (subject) are wrong because the pronoun stands for a « de » complement, not a bare object or subject."
     },
     {
@@ -191,6 +321,21 @@
         }
       ],
       "explanation": "« assister à quelque chose »; after the preposition « à » with a feminine inanimate antecedent, use à laquelle. « auquel » is masculine and « à qui » is reserved for people."
+    },
+    {
+      "text": "C'est un idéal {1} de nombreux militants se sont battus.",
+      "blanks": [
+        {
+          "answer": "pour lequel",
+          "options": [
+            "pour lequel",
+            "pour laquelle",
+            "dont"
+          ],
+          "hint": "preposition « pour » + masculine singular inanimate référent (un idéal)"
+        }
+      ],
+      "explanation": "« se battre POUR quelque chose »; after a preposition, an inanimate antecedent takes a compound relative pronoun agreeing in gender and number. « un idéal » is masculine singular, so pour lequel. « pour laquelle » is feminine, and « dont » would replace a « de » complement, not a « pour » one."
     }
   ]
 }

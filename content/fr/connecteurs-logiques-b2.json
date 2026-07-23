@@ -10,163 +10,402 @@
     {
       "text": "{1} la pluie battante, le match a été maintenu et les supporters sont restés jusqu'au bout.",
       "blanks": [
-        { "answer": "En dépit de", "options": ["En dépit de", "Bien que", "Afin que", "Étant donné que"], "hint": "concession introducing a NOUN ('la pluie'), not a clause" }
+        {
+          "answer": "En dépit de",
+          "options": [
+            "En dépit de",
+            "Bien que",
+            "Afin que",
+            "Étant donné que"
+          ],
+          "hint": "concession introducing a NOUN ('la pluie'), not a clause"
+        }
       ],
       "explanation": "« En dépit de » (like « malgré ») expresses concession and is followed by a noun group: « En dépit de la pluie ». « Bien que » and « afin que » would require a conjugated verb in the subjunctive, and « étant donné que » expresses cause."
     },
     {
       "text": "{1} il soit le plus expérimenté de l'équipe, on ne lui a pas confié le projet.",
       "blanks": [
-        { "answer": "Bien qu'", "options": ["Bien qu'", "En dépit d'", "Étant donné qu'", "Grâce à"], "hint": "concession + verb in the SUBJUNCTIVE ('soit')" }
+        {
+          "answer": "Bien qu'",
+          "options": [
+            "Bien qu'",
+            "En dépit d'",
+            "Étant donné qu'",
+            "Grâce à"
+          ],
+          "hint": "concession + verb in the SUBJUNCTIVE ('soit')"
+        }
       ],
       "explanation": "« Bien que » introduces a concession and governs the subjunctive (« soit »); before a vowel it elides to « Bien qu' ». « En dépit de » and « grâce à » take a noun, and « étant donné que » expresses cause with the indicative."
     },
     {
       "text": "{1} les conditions météorologiques se dégradaient, le préfet a décidé d'annuler la manifestation.",
       "blanks": [
-        { "answer": "Étant donné que", "options": ["Étant donné que", "Afin que", "De sorte que", "En dépit de"], "hint": "cause + a clause in the indicative ('se dégradaient')" }
+        {
+          "answer": "Étant donné que",
+          "options": [
+            "Étant donné que",
+            "Afin que",
+            "De sorte que",
+            "En dépit de"
+          ],
+          "hint": "cause + a clause in the indicative ('se dégradaient')"
+        }
       ],
       "explanation": "« Étant donné que » introduces a cause and is followed by a clause in the indicative (« se dégradaient »). « Afin que » expresses purpose (+ subjunctive), « de sorte que » consequence, and « en dépit de » takes a noun."
     },
     {
       "text": "La direction a réorganisé les horaires {1} chaque salarié puisse concilier travail et vie de famille.",
       "blanks": [
-        { "answer": "afin que", "options": ["afin que", "afin de", "grâce à", "parce que"], "hint": "purpose + a DIFFERENT subject in the SUBJUNCTIVE ('puisse')" }
+        {
+          "answer": "afin que",
+          "options": [
+            "afin que",
+            "afin de",
+            "grâce à",
+            "parce que"
+          ],
+          "hint": "purpose + a DIFFERENT subject in the SUBJUNCTIVE ('puisse')"
+        }
       ],
       "explanation": "« Afin que » expresses purpose and requires the subjunctive (« puisse »); it is used because the two clauses have different subjects (la direction / chaque salarié). « Afin de » would require an infinitive with the same subject, « grâce à » takes a noun, and « parce que » expresses cause with the indicative."
     },
     {
       "text": "Le rapport a été remis en retard, {1} la commission a dû reporter sa décision à la séance suivante.",
       "blanks": [
-        { "answer": "si bien que", "options": ["si bien que", "bien que", "de peur que", "pourvu que"], "hint": "consequence + indicative ('a dû'): a result that actually happened" }
+        {
+          "answer": "si bien que",
+          "options": [
+            "si bien que",
+            "bien que",
+            "de peur que",
+            "pourvu que"
+          ],
+          "hint": "consequence + indicative ('a dû'): a result that actually happened"
+        }
       ],
       "explanation": "« Si bien que » introduces a consequence and is followed by the indicative (« a dû ») because the result is presented as real. « Bien que » and « de peur que » require the subjunctive, and « pourvu que » expresses a condition with the subjunctive."
     },
     {
       "text": "Elle a noté chaque consigne dans son carnet, {1} oublier le moindre détail avant l'examen.",
       "blanks": [
-        { "answer": "de peur d'", "options": ["de peur d'", "si bien qu'", "tandis qu'", "du moment qu'"], "hint": "fear used as purpose, same subject, + INFINITIVE ('oublier')" }
+        {
+          "answer": "de peur d'",
+          "options": [
+            "de peur d'",
+            "si bien qu'",
+            "tandis qu'",
+            "du moment qu'"
+          ],
+          "hint": "fear used as purpose, same subject, + INFINITIVE ('oublier')"
+        }
       ],
       "explanation": "When the subject is the same in both clauses, « de peur de » + infinitive expresses a feared purpose: « de peur d'oublier ». Before a vowel « de » elides to « d' ». « Si bien que », « tandis que » and « du moment que » all introduce a conjugated clause, not an infinitive."
     },
     {
       "text": "Mon frère adore les longues randonnées en montagne, {1} moi je préfère passer mes vacances au bord de la mer.",
       "blanks": [
-        { "answer": "tandis que", "options": ["tandis que", "grâce à", "faute de", "quoique"], "hint": "opposition between two facts + indicative ('je préfère')" }
+        {
+          "answer": "tandis que",
+          "options": [
+            "tandis que",
+            "grâce à",
+            "faute de",
+            "quoique"
+          ],
+          "hint": "opposition between two facts + indicative ('je préfère')"
+        }
       ],
       "explanation": "« Tandis que » (like « alors que ») marks an opposition between two contrasting facts and is followed by the indicative (« je préfère »). « Grâce à » and « faute de » introduce a noun, and « quoique » expresses concession with the subjunctive."
     },
     {
       "text": "{1} une préparation suffisante, l'équipe a échoué dès le premier tour de la compétition.",
       "blanks": [
-        { "answer": "Faute d'", "options": ["Faute d'", "Grâce à", "Quoiqu'", "Du moment qu'"], "hint": "cause = the LACK of something, + NOUN ('une préparation')" }
+        {
+          "answer": "Faute d'",
+          "options": [
+            "Faute d'",
+            "Grâce à",
+            "Quoiqu'",
+            "Du moment qu'"
+          ],
+          "hint": "cause = the LACK of something, + NOUN ('une préparation')"
+        }
       ],
       "explanation": "« Faute de » expresses a cause understood as a lack and is followed by a noun: « Faute d'une préparation suffisante » (= because there was not enough). Before a vowel « de » elides to « d' ». « Grâce à » introduces a positive cause, while « quoique » and « du moment que » govern a conjugated clause."
     },
     {
       "text": "{1} au soutien indéfectible de ses proches, elle a pu surmonter cette épreuve.",
       "blanks": [
-        { "answer": "Grâce", "options": ["Grâce", "Faute", "Quoique", "Tandis que"], "hint": "positive cause + « à » + NOUN ('le soutien'): a favourable factor" }
+        {
+          "answer": "Grâce",
+          "options": [
+            "Grâce",
+            "Faute",
+            "Quoique",
+            "Tandis que"
+          ],
+          "hint": "positive cause + « à » + NOUN ('le soutien'): a favourable factor"
+        }
       ],
       "explanation": "« Grâce à » introduces a POSITIVE cause — a favourable factor that made something possible — and is followed by a noun: « Grâce au soutien de ses proches ». « Faute de » expresses a cause understood as a lack (the opposite nuance), while « quoique » and « tandis que » govern a conjugated clause, not a noun."
     },
     {
       "text": "Le conférencier a parlé lentement et articulé chaque mot, {1} tout l'auditoire pouvait le suivre sans peine.",
       "blanks": [
-        { "answer": "de sorte que", "options": ["de sorte que", "afin que", "de peur que", "à condition que"], "hint": "consequence presented as REAL + indicative ('pouvait'): a result that actually followed" }
+        {
+          "answer": "de sorte que",
+          "options": [
+            "de sorte que",
+            "afin que",
+            "de peur que",
+            "à condition que"
+          ],
+          "hint": "consequence presented as REAL + indicative ('pouvait'): a result that actually followed"
+        }
       ],
       "explanation": "« De sorte que » + indicative (« pouvait ») marks a CONSEQUENCE presented as a real result: the audience could indeed follow. Note that « de sorte que » + subjunctive would instead express purpose; here the indicative makes the result-reading unambiguous. « Afin que » and « de peur que » express purpose/fear with the subjunctive, and « à condition que » expresses a condition with the subjunctive."
     },
     {
       "text": "Le dossier était {1} complexe que même les experts ont mis des semaines à le comprendre.",
       "blanks": [
-        { "answer": "tellement", "options": ["tellement", "tant", "davantage", "aussi"], "hint": "intensity of an ADJECTIVE ('complexe') leading to a consequence: « si / tellement … que »" }
+        {
+          "answer": "tellement",
+          "options": [
+            "tellement",
+            "tant",
+            "davantage",
+            "aussi"
+          ],
+          "hint": "intensity of an ADJECTIVE ('complexe') leading to a consequence: « si / tellement … que »"
+        }
       ],
       "explanation": "Consequence can be expressed by intensifying an adjective with « si … que » or « tellement … que »: « tellement complexe que… » (= so complex that…). Before an ADJECTIVE only « tellement » (or « si ») works: « tant » modifies a verb or a noun (« il travaille tant que… », « tant de travail que… »), never an adjective; « davantage » means 'more' (comparative, not intensity + que); and « aussi … que » expresses a comparison of equality, not a consequence."
     },
     {
       "text": "Le sentier longe un précipice ; avancez avec une corde de sécurité {1} l'un de vous ne glisse dans le ravin.",
       "blanks": [
-        { "answer": "de peur que", "options": ["de peur que", "tandis que", "étant donné que", "de sorte que"], "hint": "feared purpose with a DIFFERENT subject + subjunctive ('ne glisse')" }
+        {
+          "answer": "de peur que",
+          "options": [
+            "de peur que",
+            "tandis que",
+            "étant donné que",
+            "de sorte que"
+          ],
+          "hint": "feared purpose with a DIFFERENT subject + subjunctive ('ne glisse')"
+        }
       ],
       "explanation": "« De peur que » expresses a feared purpose (something one acts to AVOID) and governs the subjunctive when the two clauses have different subjects: « de peur que l'un de vous ne glisse » (the « ne » is explétif, not a negation). « Tandis que » marks opposition + indicative, « étant donné que » expresses cause + indicative, and « de sorte que » here would mean a real consequence + indicative, none of which fit the avoided, hypothetical event."
     },
     {
       "text": "{1} tu connais déjà le dossier, je te laisse présenter le projet au comité.",
       "blanks": [
-        { "answer": "Puisque", "options": ["Bien que", "Puisque", "Afin que", "De peur que"], "hint": "cause presented as already KNOWN/admitted by both speakers + indicative ('connais')" }
+        {
+          "answer": "Puisque",
+          "options": [
+            "Bien que",
+            "Puisque",
+            "Afin que",
+            "De peur que"
+          ],
+          "hint": "cause presented as already KNOWN/admitted by both speakers + indicative ('connais')"
+        }
       ],
       "explanation": "« Puisque » introduces a cause presented as already known or admitted by both interlocutors (« since you already know the file »), and it governs the indicative (« connais »). Unlike « parce que », which answers an unknown 'why', « puisque » assumes the cause is shared. « Bien que » and « de peur que » require the subjunctive, and « afin que » expresses purpose."
     },
     {
       "text": "La municipalité a aménagé une piste cyclable {1} les habitants se déplacent davantage à vélo.",
       "blanks": [
-        { "answer": "pour que", "options": ["pour", "pour que", "grâce à", "afin de"], "hint": "purpose with a DIFFERENT subject + subjunctive ('se déplacent'): the goal aimed at" }
+        {
+          "answer": "pour que",
+          "options": [
+            "pour",
+            "pour que",
+            "grâce à",
+            "afin de"
+          ],
+          "hint": "purpose with a DIFFERENT subject + subjunctive ('se déplacent'): the goal aimed at"
+        }
       ],
       "explanation": "« Pour que » expresses purpose and requires the subjunctive (« se déplacent »); it is used because the two clauses have different subjects (la municipalité / les habitants). « Pour » and « afin de » + infinitive would require the same subject in both clauses (here they cannot govern the conjugated clause « les habitants se déplacent »), and « grâce à » takes a noun."
     },
     {
       "text": "{1} les nombreuses heures de répétition, l'orchestre a manqué de précision le soir du concert.",
       "blanks": [
-        { "answer": "Malgré", "options": ["Malgré", "Quoique", "Alors que", "Au cas où"], "hint": "concession introducing a NOUN ('les heures'), not a clause" }
+        {
+          "answer": "Malgré",
+          "options": [
+            "Malgré",
+            "Quoique",
+            "Alors que",
+            "Au cas où"
+          ],
+          "hint": "concession introducing a NOUN ('les heures'), not a clause"
+        }
       ],
       "explanation": "« Malgré » expresses concession and is followed directly by a noun group: « Malgré les nombreuses heures de répétition ». The distractors are all conjunctions that require a CONJUGATED verb, not a noun: « quoique » introduces a clause in the subjunctive, « alors que » introduces a clause of contrast in the indicative, and « au cas où » introduces a clause in the conditional. None of them can govern the bare noun phrase in this slot, so only « Malgré » is structurally possible."
     },
     {
       "text": "Nous partirons en randonnée demain matin, {1} le temps ne se gâte d'ici là.",
       "blanks": [
-        { "answer": "à moins que", "options": ["à moins que", "par conséquent", "comme", "sous prétexte que"], "hint": "restrictive condition + SUBJUNCTIVE ('ne se gâte'): 'unless'" }
+        {
+          "answer": "à moins que",
+          "options": [
+            "à moins que",
+            "par conséquent",
+            "comme",
+            "sous prétexte que"
+          ],
+          "hint": "restrictive condition + SUBJUNCTIVE ('ne se gâte'): 'unless'"
+        }
       ],
       "explanation": "« À moins que » expresses a restrictive condition ('unless') and governs the SUBJUNCTIVE: « à moins que le temps ne se gâte » (the « ne » is explétif, not a negation). The distractors are impossible here: « par conséquent » is a consequence ADVERB and cannot introduce a subordinate clause at all; « comme » expresses cause and takes the indicative (« comme le temps se gâte »), never the subjunctive « se gâte »; « sous prétexte que » introduces an alleged cause in the indicative, not a subjunctive restriction. Only « à moins que » fits a subjunctive 'unless' clause."
     },
     {
       "text": "Prends un parapluie et des vêtements chauds {1} le temps changerait brusquement en montagne.",
       "blanks": [
-        { "answer": "au cas où", "options": ["au cas où", "bien que", "à condition que", "afin que"], "hint": "eventuality / precaution + CONDITIONAL ('changerait'): 'in case'" }
+        {
+          "answer": "au cas où",
+          "options": [
+            "au cas où",
+            "bien que",
+            "à condition que",
+            "afin que"
+          ],
+          "hint": "eventuality / precaution + CONDITIONAL ('changerait'): 'in case'"
+        }
       ],
       "explanation": "« Au cas où » introduces an eventuality one wants to be prepared for ('in case') and is the one connector here that governs the CONDITIONAL: « au cas où le temps changerait ». The distractors all require the SUBJUNCTIVE and are therefore incompatible with the conditional « changerait »: « bien que » (concession), « à condition que » (condition), and « afin que » (purpose) would each demand a subjunctive form (changeât / change). Only « au cas où » takes the conditional, so it is the sole valid answer."
     },
     {
       "text": "{1} il pleuvait des cordes depuis l'aube, nous avons préféré annuler la sortie en mer.",
       "blanks": [
-        { "answer": "Comme", "options": ["Comme", "Car", "En raison de", "Bien que"], "hint": "cause placed at the HEAD of the sentence + indicative ('pleuvait')" }
+        {
+          "answer": "Comme",
+          "options": [
+            "Comme",
+            "Car",
+            "En raison de",
+            "Bien que"
+          ],
+          "hint": "cause placed at the HEAD of the sentence + indicative ('pleuvait')"
+        }
       ],
       "explanation": "« Comme » expresses a cause and, unlike « parce que », is placed at the very HEAD of the sentence before the main clause, with the indicative (« pleuvait »). The distractors are all impossible here: « car » is a COORDINATING conjunction and can never open a sentence (it must stand between the two clauses it links); « en raison de » introduces a NOUN, not the clause « il pleuvait »; and « bien que » expresses concession and would require the subjunctive (« pleuve »), not the indicative « pleuvait »."
     },
     {
       "text": "Tu peux emprunter ce livre rare {1} tu me le rendes avant la fin de la semaine.",
       "blanks": [
-        { "answer": "à condition que", "options": ["à condition que", "à condition de", "même si", "puisque"], "hint": "condition with a DIFFERENT subject + SUBJUNCTIVE ('rendes')" }
+        {
+          "answer": "à condition que",
+          "options": [
+            "à condition que",
+            "à condition de",
+            "même si",
+            "puisque"
+          ],
+          "hint": "condition with a DIFFERENT subject + SUBJUNCTIVE ('rendes')"
+        }
       ],
       "explanation": "« À condition que » expresses a condition and governs the SUBJUNCTIVE (« rendes »); it is used because the two clauses have different subjects (tu empruntes / tu me le rendes, presented as a distinct requirement). « À condition de » would require an INFINITIVE, not the conjugated « rendes »; « même si » expresses a concessive hypothesis and takes the INDICATIVE (« rendras »); and « puisque » expresses an already-admitted cause with the indicative, not a subjunctive condition."
     },
     {
       "text": "{1} le dossier ait été préparé avec le plus grand soin, il n'a pas convaincu les investisseurs.",
       "blanks": [
-        { "answer": "Quoique", "options": ["Quoique", "En dépit de", "Parce que", "Comme"], "hint": "concession + verb in the SUBJUNCTIVE ('ait été')" }
+        {
+          "answer": "Quoique",
+          "options": [
+            "Quoique",
+            "En dépit de",
+            "Parce que",
+            "Comme"
+          ],
+          "hint": "concession + verb in the SUBJUNCTIVE ('ait été')"
+        }
       ],
       "explanation": "« Quoique » (synonym of « bien que ») expresses concession and governs the SUBJUNCTIVE (« ait été »). The distractors fail on construction or meaning: « en dépit de » takes a NOUN, not the clause « le dossier ait été »; « parce que » expresses cause with the INDICATIVE (« a été »), not the subjunctive; and « comme » also expresses cause + indicative, never concession + subjunctive."
     },
     {
       "text": "Le témoin principal ne s'est pas présenté à l'audience ; celle-ci a, {1}, été reportée à une date ultérieure.",
       "blanks": [
-        { "answer": "par conséquent", "options": ["par conséquent", "si bien que", "parce que", "bien que"], "hint": "consequence ADVERB inserted between commas, not a conjunction opening a clause" }
+        {
+          "answer": "par conséquent",
+          "options": [
+            "par conséquent",
+            "si bien que",
+            "parce que",
+            "bien que"
+          ],
+          "hint": "consequence ADVERB inserted between commas, not a conjunction opening a clause"
+        }
       ],
       "explanation": "« Par conséquent » is a consequence ADVERB, so it can be inserted parenthetically inside the second clause, here between the auxiliary « a » and the participle « été » (« a, par conséquent, été reportée »). The distractors are all subordinating conjunctions that must stand at the HEAD of the clause they introduce and can never be slotted into this parenthetical position: « si bien que » (consequence) and « parce que » (cause) both require the indicative but must open a clause, and « bien que » requires the subjunctive. Only the adverb « par conséquent » fits the inserted slot."
     },
     {
       "text": "L'annulation du vol a été très mal vécue, {1} les passagers n'avaient été prévenus que la veille au soir.",
       "blanks": [
-        { "answer": "d'autant plus que", "options": ["d'autant plus que", "quoique", "afin que", "en dépit de"], "hint": "cause that REINFORCES the previous statement + indicative ('avaient été prévenus')" }
+        {
+          "answer": "d'autant plus que",
+          "options": [
+            "d'autant plus que",
+            "quoique",
+            "afin que",
+            "en dépit de"
+          ],
+          "hint": "cause that REINFORCES the previous statement + indicative ('avaient été prévenus')"
+        }
       ],
       "explanation": "« D'autant plus que » introduces a cause that REINFORCES what was just said — the reaction is all the more understandable given an aggravating circumstance — and it is followed by the indicative (« avaient été prévenus »). « Quoique » would express concession + subjunctive, « afin que » purpose + subjunctive, and « en dépit de » takes a noun, not the clause « les passagers n'avaient été prévenus »."
     },
     {
       "text": "Le vacarme dans la salle s'est intensifié {1} l'on ne s'entendait plus parler d'un bout à l'autre de la table.",
       "blanks": [
-        { "answer": "au point que", "options": ["au point que", "au cas où", "pour que", "à moins que"], "hint": "consequence expressing the DEGREE reached + indicative ('on ne s'entendait plus')" }
+        {
+          "answer": "au point que",
+          "options": [
+            "au point que",
+            "au cas où",
+            "pour que",
+            "à moins que"
+          ],
+          "hint": "consequence expressing the DEGREE reached + indicative ('on ne s'entendait plus')"
+        }
       ],
       "explanation": "« Au point que » introduces a CONSEQUENCE conceived as a degree or extreme reached, and is followed by the indicative (« on ne s'entendait plus ») because the result is presented as real: the noise grew so much that people could no longer hear one another. « Au cas où » introduces an eventuality + conditional, while « pour que » (purpose) and « à moins que » (restrictive condition) both require the subjunctive, none of which fits the real result marked here."
+    },
+    {
+      "text": "{1} la grève des contrôleurs aériens, de nombreux vols ont été annulés ce week-end.",
+      "blanks": [
+        {
+          "answer": "En raison de",
+          "options": [
+            "En raison de",
+            "Bien que",
+            "Pour que",
+            "Alors que"
+          ],
+          "hint": "cause introducing a NOUN group (« la grève »), not a conjugated clause"
+        }
+      ],
+      "explanation": "« En raison de » introduces a cause and is followed by a noun group: « En raison de la grève ». The distractors all require a CONJUGATED verb: « bien que » and « pour que » govern the subjunctive, « alors que » the indicative — none can govern the bare noun phrase, so only « En raison de » is structurally possible."
+    },
+    {
+      "text": "L'entreprise avait tous les atouts pour réussir ; elle a {1} déposé le bilan deux ans plus tard.",
+      "blanks": [
+        {
+          "answer": "pourtant",
+          "options": [
+            "pourtant",
+            "si bien que",
+            "car",
+            "afin que"
+          ],
+          "hint": "concessive/opposition ADVERB inserted between the auxiliary and the participle, not a conjunction opening a clause"
+        }
+      ],
+      "explanation": "« Pourtant » is a concessive adverb, so it can be slotted inside the clause, here between the auxiliary « a » and the participle « déposé » (« elle a pourtant déposé le bilan »). The distractors are conjunctions that must stand at the HEAD of a clause and cannot fill this inserted position: « si bien que » (consequence) and « afin que » (purpose) open subordinate clauses, and « car » is a coordinating conjunction linking two clauses. Only the adverb « pourtant » fits the inserted slot."
     }
   ]
 }

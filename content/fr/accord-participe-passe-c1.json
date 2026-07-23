@@ -5,176 +5,346 @@
   "level": "C1",
   "type": "fill",
   "title": "L'accord du participe passé (cas difficiles)",
-  "lesson": "Three hard cases of past-participle agreement. (1) With « avoir », the participle agrees with the DIRECT object only when that object PRECEDES the verb — typically a relative « que » or a fronted pronoun: « les fleurs que j'ai achetées » (que = les fleurs, f.pl., placed before → agreement); no agreement when the object follows or is « en ». (2) With pronominal verbs, the participle agrees with the reflexive pronoun ONLY when that pronoun is the DIRECT object: « elles se sont lavées » (se = COD), but « elles se sont parlé » / « elles se sont lavé les mains » (se = COI, no agreement). (3) A participle followed by an INFINITIVE agrees only if the preceding direct object is the SUBJECT of that infinitive (it does the action): « les musiciens que j'ai entendus jouer » (the musicians play → agreement) vs « les airs que j'ai entendu jouer » (the tunes are played, not playing → no agreement)."
-  ,
+  "lesson": "Three hard cases of past-participle agreement. (1) With « avoir », the participle agrees with the DIRECT object only when that object PRECEDES the verb — typically a relative « que » or a fronted pronoun: « les fleurs que j'ai achetées » (que = les fleurs, f.pl., placed before → agreement); no agreement when the object follows or is « en ». (2) With pronominal verbs, the participle agrees with the reflexive pronoun ONLY when that pronoun is the DIRECT object: « elles se sont lavées » (se = COD), but « elles se sont parlé » / « elles se sont lavé les mains » (se = COI, no agreement). (3) A participle followed by an INFINITIVE agrees only if the preceding direct object is the SUBJECT of that infinitive (it does the action): « les musiciens que j'ai entendus jouer » (the musicians play → agreement) vs « les airs que j'ai entendu jouer » (the tunes are played, not playing → no agreement).",
   "items": [
     {
       "text": "Voici les lettres que je leur ai {1} la semaine dernière.",
       "blanks": [
-        { "cue": "envoyer", "answer": ["envoyées"], "hint": "avoir + preceding direct object: « que » = les lettres (f.pl.) placed before the verb forces agreement" }
+        {
+          "cue": "envoyer",
+          "answer": [
+            "envoyées"
+          ],
+          "hint": "avoir + preceding direct object: « que » = les lettres (f.pl.) placed before the verb forces agreement"
+        }
       ],
       "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here « que » refers to « les lettres » (feminine plural) and stands before the verb, so the participle agrees: « envoyées ». (« leur » is an indirect object and plays no role in the agreement.)"
     },
     {
       "text": "Après la dispute, les deux sœurs ne se sont plus {1} pendant des années.",
       "blanks": [
-        { "cue": "parler", "answer": ["parlé"], "hint": "pronominal verb where « se » is COI (parler à quelqu'un): no agreement, participle stays invariable" }
+        {
+          "cue": "parler",
+          "answer": [
+            "parlé"
+          ],
+          "hint": "pronominal verb where « se » is COI (parler à quelqu'un): no agreement, participle stays invariable"
+        }
       ],
       "explanation": "« Se parler » comes from « parler À quelqu'un », so the reflexive pronoun « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable: « elles se sont parlé »."
     },
     {
       "text": "Les airs que j'ai {1} jouer ce soir-là m'ont profondément ému.",
       "blanks": [
-        { "cue": "entendre", "answer": ["entendu"], "hint": "participe passé + infinitive: the preceding object 'les airs' is played, not the doer of 'jouer', so no agreement" }
+        {
+          "cue": "entendre",
+          "answer": [
+            "entendu"
+          ],
+          "hint": "participe passé + infinitive: the preceding object 'les airs' is played, not the doer of 'jouer', so no agreement"
+        }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les airs » are being played (they do not play), so « que » is the object of « jouer », not its subject: the participle stays invariable — « les airs que j'ai entendu jouer »."
     },
     {
       "text": "Elle s'est {1} les mains avant de se mettre à table.",
       "blanks": [
-        { "cue": "laver", "answer": ["lavé"], "hint": "pronominal verb with a direct object FOLLOWING (« les mains »): « se » is COI, so no agreement" }
+        {
+          "cue": "laver",
+          "answer": [
+            "lavé"
+          ],
+          "hint": "pronominal verb with a direct object FOLLOWING (« les mains »): « se » is COI, so no agreement"
+        }
       ],
       "explanation": "Contrast « elle s'est lavée » (se = direct object → agreement) with this sentence. Here the direct object is « les mains », which FOLLOWS the verb, so the reflexive « se » becomes the indirect object (she washed the hands TO herself). The participle therefore does NOT agree and stays invariable: « elle s'est lavé les mains »."
     },
     {
       "text": "Des erreurs, le correcteur en a {1} beaucoup dans ce manuscrit.",
       "blanks": [
-        { "cue": "trouver", "answer": ["trouvé"], "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable" }
+        {
+          "cue": "trouver",
+          "answer": [
+            "trouvé"
+          ],
+          "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable"
+        }
       ],
       "explanation": "With « avoir », a preceding direct object normally forces agreement, but the pronoun « en » is a recognized EXCEPTION: it is treated as a neuter/partitive (« of them ») and never triggers agreement. So despite « des erreurs » being feminine plural, the participle stays invariable: « il en a trouvé beaucoup »."
     },
     {
       "text": "Les cantatrices que j'ai {1} chanter ce soir-là étaient éblouissantes.",
       "blanks": [
-        { "cue": "entendre", "answer": ["entendues"], "hint": "participe passé + infinitive: the preceding object 'les cantatrices' DOES the action of « chanter », so agreement applies" }
+        {
+          "cue": "entendre",
+          "answer": [
+            "entendues"
+          ],
+          "hint": "participe passé + infinitive: the preceding object 'les cantatrices' DOES the action of « chanter », so agreement applies"
+        }
       ],
       "explanation": "Mirror case of « les airs que j'ai entendu jouer ». Here the preceding direct object « les cantatrices » is the SUBJECT of the infinitive — they are the ones singing — so the participle agrees with it (feminine plural): « les cantatrices que j'ai entendues chanter ». Agreement happens precisely because the object performs the infinitive's action."
     },
     {
       "text": "Après des mois de brouille, les deux associées se sont enfin {1} pour faire la paix.",
       "blanks": [
-        { "cue": "revoir", "answer": ["revues"], "hint": "pronominal verb where « se » is COD (revoir quelqu'un): the participle agrees with the feminine plural subject" }
+        {
+          "cue": "revoir",
+          "answer": [
+            "revues"
+          ],
+          "hint": "pronominal verb where « se » is COD (revoir quelqu'un): the participle agrees with the feminine plural subject"
+        }
       ],
       "explanation": "« Se revoir » comes from « revoir QUELQU'UN » (a direct construction), so the reflexive « se » is the DIRECT object. With pronominal verbs, the participle agrees with a direct-object reflexive pronoun, here feminine plural: « les deux associées se sont revues ». Contrast « se parler » (parler À quelqu'un, COI → no agreement)."
     },
     {
       "text": "Avec tous les imprévus, les efforts qu'il a {1} pour terminer à temps furent considérables.",
       "blanks": [
-        { "cue": "falloir", "answer": ["fallu"], "hint": "impersonal verb « falloir »: its participle is ALWAYS invariable, even with a preceding object" }
+        {
+          "cue": "falloir",
+          "answer": [
+            "fallu"
+          ],
+          "hint": "impersonal verb « falloir »: its participle is ALWAYS invariable, even with a preceding object"
+        }
       ],
       "explanation": "« Falloir » is an impersonal verb, and the past participle of impersonal verbs (« il a fallu », « il a plu », « il a neigé ») is ALWAYS invariable — the « il » is a neuter, non-referential subject. Even though « que » refers to « les efforts » (masculine plural) and precedes the verb, the participle does not agree: « les efforts qu'il a fallu »."
     },
     {
       "text": "La maison qu'ils ont {1} construire l'an dernier domine toute la vallée.",
       "blanks": [
-        { "cue": "faire", "answer": ["fait"], "hint": "« faire » + infinitive: the participle « fait » in this causative construction is ALWAYS invariable, whatever the preceding object" }
+        {
+          "cue": "faire",
+          "answer": [
+            "fait"
+          ],
+          "hint": "« faire » + infinitive: the participle « fait » in this causative construction is ALWAYS invariable, whatever the preceding object"
+        }
       ],
       "explanation": "In the causative « faire + infinitif », the past participle « fait » is ALWAYS invariable, even with a preceding direct object. Here « que » refers to « la maison » (feminine singular) and precedes the verb, yet the rule overrides the ordinary « avoir » agreement: one writes « la maison qu'ils ont fait construire », never « faite ». « Faire » forms such a tight unit with the following infinitive that no agreement occurs (Grevisse, _Le Bon Usage_)."
     },
     {
       "text": "Quand elle a relu le contrat, elle s'est {1} compte de l'erreur trop tard.",
       "blanks": [
-        { "cue": "rendre", "answer": ["rendu"], "hint": "in the locution « se rendre compte », « compte » is the direct object and « se » is indirect: the participle stays invariable" }
+        {
+          "cue": "rendre",
+          "answer": [
+            "rendu"
+          ],
+          "hint": "in the locution « se rendre compte », « compte » is the direct object and « se » is indirect: the participle stays invariable"
+        }
       ],
       "explanation": "In the fixed expression « se rendre compte (de) », the direct object is the noun « compte » (« rendre compte à soi-même »), so the reflexive « se » is an INDIRECT object. With pronominal verbs the participle agrees only with a direct-object reflexive pronoun; here it does not, and « compte » follows the verb anyway, so the participle stays invariable: « elle s'est rendu compte ». (Contrast « elle s'est revue », where « se » is the direct object.)"
     },
     {
       "text": "Trompées par une fausse promesse d'embauche, elles se sont {1} avoir par des escrocs.",
       "blanks": [
-        { "cue": "faire", "answer": ["fait"], "hint": "« se faire + infinitif »: the participle « fait » is ALWAYS invariable in this construction, like the causative « faire faire »" }
+        {
+          "cue": "faire",
+          "answer": [
+            "fait"
+          ],
+          "hint": "« se faire + infinitif »: the participle « fait » is ALWAYS invariable in this construction, like the causative « faire faire »"
+        }
       ],
       "explanation": "In the pronominal causative « se faire + infinitif » (« se faire avoir » = to be tricked), the past participle « fait » is ALWAYS invariable, exactly like the plain causative « faire + infinitif ». Even though the subject « elles » is feminine plural and « se » could look like a direct object, the rule that « fait » before an infinitive never agrees overrides pronominal agreement: « elles se sont fait avoir », never « faites ». This invariability was officially confirmed for « se faire » + infinitive (rectifications and Grevisse, _Le Bon Usage_)."
     },
     {
       "text": "Des compliments, elle en a {1} tant ce soir-là qu'elle a fini par rougir.",
       "blanks": [
-        { "cue": "recevoir", "answer": ["reçu"], "hint": "the pronoun « en » as direct object never triggers agreement, even with a quantity adverb: participle stays invariable" }
+        {
+          "cue": "recevoir",
+          "answer": [
+            "reçu"
+          ],
+          "hint": "the pronoun « en » as direct object never triggers agreement, even with a quantity adverb: participle stays invariable"
+        }
       ],
       "explanation": "With « avoir », the pronoun « en » is treated as a neuter/partitive (« of them ») and NEVER triggers agreement, even when a quantity adverb like « tant » or « beaucoup » accompanies it. So although « des compliments » is masculine plural and stands before the verb, the participle stays invariable: « elle en a reçu tant ». Contrast a true preceding object: « les compliments qu'elle a reçus »."
     },
     {
       "text": "Les militantes se sont {1} de longues heures avant de trouver un compromis.",
       "blanks": [
-        { "cue": "succéder", "answer": ["succédé"], "hint": "pronominal verb where « se » is COI (succéder À quelqu'un): no agreement, participle invariable despite the feminine plural subject" }
+        {
+          "cue": "succéder",
+          "answer": [
+            "succédé"
+          ],
+          "hint": "pronominal verb where « se » is COI (succéder À quelqu'un): no agreement, participle invariable despite the feminine plural subject"
+        }
       ],
       "explanation": "« Se succéder » comes from « succéder À quelqu'un », so the reflexive « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable despite the feminine plural subject « les militantes »: « elles se sont succédé ». (Compare « se parler » and « se sourire », likewise built on « à » → no agreement.)"
     },
     {
       "text": "Les robes qu'elle s'est {1} pour la cérémonie lui ont coûté une fortune.",
       "blanks": [
-        { "cue": "acheter", "answer": ["achetées"], "hint": "pronominal verb with a PRECEDING direct object « que » (= les robes): agreement is with that object, not with « se » (which is COI here)" }
+        {
+          "cue": "acheter",
+          "answer": [
+            "achetées"
+          ],
+          "hint": "pronominal verb with a PRECEDING direct object « que » (= les robes): agreement is with that object, not with « se » (which is COI here)"
+        }
       ],
       "explanation": "« S'acheter quelque chose » = « acheter quelque chose À soi-même », so the reflexive « se » is an INDIRECT object and triggers no agreement by itself. But the rule of the preceding direct object still applies: « que » refers to « les robes » (feminine plural) and stands BEFORE the verb, so the participle agrees with it — « les robes qu'elle s'est achetées ». Contrast « elle s'est acheté une robe » (object following → no agreement)."
     },
     {
       "text": "Cette mission était plus difficile que nous ne l'avions {1} au départ.",
       "blanks": [
-        { "cue": "penser", "answer": ["pensé"], "hint": "the neuter pronoun « l' » stands for a whole clause/idea, not a gendered noun: the participle stays invariable" }
+        {
+          "cue": "penser",
+          "answer": [
+            "pensé"
+          ],
+          "hint": "the neuter pronoun « l' » stands for a whole clause/idea, not a gendered noun: the participle stays invariable"
+        }
       ],
       "explanation": "Here the preceding pronoun « l' » is the NEUTER « le » that stands for an entire idea (« que la mission était difficile »), not for the feminine noun « mission ». A neuter « le/l' » representing a proposition is invariable, so the participle does NOT agree: « que nous ne l'avions pensé ». (The « ne » after the comparative « plus… que » is the « ne » explétif, not a negation.)"
     },
     {
       "text": "Les trois heures que le concert a {1} ont passé comme un éclair tant la musique était envoûtante.",
       "blanks": [
-        { "cue": "durer", "answer": ["duré"], "hint": "verb of duration: « que » is an adverbial complement of measure, NOT a direct object, so no agreement" }
+        {
+          "cue": "durer",
+          "answer": [
+            "duré"
+          ],
+          "hint": "verb of duration: « que » is an adverbial complement of measure, NOT a direct object, so no agreement"
+        }
       ],
       "explanation": "« Durer » here is intransitive: « le concert a duré trois heures ». The preceding « que » does not represent a DIRECT object but an adverbial complement of MEASURE / duration (it answers 'how long?', not 'what?'). Past participles of such verbs of duration, distance, price or weight (durer, coûter, valoir, peser, marcher, vivre, dormir, régner...) stay INVARIABLE when the preceding « que » expresses a quantity: « les trois heures que le concert a duré ». They would agree only in the rare figurative transitive use (« les efforts que ce projet m'a coûtés »). Grevisse, _Le Bon Usage_, treats this as a complément circonstanciel, hence no agreement."
     },
     {
       "text": "Au fil de leur correspondance, les deux romancières se sont beaucoup {1} l'une à l'autre.",
       "blanks": [
-        { "cue": "plaire", "answer": ["plu"], "hint": "« se plaire » (plaire À quelqu'un): « se » is COI, so the participle is ALWAYS invariable" }
+        {
+          "cue": "plaire",
+          "answer": [
+            "plu"
+          ],
+          "hint": "« se plaire » (plaire À quelqu'un): « se » is COI, so the participle is ALWAYS invariable"
+        }
       ],
       "explanation": "« Se plaire » derives from « plaire À quelqu'un », so the reflexive « se » is an INDIRECT object, never a direct one. The participle of « se plaire » — and likewise « se complaire », « se déplaire », « se rire », « se mentir », « se nuire », « se sourire », « se succéder » — is therefore ALWAYS INVARIABLE, whatever the gender and number of the subject: « les deux romancières se sont plu ». The adverbial « l'une à l'autre » confirms the indirect (à) construction. Grevisse, _Le Bon Usage_, lists these verbs among those whose reflexive pronoun is an indirect object, hence no agreement."
     },
     {
       "text": "Les tartes qu'elle a {1} pour la kermesse ont disparu en quelques minutes.",
       "blanks": [
-        { "cue": "préparer", "answer": ["préparées"], "hint": "avoir + preceding direct object: « que » = les tartes (f.pl.) placed before the verb forces agreement" }
+        {
+          "cue": "préparer",
+          "answer": [
+            "préparées"
+          ],
+          "hint": "avoir + preceding direct object: « que » = les tartes (f.pl.) placed before the verb forces agreement"
+        }
       ],
       "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here the relative « que » refers to « les tartes » (feminine plural) and stands before the verb, so the participle agrees: « les tartes qu'elle a préparées ». Contrast « elle a préparé des tartes » (object following → no agreement)."
     },
     {
       "text": "Les deux amies se sont {1} presque tous les jours pendant leur séjour à l'étranger.",
       "blanks": [
-        { "cue": "téléphoner", "answer": ["téléphoné"], "hint": "pronominal verb where « se » is COI (téléphoner À quelqu'un): no agreement, participle stays invariable" }
+        {
+          "cue": "téléphoner",
+          "answer": [
+            "téléphoné"
+          ],
+          "hint": "pronominal verb where « se » is COI (téléphoner À quelqu'un): no agreement, participle stays invariable"
+        }
       ],
       "explanation": "« Se téléphoner » comes from « téléphoner À quelqu'un », so the reflexive pronoun « se » is an INDIRECT object, not a direct one. With pronominal verbs, the participle agrees only with a direct-object reflexive pronoun; here it stays invariable despite the feminine plural subject: « elles se sont téléphoné ». (Compare « se parler », « se sourire », « se succéder », likewise built on « à » → no agreement.)"
     },
     {
       "text": "Des romans policiers, il en a {1} des dizaines pendant ses vacances.",
       "blanks": [
-        { "cue": "lire", "answer": ["lu"], "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable" }
+        {
+          "cue": "lire",
+          "answer": [
+            "lu"
+          ],
+          "hint": "the pronoun « en » as direct object never triggers agreement: participle stays invariable"
+        }
       ],
       "explanation": "With « avoir », a preceding direct object normally forces agreement, but the pronoun « en » is a recognized EXCEPTION: it is treated as a neuter/partitive (« of them ») and never triggers agreement. So although « des romans policiers » is masculine plural, the participle stays invariable: « il en a lu des dizaines ». Contrast a true preceding object: « les romans qu'il a lus »."
     },
     {
       "text": "Les enfants que nous avons {1} grandir sont aujourd'hui des adultes accomplis.",
       "blanks": [
-        { "cue": "voir", "answer": ["vus"], "hint": "participe passé + infinitive: the preceding object 'les enfants' DOES the action of « grandir », so agreement applies" }
+        {
+          "cue": "voir",
+          "answer": [
+            "vus"
+          ],
+          "hint": "participe passé + infinitive: the preceding object 'les enfants' DOES the action of « grandir », so agreement applies"
+        }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les enfants » are the ones who grow — they are the SUBJECT of « grandir » — so the participle agrees with them (masculine plural): « les enfants que nous avons vus grandir ». Contrast « les airs que j'ai entendu jouer », where the object is played, not the doer, hence no agreement."
     },
     {
       "text": "Les mesures que le conseil municipal a {1} hier soir ont surpris tous les habitants.",
       "blanks": [
-        { "cue": "prendre", "answer": ["prises"], "hint": "avoir + preceding direct object: « que » = les mesures (f.pl.) placed before the verb forces agreement" }
+        {
+          "cue": "prendre",
+          "answer": [
+            "prises"
+          ],
+          "hint": "avoir + preceding direct object: « que » = les mesures (f.pl.) placed before the verb forces agreement"
+        }
       ],
       "explanation": "With « avoir », the participle agrees with a PRECEDING direct object. Here the relative « que » refers to « les mesures » (feminine plural) and stands before the verb, so the participle agrees: « les mesures que le conseil a prises ». Contrast « le conseil a pris des mesures » (object following the verb → no agreement)."
     },
     {
       "text": "Les danseuses que nous avons {1} évoluer sur scène étaient d'une grâce rare.",
       "blanks": [
-        { "cue": "regarder", "answer": ["regardées"], "hint": "participe passé + infinitive: the preceding object 'les danseuses' DOES the action of « évoluer », so agreement applies" }
+        {
+          "cue": "regarder",
+          "answer": [
+            "regardées"
+          ],
+          "hint": "participe passé + infinitive: the preceding object 'les danseuses' DOES the action of « évoluer », so agreement applies"
+        }
       ],
       "explanation": "When a participle is followed by an infinitive, it agrees only if the preceding direct object PERFORMS the action of the infinitive. Here « les danseuses » are the ones who move about — they are the SUBJECT of « évoluer » — so the participle agrees with them (feminine plural): « les danseuses que nous avons regardées évoluer ». Contrast « les airs que j'ai entendu jouer », where the object undergoes the action rather than performing it, hence no agreement."
     },
     {
       "text": "Les enfants qu'elle a {1} jouer dans le jardin sont rentrés couverts de boue.",
       "blanks": [
-        { "cue": "laisser", "answer": ["laissés", "laissé"], "hint": "« laisser » + infinitive: traditionally agrees when the preceding object performs the action (« laissés »); the 1990 reform makes it invariable (« laissé ») like « fait » — both accepted" }
+        {
+          "cue": "laisser",
+          "answer": [
+            "laissés",
+            "laissé"
+          ],
+          "hint": "« laisser » + infinitive: traditionally agrees when the preceding object performs the action (« laissés »); the 1990 reform makes it invariable (« laissé ») like « fait » — both accepted"
+        }
       ],
       "explanation": "Unlike « faire », which is always invariable, « laisser » + infinitive is a debated case. Under the TRADITIONAL rule it agrees like other participles followed by an infinitive when the preceding direct object performs the action: « les enfants » are the ones playing (subject of « jouer »), so « les enfants qu'elle a laissés jouer ». The 1990 rectifications orthographiques, however, align « laissé + infinitif » with « fait » and make it ALWAYS INVARIABLE: « qu'elle a laissé jouer ». Both « laissés » (traditional) and « laissé » (reformed) are therefore correct today. (Grevisse, _Le Bon Usage_; rectifications de 1990.)"
+    },
+    {
+      "text": "Les critiques acerbes que cette décision lui a {1} l'ont profondément affecté.",
+      "blanks": [
+        {
+          "cue": "valoir",
+          "answer": [
+            "values"
+          ],
+          "hint": "figurative transitive « valoir » (to earn/bring): « que » = les critiques (f.pl.) is a REAL preceding direct object, so the participle agrees"
+        }
+      ],
+      "explanation": "Unlike its use as a verb of measure (« les mille euros que ce meuble a valu » — invariable), « valoir » here is transitive in the figurative sense « to earn / bring » (« cette décision lui a valu des critiques »). « que » then represents a REAL preceding direct object, « les critiques » (feminine plural), so the participle agrees: « les critiques que cette décision lui a values ». Contrast the invariable « les heures que le concert a duré », a mere complement of measure. (Grevisse, _Le Bon Usage_.)"
+    },
+    {
+      "text": "Les deux amies se sont {1} de cette soirée pendant des années.",
+      "blanks": [
+        {
+          "cue": "se souvenir",
+          "answer": [
+            "souvenues"
+          ],
+          "hint": "verbe essentiellement pronominal (se souvenir de): « se » is not analyzable as COD or COI, so the participle agrees with the SUBJECT"
+        }
+      ],
+      "explanation": "« Se souvenir » is an ESSENTIALLY pronominal verb — it exists only in the pronominal form (there is no « souvenir quelqu'un »), so its « se » cannot be parsed as a direct or indirect object. For such verbs the participle simply agrees with the SUBJECT, here feminine plural: « les deux amies se sont souvenues ». This differs from « se parler » / « se succéder » (built on « à » → no agreement) and from « se rendre compte » (fixed locution → no agreement). (Grevisse, _Le Bon Usage_.)"
     }
   ]
 }
