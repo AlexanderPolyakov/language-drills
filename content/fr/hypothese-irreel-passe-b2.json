@@ -337,7 +337,7 @@
       "explanation": "« se souvenir » is an essentially pronominal verb conjugated with être; its participle agrees with the subject, so for « elle » the plus-que-parfait is « s'était souvenue » (feminine -e). The result clause uses « venir », a movement verb with être, so the conditionnel passé is « serait venue », again agreeing with the feminine subject « elle ». Together they form the irréel du passé: si + plus-que-parfait → conditionnel passé."
     },
     {
-      "text": "Si les deux sœurs ne s'{1} pendant tant d'années, elles ne se {2} jamais avec une telle émotion.",
+      "text": "Si les deux sœurs ne s'{1} pendant tant d'années, elles ne se {2} avec une telle émotion.",
       "blanks": [
         {
           "cue": "ne pas s'écrire",
@@ -347,9 +347,9 @@
           "hint": "plus-que-parfait pronominal négatif, « se » = COI (écrire à) → pas d'accord"
         },
         {
-          "cue": "se retrouver",
+          "cue": "ne jamais se retrouver",
           "answer": [
-            "seraient retrouvées"
+            "seraient jamais retrouvées"
           ],
           "hint": "conditionnel passé pronominal réciproque, « se » = COD → accord avec le sujet féminin pluriel"
         }
@@ -419,10 +419,10 @@
       "explanation": "Irréel du passé. « intervenir » follows the « venir » family and uses être, so the « si » clause takes the plus-que-parfait « était intervenu », the participle agreeing with the masculine singular subject « le médecin ». « se rétablir » is a reflexive pronominal verb where « se » is the DIRECT object, so the participle agrees with the subject: conditionnel passé « se serait rétabli » (masculine singular « le patient »)."
     },
     {
-      "text": "Je n'{1} jamais cette imprudence si on m'{2} du danger.",
+      "text": "Je n'{1} cette imprudence si on m'{2} du danger.",
       "blanks": [
         {
-          "cue": "commettre",
+          "cue": "ne jamais commettre",
           "answer": [
             "aurais jamais commis"
           ],
@@ -768,7 +768,7 @@
       "explanation": "Irréel du passé with a RECIPROCAL pronominal verb. In « se rencontrer » (« rencontrer l'une l'autre ») the reflexive « se » is the DIRECT object, so under être the participle AGREES with the subject: « elles s'étaient rencontrées » (feminine plural « -ées »). This differs from « se rendre compte », where « se » is indirect and the participle stays invariable. The result clause uses « devenir », a state-change verb conjugated with être, so the conditionnel passé also agrees with the feminine plural subject « elles »: « seraient devenues ». The feminine of the subject is fixed by « elles », so only the agreeing forms are correct here."
     },
     {
-      "text": "Ces deux sœurs {1} bien plus tôt si l'orgueil ne les {2} pas si longtemps.",
+      "text": "Ces deux sœurs {1} bien plus tôt si l'orgueil ne les {2} si longtemps.",
       "blanks": [
         {
           "cue": "se réconcilier",
@@ -778,9 +778,9 @@
           "hint": "conditionnel passé, verbe pronominal réciproque → être, « se » complément d'objet direct, accord avec le sujet « elles » (féminin pluriel)"
         },
         {
-          "cue": "séparer",
+          "cue": "ne pas séparer",
           "answer": [
-            "avait séparées"
+            "avait pas séparées"
           ],
           "hint": "plus-que-parfait, auxiliaire avoir, accord du participe avec le COD antéposé « les » (= les deux sœurs, féminin pluriel), négation autour de l'auxiliaire"
         }
@@ -1234,7 +1234,7 @@
       "explanation": "Irréel du passé. « rester » is conjugated with être, so the plus-que-parfait « étions restés » agrees with the subject « nous » (masculine/mixed « restés », all-feminine « restées »). The result clause uses « assister à », which is INDIRECTLY transitive (« assister à quelque chose »): with avoir and no preceding direct object, the conditionnel passé « aurions assisté » stays invariable."
     },
     {
-      "text": "Elle {1} dans le torrent si un berger ne l'{2} pas à temps.",
+      "text": "Elle {1} dans le torrent si un berger ne l'{2} à temps.",
       "blanks": [
         {
           "cue": "se noyer",
@@ -1244,9 +1244,9 @@
           "hint": "conditionnel passé, pronominal réfléchi → être, « se » = COD, accord avec « elle » (fém.)"
         },
         {
-          "cue": "secourir",
+          "cue": "ne pas secourir",
           "answer": [
-            "avait secourue"
+            "avait pas secourue"
           ],
           "hint": "plus-que-parfait, auxiliaire avoir, COD antéposé « l' » (= elle, fém.) → accord, négation autour de l'auxiliaire"
         }

@@ -354,7 +354,7 @@
           "level": "C2",
           "title": "Advanced concessive and contrast structures",
           "file": "en/concessive-clauses-c2.json",
-          "count": 43
+          "count": 42
         },
         {
           "id": "en-discourse-markers-c2",
@@ -696,7 +696,7 @@
           "level": "C1",
           "title": "Le passé simple : le temps du récit littéraire",
           "file": "fr/passe-simple-c1.json",
-          "count": 54
+          "count": 50
         },
         {
           "id": "fr-concordance-des-temps-c2",

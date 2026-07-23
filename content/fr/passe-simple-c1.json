@@ -348,26 +348,6 @@
       "explanation": "« paraître » follows the « -u » family like « connaître », with the stem « par- » → « il parut » (the infinitive's circumflex disappears in the passé simple). « pouvoir » also belongs to the « -u » family → « il put » — note « put » carries no circumflex in the 3rd person singular (the circumflex marks « pût », which is the subjonctif imparfait). Both report completed events in this literary narration."
     },
     {
-      "text": "Le moine {1} le vieux manuscrit à voix basse, puis {2} une gorgée d'eau fraîche.",
-      "blanks": [
-        {
-          "cue": "lire",
-          "answer": [
-            "lut"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
-        },
-        {
-          "cue": "boire",
-          "answer": [
-            "but"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → but"
-        }
-      ],
-      "explanation": "« lire » suit la famille en « -u » avec le radical « lu- » → « il lut ». « boire » suit également la famille en « -u » avec le radical « bu- » → « il but ». Aucune des deux formes ne porte d'accent circonflexe à la 3e personne du singulier. Toutes deux rapportent des actions ponctuelles et achevées, emploi caractéristique du passé simple dans le récit littéraire."
-    },
-    {
       "text": "Les enfants {1} jusqu'à la rivière, où ils {2} une barque abandonnée.",
       "blanks": [
         {
@@ -386,26 +366,6 @@
         }
       ],
       "explanation": "« courir » suit la famille en « -u » (radical « cour- ») → 3e pers. plur. « ils coururent ». « apercevoir », comme « recevoir », suit la famille en « -u » avec la cédille devant le « u » → « ils aperçurent ». Aucun accent circonflexe à la 3e personne du passé simple : le circonflexe ne marque que les formes nous/vous. Les deux verbes narrent des actions achevées dans le récit littéraire."
-    },
-    {
-      "text": "Le savant {1} le manuscrit jusqu'à l'aube, puis {2} une longue lettre à son maître.",
-      "blanks": [
-        {
-          "cue": "lire",
-          "answer": [
-            "lut"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → lut"
-        },
-        {
-          "cue": "écrire",
-          "answer": [
-            "écrivit"
-          ],
-          "hint": "passé simple, 3e pers. sing. — radical irrégulier écriv- → écrivit"
-        }
-      ],
-      "explanation": "« lire » belongs to the « -u » family with the stem « l- » → 3rd singular « il lut ». « écrire » keeps the special stem « écriv- » → « il écrivit » (a regular -RE-type ending -it grafted onto the irregular stem). Both report punctual, completed narrative actions, hence the passé simple in this literary récit."
     },
     {
       "text": "Le vieil ermite {1} au cœur de l'hiver, et nul ne {2} jamais son véritable nom.",
@@ -446,26 +406,6 @@
         }
       ],
       "explanation": "« croire » follows the « -u » family with the stem « cru- » → 3rd plural « ils crurent ». « recevoir » also belongs to the « -u » family → « il reçut »; the cédille on the « ç » keeps the soft [s] sound before « u ». Note that neither form carries a circumflex in the 3rd person. Both narrate completed events in the past."
-    },
-    {
-      "text": "Le moine {1} la chronique de son temps, puis {2} avant de l'achever.",
-      "blanks": [
-        {
-          "cue": "écrire",
-          "answer": [
-            "écrivit"
-          ],
-          "hint": "passé simple, 3e pers. sing. — radical écriv- → écrivit"
-        },
-        {
-          "cue": "mourir",
-          "answer": [
-            "mourut"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
-        }
-      ],
-      "explanation": "« écrire » has the irregular passé simple stem « écriv- » → 3rd singular « il écrivit » (a -it ending, like « il conduisit »). « mourir » belongs to the « -u » family with the stem « mour- » → « il mourut » (distinct from the future « il mourra »). Both express single, completed actions framing the narrative, the characteristic use of the passé simple."
     },
     {
       "text": "L'enfant {1} le grimoire à voix basse, puis {2} entendre un murmure.",
@@ -1066,26 +1006,6 @@
         }
       ],
       "explanation": "« lire » and « boire » both follow the « -u » family: 3rd singular « il lut », « il but ». « lut » must be distinguished from the present « il lit »; « but » is a homograph of the noun « un but » (a goal), disambiguated by context. Neither takes a circumflex in the 3rd person singular (contrast the nous/vous forms « nous lûmes », « nous bûmes »). Both report punctual, completed actions in the récit."
-    },
-    {
-      "text": "Le vieux roi {1} en silence, et personne ne {2} jamais son dernier secret.",
-      "blanks": [
-        {
-          "cue": "mourir",
-          "answer": [
-            "mourut"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → mourut"
-        },
-        {
-          "cue": "savoir",
-          "answer": [
-            "sut"
-          ],
-          "hint": "passé simple, 3e pers. sing. — famille en -u → sut"
-        }
-      ],
-      "explanation": "« mourir » follows the « -u » family with the stem « mour- » → « il mourut » (distinct from the past participle « mort »). « savoir » likewise gives « il sut » (stem « su- »). Both report punctual, completed events in this literary récit."
     }
   ]
 }

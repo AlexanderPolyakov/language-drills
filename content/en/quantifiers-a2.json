@@ -31,7 +31,7 @@
     { "text": "We bought {1} new furniture.", "blanks": [ { "options": ["many", "any", "some"], "answer": "some" } ], "explanation": "Affirmative + uncountable 'furniture' takes 'some'." },
     { "text": "How {1} languages can you speak?", "blanks": [ { "options": ["some", "much", "many"], "answer": "many" } ], "explanation": "'How many' with countable 'languages'." },
     { "text": "There isn't {1} space in the bag.", "blanks": [ { "options": ["any", "much", "many"], "answer": "much" } ], "explanation": "Negative + uncountable 'space' takes 'much'." },
-    { "text": "I saw {1} interesting shops downtown.", "blanks": [ { "options": ["some", "much", "any"], "answer": "some" } ], "explanation": "Affirmative + countable takes 'some'." },
+    { "text": "I saw {1} interesting shops in town.", "blanks": [ { "options": ["some", "much", "any"], "answer": "some" } ], "explanation": "Affirmative + countable takes 'some'." },
     { "text": "Do we need {1} milk from the shop?", "blanks": [ { "options": ["many", "any", "some"], "answer": "any" } ], "explanation": "Questions take 'any'." },
     { "text": "There are {1} of tourists in summer.", "blanks": [ { "options": ["a lot", "much", "any"], "answer": "a lot" } ], "explanation": "'a lot of' with countable 'tourists'." },
     { "text": "He doesn't eat {1} vegetables.", "blanks": [ { "options": ["much", "some", "many"], "answer": "many" } ], "explanation": "Negative + countable 'vegetables' takes 'many'." },
