@@ -218,7 +218,7 @@
           "level": "B1",
           "title": "Conditionals: choose the correct verb form",
           "file": "en/conditionals.json",
-          "count": 21
+          "count": 23
         },
         {
           "id": "en-passive-voice-b1",
@@ -242,7 +242,7 @@
           "level": "B1",
           "title": "Present perfect: write the correct form",
           "file": "en/verbs-present-perfect.json",
-          "count": 15
+          "count": 16
         },
         {
           "id": "en-relative-clauses-b1",
@@ -250,7 +250,7 @@
           "level": "B1",
           "title": "Relative clauses: who, which, that, whose, where, when",
           "file": "en/relative-clauses-b1.json",
-          "count": 20
+          "count": 22
         },
         {
           "id": "en-used-to-b1",
@@ -584,7 +584,7 @@
           "level": "B1",
           "title": "Le conditionnel présent",
           "file": "fr/conditional-b1.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "fr-conjugation-b1",
@@ -608,7 +608,7 @@
           "level": "B1",
           "title": "Imparfait ou passé composé ?",
           "file": "fr/imparfait-vs-passe-compose-b1.json",
-          "count": 15
+          "count": 17
         },
         {
           "id": "fr-relative-pronouns-b1",
@@ -616,7 +616,7 @@
           "level": "B1",
           "title": "Les pronoms relatifs",
           "file": "fr/relative-pronouns-b1.json",
-          "count": 20
+          "count": 21
         },
         {
           "id": "fr-subjunctive-present-b1",

@@ -229,6 +229,36 @@
         }
       ],
       "explanation": "Zero conditional for scientific facts: present simple in both clauses (heat … boils)."
+    },
+    {
+      "text": "If I {1} the tickets last week, we would be at the concert now.",
+      "blanks": [
+        {
+          "answer": "had booked",
+          "options": [
+            "had booked",
+            "booked",
+            "have booked"
+          ],
+          "hint": "mixed conditional: a past condition with a present result"
+        }
+      ],
+      "explanation": "Mixed conditional: a past condition uses the past perfect (had booked), while the present result takes 'would' + base verb ('would be at the concert now')."
+    },
+    {
+      "text": "If we lived nearer the coast, we {1} go swimming every day.",
+      "blanks": [
+        {
+          "answer": "could",
+          "options": [
+            "could",
+            "can",
+            "will"
+          ],
+          "hint": "second conditional; ability in an imagined present"
+        }
+      ],
+      "explanation": "In the second conditional the result can use 'could' + base verb to express ability in an unreal present situation: 'we could go swimming'."
     }
   ]
 }

@@ -81,6 +81,16 @@
       "text": "Quand j'ai ouvert les volets, il {1} sur les toits.",
       "blanks": [{ "cue": "neiger", "answer": ["neigeait"], "hint": "description of the setting, ongoing state" }],
       "explanation": "The snow describes the ongoing setting (the backdrop) at the moment of the one-off action « j'ai ouvert les volets »: imparfait, neigeait."
+    },
+    {
+      "text": "Je {1} la vaisselle quand mon frère est rentré du travail.",
+      "blanks": [{ "cue": "faire", "answer": ["faisais"], "hint": "ongoing action interrupted by an event" }],
+      "explanation": "The action was in progress (the backdrop) when a one-off event interrupted it (« est rentré »): imparfait, faisais."
+    },
+    {
+      "text": "La semaine dernière, nous {1} trois fois au cinéma.",
+      "blanks": [{ "cue": "aller", "answer": ["sommes allés", "sommes allées"], "hint": "counted, completed action; auxiliary être" }],
+      "explanation": "A specific, countable and completed action (« trois fois », « la semaine dernière ») uses the passé composé, not the imparfait; aller takes être and the past participle agrees with « nous »: sommes allés (or sommes allées if the group is all-female)."
     }
   ]
 }

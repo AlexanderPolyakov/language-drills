@@ -81,6 +81,16 @@
       "text": "À ta place, je {1} un médecin sans attendre.",
       "blanks": [{ "cue": "voir", "answer": ["verrais"], "hint": "advice; irregular stem verr-" }],
       "explanation": "« À ta place » introduces advice, expressed with the conditional. Voir has the irregular stem verr- + -ais = verrais."
+    },
+    {
+      "text": "{1}-vous l'heure, s'il vous plaît ?",
+      "blanks": [{ "cue": "avoir", "answer": ["Auriez"], "hint": "politeness, start of sentence (capital letter), irregular stem aur-" }],
+      "explanation": "The conditional softens the question into a polite request. Avoir has the irregular stem aur- + -iez = auriez (capitalized at the start of the sentence)."
+    },
+    {
+      "text": "À ta place, je lui {1} toute la vérité.",
+      "blanks": [{ "cue": "dire", "answer": ["dirais"], "hint": "advice; irregular stem dir-" }],
+      "explanation": "« À ta place » introduces advice, expressed with the conditional. Dire has the irregular stem dir- + -ais = dirais."
     }
   ]
 }

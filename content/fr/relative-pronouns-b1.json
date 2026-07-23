@@ -176,6 +176,21 @@
         }
       ],
       "explanation": "« téléphoner à quelqu'un »; when the « à » complement is a person, the preposition is followed by « qui »: à qui. The form « auquel » is reserved for inanimate antecedents."
+    },
+    {
+      "text": "La réunion {1} j'ai assisté hier était très longue.",
+      "blanks": [
+        {
+          "answer": "à laquelle",
+          "options": [
+            "à laquelle",
+            "auquel",
+            "à qui"
+          ],
+          "hint": "assister à + feminine singular inanimate référent (la réunion)"
+        }
+      ],
+      "explanation": "« assister à quelque chose »; after the preposition « à » with a feminine inanimate antecedent, use à laquelle. « auquel » is masculine and « à qui » is reserved for people."
     }
   ]
 }

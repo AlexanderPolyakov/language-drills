@@ -81,6 +81,11 @@
       "text": "They {1} their old car three years ago.",
       "blanks": [{ "cue": "sell", "answer": ["sold"] }],
       "explanation": "'ago' points to a finished moment in the past, so use the past simple, not the present perfect; sell → sold."
+    },
+    {
+      "text": "It {1} all afternoon, so the pavements are still wet.",
+      "blanks": [{ "cue": "rain", "answer": ["has been raining", "'s been raining"] }],
+      "explanation": "The present perfect continuous (has/have been + -ing) stresses a recent, extended activity whose result is visible now: has been raining."
     }
   ]
 }
