@@ -202,7 +202,7 @@
           "level": "B1",
           "title": "Articles in fixed expressions",
           "file": "en/articles-expressions.json",
-          "count": 14
+          "count": 16
         },
         {
           "id": "en-articles-geography",
@@ -210,7 +210,7 @@
           "level": "B1",
           "title": "Articles with place names",
           "file": "en/articles-geography.json",
-          "count": 12
+          "count": 14
         },
         {
           "id": "en-conditionals",
@@ -226,7 +226,7 @@
           "level": "B1",
           "title": "Passive voice: present and past simple",
           "file": "en/passive-voice-b1.json",
-          "count": 17
+          "count": 20
         },
         {
           "id": "en-past-continuous-b1",
@@ -242,7 +242,7 @@
           "level": "B1",
           "title": "Present perfect: write the correct form",
           "file": "en/verbs-present-perfect.json",
-          "count": 12
+          "count": 15
         },
         {
           "id": "en-relative-clauses-b1",
@@ -584,7 +584,7 @@
           "level": "B1",
           "title": "Le conditionnel présent",
           "file": "fr/conditional-b1.json",
-          "count": 12
+          "count": 15
         },
         {
           "id": "fr-conjugation-b1",
@@ -608,7 +608,7 @@
           "level": "B1",
           "title": "Imparfait ou passé composé ?",
           "file": "fr/imparfait-vs-passe-compose-b1.json",
-          "count": 12
+          "count": 15
         },
         {
           "id": "fr-relative-pronouns-b1",
@@ -616,7 +616,7 @@
           "level": "B1",
           "title": "Les pronoms relatifs",
           "file": "fr/relative-pronouns-b1.json",
-          "count": 18
+          "count": 20
         },
         {
           "id": "fr-subjunctive-present-b1",
@@ -624,7 +624,7 @@
           "level": "B1",
           "title": "Le subjonctif présent",
           "file": "fr/subjunctive-present-b1.json",
-          "count": 20
+          "count": 22
         },
         {
           "id": "fr-vocabulary-b1",

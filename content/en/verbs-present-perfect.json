@@ -66,6 +66,21 @@
       "text": "He {1} his report, so he can relax now.",
       "blanks": [{ "cue": "already finish", "answer": ["has already finished", "'s already finished"] }],
       "explanation": "'already' (before the participle) stresses that something happened sooner than expected; finish → finished."
+    },
+    {
+      "text": "Have you ever {1} to Scotland?",
+      "blanks": [{ "cue": "be", "answer": ["been"] }],
+      "explanation": "For a completed visit you have returned from, use 'been' (not 'gone') in present perfect experience questions with 'ever': Have you ever been...?"
+    },
+    {
+      "text": "He {1} for the same company for twenty years.",
+      "blanks": [{ "cue": "work", "answer": ["has worked", "'s worked"] }],
+      "explanation": "'for' + a length of time (for twenty years) marks a situation continuing up to now, so use the present perfect: has worked."
+    },
+    {
+      "text": "They {1} their old car three years ago.",
+      "blanks": [{ "cue": "sell", "answer": ["sold"] }],
+      "explanation": "'ago' points to a finished moment in the past, so use the past simple, not the present perfect; sell → sold."
     }
   ]
 }

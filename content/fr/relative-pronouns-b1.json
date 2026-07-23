@@ -146,6 +146,36 @@
       "text": "C'est un résultat {1} nous sommes très fiers.",
       "blanks": [{ "answer": "dont", "options": ["dont", "que", "qui"], "hint": "être fier de quelque chose" }],
       "explanation": "The adjective « fier » is built with « de » (« être fier DE quelque chose »); « dont » replaces this « de » complement, so dont. « que » (direct object) and « qui » (subject) are wrong because the pronoun stands for a « de » complement, not a bare object or subject."
+    },
+    {
+      "text": "La collègue {1} je travaille est très sympathique.",
+      "blanks": [
+        {
+          "answer": "avec qui",
+          "options": [
+            "avec qui",
+            "avec laquelle",
+            "dont"
+          ],
+          "hint": "preposition avec + a person (la collègue)"
+        }
+      ],
+      "explanation": "After a preposition, a person is referred to with « qui »: « avec qui ». For an inanimate antecedent you would use « avec laquelle », but here the antecedent (« la collègue ») is a person."
+    },
+    {
+      "text": "Le voisin {1} j'ai téléphoné hier ne m'a pas rappelé.",
+      "blanks": [
+        {
+          "answer": "à qui",
+          "options": [
+            "à qui",
+            "auquel",
+            "dont"
+          ],
+          "hint": "téléphoner à quelqu'un (a person)"
+        }
+      ],
+      "explanation": "« téléphoner à quelqu'un »; when the « à » complement is a person, the preposition is followed by « qui »: à qui. The form « auquel » is reserved for inanimate antecedents."
     }
   ]
 }

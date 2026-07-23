@@ -289,6 +289,58 @@
         }
       ],
       "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
+    },
+    {
+      "text": "I always feel tired in {1} morning but wide awake at {2} night.",
+      "blanks": [
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'in ___ morning' is fixed"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'at night' is fixed"
+        }
+      ],
+      "explanation": "'In the morning' (also afternoon/evening) always keeps 'the', but 'at night' drops the article — learn each time phrase as a whole."
+    },
+    {
+      "text": "They travel to the coast by {1} car and sometimes go the last mile on {2} foot.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "by + means of transport"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "'on foot' is fixed"
+        }
+      ],
+      "explanation": "'By car' (like by bus, by train, by plane) takes no article, and 'on foot' is a fixed expression that also drops the article."
     }
   ]
 }

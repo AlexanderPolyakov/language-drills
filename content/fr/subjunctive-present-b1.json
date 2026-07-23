@@ -170,6 +170,32 @@
         }
       ],
       "explanation": "« il se peut que » is an impersonal expression of possibility and triggers the subjunctive. Venir in the subjunctive (ils): viennent."
+    },
+    {
+      "text": "Nous irons à la plage demain, à moins qu'il ne {1}.",
+      "blanks": [
+        {
+          "cue": "pleuvoir",
+          "answer": [
+            "pleuve"
+          ],
+          "hint": "à moins que + subjunctive, pleuvoir, il"
+        }
+      ],
+      "explanation": "« à moins que » introduces a restrictive condition and triggers the subjunctive. Pleuvoir in the subjunctive (il): pleuve (the « ne » is expletive, not a negation)."
+    },
+    {
+      "text": "Il est possible qu'ils {1} en retard à cause des travaux.",
+      "blanks": [
+        {
+          "cue": "arriver",
+          "answer": [
+            "arrivent"
+          ],
+          "hint": "il est possible que + subjunctive, arriver, ils"
+        }
+      ],
+      "explanation": "« il est possible que » expresses possibility and triggers the subjunctive. Arriver (a regular -er verb) in the subjunctive (ils) keeps the same form as the present indicative: arrivent."
     }
   ]
 }

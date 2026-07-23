@@ -237,6 +237,68 @@
         }
       ],
       "explanation": "Lakes take no article when named with 'Lake' (Lake Geneva, Lake Como); regions defined by a compass point take 'the' (the west, the north)."
+    },
+    {
+      "text": "{1} Danube flows through {2} Austria before reaching {3} Black Sea.",
+      "blanks": [
+        {
+          "answer": "The",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "—"
+          ],
+          "hint": "rivers"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "most single countries"
+        },
+        {
+          "answer": "the",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "named seas"
+        }
+      ],
+      "explanation": "Rivers take 'the' (the Danube); most countries take no article (Austria); seas take 'the' (the Black Sea)."
+    },
+    {
+      "text": "{1} Kilimanjaro is the highest mountain in {2} Africa.",
+      "blanks": [
+        {
+          "answer": "—",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "—"
+          ],
+          "hint": "a single named mountain"
+        },
+        {
+          "answer": "—",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "—"
+          ],
+          "hint": "continents"
+        }
+      ],
+      "explanation": "Individual mountains take no article (Kilimanjaro, Mount Everest), and continents take no article too (Africa, Asia, Europe)."
     }
   ]
 }

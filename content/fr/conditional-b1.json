@@ -66,6 +66,21 @@
       "text": "Ils {1} ravis de vous rencontrer un jour.",
       "blanks": [{ "cue": "être", "answer": ["seraient"], "hint": "possibility; stem ser-, ils" }],
       "explanation": "The conditional expresses a possibility. Être: ser- + -aient = seraient."
+    },
+    {
+      "text": "Si tu m'invitais, je {1} avec plaisir.",
+      "blanks": [{ "cue": "venir", "answer": ["viendrais"], "hint": "Si + imparfait, conditional; irregular stem viendr-" }],
+      "explanation": "After « Si + imparfait », the main clause is in the present conditional. Venir has the irregular stem viendr- + -ais = viendrais."
+    },
+    {
+      "text": "{1}-vous où se trouve la gare, s'il vous plaît ?",
+      "blanks": [{ "cue": "savoir", "answer": ["Sauriez"], "hint": "politeness, start of sentence (capital letter), irregular stem saur-" }],
+      "explanation": "The conditional softens the question into a polite request. Savoir has the irregular stem saur- + -iez = sauriez (capitalized at the start of the sentence)."
+    },
+    {
+      "text": "À ta place, je {1} un médecin sans attendre.",
+      "blanks": [{ "cue": "voir", "answer": ["verrais"], "hint": "advice; irregular stem verr-" }],
+      "explanation": "« À ta place » introduces advice, expressed with the conditional. Voir has the irregular stem verr- + -ais = verrais."
     }
   ]
 }
