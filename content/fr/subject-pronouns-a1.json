@@ -66,19 +66,6 @@
       "text": "{1} est professeur.",
       "blanks": [{ "cue": "pronoun: 3rd person singular masculine", "answer": ["Il"], "hint": "which one goes with 'est'?" }],
       "explanation": "For a man, use the pronoun 'il' (il est). At the start of a sentence, write 'Il'."
-    },
-    {
-      "text": "Je {1} content.",
-      "blanks": [
-        {
-          "cue": "être",
-          "answer": [
-            "suis"
-          ],
-          "hint": "je + être"
-        }
-      ],
-      "explanation": "'Je' elides to 'j'' only before a vowel (j'ai, j'aime). 'suis' begins with a consonant, so it stays 'je suis'."
     }
   ]
 }

@@ -148,7 +148,7 @@
       "explanation": "To regret that something did not happen in the past, we use 'wish + past perfect' ('had finished'); the speaker is sorry the roof was unfinished when the storm came."
     },
     {
-      "text": "If only I {1} (book) the tickets earlier; now they are all sold out.",
+      "text": "If only I {1} the tickets earlier; now they are all sold out.",
       "blanks": [
         {
           "cue": "book",
@@ -161,7 +161,7 @@
       "explanation": "'If only + past perfect' expresses a regret about a past action or omission ('had booked'); the speaker is sorry the tickets were not booked in time."
     },
     {
-      "text": "I'd rather you {1} (not tell) anyone about this for the moment.",
+      "text": "I'd rather you {1} anyone about this for the moment.",
       "blanks": [
         {
           "cue": "not tell",
@@ -175,7 +175,7 @@
       "explanation": "When 'would rather' refers to another person's action, it is followed by the past simple with present or future meaning: 'I'd rather you didn't tell anyone' expresses a present preference about what someone else does."
     },
     {
-      "text": "It's getting late; it's time we {1} (leave) for the airport.",
+      "text": "It's getting late; it's time we {1} for the airport.",
       "blanks": [
         {
           "cue": "leave",
@@ -188,7 +188,7 @@
       "explanation": "'It's time + subject + past simple' (the past subjunctive) means something is due to happen now, often with a hint that it is overdue: 'it's time we left' = we should leave now."
     },
     {
-      "text": "I wish my flat {1} (be) closer to the office; the daily commute exhausts me.",
+      "text": "I wish my flat {1} closer to the office; the daily commute exhausts me.",
       "blanks": [
         {
           "cue": "be",
@@ -202,7 +202,7 @@
       "explanation": "'Wish + past simple' describes a present situation we would like to be different; 'were' is the preferred subjunctive form for all persons, though 'was' is common informally."
     },
     {
-      "text": "If it hadn't been for your support, I {1} (give) up long ago.",
+      "text": "If it hadn't been for your support, I {1} up long ago.",
       "blanks": [
         {
           "cue": "give",
@@ -215,7 +215,7 @@
       "explanation": "'If it hadn't been for + noun' means 'without' and introduces an unreal past cause; with a past result it takes 'would have + past participle': the support is the reason the speaker did not give up."
     },
     {
-      "text": "If I had accepted their offer last spring, I {1} (earn) a much higher salary today.",
+      "text": "If I had accepted their offer last spring, I {1} a much higher salary today.",
       "blanks": [
         {
           "cue": "earn",
@@ -229,7 +229,7 @@
       "explanation": "A past condition ('had accepted') with a result located in the present ('today') is a mixed conditional taking 'would + base verb' (or 'would be earning') in the main clause, because the result holds now."
     },
     {
-      "text": "If Tom weren't so stubborn, he {1} (apologise) to her weeks ago.",
+      "text": "If Tom weren't so stubborn, he {1} to her weeks ago.",
       "blanks": [
         {
           "cue": "apologise",
@@ -243,7 +243,7 @@
       "explanation": "A general, ongoing present characteristic ('weren't so stubborn') combined with a past result ('weeks ago') uses 'would have + past participle' in the main clause."
     },
     {
-      "text": "I wish I {1} (know) how to swim; everyone else is heading into the sea without me.",
+      "text": "I wish I {1} how to swim; everyone else is heading into the sea without me.",
       "blanks": [
         {
           "cue": "know",

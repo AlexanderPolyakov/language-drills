@@ -158,11 +158,6 @@
       "explanation": "With 'elles', the verb ends in -ent: 'se préparent'."
     },
     {
-      "text": "Je {1} dès que le réveil sonne.",
-      "blanks": [{ "cue": "se lever", "answer": ["me lève"] }],
-      "explanation": "With 'je', the pronoun is 'me': 'me lève'."
-    },
-    {
       "text": "Tu {1} les cheveux avant de sortir.",
       "blanks": [{ "cue": "se coiffer", "answer": ["te coiffes"] }],
       "explanation": "With 'tu', the verb takes -es: 'te coiffes'."

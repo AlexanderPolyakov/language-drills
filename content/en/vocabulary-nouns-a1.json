@@ -20,7 +20,6 @@
     { "text": "I eat a red {1} for a healthy snack.", "blanks": [ { "options": ["apple", "pencil", "clock"], "answer": "apple" } ], "explanation": "An apple is a common fruit you can eat." },
     { "text": "We put butter on a slice of {1}.", "blanks": [ { "options": ["bread", "water", "paper"], "answer": "bread" } ], "explanation": "Bread is the food you put butter on." },
     { "text": "The baby drinks warm {1} from a bottle.", "blanks": [ { "options": ["milk", "salt", "ice"], "answer": "milk" } ], "explanation": "Milk is the white drink babies have." },
-    { "text": "My {1} is a girl in my family with the same parents as me.", "blanks": [ { "options": ["uncle", "cousin", "sister"], "answer": "sister" } ], "explanation": "A sister is a female with the same parents." },
     { "text": "When I am sick, I visit the {1}.", "blanks": [ { "options": ["doctor", "waiter", "painter"], "answer": "doctor" } ], "explanation": "A doctor helps you when you are sick." },
     { "text": "We sit on a {1} at the table.", "blanks": [ { "options": ["chair", "lamp", "cup"], "answer": "chair" } ], "explanation": "A chair is the furniture you sit on." },
     { "text": "My family lives in a big {1} with a garden.", "blanks": [ { "options": ["city", "house", "street"], "answer": "house" } ], "explanation": "A house is a building where a family lives." },

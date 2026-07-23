@@ -253,42 +253,6 @@
         }
       ],
       "explanation": "'On the whole' (in general) and 'by heart' (from memory) are fixed: the first keeps 'the', the second takes no article, while 'the end of' always takes 'the'."
-    },
-    {
-      "text": "He plays {1} piano every night, skips {2} dinner, and then listens to {3} radio.",
-      "blanks": [
-        {
-          "answer": "the",
-          "options": [
-            "a",
-            "an",
-            "the",
-            "—"
-          ],
-          "hint": "musical instruments"
-        },
-        {
-          "answer": "—",
-          "options": [
-            "a",
-            "an",
-            "the",
-            "—"
-          ],
-          "hint": "meals"
-        },
-        {
-          "answer": "the",
-          "options": [
-            "a",
-            "an",
-            "the",
-            "—"
-          ],
-          "hint": "'radio' here is a fixed expression that takes an article"
-        }
-      ],
-      "explanation": "Musical instruments take 'the' (the piano); meals take no article (dinner); 'the radio' takes 'the' — unlike 'watch television' which takes no article."
     }
   ]
 }

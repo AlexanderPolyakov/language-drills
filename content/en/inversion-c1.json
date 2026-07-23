@@ -116,14 +116,6 @@
       "prompt": "She has not enjoyed a film this much since she was a child. (begin with 'Not since')",
       "answer": ["Not since she was a child has she enjoyed a film this much."],
       "explanation": "The fronted negative time phrase 'Not since + clause' triggers inversion in the MAIN clause: the auxiliary 'has' precedes the subject 'she'. The subordinate clause 'she was a child' keeps normal order."
-    },
-    {
-      "prompt": "The manager not only apologised but also offered a refund. (begin with 'Not only')",
-      "answer": [
-        "Not only did the manager apologise but he also offered a refund.",
-        "Not only did the manager apologise but also offered a refund."
-      ],
-      "explanation": "Fronted 'Not only' needs inversion; with no auxiliary present, insert 'did' + bare infinitive: 'did the manager apologise'. The 'but also' clause keeps normal word order."
     }
   ]
 }

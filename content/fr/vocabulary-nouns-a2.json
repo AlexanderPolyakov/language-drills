@@ -40,7 +40,6 @@
     { "text": "L'{1} où je travaille est très grande.", "blanks": [ { "cue": "company", "answer": ["entreprise"] } ], "explanation": "entreprise = company/business (feminine)." },
     { "text": "Quelle belle {1} dans le ciel ce soir !", "blanks": [ { "cue": "moon", "answer": ["lune"] } ], "explanation": "lune = moon (feminine)." },
     { "text": "L'{1} dure trois mois ici.", "blanks": [ { "cue": "winter", "answer": ["hiver"] } ], "explanation": "hiver = winter (masculine)." },
-    { "text": "Je prends des {1} pendant mes congés.", "blanks": [ { "cue": "holidays", "answer": ["vacances"] } ], "explanation": "vacances = holidays (feminine, always plural)." },
-    {"text": "Nous avons une belle {1} sur le balcon.", "blanks": [{"cue": "view", "answer": ["vue"]}], "explanation": "Note: 'vue' is feminine (la vue = the view), so 'une belle vue'."}
+    { "text": "Je prends des {1} pendant mes congés.", "blanks": [ { "cue": "holidays", "answer": ["vacances"] } ], "explanation": "vacances = holidays (feminine, always plural)." }
   ]
 }

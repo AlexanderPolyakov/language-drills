@@ -151,7 +151,7 @@
       "explanation": "« se blesser » is a reflexive pronominal verb where « se » is the DIRECT object (« blesser soi-même »), so the participle AGREES with the feminine subject « elle »: « se serait blessée ». « intervenir » follows the « venir » family and uses être, so the plus-que-parfait is « étaient intervenus », the participle agreeing with the plural subject « les secours »; the negation wraps the auxiliary: « n'étaient pas intervenus »."
     },
     {
-      "text": "Si elles {1} (rester) chez elles, elles {2} (devenir) folles d'ennui.",
+      "text": "Si elles {1} chez elles, elles {2} folles d'ennui.",
       "blanks": [
         {
           "cue": "rester",
@@ -171,7 +171,7 @@
       "explanation": "Irréel du passé. « rester » (verbe d'état) and « devenir » (famille de « venir ») both conjugate with être, so the past participle AGREES in gender and number with the feminine-plural subject « elles ». The « si » clause takes the plus-que-parfait « étaient restées » and the result clause the conditionnel passé « seraient devenues » — both participles carry the feminine-plural « -es »."
     },
     {
-      "text": "Il {1} (recevoir) la médaille qu'il {2} (mériter) s'il avait persévéré.",
+      "text": "Il {1} la médaille qu'il {2} s'il avait persévéré.",
       "blanks": [
         {
           "cue": "recevoir",
@@ -191,7 +191,7 @@
       "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. For « recevoir », its object « la médaille » FOLLOWS the verb, so there is no agreement: the conditionnel passé is « aurait reçu » (an agreeing « reçue » would be wrong, the object being postposé). In the relative « la médaille qu'il avait méritée », the pronoun « que » = « la médaille » (feminine singular) precedes « mériter », so the participle MUST agree: « méritée » (plain « mérité » is incorrect here). Both verbs use avoir; agreement depends solely on the position of the direct object."
     },
     {
-      "text": "Si le capitaine {1} (descendre) à terre, l'équipage {2} (se révolter) aussitôt.",
+      "text": "Si le capitaine {1} à terre, l'équipage {2} aussitôt.",
       "blanks": [
         {
           "cue": "descendre",
@@ -233,7 +233,7 @@
       "explanation": "Irréel du passé. « se perdre » is a reflexive pronominal verb where « se » is the DIRECT object (« perdre soi-même »), so it takes être in the conditionnel passé and the participle AGREES with the subject « nous »: « nous serions perdus » (or « perdues » if all-feminine). In the « si » clause, « accompagner » uses avoir; here the direct-object pronoun « nous » PRECEDES the verb, so the participle agrees with it: « ne nous avait pas accompagnés » (or « accompagnées » if the « nous » group is feminine) — an invariable « accompagné » would be wrong because of the preceding direct object. Note the negation wraps the auxiliary: « ne … avait pas accompagnés »."
     },
     {
-      "text": "Si vous m'aviez écouté, vous {1} (éviter) ce piège où vous {2} (tomber).",
+      "text": "Si vous m'aviez écouté, vous {1} ce piège où vous {2}.",
       "blanks": [
         {
           "cue": "éviter",
@@ -256,7 +256,7 @@
       "explanation": "Irréel du passé with the order reversed (« si » clause first). « éviter » takes avoir and its object « ce piège » FOLLOWS the verb, so there is no agreement: conditionnel passé « auriez évité ». « tomber » is a movement verb conjugated with être, so the plus-que-parfait « étiez tombé » agrees with the subject « vous »; since « vous » can be a single man, a single woman (polite), or a group, all four forms « tombé / tombée / tombés / tombées » are acceptable depending on who is addressed."
     },
     {
-      "text": "Si je l'avais rencontrée plus tôt, je l'{1} (épouser) et nous {2} (être) heureux.",
+      "text": "Si je l'avais rencontrée plus tôt, je l'{1} et nous {2} heureux.",
       "blanks": [
         {
           "cue": "épouser",
@@ -337,7 +337,7 @@
       "explanation": "« se souvenir » is an essentially pronominal verb conjugated with être; its participle agrees with the subject, so for « elle » the plus-que-parfait is « s'était souvenue » (feminine -e). The result clause uses « venir », a movement verb with être, so the conditionnel passé is « serait venue », again agreeing with the feminine subject « elle ». Together they form the irréel du passé: si + plus-que-parfait → conditionnel passé."
     },
     {
-      "text": "Si les deux sœurs ne s'{1} (ne pas s'écrire) pendant tant d'années, elles ne se {2} (se retrouver) jamais avec une telle émotion.",
+      "text": "Si les deux sœurs ne s'{1} pendant tant d'années, elles ne se {2} avec une telle émotion.",
       "blanks": [
         {
           "cue": "ne pas s'écrire",
@@ -347,17 +347,17 @@
           "hint": "plus-que-parfait pronominal négatif, « se » = COI (écrire à) → pas d'accord"
         },
         {
-          "cue": "se retrouver",
+          "cue": "ne jamais se retrouver",
           "answer": [
-            "seraient retrouvées"
+            "seraient jamais retrouvées"
           ],
           "hint": "conditionnel passé pronominal réciproque, « se » = COD → accord avec le sujet féminin pluriel"
         }
       ],
-      "explanation": "Both verbs are pronominal, so both take être, but the agreement differs by the role of « se ». In « s'écrire » the sense is « écrire À l'une l'autre », so « se » is an INDIRECT object (COI) and the participle does NOT agree: « ne s'étaient pas écrit » (invariable « écrit »), with the negation wrapping the auxiliary. In « se retrouver » the sense is « retrouver l'une l'autre », so « se » is a DIRECT object (COD) and the participle AGREES with the feminine plural subject « les deux sœurs »: « se seraient retrouvées »."
+      "explanation": "Both verbs are pronominal, so both take être, but the agreement differs by the role of « se ». In « s'écrire » the sense is « écrire À l'une l'autre », so « se » is an INDIRECT object (COI) and the participle does NOT agree: « ne s'étaient pas écrit » (invariable « écrit »), with the negation wrapping the auxiliary. In « se retrouver » the sense is « retrouver l'une l'autre », so « se » is a DIRECT object (COD) and the participle AGREES with the feminine plural subject « les deux sœurs »: « ne se seraient jamais retrouvées », the « ne … jamais » wrapping the auxiliary."
     },
     {
-      "text": "La lettre que tu m'{1} (envoyer) hier, je l'{2} (lire) sur-le-champ si je l'avais trouvée dans ma boîte.",
+      "text": "La lettre que tu m'{1} hier, je l'{2} sur-le-champ si je l'avais trouvée dans ma boîte.",
       "blanks": [
         {
           "cue": "envoyer",
@@ -377,7 +377,7 @@
       "explanation": "With the auxiliary avoir, the past participle agrees with a DIRECT object placed BEFORE the verb. In the « si »-style clause « la lettre que tu m'avais envoyée », the relative « que » = « la lettre » (féminin singulier) precedes the verb, so the participle agrees: « envoyée » (« envoyé » would be wrong here). In the result clause « je l'aurais lue », the pronoun « l' » = « la lettre » also precedes the verb, forcing agreement: « lue » (not « lu »). Both verbs use avoir; the agreement is triggered solely by the antéposed feminine object, not by the subject « je »."
     },
     {
-      "text": "Si nous nous {1} (se lever) à l'aube, nous {2} (monter) au sommet avant que l'orage n'éclate.",
+      "text": "Si nous nous {1} à l'aube, nous {2} au sommet avant que l'orage n'éclate.",
       "blanks": [
         {
           "cue": "se lever",
@@ -399,7 +399,7 @@
       "explanation": "« se lever » is a reflexive pronominal verb where « se » is the DIRECT object (« lever soi-même »), so it takes être and the participle AGREES with the subject « nous »: « nous étions levés » (or « levées » if the group is all-feminine). « monter » here is intransitive (« monter au sommet »), a movement verb conjugated with être, so its participle also agrees with « nous »: « nous serions montés » (or « montées »). Note that « monter » can take avoir when transitive (« monter l'escalier »), but with the bare destination it stays an être verb with subject agreement."
     },
     {
-      "text": "Si le médecin {1} (intervenir) plus tôt, le patient {2} (se rétablir) sans séquelles.",
+      "text": "Si le médecin {1} plus tôt, le patient {2} sans séquelles.",
       "blanks": [
         {
           "cue": "intervenir",
@@ -419,10 +419,10 @@
       "explanation": "Irréel du passé. « intervenir » follows the « venir » family and uses être, so the « si » clause takes the plus-que-parfait « était intervenu », the participle agreeing with the masculine singular subject « le médecin ». « se rétablir » is a reflexive pronominal verb where « se » is the DIRECT object, so the participle agrees with the subject: conditionnel passé « se serait rétabli » (masculine singular « le patient »)."
     },
     {
-      "text": "Je n'{1} (commettre) jamais cette imprudence si on m'{2} (avertir) du danger.",
+      "text": "Je n'{1} cette imprudence si on m'{2} du danger.",
       "blanks": [
         {
-          "cue": "commettre",
+          "cue": "ne jamais commettre",
           "answer": [
             "aurais jamais commis"
           ],
@@ -440,7 +440,7 @@
       "explanation": "Result clause first, with the negation « ne… jamais » wrapping the auxiliary: conditionnel passé « je n'aurais jamais commis ». No agreement, since the direct object « cette imprudence » FOLLOWS the verb. The « si » clause uses « avertir » with avoir in the plus-que-parfait « avait averti »; « avertir quelqu'un » is directly transitive, so the preceding direct-object pronoun « m' » (= « je ») allows agreement: « averti » if « je » is masculine, « avertie » if feminine."
     },
     {
-      "text": "Si j'{1} (savoir) la nouvelle plus tôt, je {2} (réagir) tout autrement.",
+      "text": "Si j'{1} la nouvelle plus tôt, j'{2} tout autrement.",
       "blanks": [
         {
           "cue": "savoir",
@@ -460,7 +460,7 @@
       "explanation": "Irréel du passé. The « si » clause takes the plus-que-parfait of « savoir » with avoir: « avais su »; the direct object « la nouvelle » follows the verb, so there is no participle agreement. The result clause uses the conditionnel passé of « réagir » with avoir: « aurais réagi » (intransitive, no agreement). The unfulfilled past condition explains the regret."
     },
     {
-      "text": "Vous {1} (rester) en bonne santé si vous {2} (suivre) les conseils du médecin.",
+      "text": "Vous {1} en bonne santé si vous {2} les conseils du médecin.",
       "blanks": [
         {
           "cue": "rester",
@@ -483,7 +483,7 @@
       "explanation": "Here the result clause comes first. « rester » is a verb of state conjugated with être, so the conditionnel passé is « seriez restés », the participle agreeing with the subject « vous » (plural « restés/restées », or singular « resté/restée » for a polite « vous »). The « si » clause uses « suivre » with avoir: « aviez suivi »; the object « les conseils » follows the verb, so the participle stays invariable."
     },
     {
-      "text": "Elles ne se {1} (disputer) si chacune {2} (faire) un effort.",
+      "text": "Elles ne se {1} si chacune {2} un effort.",
       "blanks": [
         {
           "cue": "se disputer",
@@ -503,7 +503,7 @@
       "explanation": "« se disputer » is a reciprocal pronominal verb where « se » is the direct object (« se disputer l'une l'autre »), so it takes être and the participle AGREES with the feminine plural subject « elles »: « ne se seraient jamais disputées » — the negation « ne … jamais » wraps the auxiliary. The « si » clause uses « faire » with avoir; the subject « chacune » is grammatically singular, so the plus-que-parfait is « avait fait »."
     },
     {
-      "text": "Si vous m'{1} (rendre) les documents à temps, nous {2} (conclure) l'accord hier.",
+      "text": "Si vous m'{1} les documents à temps, nous {2} l'accord hier.",
       "blanks": [
         {
           "cue": "rendre",
@@ -523,7 +523,7 @@
       "explanation": "Irréel du passé. The « si » clause uses the plus-que-parfait of « rendre » with avoir: « aviez rendu ». There is no participle agreement here because the direct object « les documents » FOLLOWS the verb (the pronoun « m' » is an indirect object, « rendre quelque chose à quelqu'un », and never triggers agreement). The result clause uses « conclure » with avoir in the conditionnel passé: « nous aurions conclu » — note the participle « conclu » (no -t), with no agreement."
     },
     {
-      "text": "Ces lettres, elle ne les {1} (jamais écrire) si elle {2} (se douter) de leur publication.",
+      "text": "Ces lettres, elle ne les {1} si elle {2} de leur publication.",
       "blanks": [
         {
           "cue": "jamais écrire",
@@ -543,7 +543,7 @@
       "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb: here the pronoun « les » = « ces lettres » (feminine plural) precedes « écrire », so the participle MUST agree: « écrites ». The conditionnel passé negative wraps the auxiliary: « elle ne les aurait jamais écrites ». « se douter » is an essentially pronominal verb conjugated with être, and its participle agrees with the feminine subject « elle »: « elle s'était doutée » (plus-que-parfait)."
     },
     {
-      "text": "Si le pont {1} (ne pas s'effondrer), les villageois {2} (pouvoir) fuir l'inondation.",
+      "text": "Si le pont {1}, les villageois {2} fuir l'inondation.",
       "blanks": [
         {
           "cue": "ne pas s'effondrer",
@@ -563,7 +563,7 @@
       "explanation": "« s'effondrer » is an essentially pronominal verb (it exists only with the pronoun), so it takes être and its participle agrees with the masculine singular subject « le pont »: « effondré ». The negation in the plus-que-parfait wraps the auxiliary: « le pont ne s'était pas effondré ». The result clause uses « pouvoir » with avoir in the conditionnel passé: « les villageois auraient pu fuir » — the participle « pu » is invariable (avoir, no preceding direct object)."
     },
     {
-      "text": "Si tu {1} (suivre) les conseils que je t'{2} (donner), tu n'aurais pas échoué.",
+      "text": "Si tu {1} les conseils que je t'{2}, tu n'aurais pas échoué.",
       "blanks": [
         {
           "cue": "suivre",
@@ -583,7 +583,7 @@
       "explanation": "Irréel du passé. With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les conseils que je t'avais donnés », the relative « que » = « les conseils » (masculine plural) precedes « donner », so the participle MUST agree: « donnés ». For « suivre », the object « les conseils » FOLLOWS the verb, so there is no agreement: the plus-que-parfait stays « avais suivi »."
     },
     {
-      "text": "Elle {1} (devenir) une grande artiste si elle {2} (naître) dans un autre milieu.",
+      "text": "Elle {1} une grande artiste si elle {2} dans un autre milieu.",
       "blanks": [
         {
           "cue": "devenir",
@@ -603,7 +603,7 @@
       "explanation": "Irréel du passé. Both « devenir » (a verb of state-change of the « venir » family) and « naître » are conjugated with être, so the past participle AGREES with the feminine singular subject « elle ». The result clause takes the conditionnel passé « serait devenue » and the « si » clause the plus-que-parfait « était née » — both participles carry the feminine -e."
     },
     {
-      "text": "Si les deux sœurs {1} (se parler) plus tôt, elles {2} (éviter) ce long malentendu.",
+      "text": "Si les deux sœurs {1} plus tôt, elles {2} ce long malentendu.",
       "blanks": [
         {
           "cue": "se parler",
@@ -623,7 +623,7 @@
       "explanation": "Pronominal verbs take être, so « se parler » in the plus-que-parfait is « s'étaient parlé ». Crucially the participle does NOT agree: in « se parler », « se » is an INDIRECT object (on parle À quelqu'un), so « parlé » stays invariable despite the feminine plural subject « les deux sœurs ». The result clause uses « éviter » with avoir; the direct object « ce long malentendu » FOLLOWS the verb, so there is no agreement either: conditionnel passé « auraient évité »."
     },
     {
-      "text": "Tu {1} (tomber) de l'échelle si je ne t'{2} (retenir) à temps.",
+      "text": "Tu {1} de l'échelle si je ne t'{2} à temps.",
       "blanks": [
         {
           "cue": "tomber",
@@ -645,7 +645,7 @@
       "explanation": "Irréel du passé. « tomber » is a movement verb conjugated with être, so the conditionnel passé is « serais tombé », the participle agreeing with the subject « tu »: « tombé » if « tu » is masculine, « tombée » if feminine. The « si » clause uses « retenir » with avoir; the direct-object pronoun « t' » (= « tu ») PRECEDES the verb, so the participle agrees with it: « avais retenu » (masc.) or « avais retenue » (fem.), according to the sex of the addressee."
     },
     {
-      "text": "Si l'alpiniste {1} (monter) trop vite, il {2} (ne pas atteindre) le sommet sain et sauf.",
+      "text": "Si l'alpiniste {1} trop vite, il {2} le sommet sain et sauf.",
       "blanks": [
         {
           "cue": "monter",
@@ -666,7 +666,7 @@
       "explanation": "Irréel du passé. Used INTRANSITIVELY (here, no direct object — « monter » = se déplacer vers le haut), « monter » takes être, so the plus-que-parfait is « était monté », the participle agreeing with the subject « l'alpiniste » (masculine « monté » by default, or « montée » if the climber is a woman). The result clause uses « atteindre » with avoir; its direct object « le sommet » FOLLOWS the verb, so no agreement: the negation wraps the auxiliary → « n'aurait pas atteint »."
     },
     {
-      "text": "Si le jury {1} (relire) attentivement les copies, il {2} (revenir) sur sa décision.",
+      "text": "Si le jury {1} attentivement les copies, il {2} sur sa décision.",
       "blanks": [
         {
           "cue": "relire",
@@ -686,7 +686,7 @@
       "explanation": "Irréel du passé. In the « si » clause, « relire » takes avoir and its object « les copies » FOLLOWS the verb, so there is no agreement: « avait relu ». The result clause uses « revenir », a movement verb with être; the participle agrees with the masculine-singular subject « le jury »: « serait revenu ». Clause order (si-clause first here) does not change the verb forms."
     },
     {
-      "text": "Si j'{1} (savoir), je ne {2} (rien dire) devant tout le monde.",
+      "text": "Si j'{1}, je {2} devant tout le monde.",
       "blanks": [
         {
           "cue": "savoir",
@@ -706,7 +706,7 @@
       "explanation": "Irréel du passé (a classic regret). The « si » clause uses the plus-que-parfait « avais su » (« savoir » takes avoir, no preceding direct object, so no agreement). The result clause uses the conditionnel passé with avoir; in the negation « ne … rien » the « rien » slips between the auxiliary and the participle: « je n'aurais rien dit »."
     },
     {
-      "text": "Elles {1} (rester) chez elles ce soir-là si on les {2} (avertir) du danger.",
+      "text": "Elles {1} chez elles ce soir-là si on les {2} du danger.",
       "blanks": [
         {
           "cue": "rester",
@@ -726,7 +726,7 @@
       "explanation": "Irréel du passé. « rester » is a state verb conjugated with être, so the participle AGREES with the feminine plural subject « elles »: « seraient restées ». For « avertir » (auxiliaire avoir), the preceding direct-object pronoun « les » (= « elles », feminine plural) triggers agreement: « on les avait averties » — the participle must carry the feminine-plural -es."
     },
     {
-      "text": "Si tu {1} (rester) chez toi ce soir-là, tu {2} (ne pas tomber) malade.",
+      "text": "Si tu {1} chez toi ce soir-là, tu {2} malade.",
       "blanks": [
         {
           "cue": "rester",
@@ -748,7 +748,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. Both « rester » (verbe d'état) and « tomber » (verbe de mouvement) are conjugated with être, so the past participle AGREES with the subject « tu »: « étais resté » / « ne serais pas tombé » if « tu » is masculine, « étais restée » / « ne serais pas tombée » if feminine. The negation wraps the auxiliary: « tu ne serais pas tombé(e) »."
     },
     {
-      "text": "Si elles s'{1} (rencontrer) plus tôt, elles {2} (devenir) sans doute inséparables.",
+      "text": "Si elles s'{1} plus tôt, elles {2} sans doute inséparables.",
       "blanks": [
         {
           "cue": "se rencontrer",
@@ -768,7 +768,7 @@
       "explanation": "Irréel du passé with a RECIPROCAL pronominal verb. In « se rencontrer » (« rencontrer l'une l'autre ») the reflexive « se » is the DIRECT object, so under être the participle AGREES with the subject: « elles s'étaient rencontrées » (feminine plural « -ées »). This differs from « se rendre compte », where « se » is indirect and the participle stays invariable. The result clause uses « devenir », a state-change verb conjugated with être, so the conditionnel passé also agrees with the feminine plural subject « elles »: « seraient devenues ». The feminine of the subject is fixed by « elles », so only the agreeing forms are correct here."
     },
     {
-      "text": "Ces deux sœurs {1} (se réconcilier) bien plus tôt si l'orgueil ne les {2} (séparer) pas si longtemps.",
+      "text": "Ces deux sœurs {1} bien plus tôt si l'orgueil ne les {2} si longtemps.",
       "blanks": [
         {
           "cue": "se réconcilier",
@@ -778,9 +778,9 @@
           "hint": "conditionnel passé, verbe pronominal réciproque → être, « se » complément d'objet direct, accord avec le sujet « elles » (féminin pluriel)"
         },
         {
-          "cue": "séparer",
+          "cue": "ne pas séparer",
           "answer": [
-            "avait séparées"
+            "avait pas séparées"
           ],
           "hint": "plus-que-parfait, auxiliaire avoir, accord du participe avec le COD antéposé « les » (= les deux sœurs, féminin pluriel), négation autour de l'auxiliaire"
         }
@@ -788,7 +788,7 @@
       "explanation": "Irréel du passé, with the result clause placed first. « se réconcilier » is a RECIPROCAL pronominal verb (« se réconcilier l'une avec l'autre »); « se » functions as the DIRECT object, so the participle AGREES with the feminine-plural subject « elles »: « se seraient réconciliées ». In the « si » clause, « séparer » is conjugated with avoir, and its direct object — the preceding pronoun « les » (= les deux sœurs) — comes BEFORE the verb, so the participle also agrees: « séparées » (feminine plural). Note that the agreement is governed by the object « les », NOT by the singular subject « l'orgueil »; the negation wraps the auxiliary: « ne les avait pas séparées »."
     },
     {
-      "text": "Ces lettres compromettantes, si tu me les {1} (remettre) à temps, je {2} (partir) l'esprit tranquille.",
+      "text": "Ces lettres compromettantes, si tu me les {1} à temps, je {2} l'esprit tranquille.",
       "blanks": [
         {
           "cue": "remettre",
@@ -809,7 +809,7 @@
       "explanation": "With avoir, the past participle agrees with a DIRECT object placed BEFORE the verb. Here the personal pronoun « les » (= « les lettres », feminine plural) is the direct object and precedes the verb, so the participle must agree: « tu me les avais remises » (« remis » without agreement would be wrong). Note that « me » is only the indirect object (« à moi ») and never triggers agreement. The result clause uses « partir », a movement verb conjugated with être, whose participle agrees with the SUBJECT « je »: « serais parti » (masculine) or « serais partie » (feminine) — the irréel du passé pairing si + plus-que-parfait with conditionnel passé."
     },
     {
-      "text": "Si tu {1} (écouter) attentivement, tu {2} (comprendre) la consigne du premier coup.",
+      "text": "Si tu {1} attentivement, tu {2} la consigne du premier coup.",
       "blanks": [
         {
           "cue": "écouter",
@@ -829,7 +829,7 @@
       "explanation": "Irréel du passé. The « si » clause takes the plus-que-parfait « avais écouté »: « écouter » here has no preceding direct object (only the adverb « attentivement »), so the participle stays invariable. The result clause takes the conditionnel passé « aurais compris »: « comprendre » uses avoir and its object « la consigne » FOLLOWS the verb, so there is no agreement."
     },
     {
-      "text": "Nous {1} (obtenir) le poste sans difficulté si nous {2} (postuler) à temps.",
+      "text": "Nous {1} le poste sans difficulté si nous {2} à temps.",
       "blanks": [
         {
           "cue": "obtenir",
@@ -849,7 +849,7 @@
       "explanation": "Here the result clause comes first, but the forms of the irréel du passé are unchanged. « obtenir » uses avoir and its object « le poste » follows the verb, so the conditionnel passé « aurions obtenu » takes no agreement. The « si » clause uses the plus-que-parfait « avions postulé » (avoir, intransitive here, invariable)."
     },
     {
-      "text": "Si nous {1} (pressentir) le danger, nous {2} (s'enfuir) sans demander notre reste.",
+      "text": "Si nous {1} le danger, nous {2} sans demander notre reste.",
       "blanks": [
         {
           "cue": "pressentir",
@@ -870,7 +870,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait of « pressentir » with avoir. Its direct object « le danger » FOLLOWS the verb, so there is no agreement: « avions pressenti » (an agreeing « pressentie/pressentis » would be wrong here). The result clause uses « s'enfuir », a VERBE ESSENTIELLEMENT PRONOMINAL (it exists only in the pronominal form), whose past participle always agrees with the SUBJECT — unlike « se rendre compte », where « se » is an indirect object and the participle stays invariable. With être the conditionnel passé is « nous nous serions enfuis » (or « enfuies » if the group is feminine, the participle agreeing with « nous »)."
     },
     {
-      "text": "Ils se {1} (téléphoner) bien plus tôt si le réseau {2} (ne pas tomber) en panne.",
+      "text": "Ils se {1} bien plus tôt si le réseau {2} en panne.",
       "blanks": [
         {
           "cue": "se téléphoner",
@@ -890,7 +890,7 @@
       "explanation": "Irréel du passé. « se téléphoner » is a RECIPROCAL pronominal verb, so it takes être in the conditionnel passé; BUT « se » here is an INDIRECT object (« téléphoner À quelqu'un »), so the past participle does NOT agree and stays invariable: « ils se seraient téléphoné » (never « téléphonés »). The same applies to « se parler », « s'écrire », « se nuire », « se succéder ». The « si » clause uses « tomber (en panne) » with être — a state-change verb — so the plus-que-parfait agrees with the masculine singular subject « le réseau »: « n'était pas tombé », the negation « ne … pas » wrapping the auxiliary « était »."
     },
     {
-      "text": "Si les explorateurs {1} (rentrer) plus tôt, ils {2} (échapper) à la tempête.",
+      "text": "Si les explorateurs {1} plus tôt, ils {2} à la tempête.",
       "blanks": [
         {
           "cue": "rentrer",
@@ -911,7 +911,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « rentrer » is a movement verb conjugated with être, so its participle AGREES with the plural subject « les explorateurs »: « étaient rentrés » (masculine/mixed) or « étaient rentrées » (all-feminine). « échapper à quelque chose » is built with avoir and takes an INDIRECT object (« à la tempête »), so there is no participle agreement: the conditionnel passé is simply « auraient échappé »."
     },
     {
-      "text": "Elles {1} (devenir) championnes si elles {2} (s'entraîner) avec plus de rigueur.",
+      "text": "Elles {1} championnes si elles {2} avec plus de rigueur.",
       "blanks": [
         {
           "cue": "devenir",
@@ -931,7 +931,7 @@
       "explanation": "Here the result clause comes first, but the forms are unchanged. « devenir » is a state-change verb conjugated with être, so its conditionnel passé agrees with the feminine plural subject « elles »: « seraient devenues ». The « si » clause uses the pronominal verb « s'entraîner », which takes être; « s' » is the direct object, so the plus-que-parfait participle also agrees: « s'étaient entraînées »."
     },
     {
-      "text": "Si les enfants {1} (sortir) sans manteau, ils {2} (attraper) un mauvais rhume.",
+      "text": "Si les enfants {1} sans manteau, ils {2} un mauvais rhume.",
       "blanks": [
         {
           "cue": "sortir",
@@ -951,7 +951,7 @@
       "explanation": "« sortir » used intransitively is a movement verb conjugated with être, so the plus-que-parfait participle agrees with the masculine plural subject « les enfants »: « étaient sortis » (transitive « sortir qqch » would instead take avoir). The result clause uses « attraper » with avoir, its object following the verb, so there is no agreement: conditionnel passé « auraient attrapé »."
     },
     {
-      "text": "Si les infirmières {1} (arriver) plus tôt, elles {2} (rester) au chevet du malade toute la nuit.",
+      "text": "Si les infirmières {1} plus tôt, elles {2} au chevet du malade toute la nuit.",
       "blanks": [
         {
           "cue": "arriver",
@@ -971,7 +971,7 @@
       "explanation": "Irréel du passé. Both « arriver » (movement) and « rester » (state) are conjugated with être, so the past participle AGREES with the feminine plural subject « les infirmières ». The « si » clause takes the plus-que-parfait « étaient arrivées » and the result clause the conditionnel passé « seraient restées » — both participles carry the feminine-plural « -es »."
     },
     {
-      "text": "Ces documents, tu les {1} (retrouver) aussitôt si tu les {2} (ranger) correctement.",
+      "text": "Ces documents, tu les {1} aussitôt si tu les {2} correctement.",
       "blanks": [
         {
           "cue": "retrouver",
@@ -991,7 +991,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait « avais rangés » and the result clause the conditionnel passé « aurais retrouvés ». Both verbs use avoir, and in each the direct-object pronoun « les » (= « ces documents », masculine plural) precedes the verb, so the past participle MUST agree with it: « retrouvés » and « rangés » (the unagreed « retrouvé »/« rangé » would be wrong because the object is antéposé)."
     },
     {
-      "text": "Si j'{1} (savoir) la vérité, je te l'{2} (dire) aussitôt.",
+      "text": "Si j'{1} la vérité, je te l'{2} aussitôt.",
       "blanks": [
         {
           "cue": "savoir",
@@ -1011,7 +1011,7 @@
       "explanation": "Irréel du passé. The « si » clause uses the plus-que-parfait of « savoir » with avoir → « avais su »; the object « la vérité » FOLLOWS the verb, so there is no agreement. The result clause uses the conditionnel passé of « dire » with avoir, but here the preceding direct object « l' » (= « la vérité », feminine singular) triggers agreement: « je te l'aurais dite » (« aurais dit » without the -e would be wrong, since the object is antéposé)."
     },
     {
-      "text": "Si les soldats {1} (obéir) aux ordres, ils {2} (ne pas tomber) dans l'embuscade.",
+      "text": "Si les soldats {1} aux ordres, ils {2} dans l'embuscade.",
       "blanks": [
         {
           "cue": "obéir",
@@ -1031,7 +1031,7 @@
       "explanation": "Irréel du passé. « obéir (à) » is conjugated with avoir and governs an indirect object, so there is no direct object and no agreement → « avaient obéi ». « tomber » is a movement verb conjugated with être, so the past participle AGREES with the masculine-plural subject « les soldats » → « tombés »; the negation wraps the auxiliary → « ils ne seraient pas tombés »."
     },
     {
-      "text": "Si je {1} (se taire), tout {2} (se passer) autrement.",
+      "text": "Si je {1}, tout {2} autrement.",
       "blanks": [
         {
           "cue": "se taire",
@@ -1052,7 +1052,7 @@
       "explanation": "Irréel du passé with two pronominal verbs, both conjugated with être. « se taire » is an essentially pronominal verb whose participle AGREES with the subject « je »: « m'étais tu » if the speaker is masculine, « m'étais tue » if feminine (both are valid, since the sentence does not fix the gender). « se passer » agrees with its subject « tout » (masculine singular) → « tout se serait passé autrement »."
     },
     {
-      "text": "Si tu {1} (se lever) plus tôt, tu {2} (ne pas rater) ton train.",
+      "text": "Si tu {1} plus tôt, tu {2} ton train.",
       "blanks": [
         {
           "cue": "se lever",
@@ -1073,7 +1073,7 @@
       "explanation": "Irréel du passé. « se lever » is a reflexive pronominal verb where « te » is the DIRECT object, so it takes être and the participle AGREES with the subject: « t'étais levé » (masculine) or « t'étais levée » (feminine). The result clause uses « rater » with avoir; the object « ton train » FOLLOWS the verb, so there is no agreement, and the negation wraps the auxiliary: « tu n'aurais pas raté »."
     },
     {
-      "text": "Je {1} (rester) plus longtemps si la soirée {2} (être) plus animée.",
+      "text": "Je {1} plus longtemps si la soirée {2} plus animée.",
       "blanks": [
         {
           "cue": "rester",
@@ -1094,7 +1094,7 @@
       "explanation": "Here the result clause comes FIRST but the forms are unchanged. « rester » is conjugated with être, so its conditionnel passé agrees with the subject « je »: « serais resté » (masculine) or « serais restée » (feminine). The « si » clause takes the plus-que-parfait « avait été »; « être » itself uses avoir as auxiliary, so there is no participle agreement there."
     },
     {
-      "text": "Si tu {1} (se perdre) dans cette forêt, tu {2} (ne jamais revenir) de ton expédition.",
+      "text": "Si tu {1} dans cette forêt, tu {2} de ton expédition.",
       "blanks": [
         {
           "cue": "se perdre",
@@ -1116,7 +1116,7 @@
       "explanation": "Irréel du passé. « se perdre » is a reflexive pronominal verb where « se » is the DIRECT object (« perdre soi-même »), so it takes être and the participle AGREES with « tu »: « t'étais perdu » (masculine) or « t'étais perdue » (feminine). The result clause uses « revenir », a movement verb with être, whose participle likewise agrees: « ne serais jamais revenu(e) »; the negation « ne … jamais » wraps the auxiliary « serais »."
     },
     {
-      "text": "Si elle {1} (se laver) les mains avant le repas, elle {2} (ne pas tomber) malade.",
+      "text": "Si elle {1} les mains avant le repas, elle {2} malade.",
       "blanks": [
         {
           "cue": "se laver",
@@ -1136,7 +1136,7 @@
       "explanation": "Irréel du passé with a pronominal-agreement subtlety. « se laver » takes être, BUT here « se » is the INDIRECT object and the DIRECT object « les mains » FOLLOWS the verb, so the past participle does NOT agree: « elle s'était lavé les mains » (an agreeing « lavée » would be wrong). Contrast « elle s'était lavée », where « se » is itself the direct object and the participle does agree. The result clause uses « tomber » (movement verb with être), whose participle agrees with the feminine subject: « elle ne serait pas tombée malade »."
     },
     {
-      "text": "Si tu avais lu les lettres que je t'{1} (envoyer), tu {2} (comprendre) mon silence.",
+      "text": "Si tu avais lu les lettres que je t'{1}, tu {2} mon silence.",
       "blanks": [
         {
           "cue": "envoyer",
@@ -1192,7 +1192,7 @@
       "explanation": "Irréel du passé : « si » + plus-que-parfait (était descendue) → conditionnel passé (serait rentrée). « Descendre » (ici intransitif) et « rentrer » sont des verbes de mouvement conjugués avec l'auxiliaire « être » ; le participe s'accorde donc avec le sujet féminin « Élodie » : descendue, rentrée."
     },
     {
-      "text": "Si tu t'{1} (se lever) plus tôt, tu {2} (avoir) le temps de déjeuner tranquillement.",
+      "text": "Si tu t'{1} plus tôt, tu {2} le temps de déjeuner tranquillement.",
       "blanks": [
         {
           "cue": "se lever",
@@ -1213,7 +1213,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « se lever » is a reflexive pronominal verb where « te » is the DIRECT object (« lever soi-même »), so it uses être and the participle AGREES with the subject « tu »: « t'étais levé » if « tu » is masculine, « t'étais levée » if feminine (the « te » elides to « t' » before the vowel). The result clause uses « avoir » (« aurais eu »), which shows no agreement because the object « le temps » follows the verb."
     },
     {
-      "text": "Si nous {1} (rester) une nuit de plus, nous {2} (assister) à la grande fête du village.",
+      "text": "Si nous {1} une nuit de plus, nous {2} à la grande fête du village.",
       "blanks": [
         {
           "cue": "rester",
@@ -1234,7 +1234,7 @@
       "explanation": "Irréel du passé. « rester » is conjugated with être, so the plus-que-parfait « étions restés » agrees with the subject « nous » (masculine/mixed « restés », all-feminine « restées »). The result clause uses « assister à », which is INDIRECTLY transitive (« assister à quelque chose »): with avoir and no preceding direct object, the conditionnel passé « aurions assisté » stays invariable."
     },
     {
-      "text": "Elle {1} (se noyer) dans le torrent si un berger ne l'{2} (secourir) pas à temps.",
+      "text": "Elle {1} dans le torrent si un berger ne l'{2} à temps.",
       "blanks": [
         {
           "cue": "se noyer",
@@ -1244,9 +1244,9 @@
           "hint": "conditionnel passé, pronominal réfléchi → être, « se » = COD, accord avec « elle » (fém.)"
         },
         {
-          "cue": "secourir",
+          "cue": "ne pas secourir",
           "answer": [
-            "avait secourue"
+            "avait pas secourue"
           ],
           "hint": "plus-que-parfait, auxiliaire avoir, COD antéposé « l' » (= elle, fém.) → accord, négation autour de l'auxiliaire"
         }
@@ -1254,7 +1254,7 @@
       "explanation": "Irréel du passé, reversed order. « se noyer » here is a reflexive pronominal verb where « se » is the DIRECT object (« noyer soi-même »), so the conditionnel passé participle AGREES with the feminine subject « elle »: « se serait noyée ». In the « si » clause, « secourir » takes avoir and its preceding direct-object pronoun « l' » (= elle, feminine) triggers agreement: « ne l'avait pas secourue » — the negation « ne … pas » simply wraps the auxiliary."
     },
     {
-      "text": "Si elles {1} (se lever) plus tôt, elles {2} (ne pas rater) leur train du matin.",
+      "text": "Si elles {1} plus tôt, elles {2} leur train du matin.",
       "blanks": [
         {
           "cue": "se lever",
@@ -1274,7 +1274,7 @@
       "explanation": "« se lever » is a reflexive pronominal verb in which « se » is the DIRECT object (one raises oneself), so it takes être and the participle AGREES with the feminine plural subject: « s'étaient levées ». The result clause uses « rater » with avoir; the negation wraps the auxiliary and there is no agreement: « elles n'auraient pas raté »."
     },
     {
-      "text": "Nous {1} (mourir) de peur si l'ours {2} (surgir) soudain devant nous.",
+      "text": "Nous {1} de peur si l'ours {2} soudain devant nous.",
       "blanks": [
         {
           "cue": "mourir",
@@ -1295,7 +1295,7 @@
       "explanation": "Here the result clause comes first, but the forms are unchanged. « mourir » is conjugated with être, so the conditionnel passé AGREES with the subject « nous »: « serions morts » (masculine/mixed) or « serions mortes » (all-feminine). The « si » clause uses « surgir », which takes avoir, so the plus-que-parfait « avait surgi » shows no agreement."
     },
     {
-      "text": "Si les deux sœurs {1} (rester) ensemble, elles {2} (revenir) saines et sauves de la forêt.",
+      "text": "Si les deux sœurs {1} ensemble, elles {2} saines et sauves de la forêt.",
       "blanks": [
         {
           "cue": "rester",
@@ -1315,7 +1315,7 @@
       "explanation": "Irréel du passé. « rester » (verbe d'état) and « revenir » (verbe de mouvement) both take être, so the past participle AGREES with the feminine plural subject « les deux sœurs » (= « elles »). The « si » clause takes the plus-que-parfait « étaient restées » and the result clause the conditionnel passé « seraient revenues » — both participles carry the feminine plural ending -es."
     },
     {
-      "text": "Elle {1} (retrouver) les clés qu'elle {2} (perdre) si elle avait mieux cherché.",
+      "text": "Elle {1} les clés qu'elle {2} si elle avait mieux cherché.",
       "blanks": [
         {
           "cue": "retrouver",
@@ -1335,7 +1335,7 @@
       "explanation": "With avoir, the past participle agrees with a DIRECT OBJECT placed BEFORE the verb. In « les clés qu'elle avait perdues », the relative pronoun « que » = « les clés » (feminine plural) precedes « perdre », so the participle MUST agree: « perdues ». For « retrouver », the object « les clés » FOLLOWS the verb, so there is no agreement: the conditionnel passé stays « aurait retrouvé » (an agreeing « retrouvées » would be wrong, the object not being antéposé)."
     },
     {
-      "text": "Elle {1} (s'apercevoir) de la fraude si elle {2} (vérifier) les comptes elle-même.",
+      "text": "Elle {1} de la fraude si elle {2} les comptes elle-même.",
       "blanks": [
         {
           "cue": "s'apercevoir",
@@ -1375,7 +1375,7 @@
       "explanation": "Irréel du passé. « se rendre (à un lieu) » est un verbe pronominal conjugué avec être, dont le participe s'accorde avec le sujet : « elles s'étaient rendues ». « repartir » est un verbe de mouvement également conjugué avec être : au conditionnel passé, le participe s'accorde avec le sujet féminin pluriel « elles » → « seraient reparties ». Les deux participes portent la marque du féminin pluriel « -es »."
     },
     {
-      "text": "Jamais elle ne {1} (revenir) sur sa décision si on l'{2} (soutenir) un peu plus.",
+      "text": "Jamais elle ne {1} sur sa décision si on l'{2} un peu plus.",
       "blanks": [
         {
           "cue": "revenir",
@@ -1395,7 +1395,7 @@
       "explanation": "Irréel du passé with the two clauses in REVERSED order (result first, condition second) — the verb forms are unchanged. « revenir » is a movement verb conjugated with être, so the conditionnel passé participle agrees with the feminine subject « elle »: « Jamais elle ne serait revenue ». The negation is already carried by the fronted « Jamais … ne », so the verb itself takes NO second « jamais » (« ne serait jamais revenue » would be a double negation here). In the « si » clause, « soutenir » takes avoir, and the preceding direct-object pronoun « l' » (= elle) forces agreement: « on l'avait soutenue » — « l' » is here a direct object, hence the feminine -e."
     },
     {
-      "text": "Si vous {1} (rester) un instant de plus, vous {2} (comprendre) le dénouement de l'affaire.",
+      "text": "Si vous {1} un instant de plus, vous {2} le dénouement de l'affaire.",
       "blanks": [
         {
           "cue": "rester",
@@ -1416,7 +1416,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. « rester » is conjugated with être, so its participle AGREES with the plural subject « vous »: « étiez restés » (masculine/mixed) or « étiez restées » (all-feminine). « comprendre » uses avoir with the direct object « le dénouement » placed AFTER the verb, so there is no agreement: « auriez compris » stays invariable."
     },
     {
-      "text": "Ces maladresses, je les {1} (réparer) volontiers si tu me les {2} (signaler) plus tôt.",
+      "text": "Ces maladresses, je les {1} volontiers si tu me les {2} plus tôt.",
       "blanks": [
         {
           "cue": "réparer",
@@ -1436,7 +1436,7 @@
       "explanation": "Irréel du passé with the clauses in reversed order (result before « si »). Both verbs use the auxiliary AVOIR, and in both the direct object « les » (= « ces maladresses », feminine plural) PRECEDES the verb, so the past participle MUST agree: conditionnel passé « je les aurais réparées » and plus-que-parfait « tu me les avais signalées ». Had the object followed the verb, the participle would stay invariable — agreement with avoir depends on a DIRECT OBJECT placed before the verb, not on the subject."
     },
     {
-      "text": "Elles {1} (ne pas tomber) malades si elles {2} (se couvrir) davantage ce jour-là.",
+      "text": "Elles {1} malades si elles {2} davantage ce jour-là.",
       "blanks": [
         {
           "cue": "ne pas tomber",
@@ -1456,7 +1456,7 @@
       "explanation": "« tomber » (here « tomber malade ») is a verb of state-change conjugated with être, so the past participle agrees with the feminine plural subject « elles » and the negation wraps the auxiliary: « elles ne seraient pas tombées ». In the « si » clause, « se couvrir » is a reflexive pronominal verb where « se » is the DIRECT object (« couvrir soi-même »), so it also takes être and the participle agrees with « elles »: « elles s'étaient couvertes »."
     },
     {
-      "text": "Si nous {1} (revenir) sur nos pas, nous {2} (retrouver) bien plus vite le sentier.",
+      "text": "Si nous {1} sur nos pas, nous {2} bien plus vite le sentier.",
       "blanks": [
         {
           "cue": "revenir",
@@ -1477,7 +1477,7 @@
       "explanation": "Irréel du passé. « revenir » is a movement verb of the « venir » family conjugated with être, so the plus-que-parfait is « étions revenus », the participle agreeing with « nous » (masculine/mixed « revenus », or « revenues » if all-feminine). The result clause uses « retrouver » with avoir; the direct object « le sentier » comes AFTER the verb, so there is no agreement: conditionnel passé « aurions retrouvé »."
     },
     {
-      "text": "Si tu {1} (descendre) plus tôt, tu {2} (monter) avec nous dans le train.",
+      "text": "Si tu {1} plus tôt, tu {2} avec nous dans le train.",
       "blanks": [
         {
           "cue": "descendre",
@@ -1499,7 +1499,7 @@
       "explanation": "Irréel du passé: the « si » clause takes the plus-que-parfait and the result clause the conditionnel passé. Used intransitively, « descendre » and « monter » are movement verbs conjugated with être, so both participles AGREE with the subject « tu »: « étais descendu » / « serais monté » if « tu » is masculine, « étais descendue » / « serais montée » if feminine."
     },
     {
-      "text": "Si elle nous {1} (inviter), nous {2} (accepter) avec joie.",
+      "text": "Si elle nous {1}, nous {2} avec joie.",
       "blanks": [
         {
           "cue": "inviter",

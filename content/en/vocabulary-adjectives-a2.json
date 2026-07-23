@@ -40,7 +40,6 @@
     { "text": "The water in the lake was so {1} we could see the bottom.", "blanks": [ { "options": ["clear", "dirty", "loud"], "answer": "clear" } ], "explanation": "Clear water means you can see through it easily." },
     { "text": "He is very {1} and always gives money to charity.", "blanks": [ { "options": ["selfish", "boring", "generous"], "answer": "generous" } ], "explanation": "Generous means happy to give and share." },
     { "text": "The exam questions were {1}, so most students passed.", "blanks": [ { "options": ["rude", "difficult", "simple"], "answer": "simple" } ], "explanation": "Simple means easy to do or understand." },
-    { "text": "Their flat is quite {1}, with only one small bedroom.", "blanks": [ { "options": ["huge", "tiny", "polite"], "answer": "tiny" } ], "explanation": "Tiny means extremely small." },
-    {"text": "The shopping centre was {1} on Saturday because of the sale.", "blanks": [{"options": ["busy", "empty", "quiet"], "answer": "busy"}], "explanation": "Busy means full of activity or people."}
+    { "text": "Their flat is quite {1}, with only one small bedroom.", "blanks": [ { "options": ["huge", "tiny", "polite"], "answer": "tiny" } ], "explanation": "Tiny means extremely small." }
   ]
 }

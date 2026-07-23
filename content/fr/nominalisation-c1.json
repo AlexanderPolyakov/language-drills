@@ -69,12 +69,7 @@
       "explanation": "« Supprimer » nominalises in « -ssion » → « la suppression » (the « -ssion » suffix is feminine, like « la discussion », « la transmission »). The direct object « cette taxe impopulaire » becomes the patient complement « de cette taxe », the subject (agent) is reintroduced with « par »: « par le Parlement », and the adverb « progressivement » is rendered by the adjective « progressive »."
     },
     {
-      "prompt": "Les deux pays ont rompu brutalement leurs relations diplomatiques. (nominaliser « rompre » par un déverbal SANS suffixe → groupe nominal, rendre l'adverbe par un adjectif)",
-      "answer": ["La rupture brutale des relations diplomatiques entre les deux pays.", "La rupture brutale des relations diplomatiques entre les deux pays", "La rupture brutale des relations diplomatiques des deux pays.", "La rupture brutale des relations diplomatiques des deux pays"],
-      "explanation": "« Rompre » gives the deverbal « la rupture » (feminine, in « -ure » like « l'ouverture », « la fermeture »). The direct object « leurs relations diplomatiques » becomes the complement « des relations diplomatiques », the subject « les deux pays » is rendered by « entre les deux pays » (reciprocal), and the adverb « brutalement » becomes the adjective « brutale » agreeing with the feminine noun."
-    },
-    {
-      "prompt": "Les deux partis ont longuement adhéré à cet accord. (nominaliser le verbe « adhérer » en « -ence/-ion » → groupe nominal)",
+      "prompt": "Les deux partis ont longuement adhéré à cet accord. (nominaliser le verbe « adhérer » en « -sion » → groupe nominal)",
       "answer": ["La longue adhésion des deux partis à cet accord.", "La longue adhésion des deux partis à cet accord"],
       "explanation": "« Adhérer » nominalises in « -sion » → « l'adhésion » (feminine, like « la décision »). Note the contrast with the FEMININE suffix « -ence » seen in verbs like « différer → la différence » or « exister → l'existence »: « -ance / -ence » are both feminine and derive nouns of state or action. The subject « les deux partis » becomes the complement « des deux partis », the verbal complement « à cet accord » is kept, and the adverb « longuement » is rendered by the adjective « longue » agreeing with the feminine noun."
     },

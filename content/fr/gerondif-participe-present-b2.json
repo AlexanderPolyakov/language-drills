@@ -88,7 +88,7 @@
       "explanation": "The BARE present participle (without « en ») replaces a relative clause: « un homme observant les passants » = « un homme qui observait les passants ». Crucially this is NOT a gérondif: the participle has its OWN subject (« un homme »), which is different from the subject of the main verb (« le témoin »). A gérondif « en observant » would be impossible, since the same-subject rule would wrongly make « le témoin » the observer. The participe présent stays invariable and governs the object « les passants »."
     },
     {
-      "text": "{1} le buffet, les invités discutaient joyeusement de leurs projets de vacances.",
+      "text": "{1} au buffet, les invités discutaient joyeusement de leurs projets de vacances.",
       "blanks": [
         { "cue": "se servir", "answer": ["tout en se servant", "en se servant"], "hint": "gérondif of a pronominal verb expressing simultaneity, same subject; « tout en » adds emphasis on the concurrency" }
       ],

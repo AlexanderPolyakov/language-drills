@@ -64,14 +64,6 @@
       "explanation": "Jobs take 'a' or 'an' in the singular: 'engineer' starts with a vowel sound (an engineer), 'teacher' with a consonant sound (a teacher)."
     },
     {
-      "text": "{1} children love {2} chocolate.",
-      "blanks": [
-        { "answer": "—", "options": ["A", "The", "—"], "hint": "people in general" },
-        { "answer": "—", "options": ["a", "the", "—"], "hint": "things in general" }
-      ],
-      "explanation": "When we talk about people or things in general, plural and uncountable nouns take no article: children (in general), chocolate (in general)."
-    },
-    {
       "text": "Please close {1} door and turn off {2} lights.",
       "blanks": [
         { "answer": "the", "options": ["a", "an", "the", "—"], "hint": "we both know which one" },
@@ -101,8 +93,8 @@
         {
           "answer": "—",
           "options": [
-            "A",
-            "The",
+            "a",
+            "the",
             "—"
           ],
           "hint": "people in general"

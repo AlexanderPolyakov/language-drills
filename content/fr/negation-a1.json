@@ -9,7 +9,7 @@
   "items": [
     {
       "text": "Je ne mange {1} de viande, je suis végétarien.",
-      "blanks": [{ "options": ["rien", "pas", "jamais"], "answer": "jamais" }],
+      "blanks": [{ "options": ["rien", "personne", "jamais"], "answer": "jamais" }],
       "explanation": "'ne… jamais' means 'never', which fits a permanent habit."
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "text": "Elle ne boit {1} d'alcool, c'est contre ses principes.",
-      "blanks": [{ "options": ["jamais", "rien", "pas"], "answer": "jamais" }],
+      "blanks": [{ "options": ["jamais", "rien", "personne"], "answer": "jamais" }],
       "explanation": "'ne… jamais' = never, for an absolute rule."
     },
     {
@@ -176,76 +176,6 @@
       "text": "Elle était malade, mais elle ne tousse {1}.",
       "blanks": [{ "options": ["rien", "plus", "personne"], "answer": "plus" }],
       "explanation": "'ne… plus' = no longer coughs, after recovering."
-    },
-    {
-      "text": "Je ne comprends {1} ce que tu dis.",
-      "blanks": [
-        {
-          "options": [
-            "pas",
-            "personne",
-            "rien"
-          ],
-          "answer": "pas"
-        }
-      ],
-      "explanation": "'ne… pas' negates 'comprendre' simply."
-    },
-    {
-      "text": "Je ne mange {1} de viande, je suis végétarien.",
-      "blanks": [
-        {
-          "options": [
-            "rien",
-            "personne",
-            "jamais"
-          ],
-          "answer": "jamais"
-        }
-      ],
-      "explanation": "'ne… jamais' means 'never', which fits a permanent habit."
-    },
-    {
-      "text": "Tout le monde est parti, il n'y a {1} ici.",
-      "blanks": [
-        {
-          "options": [
-            "plus",
-            "rien",
-            "personne"
-          ],
-          "answer": "personne"
-        }
-      ],
-      "explanation": "'ne… personne' means 'nobody / no one'."
-    },
-    {
-      "text": "Elle ne boit {1} d'alcool, c'est contre ses principes.",
-      "blanks": [
-        {
-          "options": [
-            "jamais",
-            "rien",
-            "personne"
-          ],
-          "answer": "jamais"
-        }
-      ],
-      "explanation": "'ne… jamais' = never, for an absolute rule."
-    },
-    {
-      "text": "Au bureau le dimanche, il n'y a {1} pour répondre au téléphone.",
-      "blanks": [
-        {
-          "options": [
-            "personne",
-            "rien",
-            "pas"
-          ],
-          "answer": "personne"
-        }
-      ],
-      "explanation": "'ne… personne' = nobody is present."
     }
   ]
 }

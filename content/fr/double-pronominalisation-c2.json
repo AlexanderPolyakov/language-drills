@@ -153,15 +153,6 @@
         "Le bijoutier les lui a vendues."
       ],
       "explanation": "Two third-person pronouns: the direct object « ces bagues » (feminine plural) → « les », the indirect « à ma tante » → « lui ». With two third-person pronouns the DIRECT one comes first: « les lui ». In the passé composé the pair precedes the auxiliary, and the past participle agrees with the preceding direct-object pronoun « les » (feminine plural): « vendues ». Hence « Le bijoutier les lui a vendues »."
-    },
-    {
-      "prompt": "Le guide a conduit les touristes au sommet.",
-      "instruction": "Réécrivez en remplaçant « les touristes » par un pronom et « au sommet » par « y » (double pronominalisation).",
-      "answer": [
-        "Le guide les y a conduits.",
-        "Le guide les y a conduits"
-      ],
-      "explanation": "The direct object « les touristes » → « les »; the place complement « au sommet » → « y ». In the sequence « le / la / les » comes before « y », giving « les y ». In the passé composé the pair precedes the auxiliary, and the participle agrees with the preceding direct-object pronoun « les » (masculine plural): « Le guide les y a conduits »."
     }
   ]
 }

@@ -600,22 +600,6 @@
       "explanation": "'Not that + clause' is a concessive qualifier meaning 'it is not the case / not as if': 'Not that I ever really needed it' concedes a point in passing. 'Much as' needs a positive verb of feeling directly after it; 'Albeit' cannot head a full finite clause with its own subject; 'Granted' would concede that I DID need the car, contradicting the intended 'not' meaning."
     },
     {
-      "text": "{1} that the evidence is largely circumstantial, it nonetheless points firmly in one direction.",
-      "blanks": [
-        {
-          "answer": "Granted",
-          "options": [
-            "Granted",
-            "Albeit",
-            "Despite",
-            "Much as"
-          ],
-          "hint": "concede a point before countering: ___ (that) + clause"
-        }
-      ],
-      "explanation": "'Granted (that) + clause' concedes a point one is about to argue against: 'Granted that the evidence is circumstantial, it nonetheless...'. 'Albeit' cannot take a 'that'-clause; 'Despite' governs a noun phrase or -ing form, never a finite 'that'-clause; 'Much as' is followed directly by subject + verb ('Much as the evidence is circumstantial'), not by 'that'."
-    },
-    {
       "text": "The evidence against him was largely circumstantial. The jury, {1}, returned a verdict of guilty.",
       "blanks": [
         {
