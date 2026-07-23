@@ -176,20 +176,6 @@
       "text": "Le directeur réunit {1} employés chaque lundi.",
       "blanks": [{ "options": ["son", "sa", "ses"], "answer": "ses" }],
       "explanation": "'employés' is plural, so 'ses'."
-    },
-    {
-      "text": "Avez-vous reçu {1} paquet ce matin ?",
-      "blanks": [
-        {
-          "options": [
-            "votre",
-            "vos",
-            "leur"
-          ],
-          "answer": "votre"
-        }
-      ],
-      "explanation": "'paquet' is masculine singular, so 'votre' for 'vous'."
     }
   ]
 }

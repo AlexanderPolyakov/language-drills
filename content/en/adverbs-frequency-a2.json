@@ -30,7 +30,6 @@
     { "text": "She {1} forgets her keys (about 90%).", "blanks": [ { "options": ["never", "rarely", "usually"], "answer": "usually" } ], "explanation": "About 90% is 'usually'." },
     { "text": "We {1} eat out at weekends (about 60%).", "blanks": [ { "options": ["rarely", "never", "often"], "answer": "often" } ], "explanation": "About 60% is 'often'." },
     { "text": "He {1} helps with the dishes (about 30%).", "blanks": [ { "options": ["usually", "always", "sometimes"], "answer": "sometimes" } ], "explanation": "About 30% is 'sometimes'." },
-    { "text": "I {1} drink soda; I prefer water (about 10%).", "blanks": [ { "options": ["often", "rarely", "always"], "answer": "rarely" } ], "explanation": "About 10% is 'rarely'." },
     { "text": "The shop is {1} closed on Sundays (every Sunday, 100%).", "blanks": [ { "options": ["always", "sometimes", "never"], "answer": "always" } ], "explanation": "Every Sunday means 'always'." },
     { "text": "They {1} miss the bus; they're always punctual (0%).", "blanks": [ { "options": ["often", "never", "usually"], "answer": "never" } ], "explanation": "0% means 'never'." },
     { "text": "She {1} reads before sleeping (about 90%).", "blanks": [ { "options": ["usually", "rarely", "never"], "answer": "usually" } ], "explanation": "About 90% is 'usually'." },

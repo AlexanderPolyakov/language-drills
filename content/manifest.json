@@ -98,7 +98,7 @@
           "level": "A2",
           "title": "Adverbs of frequency",
           "file": "en/adverbs-frequency-a2.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "en-articles-basic",
@@ -440,7 +440,7 @@
           "level": "A1",
           "title": "Les adjectifs possessifs (mon, ma, mes…)",
           "file": "fr/possessive-adjectives-a1.json",
-          "count": 35
+          "count": 34
         },
         {
           "id": "fr-questions-a1",
@@ -552,7 +552,7 @@
           "level": "A2",
           "title": "Les verbes pronominaux au présent (se laver, se lever…)",
           "file": "fr/reflexive-verbs-a2.json",
-          "count": 34
+          "count": 33
         },
         {
           "id": "fr-vocabulary-adjectives-a2",
